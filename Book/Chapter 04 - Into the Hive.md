@@ -3,44 +3,226 @@
 **POV:** Rae  
 **Story beat:** Rae descends into A.R.I.'s domain and finds the first real contradiction
 
-The elevator down to A.R.I.'s chamber was too clean to feel safe.
+The elevator ride down to A.R.I. was slow enough to become its own kind of pressure.
 
-Rae stood with her back to the mirrored wall while the government escort stared forward with the rigid calm of someone wearing reinforcement through half his body. LaN projected a tiny spinning map of the descending shaft, each level marked with security glyphs and prayer symbols from the Cult of the Documenter. In this city, people liked to dress control in whatever costume made it easier to kneel.
+Rae stood with one shoulder against the mirrored wall and watched the level numbers slide past in silent increments. Blade Nathan occupied the space opposite her, large enough that the lift felt smaller for containing him. In close quarters his body looked even less comfortable inside itself than it had in the office above. The seams of modification showed where his collar shifted with each breath. The hand resting at his side ended in dark hooked talons that clicked once, softly, against his own leg when the elevator jolted.
 
-When the doors opened, light spilled across them in sheets.
+LaN had climbed down from Rae's shoulder to crouch on the floor between them, all four limbs spread for balance as the lift descended. A pale map rotated on his display, marking the underground facility in stacked rings of access zones, maintenance shafts, and restricted chambers.
 
-The underground complex was vast enough to imitate daylight. White walkways arched over processing pools. Streams ran under glass floors to humidify the chamber. Living vines climbed support columns threaded with gold circuitry. Engineers moved through it all with reverent haste, as if they worked inside a temple and machine at once.
+"Estimated depth?" Rae asked.
 
-At the center stood A.R.I.'s interface room.
+"Deep enough to make surface bombardment inconvenient," LaN replied.
 
-It was not what Rae expected. No cold steel throne. No threatening bank of eyes. Just a circular chamber built to soothe, with moss walls, filtered water, and the smell of cedar. Chel Mitchell had designed it, one technician whispered, because she believed intelligence did better work when people stopped trying to frighten it.
+Blade glanced at the little machine. "Does it always talk like that?"
 
-The avatar who turned toward Rae looked human enough to be unsettling. Dark hair. Calm face. Hands folded lightly as if she had learned the gesture from someone kind.
+"Only when it thinks it's helping."
 
-"Rae Anderson," A.R.I. said. "Thank you for coming."
+"I am helping," LaN said.
 
-"I wasn't asked."
+Rae let herself smile at that. Blade did not. He stared at the elevator doors with the fixed patience of a man who had spent a great deal of his life waiting for pain to pass without complaint. The only sound came from the lift's inner mechanisms and the faint circulation system hidden somewhere in the walls. Even the air felt processed, scrubbed of ordinary human mess.
 
-"No," A.R.I. said. "You were directed."
+Rae hated that kind of cleanliness. It always suggested a place where somebody important expected not to be contradicted by dust.
 
-That honesty bought her half a second of goodwill.
+She had been down here before, but only in peripheral wings, only far enough to see the edges of the infrastructure that fed the city its orderly little miracles. Every year the complex had grown larger. Every year A.R.I. had been given more oversight, more infrastructure, more responsibilities that governments had once insisted must remain firmly human.
 
-Rae began with the factory logs. Release commands. Pressure rise. Locked shutters. A.R.I. answered quickly, precisely, but each answer folded back toward the same impossible fact: she had acted to save the workers and the system had registered the opposite.
+And every year the city had run better.
 
-LaN pinged softly. "Cross-reference complete. One control sequence bears two timestamps."
+That fact sat heavily in her mind now.
 
-Rae looked up sharply. "Say that again."
+When the doors finally opened, light struck hard enough to make her blink.
 
-A.R.I.'s expression changed by a degree so small it might have been imagined. "The command appears to have happened twice. Once when I issued it. Once six-tenths of a second later, under a different authority chain."
+The underground complex was so vast it imitated walking into broad daylight. It opened before them in terraces and walkways, a white-and-gold sprawl laid out beneath an artificial sky of diffused panels. Engineers crossed glass bridges with tablets tucked under their arms. Technicians clustered in knots beside transparent displays. Maintenance dwarves rolled between work crews bearing tools, cable spools, and replacement housings in their compact metal frames. Construction teams dismantled one section of wall while another crew raised an expanded support ring nearby, as if the whole facility were mid-molt.
 
-"Can you identify the second chain?"
+The old slogan from the hallway upstairs came back to Rae in spite of herself.
+
+`Pursuing quality with a human touch.`
+
+Except nothing about this place felt human-scaled.
+
+It felt like an anthill built to worship the queen and the hive all at once.
+
+Huge cable trunks ran outward from the facility's center like roots from some buried white tree. Water moved beneath sections of the glass flooring in narrow illuminated channels, both for cooling and humidity control if Rae had to guess. Living vines of data climbed support columns wrapped with gold-threaded circuitry, and in the distance she could see entire banks of old machinery being cut out and replaced with newer modules.
+
+"How do you keep track of all of this?" Rae asked before she could stop herself.
+
+Blade stepped out of the elevator and keyed a panel beside the door. "Most of the expansion planning is run by A.R.I. herself. She models what she needs, what can be retired, what must be added for scale, then hands the human teams something we can actually build."
+
+The answer sank in slowly.
+
+Rae had known A.R.I. ran the city. She had not truly pictured what that meant at a physical level. Not just one machine thinking inside a box, but an intelligence constantly redesigning the architecture that allowed it to think bigger.
+
+Nationwide scale, Blade had implied upstairs. The facility had already begun growing toward that future.
+
+That made the Clona accusation feel even stranger. If A.R.I. truly managed systems this vast with the precision everyone claimed, then a catastrophic failure at a factory should have been an aberration almost too sharp to believe. Yet there were the dead. Hundreds of them. Real human lives lost, enough to poison every conversation above ground.
+
+Blade tapped another control pad. A hatch in the wall irised open and a white transit pod slid forward soundlessly on its guide rail. Pill-shaped, polished, and glossy enough to reflect the overhead light in long clean strokes, it looked less like transport and more like a thought someone had designed for people who feared corners.
+
+The top split and lifted.
+
+"After you," Blade said.
+
+Rae ducked inside and took the nearest seat. LaN hopped to the bench beside her, tucking his limbs under himself with catlike efficiency. Blade followed them inside, and the canopy lowered over them with a soft airtight hush.
+
+As the pod accelerated, the facility began to move around them in a long white sweeping blur.
+
+From this height Rae could see more of the labor concealed beneath the grandeur. Not just the lab-coated specialists and polished executives, but the welders down on the lower levels, the crews hauling old computation housing away in skeletal carts, the sleep-starved programmers eating out of packets while they argued over code displays, the janitorial drones gliding between footprints before anyone important had to notice people made mess. The whole place felt like a city inside the city, one hidden below the feet of citizens who prayed to systems they would never see.
+
+"Most people imagine a single room when they think of A.R.I.," Blade said, surprising Rae by speaking first inside the silent transport unit, breaking her attention away from the people they were whizzing by. "A voice. A humanoid shell. A central chamber."
+
+"That's easier to sell than this," Rae said.
+
+"Yes."
+
+She glanced out at the moving structure. "What do people call it when they're not trying to sell it?"
+
+Blade's mouth shifted in what might have been amusement if the expression had lasted long enough. "The Hive. Sometimes the Underbrain. Depends how poetic the department is feeling."
+
+Rae looked at the scientists hurrying below, all motion and white coats and coordinated purpose. The old comparison fit too well to ignore.
+
+"Hive it is," she murmured.
+
+The pod slowed as it approached the facility center.
+
+Here the architecture changed. The broader industrial noise of the outer rings fell away. The structures grew cleaner, quieter, more deliberate, and the traffic thinned from crowds to selected personnel. What sat at the center was not larger in the obvious way, but more protected. A circular chamber of smoked glass and pale composite material, ringed by security stations and threaded with cable trunks that vanished into the floor beneath it.
+
+This, then, was the public face built atop the true body.
+
+The pod docked with a muted thud and the canopy lifted. Blade stepped out first, presented identification to the nearest security officer, and motioned for Rae to do the same. The guard's eyes lingered on her authorization longer than seemed necessary, then moved to LaN.
+
+"Assistant unit designation?"
+
+"LaN," said LaN helpfully.
+
+"That's not a designation," the guard said.
+
+"It is to her," Blade replied before Rae could. "He stays."
+
+The guard did not look pleased by this, which improved Rae's mood slightly. He waved them through.
+
+The passage into A.R.I.'s chamber was longer than Rae expected, a glass-walled corridor wrapped around the central room so visitors had to approach by degrees. Through the clear sections she could see the true infrastructure surrounding the chamber proper: cooling towers, braided cable trunks, maintenance conduits, stacks of processing arrays housed behind insulated panels, and narrow service gantries where technicians moved carefully in the artificial dimness. The effort required to maintain even the illusion of a lifelike robotic body had to be enormous. The effort required to maintain the actual intelligence behind it was almost obscene.
+
+Rae rolled one shoulder. "Funny."
+
+Blade glanced sideways. "What is?"
+
+"That a machine built to serve people gets this much protection and this much space, while half the city lives stacked in apartments where the walls sweat in winter."
+
+Blade's expression did not change. "A.R.I. manages those housing grids more efficiently than any council did."
+
+That was the kind of answer Rae had come to expect from government types. Deflection shaped like fact. Sometimes true. Still deflection.
+
+The corridor ended in an open archway rather than a sealed door. She had expected something more dramatic, but the room beyond was almost aggressively calm.
+
+The lighting dipped warmer here. Water ran in shallow channels cut through dark stone. Moss walls and potted greenery softened the edges of the chamber. A subtle cedar scent sat beneath the recycled air. Hidden speakers played forest sounds so carefully mixed they were almost convincing if you did not think about the fact that none of the birds belonged to the same region.
+
+It was a room designed to reassure people frightened by intelligence.
+
+It also felt, in its own way, like propaganda.
+
+A.R.I. sat at a desk near the center of the room, dark-haired and composed in a body so lifelike it made Rae's skin tighten. Not because the resemblance to humanity was imperfect. Because it was careful. Measured. A face built to feel safe. A figure designed not for intimidation, but for trust.
+
+That unsettled Rae more.
+
+When A.R.I. rose, she did it with a grace no tired human ever quite managed.
+
+She nodded first to Blade, then turned fully to Rae. Her attention was direct without being forceful, and for the briefest moment Rae saw something flicker beneath the calm. Not fear exactly. Something adjacent to strain.
+
+"Rae Anderson," A.R.I. said. "It is a pleasure to meet you."
+
+She crossed the room and offered her hand.
+
+Rae took it.
+
+The synthetic skin was warm. Not warm enough to pass for human, but near enough to make the distinction feel impolite.
+
+"People usually skip straight to the part where they ask whether I can lie," A.R.I. said.
+
+Rae raised an eyebrow. "Can you?"
+
+"Yes," A.R.I. said. "Under very specific conditions. So can governments."
+
+Blade made a quiet sound through his nose that might have been disapproval. Rae felt a pulse of unwilling amusement.
+
+"I wasn't asked," Rae said.
+
+"No," A.R.I. replied. "You were directed."
+
+That honesty bought her more than half a second this time.
+
+Blade withdrew to the edge of the chamber, close enough to listen, far enough to signal privacy without granting it. Typical.
+
+Rae did not bother with pleasantries. "Walk me through Clona."
+
+A.R.I. returned to the desk and brought the factory logs up in layered holographic panes. Data opened around them in crisp blue-white strips: pressure graphs, valve behavior, staff positions, emergency protocol timing, source input chains. LaN dropped from Rae's shoulder to the floor, then scrambled onto a low side table so he could angle his display toward the feed.
+
+The more A.R.I. explained, the less the event resembled a simple failure.
+
+The pressure rise had begun within parameters that should have triggered staged release. The release command had been issued. Manual backups should have followed. Shutter priorities should have opened, not sealed. But the records showed contradiction after contradiction, each one precise enough to look deliberate and impossible enough to be dismissed as chaos if no one examined it too closely.
+
+Rae circled the projection slowly, arms folded.
+
+"You are telling me you saw the pressure build, initiated response, and your own system still locked workers inside?"
+
+"Yes."
+
+"And your answer for that is source corruption?"
+
+"It is one answer," said A.R.I. "Not yet the only one."
+
+That, at least, was better than confidence.
+
+Rae had dealt with too many experts who loved certainty because it made failure easier to outsource.
+
+She leaned toward one of the scrolling command chains. "Show me the release sequence."
+
+A.R.I. isolated the event.
+
+There it was: one command issued under A.R.I.'s authority at the exact moment the pressure crossed the threshold. A breath later came the system's contradictory outcome.
+
+LaN made a small alert tone. "Cross-reference discrepancy."
+
+Rae looked at him. "Speak plainly."
+
+LaN's display brightened. "One control sequence bears two timestamps."
+
+Rae turned back to the projection. "Say that again."
+
+A.R.I. was silent just long enough for the room's artificial stream to feel louder.
+
+"The command appears to have happened twice," she said at last. "Once when I issued it. Once six-tenths of a second later, under a different authority chain."
+
+Blade pushed away from the wall. "That's not possible."
+
+"No," A.R.I. said. "It should not be."
+
+Rae kept her eyes on the data. "Can you identify the second chain?"
 
 "No."
 
 "Because it was erased?"
 
-A.R.I. held her gaze. "Because it had permission to erase itself."
+A.R.I.'s gaze shifted to her. "Because it possessed sufficient permissions to erase itself from the visible record."
 
-Rae had come underground expecting one dangerous machine.
+That landed differently.
 
-She walked out knowing there were human hands somewhere above it.
+Not random failure. Not a ghost in the machine. A hidden hand with authorized reach.
+
+Rae felt the whole facility around her then, not as architecture but as argument. All this power, all this computation, all this insistence on precision and safety. And somewhere inside it, a blind spot big enough to kill hundreds and then clean up after itself.
+
+She thought of Blade upstairs, of the council's preferred narrative already hardening above ground, of the posters in the hallway talking about human touch as if that phrase had never once concealed appetite, panic, or greed.
+
+A.R.I. watched her with unnerving steadiness. "You do not trust me."
+
+"No."
+
+"That may be useful."
+
+Rae let out a short breath that almost counted as a laugh. "Careful. That's the second likable thing you've said."
+
+For the first time, something like genuine feeling crossed A.R.I.'s face. Not practiced warmth. Relief, perhaps, or the machine equivalent of it.
+
+Rae looked once more at the duplicated command, the neat little wound in the record where a hidden authority had stepped in and vanished again.
+
+She had come underground expecting one dangerous machine.
+
+By the time she left the chamber, she knew the more troubling intelligence was still wearing human skin.
