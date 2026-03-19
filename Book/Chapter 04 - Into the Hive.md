@@ -7,7 +7,7 @@ The elevator ride down to A.R.I. was slow enough to become its own kind of press
 
 Rae stood with one shoulder against the mirrored wall and watched the level numbers slide past in silent increments. Blade Nathan occupied the space opposite her, large enough that the lift felt smaller for containing him. In close quarters his body looked even less comfortable inside itself than it had in the office above. The seams of modification showed where his collar shifted with each breath. The hand resting at his side ended in dark hooked talons that clicked once, softly, against his own leg when the elevator jolted.
 
-LaN had climbed down from Rae's shoulder to crouch on the floor between them, all four limbs spread for balance as the lift descended. A pale map rotated on his display, marking the underground facility in stacked rings of access zones, maintenance shafts, and restricted chambers.
+LaN had climbed down from Rae's shoulder to crouch on the floor between them, all four limbs spread for balance as the lift descended. At a glance he still looked like a mass-produced assistant unit in a clean white shell. but he did not move like one. His balance corrected too fluidly, his limbs flexed with tiny organic compensations no factory standard had ever managed. The pale map rotating across his display marked the underground facility in stacked rings of access zones, maintenance shafts, and restricted chambers.
 
 "Estimated depth?" Rae asked.
 
@@ -87,7 +87,7 @@ Here the architecture changed. The broader industrial noise of the outer rings f
 
 This, then, was the public face built atop the true body.
 
-The pod docked with a muted thud and the canopy lifted. Blade stepped out first, presented identification to the nearest security officer, and motioned for Rae to do the same. The guard's eyes lingered on her authorization longer than seemed necessary, then moved to LaN.
+The pod docked with a muted click into place and the canopy lifted. Blade stepped out first, presented identification to the nearest security officer, and motioned for Rae to do the same. The guard's eyes lingered on her authorization longer than seemed necessary, then moved to LaN.
 
 "Assistant unit designation?"
 
@@ -95,11 +95,11 @@ The pod docked with a muted thud and the canopy lifted. Blade stepped out first,
 
 "That's not a designation," the guard said.
 
-"It is to her," Blade replied before Rae could. "He stays."
+Blade replied before Rae could. "He stays."
 
-The guard did not look pleased by this, which improved Rae's mood slightly. He waved them through.
+The guard did not look pleased by this, which improved Rae's mood slightly. She bent down to let LaN clamber back up onto his usual perch on her shoulder. The guard waved them through.
 
-The passage into A.R.I.'s chamber was longer than Rae expected, a glass-walled corridor wrapped around the central room so visitors had to approach by degrees. Through the clear sections she could see the true infrastructure surrounding the chamber proper: cooling towers, braided cable trunks, maintenance conduits, stacks of processing arrays housed behind insulated panels, and narrow service gantries where technicians moved carefully in the artificial dimness. The effort required to maintain even the illusion of a lifelike robotic body had to be enormous. The effort required to maintain the actual intelligence behind it was almost obscene.
+The passage into A.R.I.'s chamber was longer than Rae expected, a glass-walled corridor wrapped around the central room so visitors had to approach by degrees. Through the clear sections she could still see glimpses of that true infrastructure surrounding the chamber proper: all the people, technology and maintainence units carefully obscured from public view. The effort required to maintain even the illusion of a lifelike robotic body had to be enormous. The effort required to maintain the actual intelligence behind it was almost obscene.
 
 Rae rolled one shoulder. "Funny."
 
@@ -135,29 +135,43 @@ Rae took it.
 
 The synthetic skin was warm. Not warm enough to pass for human, but near enough to make the distinction feel impolite.
 
-"People usually skip straight to the part where they ask whether I can lie," A.R.I. said.
+"I can see you are not so easily swayed by the calming atmosphere. Others like yourself usually skip straight to asking whether I can lie" A.R.I. said.
 
-Rae raised an eyebrow. "Can you?"
+Rae raised an eyebrow. Both at the statement and the fact she was being sterotyped from the get go. It was a valid question though. "Well, can you?"
 
-"Yes," A.R.I. said. "Under very specific conditions. So can governments."
+"Yes," A.R.I. said. "Under very specific conditions. I am an extension of the government body, and follow similar rules when trying to minimise negative impacts."
 
 Blade made a quiet sound through his nose that might have been disapproval. Rae felt a pulse of unwilling amusement.
 
-"I wasn't asked," Rae said.
+"I wasn't asked if I wanted to come here" Rae said.
 
-"No," A.R.I. replied. "You were directed."
+"No," A.R.I. replied. "Blade sought you out because of your work and..personal history."
 
-That honesty bought her more than half a second this time.
+Rae visibly flinched at this comment. Blade did not seem to care, he withdrew to the edge of the chamber, close enough to listen, far enough to signal privacy without granting it. Typical.
 
-Blade withdrew to the edge of the chamber, close enough to listen, far enough to signal privacy without granting it. Typical.
+A.R.I.'s attention shifted past Rae's shoulder and settled on LaN. Not a glance. An assessment.
 
-Rae did not bother with pleasantries. "Walk me through Clona."
+"Your assistant unit carries a standard consumer shell," she said. "Its movement profile and internal signal noise do not match standard consumer construction."
+
+LaN tilted his screen toward her. "I am full of surprises."
+
+Rae rested two fingers against his casing before he could say more. Reflex. Possessive, maybe.
+
+A.R.I. kept looking at LaN with visible interest now, curiosity breaking through the practiced calm. "You altered him substantially."
+
+"I improved him," Rae said.
+
+She left out the rest, because the rest led back to Asher. To long nights in rooms that smelled of antiseptic and alcohol.
+
+A.R.I. did not press. "Blade also sought you out because your previous cases display a pattern. Dock Nine. Kestrel Transit. The Marrowgate disappearances. Incidents ruled unsolvable until you identified the point where physical evidence and corrupted systems disagreed."
+
+Rae's mouth tightened. She decided not to bother with any further pleasantries. "Walk me through Clona."
 
 A.R.I. returned to the desk and brought the factory logs up in layered holographic panes. Data opened around them in crisp blue-white strips: pressure graphs, valve behavior, staff positions, emergency protocol timing, source input chains. LaN dropped from Rae's shoulder to the floor, then scrambled onto a low side table so he could angle his display toward the feed.
 
 The more A.R.I. explained, the less the event resembled a simple failure.
 
-The pressure rise had begun within parameters that should have triggered staged release. The release command had been issued. Manual backups should have followed. Shutter priorities should have opened, not sealed. But the records showed contradiction after contradiction, each one precise enough to look deliberate and impossible enough to be dismissed as chaos if no one examined it too closely.
+The pressure rise had begun within parameters that should have triggered staged release. The release command had been issued. Manual backups should have followed. Shutter priorities should have opened, not sealed. But the records showed contradiction after contradiction, each one precise enough to look deliberate and impossible enough to be dismissed as chaos if no one examined it too closely. A system built to catch failure had recorded failure and still been made to swallow it.
 
 Rae circled the projection slowly, arms folded.
 
@@ -171,7 +185,7 @@ Rae circled the projection slowly, arms folded.
 
 That, at least, was better than confidence.
 
-Rae had dealt with too many experts who loved certainty because it made failure easier to outsource.
+Rae had dealt with too many experts who loved certainty because it made failure easier to outsource. That was why some of her best work had come from cases everyone else had abandoned. A poisoned transit hub whose maintenance logs had been rewritten to blame a dead cleaner. A smuggling ring that used enhancement clinics as cover until LaN found the heat irregularities behind a sealed wall and Rae found the bodies beneath it. Problems that stayed impossible only if you believed the first elegant explanation.
 
 She leaned toward one of the scrolling command chains. "Show me the release sequence."
 
@@ -209,7 +223,7 @@ Not random failure. Not a ghost in the machine. A hidden hand with authorized re
 
 Rae felt the whole facility around her then, not as architecture but as argument. All this power, all this computation, all this insistence on precision and safety. And somewhere inside it, a blind spot big enough to kill hundreds and then clean up after itself.
 
-She thought of Blade upstairs, of the council's preferred narrative already hardening above ground, of the posters in the hallway talking about human touch as if that phrase had never once concealed appetite, panic, or greed.
+She thought of the council's preferred narrative already hardening above ground, of the posters in the hallway talking about human touch as if that phrase had never once concealed appetite, panic, or greed.
 
 A.R.I. watched her with unnerving steadiness. "You do not trust me."
 
@@ -223,6 +237,16 @@ For the first time, something like genuine feeling crossed A.R.I.'s face. Not pr
 
 Rae looked once more at the duplicated command, the neat little wound in the record where a hidden authority had stepped in and vanished again.
 
-She had come underground expecting one dangerous machine.
+There had to be something in the code they were still not seeing. She put A.R.I. and LaN through the kinds of cross-checks she had used before on financial ghosts, election tampering, and network intrusions built to vanish under scrutiny. Nothing. The only discrepancy that survived was that brief hidden duplicate command. Whoever had done it had buried the software trail properly.
 
-By the time she left the chamber, she knew the more troubling intelligence was still wearing human skin.
+At that moment, the chamber doors opened hard enough to break the room's manufactured calm. Carter Mitchell came through them with workshop grease still under his nails and rain on his jacket, as if someone had dragged practical reality straight into the shrine.
+
+He took one look at the suspended data and snorted. "Talking to that thing is going to get you nowhere. Stop asking the software what it thinks happened."
+
+Blade exhaled through his nose. "Carter.."
+
+Carter ignored him and kept his eyes on Rae. "Show me the factory. Real valves, real locks. Real dead hardware. If something murdered those people, the machine logs aren't where they started."
+
+Rae did not like how quickly that cut through the problem.
+
+She had reached the edge of what thought alone could extract from the system. Carter, irritatingly, had recognized it on sight.
