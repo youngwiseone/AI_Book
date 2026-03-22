@@ -69,25 +69,35 @@ Rupert's silence answered for him.
 
 For a while the train hummed under them and neither spoke. Carter finished the first dough twist and brushed sugar from his beard with the back of his wrist. Rupert, too civilized to fight for the remaining pastry, only watched with a kind of resigned disgust that suggested long practice.
 
-"You can have one," Carter said eventually, feeling Ruperts gaze on the left over piece.
+"You can have one," Carter said eventually, feeling Rupert's gaze on the left over piece.
 
-Rupert sighed "The offer is appreciated, but I prefer not to eat breakfast that looks like it lost a duel." Wanting to discuss something else after losing his appetite for food, he reached for the innner pocket of his coat. "There is something else." He produced a small wafer and laid it on Carter's palm. "I found another fragment Chel left."
+Rupert sighed. "The offer is appreciated, but I prefer not to eat breakfast that looks like it lost a duel."
 
-Carter's fingers reached for the wafer before he consciously meant them to.
+Wanting to discuss something else after losing his appetite for food, he reached for the inner pocket of his coat. "There is something else." He produced a small wafer and laid it on Carter's palm.
 
-"You said there were many pieces," he said, examining the part he now held in his hand.
+"I've been going through Chel's old build records," he said. "Notes, voice logs, test comments, half-finished observations, duplicated backups. Hundreds of these things. She recorded everything while working on A.R.I., then left it all in the kind of organizational system that only made sense to her."
 
-"I did not realize how many. Or why she scattered them."
+Carter's fingers closed around the wafer before he consciously meant them to.
+
+"That sounds less like a system and more like a workbench," he said, examining the wafer.
+
+"Yes," Rupert said. "I assume she learned archival discipline from you."
 
 Rupert held his hand out for the wafer, which Carter handed over, then he pushed it against the personal unit embedded in his wrist. The wafer activated with a soft blue glow, and a half-corrupted voice print unfolded between them in a low private cone of sound.
 
 _If something ever appears wildly out of character in A.R.I.'s decision chains, check the source inputs first. She is designed to reason from what she is given. If the inputs are poisoned, the conclusions will be too._
 
+"That one seemed relevant," Rupert said quietly once the clip ended. "There are dozens more in the same vein. Design habits. ethics notes. reminder logs. observations on bias filtering. Most of them sound like Chel talking to herself while forgetting the recorder was still on."
+
+He handed the wafer back to Carter without comment.
+
 Chel's voice. Frayed by compression, but hers.
 
-Carter shut his eyes, wishing the world outside would pause for a second while he relived her in his memory.
+Carter shut his eyes for a second, the wafer closed tight in his hand. Hearing her like that, even through distortion and age, felt like being thrown a piece of her he had not known the world had left behind.
 
 When he opened them again, the city had continued without his permission. People still crossed bridges. Trains still ran. Somewhere above ground, memorial walls were still growing flower by flower while officials practiced sympathy in front of cameras.
+
+He slipped the wafer into his pocket.
 
 "She knew something," Rupert said quietly.
 
