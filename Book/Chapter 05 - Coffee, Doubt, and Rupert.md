@@ -1,54 +1,194 @@
 # Chapter 5: Coffee, Doubt, and Rupert
 
 **POV:** Carter  
-**Story beat:** Carter and Rupert reopen old history while the case begins to feel personal
+**Story beat:** Carter steps into the public side of the investigation and finally reaches A.R.I.'s chamber
 
-The Binjo Corner cafe still served coffee hot enough to strip paint from a chassis.
+Morning came cold enough to make Carter resent the existence of weather. Having less sleep the night before did not help with the drab day.
 
-Carter approved of that. He approved less of the government agents at the far tables pretending not to watch them. Rupert noticed too, but only smoothed his cuffs and ordered pastries as if surveillance were a social inconvenience rather than a warning.
+He pulled his denim jacket tighter around himself and hunched his shoulders as he walked down the gusty alley toward the station, one hand jammed into a pocket, the other wrapped around a hot pastry in thin paper. The thing was full of spiced vegetables and synthetic cheese that stuck to the roof of his mouth, but it was hot and cheap and from the stall outside the platform, which made it respectable.
 
-"You used to hate meetings," Carter said.
+He still did not fully understand why he had agreed to any of this.
 
-"I still do. I've simply learned to accessorize."
+Fixing A.I. and software had always been the sort of work he mocked other people for getting sentimental about. Hardware made sense. Metal bent. Wires burned. Bearings failed. You could learn a machine's moods if you paid enough attention. Software, by comparison, always felt like educated guesswork dressed in clean language. Chel had loved it, which was one of the many reasons she had always been the smarter of the two of them.
 
-For a while they spoke around the real subject. Workshop rent. Supply shortages. The state of Rupert's shoes. Then Rupert stopped performing ease and set his cup down with deliberate care.
+He bit into the pastry and nearly scorched his tongue.
 
-"Chel believed A.R.I. could become trustworthy because she was not built only to optimize," he said. "She was built to understand cost."
+The platform speakers crackled to life above him with the morning guidance bulletin, a calm feminine voice announcing adjusted route times, weather advisories, and civic courtesy reminders in a tone so measured it made every piece of the city sound two degrees more obedient than it really was. A.R.I.'s work, whether Carter liked it or not. The transport lines had run almost flawlessly since she took over the system. Crash rates had plummeted. Delays were rare. Even traffic flow through the industrial districts had stopped behaving like a collective death wish.
 
-Carter looked out the window at rain stippling the tram lines. "Machines don't understand cost. They calculate acceptable loss."
+That was part of what made Clona sit so badly in his gut.
 
-"That is exactly what Chel was trying to stop."
+Systems that worked this well did not usually fail by accident in ways dramatic enough to make politicians feel useful.
 
-Rupert produced a wafer no bigger than a thumbnail. "She left fragments in different places before she disappeared. I didn't understand what they were for then."
+Rupert was already waiting at the other end of the station concourse when Carter arrived, standing beside a cafe cart in a charcoal coat and polished shoes that had no business being near train grime. He held two takeaway cups in one hand and a paper bag in the other, waving as if they were meeting for leisure instead of a catastrophe.
 
-The fragment held a voice print, half-corrupted but clear enough.
+"You are much earlier than expected," Rupert said when Carter reached him. "I had budgeted at least twelve extra minutes for stubbornness."
 
-If A.R.I. is ever blamed too quickly, start with the people who profit from certainty.
+"Couldn't sleep."
 
-Chel's voice.
+Rupert's face softened for half a second, then smoothed over again. "I brought coffee. And because I know your standards are morally compromised, I also brought fried dough twists from Binjo."
 
-Carter closed his fist around the wafer so tightly the edges bit his palm.
+Carter took the bag first. "Good. See? That's why I keep you around."
 
-"I didn't bring you in because you're useful with engines," Rupert said. "I brought you in because she trusted your instincts when systems got too tidy."
+"You have not kept me around for years."
 
-"You should've brought someone less stubborn."
+"Technicality."
 
-"I tried. They all said yes too quickly."
+They boarded the city transport just as the doors chimed closed. Inside, the carriage smelled of damp coats, battery heat, and someone's aggressively herbal breakfast. Rupert chose a pair of seats near the window and set the coffees between them before Carter could slosh one into his own lap.
 
-Outside, a pair of enhanced officers passed the cafe window. Their coats were cut elegantly enough to hide the alterations underneath, but not the way their joints moved, too smooth and too sure.
+Carter looked suspiciously into his cup. "What did you do to this?"
 
-Carter thought of Chel's old office. Of nights when she would come home wired with ideas and speak about A.R.I. not as a product, but as responsibility. Of Rupert, all elbows and nerves back then, hanging around the shop because it was the closest thing he'd had to family.
+"Improved it."
 
-If this case was dirty, it had been dirty for a long time.
+"You sweetened it."
 
-"All right," Carter said. "I'll look at the physical evidence."
+"I am not sure whether what you normally drink is Coffee or if you mislabeled the engine degreaser you also store in the kitchen"
 
-Rupert exhaled in relief.
+Carter grunted and took a sip anyway. It was sweeter than he would have chosen, but not offensively so. He balanced the coffee on one knee, opened the paper bag, and found the dough twists, still warm enough to justify faith in humanity.
 
-"And Rupert?"
+Outside, the city slid by in ordered layers.
 
-"Yes?"
+Morning light picked out the wet steel edges of bridges and transit rails. Delivery drones moved in disciplined currents overhead. Walkways filled with workers in staggered rhythms. Here and there old buildings still hunched between newer construction, their facades patched with conduit and ceramic paneling like old bones pinned into modern armor. Banners had gone up overnight over several overpasses: civic condolences, factory memorial notices, official promises of accountability printed in expensive typefaces standing out in pale clean serenity against the otherwise grimy district.
 
-"If you're lying to me for their sake, I'll break something expensive."
+The first public mourning wall near the central line was already crowded with flowers, candles, handwritten names, and projected memorial glyphs. Carter looked away before the train slowed enough to make the details visible.
 
-Rupert gave a thin smile. "That is still the most comforting thing anyone says to me."
+Rupert watched him for a moment, then reached into his satchel and laid a thin packet on the seat between them.
+
+"This is the public communications brief," he said. "Or what is left of it after I removed the especially insulting phrases."
+
+Carter flicked the top page with two fingers. "How generous."
+
+"My team handles implementation and messaging around A.R.I.'s civic systems. The official line at the moment is tragic systems failure pending investigation. No details about override chains. No details about locked exits. No details about how much the council is panicking."
+
+"They always need someone or something to blame," Carter said.
+
+"Yes," Rupert replied. "And if they do not produce an explanation quickly, the blame starts climbing toward the people who introduced A.R.I., funded her expansion, and assured the public she was safer than human management."
+
+Carter looked out the window again. "So they need a machine that has the grace to only make mistakes in a way that only the people who deserve to take the fall will"
+
+Rupert's silence answered for him.
+
+For a while the train hummed under them and neither spoke. Carter finished the first dough twist and brushed sugar from his beard with the back of his wrist. Rupert, too civilized to fight for the remaining pastry, only watched with a kind of resigned disgust that suggested long practice.
+
+"You can have one," Carter said eventually, feeling Ruperts gaze on the left over piece.
+
+Rupert sighed "The offer is appreciated, but I prefer not to eat breakfast that looks like it lost a duel." Wanting to discuss something else after losing his appetite for food, he reached for the innner pocket of his coat. "There is something else." He produced a small wafer and laid it on Carter's palm. "I found another fragment Chel left."
+
+Carter's fingers reached for the wafer before he consciously meant them to.
+
+"You said there were many pieces," he said, examining the part he now held in his hand.
+
+"I did not realize how many. Or why she scattered them."
+
+Rupert held his hand out for the wafer, which Carter handed over, then he pushed it against the personal unit embedded in his wrist. The wafer activated with a soft blue glow, and a half-corrupted voice print unfolded between them in a low private cone of sound.
+
+_If something ever appears wildly out of character in A.R.I.'s decision chains, check the source inputs first. She is designed to reason from what she is given. If the inputs are poisoned, the conclusions will be too._
+
+Chel's voice. Frayed by compression, but hers.
+
+Carter shut his eyes, wishing the world outside would pause for a second while he relived her in his memory.
+
+When he opened them again, the city had continued without his permission. People still crossed bridges. Trains still ran. Somewhere above ground, memorial walls were still growing flower by flower while officials practiced sympathy in front of cameras.
+
+"She knew something," Rupert said quietly.
+
+"She usually did."
+
+"I know I wasn't the one who brought you in," Rupert said. "Blade made that call. I assigned myself because I knew you should not be left to a room full of software people and council staff on your own."
+
+"Rude."
+
+"Someone has to speak plain once they all start circling the code and forgetting there were actual bolts, locks, and bodies involved. You're good at that. Painfully so."
+
+Carter rolled the wafer once between thumb and forefinger. "You should've found someone less stubborn."
+
+"I tried. They all agreed too quickly."
+
+They both laughed.
+
+The train shifted lines and curved into the central districts. Here the city grew sleeker. Towers rose in bright composites and smart glass. Gardens spilled from terraces in mathematically pleasing drapes. Signage glowed from under awnings designed to suggest handcraft while quietly tracking pedestrian movement. Even the cafes looked overmanaged. Carter had passed through these districts with Chel on her days off years ago, back when they still made a habit of taking trains simply to get lost somewhere together. She had liked the little side streets best, the ones hiding bad internet cafes and better food. He still remembered one place that served thick noodles in broth so hot it kept steaming long after the bowls were empty.
+
+He rubbed a hand across his face as if he could wipe the memory off like dust.
+
+"You all right?" Rupert asked.
+
+"No," Carter said. "But I'm on a train with you heading toward a giant state-funded machine shrine, so let's not aim too high."
+
+Rupert smiled despite himself. "That is the most encouraging answer you could have given."
+
+By the time they reached the government interchange, the weather had turned from merely cold to pointedly hostile. Wind tunneled between the buildings and snapped at coat hems. Rupert led them through a side entrance marked for internal staff, past two layers of guards, through one security hall that smelled faintly of disinfectant and polished stone.
+
+The lift down to the underworks was smoother than Carter wanted it to be. Getting very close now to what Chel had spent most of her life creating, and what he would need to tear apart in order to find what went wrong. The idea of it sunk to the pit of his stomach.
+
+He stood beside Rupert and folded both arms across his chest as the level markers descended. He had spent the last decade avoiding this sort of place wherever possible. He liked his machinery where he could see all of it. Here, every wall suggested the existence of ten more behind it.
+
+Rupert busied himself on his personal unit, flicking messages to three different teams at once. "There are already calls from the council for a press statement this afternoon. They want a shape to put around the disaster before the public makes one for them."
+
+"Of course they do."
+
+"I am supposed to help provide that shape."
+
+Carter looked at him sidelong. "And are you?"
+
+Rupert kept his eyes on the screen. "Not if the shape turns out to be a coffin built for the wrong thing."
+
+Carter could see how frightened Rupert was, no matter how much he tried to hide it away with the dramatic flair he liked to add to everything he touched. Carter was worried too.
+
+When the elevator opened, Carter couldn't help but be impressed on the craftsmenship. The Hive stretched out before them in shining terraces and industrial calm. Workers moved over the floor and across bridges in programmed-looking streams. Maintenance units rolled along marked tracks. Great trunks of cable and coolant lines disappeared into the heart of the complex. It looked less like a building than a mechanical ecosystem pretending it had not already outgrown ordinary architecture.
+
+"Still think software is just guessing?" Rupert asked lightly as they stepped out.
+
+Carter eyed the construction happening on the far rings, the modular expansion, the choreographed labor. "I think this is what guessing looks like when you give it a national budget."
+
+Rupert made an offended sound but kept walking.
+
+They took a pod inward. Carter did not care for pods either. Too smooth, too silent, too sealed. Through the curved canopy he watched the lower levels pass beneath them: coders, technicians, construction drones, welders, and teams replacing old hardware with fresh banks built to cleaner tolerances. Somewhere inside all of that sat the public illusion of a single machine-person everyone could name and blame.
+
+His palms had started to sweat by the time the pod reached the center.
+
+Rupert noticed and politely looked elsewhere.
+
+"She doesn't bite," he said after a moment.
+
+"Bad news. It's never the biting I worry about."
+
+The approach corridor into A.R.I.'s chamber was almost offensively tasteful. Water sounds. softened light. dark stone. Plants selected to calm mammals with inherited instincts they no longer had any practical use for. Chel had absolutely had a hand in this. Carter could feel her all over the design. Not in the aesthetics exactly, but in the intent. She had always believed intelligence worked better if you refused to treat it like a monster first.
+
+Which was why seeing the chamber for the first time hit him so hard.
+
+Not because of the room.
+
+Because of A.R.I.
+
+He rounded the final curve of the corridor in front of Rupert, wanting to get this over and done with, then stopped so abruptly Rupert had to catch himself to avoid smacking into the back of Carter. Across the chamber, framed by suspended data and all that carefully composed calm, stood a figure that, while not Chel, carried enough of Chel in the tilt of the head, the manner of standing, the exact courtesy of attention, that for one stupid second his body made the wrong recognition and believed the dead could be reversed.
+
+He heard himself inhale.
+
+A.R.I. turned toward him.
+
+She looked puzzled, and in that expression too there was an echo. Not a replica. Not some grotesque copy. Just influence. Design choices. Habits learned from a creator who had spent too much of herself making something capable of gentleness.
+
+That upset him more than a replica would have.
+
+Then he saw the data hanging in the air between A.R.I., Rae, and Blade. Saw the neat command chains, the clean blue abstractions, the whole impossible mess being discussed like enough software could talk a disaster into honesty.
+
+No.
+
+Absolutely not.
+
+He strode into the room before Rupert could warn him off and jabbed a finger toward the projections. "Talking to that thing is going to get you nowhere. Stop asking the software what it thinks happened."
+
+Blade exhaled through his nose. "Carter..."
+
+Carter ignored him and fixed on Rae instead. He did not know her yet, but she looked like someone more likely to understand bad news if it arrived blunt.
+
+"Show me the factory," he said. "Real valves, real locks, real dead hardware. If something murdered those people, the machine logs are not where it started."
+
+The room changed, and in the moment so had Carter. He would find what did this no matter if the AI was to blame or not. Seeing A.R.I had jolted something inside of him.
+
+Rae's posture sharpened rather than recoiling. Good. A.R.I. watched him with unsettling steadiness, but did not interrupt. Blade looked irritated in the particular way powerful men did when a practical interruption had just knocked their carefully managed conversation off script.
+
+Rupert came up beside him at last, one hand half-raised as if deciding whether the moment could still be rescued into professionalism. He looked over at Blade and let the hand fall again. It could not. He had expected this from Carter, just not quite so abruptly.
+
+Carter stood there with workshop grease still under his nails, the taste of over-sweet coffee and cheap pastry still at the back of his tongue, and the ghost of Chel's voice still lodged somewhere under his breastbone.
+
+If the truth of Clona was going to be found, it would not be in this room alone.
