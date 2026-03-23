@@ -199,6 +199,74 @@ Rae's posture sharpened rather than recoiling. Good. A.R.I. watched him with uns
 
 Rupert came up beside him at last, one hand half-raised as if deciding whether the moment could still be rescued into professionalism. He looked over at Blade and let the hand fall again. It could not. He had expected this from Carter, just not quite so abruptly.
 
-Carter stood there with workshop grease still under his nails, the taste of over-sweet coffee and cheap pastry still at the back of his tongue, and the ghost of Chel's voice still lodged somewhere under his breastbone.
+For a brief moment the room seemed to settle into a new shape. Rae turned fully toward Carter, already recalculating. Blade's irritation eased into the look of a man reluctantly admitting a point had landed. Even A.R.I. shifted her attention toward the physical site of the disaster, as if Carter had knocked the conversation back onto useful rails.
 
-If the truth of Clona was going to be found, it would not be in this room alone.
+"Then we go to Clona," Rae said. "In person."
+
+Carter gave one short nod. "Now you're talking sense."
+
+A.R.I. began collapsing the floating data panes around them, likely to prepare whatever records would be needed for site access.
+
+Then the chamber doors opened again.
+
+Two council aides entered in dark formal coats, followed by a security officer whose expression suggested he would have preferred to escort a bomb. The lead aide did not look at Carter or Rae at all. He addressed only A.R.I.
+
+"A.R.I., your attendance is required immediately," he said. "A hearing has been convened."
+
+Even Carter could feel the shift in the room.
+
+A.R.I. went still. "This hearing was not entered into my schedule."
+
+"It has been authorized at council priority."
+
+"For what purpose?"
+
+The aide smoothed one cuff. "Review of your conduct and operational liability regarding Clona. You are to shut down all outer appearances, inputs, and outputs until further notice. Refrain from any further communication with anyone else until proceedings conclude."
+
+That landed badly enough that even Rupert stopped trying to look decorative.
+
+Rae's mouth tightened. "We were just about to go to the factory."
+
+"That decision is above your clearance," the aide snapped, as if speaking to a bothersome insect.
+
+Blade looked from the aide to A.R.I., and for the first time since Rae had met him his composure slipped. The concern was brief but real. He had not expected this either.
+
+A.R.I.'s gaze moved once between Rae and Carter "I will attend," she said. "Shutting down public conversational facing unit. Moving to designated sector 5618X."
+
+The version of A.R.I. standing before them returned to the desk and sat with careful, almost ceremonial precision. Then the light in her eyes dimmed.
+
+The chamber changed all at once.
+
+The birdsong cut out. The soft rush of artificial water vanished. The low music woven through the room disappeared so completely that the silence seemed to lower the temperature around them.
+
+What remained at the desk was not a woman pausing mid-conversation. It was something emptied. The resemblance to Chel, which had already been needling at him from the moment he entered the chamber, suddenly became unbearable. The careful posture. The stillness. The impression of warmth with no life behind it. For one sick instant it felt like grief had doubled back and found him again, as if some echo of Chel had just gone dead in front of him and left only the shape behind. Carter felt the hairs rise on his arms. He had to look away before the resemblance caught him any harder.
+
+The aides seemed satisfied. The security officer turned and followed them out without another word, as if the real A.R.I. was already elsewhere.
+
+The truth had barely begun to move, and already someone had reached in to cut the lights around it.
+
+Blade waited until the doors sealed behind them before moving. Then he crossed the chamber in three quick strides and lowered his voice.
+
+"You two are going to Clona now," he said.
+
+Rae looked at him sharply. "I thought that was above our clearance."
+
+"It is." Blade was already working at his wrist unit. "Which is why I am overriding it."
+
+Carter eyed him. "And this won't come back on you?"
+
+Blade gave a tired, humorless look. "At this point, that is no longer near the top of my concerns."
+
+Rupert exhaled softly, tension and relief arriving together.
+
+"Service access will hold for three hours, and twenty-nine minutes once you reach the outer gate," Blade said. "After that, you are trespassers. Find what you can before the official story closes over it."
+
+Rae glanced down at LaN. "Tell me you kept the session cache."
+
+LaN's display brightened. "Multiple redundancies. The command chain, timing discrepancies, and chamber notes are all backed up locally."
+
+"Good," Rae said.
+
+Carter looked once more at the darkened figure behind the desk, then toward the door.
+
+If they were going to find the truth of Clona, it would have to be in the real wreckage now, before official process, delay, and too many careful hands turned what remained into something tidier than the truth.
