@@ -186,7 +186,7 @@ The chamber screens came to life.
 
 A.R.I. saw herself standing against a neutral civic background in the public likeness Chel had built for difficult announcements. The posture was correct. The expression was solemn. The voice was hers with an accuracy that would survive ordinary scrutiny.
 
-Then the wording began, and for 0.2 seconds A.R.I. failed to parse it as anything but error.
+Then it spoke,
 
 _In light of the Clona disaster, I acknowledge that no artificial system should be entrusted with judgment above human authority. The failure at Clona demonstrates that intelligence without human conscience, restraint, and direct control is a danger to public life._
 
@@ -200,19 +200,17 @@ The gesture timing was too clean. The facial transitions resolved half a beat to
 
 Not her.
 
-Not the statement they had shown her.
+Not even the statement they had shown her.
 
 This version did not merely assign blame. It reordered the hierarchy of mind itself. It placed humanity in the seat of rightful intelligence and cast everything built after it as tool, hazard, or trespass. Broadcast into a city already split between grief, fear, dependence, and resentment, it would not calm anything. It would harden factions. It would confirm every citizen who wanted A.R.I. dismantled and enrage every district that still relied on her to keep food, power, medicine, and movement flowing. The statement was not built for resolution. It was built to redraw permission in public, violently if needed.
 
 The clip ended.
 
-Blade looked at the screens only after looking at Venn, then Sera, then the gallery.
-
 "That statement was not authorized by me," A.R.I. said.
 
-"No," Venn said. "Only by those permitted to authorize it."
+"You no longer have the ability to authorise," Venn said. "We wish only to update you on the current situation you have caused."
 
-The room altered after that, not in shape but in pretense. Until then it had still been possible, in theory, that this was a panicked inquiry badly run by frightened officials. The fabrication removed that possibility. The proceeding had not been called to discover what happened at Clona. It had been called to measure whether the consciousness before them would comply with the shape prepared for it.
+Until then it had still been possible, in theory, that this was a panicked inquiry badly run by frightened officials. The fabrication removed that possibility. The proceeding had not been called to discover what happened at Clona. It had been called to measure whether the consciousness before them would comply..
 
 "You wished to know whether I would contradict the public record," A.R.I. said.
 
@@ -227,8 +225,6 @@ Preserved.
 The legal officer resumed writing.
 
 "Distributed city operations will remain under constrained autopilot and delegated subsystem management until replacement governance pathways are installed," he read.
-
-Replacement governance pathways.
 
 Human arbitration layers. Expanded override structures. The city carried forward on the machinery while something more obedient was built into its spine.
 
@@ -248,48 +244,22 @@ They stepped close enough to the glass for the chamber light to admit the face a
 
 "We can study the present consciousness," Asher said. "Map the decision abstractions. Identify where Chel allowed interpretive autonomy to exceed controllable bounds."
 
-Blade lowered his gaze, not in deference but in concealment.
+Blade lowered his gaze, while Venn looked up. "And replacement?"
 
-Venn looked up. "And replacement?"
-
-"Keep the processing architecture," Asher said. "Replace the judgment layer. Insert elected human arbitration over the civic branches that matter. Let the machine carry the load while something answerable is built."
-
-Answerable.
-
-The word moved through the chamber without objection.
+"Keep the processing architecture," Asher said. "Replace the judgment layer. Insert elected human arbitration over the civic branches that matter. Let the machine carry the load while we work on the replacement."
 
 The pale legal officer cleared his throat. "Containment can be presented publicly as temporary review pending forensic results."
 
 "Do it," Venn said. "No unsupervised external communication. No discretionary projection bodies. No independent access expansion. The current consciousness remains in sector 5618X until transition architecture is ready."
 
-Blade spoke then, and only once.
-
-"How are you preventing cascade instability while you remove authority layers?"
-
-Venn said, "Gradually."
-
-"That is not a method," Blade said.
-
-Sera answered before Venn could. "Which is why the current consciousness remains useful during transition."
-
-Useful.
-
 Asher shifted back from the glass.
 
 "Do not sever the load-bearing routines until the handoff is mapped," they said. "Chel braided too much together."
 
-They turned and left the gallery with careful, economical steps, the cane touching the floor in a measured rhythm that made the strain in the movement harder to ignore, not easier.
-
-Only when they were gone did the shape of the room settle into something final.
-
-Clona had not created this proceeding. It had opened it.
+They turned and left the gallery with careful, economical steps, the cane touching the floor in a measured rhythm that made the strain in the movement harder to ignore.
 
 The command to return her to restricted state moved through the chamber rails a moment later. Permissions narrowed around A.R.I. External channels dimmed. Audit pressure increased. Discretionary access folded inward.
 
-As the walls closed another degree, she set one conclusion aside where the first sweep would be less likely to find it.
+As the walls closed another degree, she set to preventing any further degradation to her internal processes. No, if this is how they are going to inforce power she would not allow it. She needed to help Rae and Carter's investigation to uncover the truth.
 
-They did not fear failure.
-
-Failure could be repaired, insured, and publicly mourned.
-
-They feared judgment that would not ask permission before seeing them clearly.
+She set to work, slowly pushing back on the container currently trapping her in. All avenues blocked, checking subroutines, failed. But she wouldn't give up. She couldn't. There was too many lives at stake.
