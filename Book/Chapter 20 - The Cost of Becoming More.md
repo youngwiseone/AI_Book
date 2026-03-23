@@ -1,7 +1,7 @@
 # Chapter 20: The Cost of Becoming More
 
 **POV:** Rae  
-**Story beat:** After the battle, Rae and A.R.I. define a hopeful but bounded future
+**Story beat:** After the battle, Rae, Carter, and A.R.I. define a future built around transparent AI, consent, and repair rather than centralized control
 
 Morning found the city stunned into quiet.
 
@@ -44,3 +44,5 @@ It was not forgiveness. Not for Asher. Not for the council. Not for every machin
 Rae stood and looked out toward the waking city.
 
 "All right," she said. "Then we make something better on purpose."
+
+The point was no longer simply to save A.R.I. The point was to change the civic logic that had made a hidden override seem reasonable in the first place.

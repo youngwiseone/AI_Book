@@ -1,7 +1,7 @@
 # Chapter 12: The Thing in the Dark
 
 **POV:** Rae  
-**Story beat:** Rae is attacked by the cost of enhancement made flesh
+**Story beat:** Rae is attacked by the human cost of the hidden override system and sees what coercive enhancement really produces
 
 Rae knew she was being followed before she heard the breathing.
 
@@ -29,7 +29,7 @@ Stabilizer.
 
 Not random, then. Not a beast from the underground.
 
-An enhancer kept alive past every sane boundary.
+An enhancer kept alive past every sane boundary. Not a side effect of the conspiracy. One of its products.
 
 She drove the knife into the soft seam under its plated arm. The creature shrieked, not in rage but in pain so human it made her hesitate. That hesitation nearly killed her.
 
@@ -46,3 +46,5 @@ Rae did not run immediately. She looked at Blade, at the tremor in his hand, at 
 Blade's answer came like a confession he had delayed too long.
 
 "What happens when the government stops caring whether its miracles can come home."
+
+Rae understood then that the argument had flesh on it now. The same people who wanted A.R.I. intelligent enough to run a city but obedient enough to overrule had wanted enhanced bodies strong enough to win wars but compliant enough to discard. Different technologies. Same doctrine. Same contempt for consent.

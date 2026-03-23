@@ -1,7 +1,7 @@
 # Chapter 16: Rupert's Breaking Point
 
 **POV:** Rupert  
-**Story beat:** Rupert is captured and reveals the deeper emotional and ethical core of the story
+**Story beat:** Rupert is captured and forces the hidden ideology into the open: the real conflict is control masquerading as safety
 
 The room they put Rupert in had once been a chapel.
 
@@ -32,6 +32,8 @@ Something flickered across Asher's face then. Not guilt exactly. Exhaustion, may
 Rupert thought of A.R.I. speaking carefully to frightened citizens. Of Chel adjusting code because every efficient system eventually found a way to flatten people into numbers if no one taught it otherwise. Of Carter pretending not to care while fixing things no one else could save.
 
 "No," Rupert said softly. "Humans deserve the right to be better than this."
+
+What Rupert understood in that room was simple and damning. They did not hate A.R.I. for being dangerous. They feared her because a truly ethical intelligence would make their private exceptions harder to hide.
 
 When Asher left, Rupert worked Chel's old trick with his cuff pin and the metal seam in the chair. It would take time. Pain too.
 

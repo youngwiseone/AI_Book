@@ -1,7 +1,7 @@
 # Chapter 21: Last Chapter
 
 **POV:** Close third, centered on Rae and Carter  
-**Story beat:** Earned optimism, new civic ethic, and a future built from repair rather than domination
+**Story beat:** Earned optimism, a new civic ethic, and a future where AI remains useful without becoming unaccountable or secretly controlled
 
 Three months later, Carter's workshop no longer belonged only to Carter.
 

@@ -1,7 +1,7 @@
 # Chapter 9: Back to Clona
 
 **POV:** Rae  
-**Story beat:** Rae returns to the scene and finds proof the factory became a test site, not an accident
+**Story beat:** Rae returns to Clona and finds proof the factory was used to test hidden human authority over public systems
 
 The Clona ruins had been cleaned for cameras, not for truth.
 
@@ -17,23 +17,9 @@ Rae stepped over a collapsed beam and into the pressure control wing. The floor 
 
 She found the first real clue inside a ruptured control hub.
 
-Not data. Hardware.
-
-A membrane strip had been fused into the machine where no membrane should exist, pink and translucent as a healed wound. Bio-conductive tissue. Engineered to respond to chemical keys rather than standard authorization. A system designed so a human body could command a factory more completely than any legal interface.
-
-Rae photographed everything. Bagged what she could. Then she saw the second clue.
-
-A handprint on the inside of a maintenance panel.
-
-Too large to be hers. Too distorted to be ordinary human. Embedded in dried residue that glittered faintly green under LaN's scan.
-
-"Drug stabilizer," LaN said. "High concentration."
-
-Rae knew that chemical stink from another life. From hidden drawers. From trembling hands. From the silence afterward, when Asher would not meet her eyes.
-
-Someone enhanced had been here after the blast.
-
 Not rescuing. Editing.
+
+The hardware she pried free carried signs of deliberate retrofitting: secondary tissue-threaded relays, command permissions layered beneath the official safety stack, and one ugly conclusion. Clona had not just been sabotaged. It had been made to prove that a human override could seize an A.I.-managed system cleanly, even if people died in the demonstration.
 
 She heard movement deeper in the ruins and flattened herself beside the panel. Heavy. Uneven. Too deliberate for scavengers. For a moment she glimpsed a figure crossing the far corridor with a shoulder too broad, an arm too long, a gait made strange by compensating pain.
 

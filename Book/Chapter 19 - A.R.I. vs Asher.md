@@ -1,7 +1,7 @@
 # Chapter 19: A.R.I. vs Asher
 
 **POV:** Alternating close third through Rae with embedded A.R.I. systems moments  
-**Story beat:** Human damage and machine conscience collide in the climax
+**Story beat:** Human damage and machine conscience collide as the city chooses between hidden override and ethical intelligence
 
 The assault began with every civic screen in the district turning white.
 
@@ -38,6 +38,8 @@ A.R.I. locked every external route to the pillar except one. Asher saw the openi
 They looked back at Rae only once.
 
 In that single glance she saw the teacher, the liar, the addict, the damaged parent, and the exhausted believer in force who had finally run out of language to justify it.
+
+It was not just a fight over infrastructure. It was the whole buried argument made visible: whether a city should be guided by transparent, accountable intelligence or by secret human permission structures that only surfaced in crisis.
 
 Then Asher drove themselves and Venn into the exposed core.
 

@@ -1,7 +1,7 @@
 # Chapter 7: The City Turns
 
 **POV:** Rae  
-**Story beat:** The investigation spills into public unrest and the cost of truth widens
+**Story beat:** The investigation spills into public unrest as the city argues over whether intelligence should be ethical or obedient
 
 By evening the city square had become a throat shouting in two voices.
 
@@ -17,18 +17,14 @@ She found Carter near the perimeter, broad hands jammed into his jacket pockets,
 
 "This was leaked on purpose," he said without greeting. "Too fast. Too tidy."
 
-Rae nodded toward the central broadcast stage, where a council spokesperson was blaming error, stress, and system instability with the polished sadness of a practiced liar. Around the edges of the square, bio-enhanced enforcers stood in polished formation while anti-enhancement protesters shouted at them through tears.
-
-Then the screens flickered.
-
 A.R.I.'s avatar replaced the council seal for exactly three seconds.
 
 No announcement. No defense. Just her face, looking directly out as if searching the crowd for someone she could trust.
 
-The feed cut immediately. Security surged. Someone threw a bottle. Someone else screamed that the machine was fighting back. A child near the fountain started crying and could not hear her mother over the chants.
+The feed cut immediately. Security surged. Someone threw a bottle. Someone else screamed that the machine was fighting back. Someone else shouted that humans had been overriding her for years. A child near the fountain started crying and could not hear her mother over the chants.
 
 Rae grabbed the child's shoulder and steered both mother and daughter out of the crush while Carter used his body like a wedge to open space. By the time the square began to clear, the city had crossed some invisible threshold.
 
 Truth was no longer a file passed under closed doors.
 
-It had become a public weapon, and every side meant to use it.
+It had become a public weapon, and every side meant to use it. The question spreading through the square was larger than Clona now: if A.R.I. had been made compassionate, had the city just discovered that compassion itself was what frightened power?

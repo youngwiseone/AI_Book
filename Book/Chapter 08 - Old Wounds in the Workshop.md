@@ -1,7 +1,7 @@
 # Chapter 8: Old Wounds in the Workshop
 
 **POV:** Carter  
-**Story beat:** Carter connects the present investigation to Chel's disappearance and begins trusting Rae
+**Story beat:** Carter connects Chel's warnings to the hidden override system and the team begins acting like a real alliance
 
 Carter's workshop looked better at night.
 
@@ -17,20 +17,6 @@ Chel looked exhausted. More frightened than he had ever seen her allow herself t
 
 If you're seeing this, they moved sooner than I expected. A.R.I. isn't the threat. The threat is what people will do with a system that can be blamed without bleeding.
 
-The image stuttered, then cut.
-
-Carter turned away before Rae could study his face too closely.
-
-"She knew," Rae said.
-
-"She knew enough to disappear."
-
-LaN rolled closer to the workbench and ran a soft scan over the salvaged unit. "Detecting protein residue in a non-biological control socket."
-
-Rae looked up. "Bio interface?"
-
-"Illegal one," Carter said. "Somebody grafted living tissue into the command chain so only an authorized enhancer could force an override."
-
 That silenced the room.
 
 Rae leaned both hands on the bench, scar above her lip catching the lamplight. For the first time since meeting her, Carter saw something beneath the hard edges: not weakness, but old hurt bracing for confirmation.
@@ -40,5 +26,7 @@ Rae leaned both hands on the bench, scar above her lip catching the lamplight. F
 Carter did not ask yet. He only pushed a mug of tea toward her and grunted, "Drink before you pass out on my wiring."
 
 She took the mug.
+
+Together they mapped the pattern forming beneath the sabotage. Not anti-A.I. exactly. Anti-accountability. A hidden human spine built under a public machine conscience so power could enjoy A.R.I.'s competence while retaining the right to overrule her ethics in secret.
 
 It was a small thing, but the workshop felt different after that. Less like two reluctant allies sharing evidence. More like a place where the truth might survive long enough to be named.

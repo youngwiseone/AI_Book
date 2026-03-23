@@ -1,7 +1,7 @@
 # Chapter 18: Asher's House
 
 **POV:** Rae  
-**Story beat:** Rae confronts Asher and the story's moral wound becomes personal
+**Story beat:** Rae confronts Asher and learns they are not just compromised, but one of the architects of the city's hidden anti-ethical fail-safe
 
 Asher lived in a district where wealth had begun to rot from the inside.
 
@@ -44,3 +44,5 @@ Pain crossed Asher's face, naked and immediate. "I kept telling myself I was hel
 Asher looked past her toward the dark city.
 
 "Now I think we taught the next one how to wear a human face."
+
+For Rae, that was the true wound. Asher had not merely fallen in with the wrong people. They had helped design a civilization that wanted intelligence, medicine, and enhancement powerful enough to transform society, but only on the condition that all three remained answerable to frightened elites in secret.

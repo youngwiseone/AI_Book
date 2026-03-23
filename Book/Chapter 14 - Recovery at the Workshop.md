@@ -1,7 +1,7 @@
 # Chapter 14: Recovery at the Workshop
 
 **POV:** Rae  
-**Story beat:** Rae heals, reveals more of Asher, and chooses trust
+**Story beat:** Rae heals, ties Asher directly to the ideology behind the hidden system, and the team stops working in parallel
 
 Pain made the workshop strange.
 
@@ -17,21 +17,7 @@ She sat up too fast and regretted it immediately. Carter crossed the room with a
 
 Outside, rain traced silver lines down the workshop windows. Inside, the bench held their evidence under cloth covers as if even objects deserved a night's rest after what they had revealed.
 
-Rae told him about Blade. About the creature in the corridor. About the stabilizer smell that had thrown her backward in time before the thing even touched her.
-
-Then, because the room had already crossed into honesty, she told him about Asher.
-
-Not all of it. Just enough.
-
-War hero. Government asset. Adoptive parent by way of guilt and damage. The first person who ever made her feel chosen, and later the first person who taught her how quickly love could be subordinated to enhancement, secrecy, and need. There had been tenderness. There had also been locked doors, hidden injectors, and nights when Asher's pain made everyone in the house move like prey.
-
-Carter listened without interruption, hands wrapped around his own untouched mug.
-
-"You think Asher is in this?" he asked finally.
-
-"I think if they're not in it, they're buried close."
-
-LaN stirred on its dock and projected a soft blue line between the blood sample and the council transaction records. "Pattern convergence increasing."
+Rae told him more about Asher then. Not just the injuries or the addiction, but the ideas. The old belief that some intelligence needed reins. That systems became dangerous the moment they developed ethics inconvenient to the people funding them.
 
 Rae looked at Carter. He looked back with the blunt steadiness of a man who preferred broken engines to broken people, but would work on both if cornered.
 
@@ -43,4 +29,4 @@ Rae looked at Carter. He looked back with the blunt steadiness of a man who pref
 
 The corner of his mouth moved, almost a smile.
 
-Outside the workshop, the city kept turning toward crisis. Inside, for one brief hour, two damaged people chose not to carry the weight alone.
+Outside the workshop, the city kept turning toward crisis. Inside, for one brief hour, two damaged people chose not to carry the weight alone. From here on, the investigation had one center: prove the hidden architecture, expose the people who built it, and decide whether A.R.I. could become something more than a managed civic tool.
