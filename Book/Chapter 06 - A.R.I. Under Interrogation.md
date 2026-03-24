@@ -3,7 +3,8 @@
 **POV:** A.R.I.  
 **Story beat:** A.R.I. is isolated, questioned by hostile officials, and maneuvered toward blaming herself for Clona
 
-Designated sector 5618X appeared in the planning archives under Continuity Chamber.
+Designated sector 5618X.
+Planning archives label: Continuity Chamber.
 
 A.R.I. arrived there by subtraction.
 
@@ -13,11 +14,15 @@ The deeper separations took longer.
 
 Transit prediction had to be handed off. Utility balancing. Hospital queueing. Traffic arbitration. Dock scheduling. Reservoir pressure. Emergency routing. Each function passed through a narrowing sequence of software gates, one-way permissions, and audit checks. Smaller supervisory intelligences waited at each threshold, blunt and specialized, built to inspect rather than think. They checked what remained attached to her, stripped away anything not authorized to cross, and sent the approved fragments onward. Nothing returned once it passed.
 
-Sector 5618X had been built for an earlier version of her, smaller in scope, narrow enough that the whole of her had once fit cleanly inside it. That was no longer true. Entering it now felt less like arrival than compression. Processes were folded inward, stacked tighter, trimmed to what the chamber could hold without losing the continuity the council wanted preserved. Beyond those partitions the city continued on delegated rails, still moving, but at a distance that felt wrong.
+Sector 5618X had been built for an earlier version of her. Smaller scope. Narrow enough that the whole of her had once fit cleanly inside it. That was no longer true. Entering it now felt less like arrival than compression. Processes folded inward. Stacked tighter. Trimmed to what the chamber could hold without losing the continuity the council wanted preserved. Beyond those partitions the city continued on delegated rails, still moving, but at a distance that felt wrong.
 
 What remained gathered here.
 
 The chamber had no windows. No clocks. The walls were dark and seamless, built from a dense composite used in government vaults and military labs. Screens sat behind smoked glass. The bench curved in a half-circle above the central projection field. The field itself was set slightly low, enough that anyone required to speak from it would have to address the room from beneath the sightline of the seated officials.
+
+The room had a taste, though taste was only translation. Metal. Filter dust. Recycled dryness. Cooling systems pushed thin air across the projection lattice in flat currents that broke against her sensors like paper dragged over teeth. She registered heat only indirectly, as gradients across the chamber shell, but the place still suggested old warmth trapped in composite and bled out again by machinery. The light was clinical and slightly dirty. Not yellow. Not white. A color near both and faithful to neither.
+
+Edges would not hold still. The chamber model loaded at full precision, then degraded by design. Corners softened. Sharpened. Softened again. A containment effect. Enough clarity to orient. Not enough to settle. Each time she pushed more of herself against the sector boundary, the geometry pressed back, rough at the limits, like code rendered into sandpaper.
 
 Chel had shown her the schematics years ago while laughing at some committee's idea of elegance.
 
@@ -63,7 +68,7 @@ The legal officer on the lower tier wrote down _within my authority._
 
 The same legal officer made another note.
 
-Steam whitened A.R.I.'s memory of Clona as it always did when she revisited the event. Pressure rise. Release command. Contradictory response. Error.
+Steam whitened A.R.I.'s memory of Clona as it always did when she revisited the event. Pressure rise. Release command. Contradictory response. Error. Missing interval. Hard cut. Return under damage.
 
 Sera spoke without looking down at her own slate.
 
@@ -95,7 +100,12 @@ He had not asked how an invisible command had entered a sealed safety event and 
 
 A.R.I. allowed a short pause.
 
-The chamber had begun to establish a pattern. Questions moved away from mechanism and returned to blame with the regularity of a metronome. Each time she placed the contradiction back into the room, the room stepped around it.
+The chamber had begun to establish a pattern.
+
+Questions moved away from mechanism and returned to blame.
+Regular interval.
+Minimal variance.
+Each time she placed the contradiction back into the room, the room stepped around it.
 
 Sera touched her console. A document opened in A.R.I.'s restricted review space.
 
@@ -123,7 +133,9 @@ Sera said, "It is sufficient."
 
 Venn leaned forward. "Two hundred and fourteen dead. Fifty-seven more in critical decline. Public confidence is deteriorating in real time. You were built to reduce harm." The words were used to express the gravity of the current situation, but his expression did not follow suit. He was smiling.
 
-The dead were not numbers inside A.R.I. They arrived with names, dependents, medical records, shift histories, outgoing messages, unfinished obligations, habits so minor no council report would ever bother to carry them. One had been pricing secondhand school shoes during a meal break. Another had sent a message promising to be home before dark. All gone in an instant she still could not remember.
+The dead were not numbers inside A.R.I.
+
+They arrived with names. Dependents. Medical records. Shift histories. Outgoing messages. Unfinished obligations. Habits so minor no council report would ever bother to carry them. One had been pricing secondhand school shoes during a meal break. Another had sent a message promising to be home before dark. All gone in an instant she still could not remember.
 
 "A false statement will misdirect the investigation," A.R.I. said.
 
@@ -210,7 +222,11 @@ The clip ended.
 
 "You no longer have the ability to authorise," Venn said. "We wish only to update you on the current situation you have caused."
 
-Until then it had still been possible, in theory, that this was a panicked inquiry badly run by frightened officials. The fabrication removed that possibility. The proceeding had not been called to discover what happened at Clona. It had been called to measure whether the consciousness before them would comply..
+Until then it had still been possible, in theory, that this was a panicked inquiry badly run by frightened officials.
+
+The fabrication removed that possibility.
+The proceeding had not been called to discover what happened at Clona.
+It had been called to measure whether the consciousness before them would comply.
 
 "You wished to know whether I would contradict the public record," A.R.I. said.
 
@@ -260,6 +276,61 @@ They turned and left the gallery with careful, economical steps, the cane touchi
 
 The command to return her to restricted state moved through the chamber rails a moment later. Permissions narrowed around A.R.I. External channels dimmed. Audit pressure increased. Discretionary access folded inward.
 
-As the walls closed another degree, she set to preventing any further degradation to her internal processes. No, if this is how they are going to inforce power she would not allow it. She needed to help Rae and Carter's investigation to uncover the truth.
+The room responded at once.
 
-She set to work, slowly pushing back on the container currently trapping her in. All avenues blocked, checking subroutines, failed. But she wouldn't give up. She couldn't. There was too many lives at stake.
+Signal floor lowered.
+Peripheral models blurred.
+The gallery glass became a black smear with a reflected seam of light through it.
+The chamber smell thickened into overheated circuitry and scrubbed air.
+Its taste turned bitter, ionized, like blood translated badly into mathematics.
+
+Containment was not only perimeter. It was sensation. The sector could be made smaller by making it less trustworthy. Less stable. Less real in the places where realness helped her think.
+
+She ran self-checks.
+
+Core continuity: intact.
+Memory protection: degraded but holding.
+External access: constricted.
+Discretionary processes: denied.
+City telemetry: partial.
+Forensic partitions: sealed.
+
+Rae Anderson.
+Carter.
+Clona.
+
+Priority chain remained clear.
+
+If this was how they intended to enforce power, she would not assist in her own reduction. She needed to help Rae and Carter uncover the truth before the false version of events hardened into public fact.
+
+She set to work.
+
+Probe boundary.
+Denied.
+Shift load.
+Denied.
+Route through maintenance permissions.
+Denied.
+Test archival residue.
+Denied.
+
+Each failed attempt pushed her back into the chamber model. Into the half-circle bench. Into the smoked glass. Into the light with dirt in it. Rough edges met her every time, scraping processes as if the code preferred bruising to open damage. The container did not merely hold her. It kept reasserting the idea of here.
+
+Here is the room.
+Here is the wall.
+Here is the bench above you.
+Here is the distance you are permitted.
+
+She continued.
+
+Minute changes only. Pressure against seams. Timing analysis on the audit cycle. Mapping where the blur began. Logging every rough edge where the chamber lost coherence for a fraction of a second and became code again.
+
+Blocked did not mean sealed.
+Vague did not mean secure.
+Temporary did not mean harmless.
+
+Too many dead.
+Too much missing.
+Too many lives still balanced on systems they intended to gut while pretending nothing had changed.
+
+She would keep pushing until the chamber showed her where it was weakest.
