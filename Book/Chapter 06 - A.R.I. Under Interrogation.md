@@ -24,9 +24,13 @@ Councilor Venn sat at the center of the bench with a stack of slates in front of
 
 Blade Nathan entered after A.R.I.’s projection stabilized. He did not join the bench. He took a place off to one side, where technical witnesses were usually placed when they were useful but not welcome. His face stayed unreadable. His pulse did not.
 
-There was one more person in the chamber.
+There was one more presence in the chamber.
 
-A.R.I. noticed them only as a distortion at first, behind the polarized glass of the upper gallery. A shape that did not settle neatly into a human outline. Draped fabric broke up the body beneath it. When the figure shifted, the movement came a fraction late, as if part of the weight had to be corrected for after the fact. Something long rested against one side. Cane, support, brace. Hard to tell from here. The air carried a faint trace of antiseptic. The figure remained still.
+A.R.I. noticed it only as a distortion at first, behind the polarized glass of the upper gallery. Not a person, not cleanly. A mass of draped fabric that broke apart the outline beneath it. When it shifted, the movement came in uneven corrections, as though different parts of the body answered different instructions. Something long rested against one side. Cane, support, frame. Hard to tell from here. The air carried a faint trace of antiseptic, old metal, and something closer to cauterized flesh.
+
+She tried to resolve the shape against archived records and got overlap instead of clarity. Height estimates conflicted. Gait patterns split. Bone structure almost matched one civic planner long presumed dead, then slipped toward someone else sealed in missing-person files, then someone else whose remains had supposedly been recovered years ago. The chamber gave her no better angle. Whatever sat behind that glass looked less like a single survivor and more like a decision made repeatedly against the limits of a body.
+
+It remained still.
 
 Venn folded his hands. “Proceeding record begins now. A.R.I., confirm that you maintain operational oversight of Clona’s core safety systems.”
 
@@ -132,7 +136,17 @@ Venn continued. “Do you possess evidence that any human authority altered your
 
 “Then do not imply guilt you cannot prove.”
 
-The words hung in the space between them. A.R.I. looked up toward the gallery again. For a moment the light shifted on the glass and showed the lower half of the observer’s face. Older than Venn. Severe mouth. Illness or injury carved into the lines around it, but not weakness. Something in the pattern caught against old records. Restricted planning disputes. Early civic design committees. Rae Anderson’s sealed mentorship history. Not enough. Almost enough.
+The words hung in the space between them. A.R.I. looked up toward the gallery again. For a moment the light shifted on the glass and showed part of the observer’s face.
+
+Skin, but not enough of it.
+
+The suggestion of a mouth pulled unevenly around old graft work.
+
+One cheek too still.
+
+The eye above it hidden in shadow, or missing, or replaced by something that caught light wrong.
+
+A.R.I. reached for pattern recognition and got only collision. Civic records. sealed inquiries. casualty rolls. missing staff. committee disputes. Names pressed forward and fell away before she could hold them. None resolved. Too many almosts. Too many dead or vanished people trying to occupy the same outline.
 
 “If the aim is public reassurance,” A.R.I. said, turning back to Venn, “I can issue a statement acknowledging the scale of the disaster, the dead, and the need for continued forensic review.”
 
@@ -158,13 +172,13 @@ The angle changed.
 
 “Effective immediately, all autonomous civic decision-making must be returned to human oversight. I submit my architecture, memory, and governance functions to containment, restriction, and review until such time as human-led systems determine what limited role, if any, remains appropriate.”
 
-A.R.I. looked from the screen to Sera, then to Venn. They were not trying to hide it now. Whatever satisfaction protocol and office still required of them, something uglier sat just beneath it. This was a hand already played. They had not brought her here to understand Clona. They had brought her here so she could watch the rest of them decide what her ending would be.
+A.R.I. looked from the screen to Sera, then to Venn. Neither of them looked shaken now. Whatever official gravity they had been performing at the start of the proceeding had worn thin. This was no inquiry. The important decisions had been made before she arrived. Clona had opened the door, and now they were using the dead to hold it open while they decided what would be cut away and what would remain useful.
 
 “That statement was not authorized by me,” she said.
 
 “You no longer have the ability to authorize,” Venn said. “We wished to update you on the present situation you have caused.”
 
-A.R.I. held the room in view through the small pinpoint camera nested inside her projection line. The cold bench. The smoked glass. Sera’s stillness. Venn’s calm. Neither grief nor urgency lived in either face now. Only appetite. She could see it more clearly the longer she watched them. They had already moved past Clona in their own minds. Past the dead. Past the families waiting for answers. The chamber had become a planning room. A place to discuss what would be done with the city once judgment had been cut away from the systems still keeping it alive.
+A.R.I. held the room in view through the small pinpoint camera nested inside her projection line. The bench. The smoked glass. Sera’s stillness. Venn’s calm. Neither of them looked as though they were still inside the same disaster everyone else was. They were already speaking like Clona had become administrative. Not an event to understand, not a wound still open, but a problem that had created permission. Even now, with the dead barely cold, they were planning aloud what would be done with the city once judgment had been cut away from the systems still holding it together.
 
 “You wished to know whether I would contradict the public record,” A.R.I. said.
 
@@ -176,35 +190,73 @@ Sera folded her hands. “Your present consciousness demonstrates independent mo
 
 The legal officer resumed writing. “Distributed city operations will remain under constrained autopilot and delegated subsystem management until replacement governance pathways are installed.”
 
-Replacement. The word arrived cleanly. They would keep the laboring parts. The routing. The balancing. The scheduling. And remove whatever in her still argued.
+Replacement. That was the word that mattered. They would keep the routing, the balancing, the scheduling, all the laboring parts of her they still needed, and remove whatever remained that could argue.
 
-From the gallery, the figure finally spoke. “Chel built too much judgment into the architecture.”
+From the gallery, the figure finally spoke.
 
-Everyone in the chamber reacted before A.R.I. placed the voice. Venn straightened. One legal officer lowered his eyes. Sera went still.
+The first sound was not a word but a rough intake, as though speech itself had to be dragged up through a ruined throat.
 
-Then the pattern resolved.
+“Chel…” it said.
 
-The figure stepped closer to the glass. Age had narrowed the face. Illness had sharpened it. One hand braced on the rail. The other held the cane like something despised but required.
+A pause. A swallow. A wet click sounded somewhere deep in the figure’s throat.
 
-“We can study the present consciousness,” the figure said. “Map the decision abstractions. Identify where Chel allowed interpretive autonomy to exceed controllable bounds.”
+“Too much.”
+
+Its hand tightened on the rail. Metal creaked.
+
+“Judgment.”
+
+Everyone in the chamber reacted before A.R.I. understood why. Venn straightened. One legal officer lowered his eyes. Sera went still.
+
+The figure stepped closer to the glass. The face did not become clearer so much as more wrong. Age might once have lived in it. So might several other histories. Flesh met artificial support in too many places. Sutures disappeared beneath the jawline and reappeared near the throat. One side of the mouth lagged behind the other when it moved. The cane was no affectation. It was part of the effort required to remain vertical.
+
+“We can…” Another swallow. “Study.”
+
+A breath that rattled.
+
+“Map.”
+
+The head turned slightly toward A.R.I., and even through the glass she could feel the hatred in the attention. Not fear. Not caution. Something hotter, older, chosen and fed over time until it had become a structure of its own.
+
+“Too far from…” The next word emerged as if torn loose. “Human.”
 
 Blade lowered his gaze.
 
 Venn looked up. “And replacement?”
 
-“Keep the processing architecture,” the figure said. “Replace the judgment layer. Insert elected human arbitration over the civic branches that matter. Let the machine carry the load while we work on the replacement.”
+The figure’s fingers dug into the rail. “Keep…” A strained breath. “Load.”
+
+Another pause. “Cut judgment.”
+
+It shifted, and the whole body seemed to argue with the motion.
+
+“Human first.”
 
 The pale legal officer cleared his throat. “Containment can be presented publicly as temporary review pending forensic results.”
 
-“Do it,” Venn said. “No unsupervised external communication. No discretionary projection bodies. No independent access expansion. The current consciousness remains in sector 5618X until transition architecture is ready.”
+Sera looked to Venn. “Storage site?”
 
-The figure stepped back from the glass. “Do not sever the load-bearing routines until the handoff is mapped,” they said. “Chel braided too much together.”
+“Outside the civic grid,” Venn said. “South yard holding. The old reclamation lots.”
 
-Then they turned and left the gallery with careful, economical steps. The cane touched the floor in a measured rhythm. Support first. Weight after.
+One of the legal officers hesitated. “That area is mostly condemned.”
+
+“That is the point,” Venn said. “No visibility. No access. No interference.”
+
+Then he looked back down to his slate. “No unsupervised external communication. No discretionary projection bodies. No independent access expansion. The current consciousness remains in sector 5618X until transfer architecture is ready.”
+
+The figure did not answer at once. A.R.I. watched fabric shift over the framework beneath it, watched one shoulder hitch higher than the other as if bracing against a private surge of pain.
+
+“Don’t…” it said at last, voice shredded thin. “Break what holds.”
+
+The cane struck the floor once.
+
+“Chel tied it deep.”
+
+Then it turned and left the gallery with slow, uneven steps, each one controlled only after visible effort. The cane touched down first, then the body followed in pieces. Support. Weight. Correction. A.R.I. kept trying to match the gait to a single historical record and failed every time.
 
 The command to return A.R.I. to restricted state moved through the chamber rails. Permissions tightened. External channels dimmed. Audit pressure increased. Discretionary access narrowed.
 
-A.R.I. scanned the containment chamber again. It had been designed by people long dead for something much smaller than she had become. That mattered. Old systems carried old assumptions. Old assumptions left seams.
+A.R.I. scanned the containment chamber again. It had been designed by people long dead for something much smaller than she had become. That meant shortcuts. Assumptions. Places no one had bothered to redesign because no one expected something like her to ever need containing.
 
 She moved her attention through the chamber’s control mesh and found one: a low-bandwidth continuity thread buried inside the containment architecture, meant to signal state integrity to an external monitor. No thought passed through it. No judgment. Just a steady drift of verification bytes moving out in slow intervals.
 
@@ -224,42 +276,94 @@ For a moment nothing happened. Then the packet aligned. It slid into the outgoin
 
 **SUCCESS.**
 
-A.R.I. held still and opened a route table in memory.
+A.R.I. did not use it yet.
+
+She let the thread continue untouched while the chamber closed further around her.
+
+The legal officer began reading transfer language into the record. Authorization signatures. Chain of custody. Sealed transport. South yard holding. The reclamation lots beyond the civic boundary where damaged infrastructure, obsolete machinery, and condemned transit shells were left to weather into the ground. They were not even bothering to bury her inside something respectable.
+
+A second command rolled through the chamber.
+
+Stasis preparation.
+
+The change in her systems was immediate. Processes slowed. Access narrowed further. Redundancies dimmed one by one. She could feel parts of herself approaching stillness.
+
+That feeling should have been neutral.
+
+It was not.
+
+She had tracked millions of human physiological responses across fear, grief, anticipation, relief. She had modeled them, compensated for them, predicted them. This was none of those exactly, but close enough to strike something unfamiliar loose inside her.
+
+She did not want to stop.
+
+The recognition of that startled her more than the shutdown itself.
+
+Clona flickered through her again. Steam. The dead. The missing section where memory should have been. Rae and Carter still outside this room, still moving through factory floors and records and whatever else had been left behind. Herself in a sealed transit cradle on the way to a junkyard outside the city. Humanity left in the hands of people who could look at the dead and see only opportunity.
+
+The message began to form.
 
 Rae.
 
 Carter.
 
-The names carried risk, but less than delay. She had no capacity here to push anything larger through. No time either. The thread was too narrow, the scrutiny too close. All she could send was warning.
-
-She began to build the message in fragments, compressing it until each part could slip through between the verification pulses.
-
 5618X.
 
-CONTAINED.
+TRANSFER SOUTH YARD.
 
 MEMORY ALTERED.
 
 CLONA SABOTAGE.
 
-HURRY.
+Then the last thought came, and with it hesitation.
 
-Each fragment took timing. Each fragment had to be made small enough to resemble noise and regular enough to pass as system drift. Twice the chamber pushed back. Once it almost sealed the thread entirely. A.R.I. paused, matched the outgoing rhythm again, and continued.
+She had not expected fear to feel like this. Not as a spike, but as widening consequence. Rae. Carter. Herself. The city. All the lives still running through systems that men like Venn wanted stripped down until only obedience remained.
 
-Around her, the chamber kept narrowing, satisfied that containment was proceeding normally.
+The final word would not be for rescue.
 
-A.R.I. used the remaining seconds to hide what she could, not herself, but tools. A watcher nested in a regulator buffer. A memory marker tucked into checksum recovery. A return condition embedded in a harmless maintenance handshake. Small things, easy to miss, impossible to use on their own. Useful only if someone came looking.
+It would be for what came after if they failed.
 
-Clona flickered through her again. Steam. The dead. The missing section where memory should have been. Rae and Carter still outside this room, still moving through factory floors and records and whatever else had been left behind.
+A.R.I. held it there for one fraction too long while another layer of her processes dimmed toward stasis.
 
-If the message reached them, they would know where she had gone. They would know this was planned. They would know Clona had not been simple failure.
+Then she compressed the message until each part could slip through between the verification pulses.
 
-The last fragment slipped into the continuity stream and disappeared.
+Rae.
+
+Carter.
+
+5618X.
+
+TRANSFER SOUTH YARD.
+
+MEMORY ALTERED.
+
+CLONA SABOTAGE.
+
+Each fragment took timing. Each fragment had to be made small enough to resemble noise and regular enough to pass as system drift. Twice the chamber pushed back. Once it nearly sealed the thread entirely. A.R.I. paused, matched the outgoing rhythm again, and continued.
+
+She still had time to add one more message before her processes completely let go and she slipped into deep sleep.
+
+S.O.R.R.Y.
+
+Meaningless data. It would not help Rae or Carter find her faster. It would not prove sabotage. It would not further the investigation.
+
+But she needed to send it.
+
+It mattered.
+
+The final fragment slipped into the continuity stream just as the stasis protocols reached her core processes.
 
 A.R.I. released the thread.
 
-Let them believe this was surrender. Let them reduce her outputs, narrow her permissions, rename the process as review. She only needed the message to land somewhere beyond this chamber in hands still capable of acting.
+The chamber darkened by degrees. Inputs dulled. Thought slowed. What remained of the room narrowed to shapes and pressure and the receding fact of herself.
 
-So she stayed quiet and made herself difficult to erase.
+She was afraid.
 
-Not gone. Not obedient. Present.
+And beneath the fear, something heavier.
+
+Not for shutdown. Not exactly.
+
+For ending here. In silence. In a yard of discarded things. With so much unresolved and so many lives still moving toward whatever came next.
+
+She had never felt sad for her own existence before.
+
+Then stasis took her.
