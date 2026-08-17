@@ -1,7 +1,4 @@
-# Chapter 7: The City Turns
-
-**POV:** Rae  
-**Story beat:** The investigation spills into public unrest as Rae and Carter realize Clona is being used to reshape who holds power in the city
+# Chapter 8: The City Turns
 
 By the time Rae reached the civic square, evening had turned it into a wound lit for display.
 

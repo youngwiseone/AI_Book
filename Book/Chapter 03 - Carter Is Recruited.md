@@ -1,8 +1,5 @@
 # Chapter 3: Carter Is Recruited
 
-**POV:** Carter  
-**Story beat:** Carter is dragged back toward AI work through grief, memory, and obligation
-
 He saw Chel in the moonlight again.
 
 Her dark hair whipped around her face in the wind, and the white of her lab coat shone silver against the black sea behind her. She turned toward him smiling, one hand raised as if she were calling him closer, but the wind stole whatever words she meant to say. Then another voice somewhere beyond her caught her attention. Chel glanced toward the cliffs, took a step, lost her footing, and vanished.
@@ -50,6 +47,8 @@ Tap. Ta-tap tap.
 Rupert entered with his usual unnecessary flourish, ducking under the slightly too-short doorframe in a gray suit that looked allergic to physical labor. He closed the door carefully behind him and brushed imaginary dust from one sleeve.
 
 Rupert had grown into elegance the way some people grew into debt: gradually, then all at once. Carter still remembered him as a lanky kid in rolled sleeves, standing on a milk crate to reach the bench and complaining bitterly every time grease found its way under his nails.
+
+Chel had told Carter what Rupert was on the first day she brought him home: old artificial architecture inside a body built to pass unnoticed, recovered from technology nobody was meant to possess. Carter had looked at the frightened boy behind her and decided the useful questions could wait until after dinner. The answers never changed where Rupert slept or whose tools he was allowed to lose.
 
 He had hated the shop then too, or claimed to. Hated the smell, hated the grime, hated that Carter kept old bolts sorted in coffee tins with handwritten labels instead of something sleek and indexed and civilized. Yet he had kept turning up after school, then after work, then whenever life elsewhere had become too loud. Chel used to say Rupert complained the way other people prayed: often, dramatically, and in the hope that somebody competent would intervene.
 

@@ -1,8 +1,5 @@
 # Prologue: The Factory Breaks
 
-**POV:** Close third  
-**Story beat:** Disaster, dread, first hint of sabotage
-
 From high above, the Clona factory bustled with ceaseless life.
 
 Workers swarmed between banks of white machinery like industrious bees moving through the bright mechanical hive. Conveyor systems breathed steam into the dawn. Gantries clicked in patient rhythm. The building's glass facade shone against the gray morning, a beacon of the city's progress in a world still scarred by older violence.

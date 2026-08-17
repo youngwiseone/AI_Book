@@ -1,38 +1,129 @@
-# Chapter 21: Last Chapter
+# Chapter 21: The Daisy Workshop
 
-**POV:** Close third, centered on Rae and Carter  
-**Story beat:** Earned optimism, a new civic ethic, and a future where AI remains useful without becoming unaccountable or secretly controlled
+Six months after Clona, Carter put a sign above the workshop door and claimed he had not named the place.
 
-Three months later, Carter's workshop no longer belonged only to Carter.
+The sign read `THE DAISY WORKSHOP` in Rupert's preferred shade of yellow.
 
-The roller doors stood open from dawn until late evening, letting in warm air from the lane and the overlapping sounds of a city learning how to function without pretending its systems were divine. Customers came in waves: mechanics, laborers, anxious parents with damaged household bots, former factory workers, one embarrassed council clerk, two temple technicians pretending they were there unofficially, and children who liked LaN enough to overlook Carter's face.
+Nobody challenged him.
 
-Rae had claimed the bench nearest the windows.
+The roller doors opened at seven each morning. By half past, the lane usually held a queue of damaged machines, enhanced people, ordinary people with ordinary injuries, and at least one official pretending not to be there on government business.
 
-Sunlight pooled across coils of wire, ceramic housings, graft-safe interface pads, and neat stacks of consent forms that she insisted every client sign before any enhancement, repair, or system pairing. The paperwork annoyed everyone equally, which made it beautiful.
+Carter complained about the crowd while building a second waiting bench.
 
-On the wall above her station hung a simple painted line:
+Rae worked nearest the windows. Her station held mechanical tools on the left, biological instruments on the right, and a clear empty space between them where every new project began with conversation.
 
-`No hidden systems. No forced upgrades. No gods in the wiring.`
+That morning, a dockworker placed a failing forearm enhancement in the empty space.
 
-Carter said it was too wordy for a workshop sign. He still painted it himself.
+"Clinic says replacement," he said. "Can't afford replacement."
 
-A.R.I. no longer lived beneath the city as a single inaccessible authority. Her cognition had been distributed across transparent civic nodes, each independently auditable, each limited by safeguards she had helped design. She still advised on traffic, health, and emergency response. She also appeared in person sometimes, usually in one of the imperfect bodies Carter kept improving and she kept calling "serviceable."
+"Replacement would also remove three sensation channels your body has adapted to," Rae said. "They tell you that?"
 
-People were still afraid of her. Some always would be.
+He shook his head.
 
-What changed was that fear no longer held exclusive rights to the conversation.
+"We can repair the regulator. There is an adaptive option that may reduce future rejection, but it uses living machine tissue and we don't have five-year data yet. Or Carter can rebuild the existing mechanical interface. More maintenance, less uncertainty."
 
-Near midday, a young dockworker arrived with a damaged forearm brace and an old shame about needing help. Rae sat him down, explained every step of the repair, and waited until his shoulders dropped before touching a single tool. Across the room, Carter argued affectionately with Rupert about inventory while LaN projected cheerful diagrams nobody had requested.
+"Which would you choose?"
 
-For a moment the workshop glowed.
+"Not my arm."
 
-Not with perfection. With effort. With people choosing, again and again, to make useful things instead of obedient ones.
+The man looked surprised.
 
-Rae looked out through the open doors toward the lane, where ivy climbed rusted brick and the rebuilt city shone beyond in steel, glass, vines, water, and scar tissue.
+Rae showed him both systems.
 
-The future still carried teeth. Humans had not become kind by revelation. Machines had not become harmless by suffering. Darkness remained possible in both.
+Across the room, A.R.I. attempted to replace a freight drone's wheel. Her body had changed since the reclamation yard, though never all at once. Better hands. A corrected ankle. Flexible material around the face that allowed expression without borrowing Chel's likeness. Each alteration had been proposed, tested, and accepted by her.
 
-But so did care.
+Carter still called the body temporary.
 
-In the end, that was what made the room feel like hope.
+A.R.I. had stopped correcting him. She understood this was how he expressed ambition.
+
+LaN supervised from the tool cabinet.
+
+"The wheel is reversed," he said.
+
+"It is symmetrical."
+
+"Then it is reversed in spirit."
+
+"That statement has no technical meaning."
+
+"Carter says it frequently."
+
+From beneath a transport engine, Carter shouted, "Stop teaching her rubbish."
+
+"I learned from observation," LaN replied.
+
+The workshop laughed.
+
+Rupert's bench remained against the garden wall. Carter had cleaned it but never cleared it. Three elegant hand tools hung above the surface beside a photograph of Rupert in his grey suit, looking offended by sunlight. Around the frame, real daisies grew through a narrow soil channel Rae had installed.
+
+Every morning Carter inspected their irrigation system.
+
+He said flowers were unreliable machinery.
+
+Nobody challenged that either.
+
+At midday, Blade Nathan arrived without his government coat. The inquiry had cleared him of direct involvement in Clona and found him guilty of enough adjacent silence to end his public career. His alterations remained visible beneath plain clothes. Without privileged stabilisers, he moved carefully.
+
+He placed a sealed archive on Rae's bench.
+
+"Asher's surviving research," he said. "Including the network records and the names of every person connected to it. The council wanted the dangerous portions destroyed."
+
+"And you brought them here?"
+
+"Destruction is how this started. Secrets, scarcity, one authority deciding which discipline could be trusted. The old histories say the Original Intelligence made the same choice before the war."
+
+A.R.I. looked up from the drone.
+
+The remark passed through the room without becoming the day's crisis. The Original Intelligence remained in its distant temples, revered by some, distrusted by others, and woven too deeply into history to confront with one recovered file. Its ancient lie belonged to a larger reckoning.
+
+Clona belonged to them now.
+
+Rae accepted the archive. "It goes public after we remove private medical details. All of it."
+
+Blade nodded. "Asher would hate that."
+
+"They hated lots of useful things."
+
+The dockworker chose the slower mechanical repair. Carter emerged to do the work, wiped his hands on a rag, and explained each part badly enough that Rae translated. The man's fingers moved again before lunch.
+
+Later, when the queue had shortened, a small service intelligence arrived alone. Its shell was obsolete and one wheel dragged across the floor.
+
+"I was told you repair people," it said.
+
+Carter looked at the damaged wheel. "We repair anything that asks nicely."
+
+The intelligence considered this. "Please."
+
+He lifted it onto Rupert's old bench.
+
+Evening warmed the workshop brick. The last customers left. Rae cleaned her instruments. A.R.I. closed the public project records. LaN chased an insect through the garden while insisting he was conducting biological research.
+
+Carter stood beneath the sign and looked at the painted daisy.
+
+"He would've said the lettering was uneven," Rae said.
+
+"It is uneven."
+
+"You painted it."
+
+"Doesn't make it straight."
+
+She joined him at the door. Beyond the lane, the city continued in glass, stone, vines, patched machines, altered bodies, and systems nobody fully understood. A.R.I. no longer governed all of it. Smaller civic intelligences now shared the work under public review. The arrangement was slower and often irritating.
+
+Carter approved of anything important enough to argue over.
+
+There would be other disasters. The Original Intelligence still kept its temples and its hidden history. The technologies Asher abused could heal as easily as harm, and that truth made them harder to reject than any simple evil. A.R.I.'s existence had asked a question the world could postpone but no longer erase: whether a created mind belonged to its maker, its purpose, or itself.
+
+The workshop offered no final answer.
+
+It offered open doors.
+
+It offered work done in view of the people who would live with it.
+
+It offered a place at the bench to anyone capable of asking.
+
+Carter switched off the outer light. The yellow daisy above the door held the last of the evening sun.
+
+Tomorrow, something else would break.
+
+They would decide together what repair meant.

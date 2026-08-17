@@ -1,8 +1,5 @@
 # Chapter 1: A.R.I. Receives the Fault
 
-**POV:** A.R.I.  
-**Story beat:** A.R.I. is blamed and realizes her memory contains a missing shard
-
 A.R.I. sat in her vast control room, monitoring the city through a thousand courteous windows.
 
 Traffic density over the eastern bridges. Water purity in District Six. Air filtration loads in the underground labor tunnels. A birth in the western clinics. Two kitchen fires prevented before they formed. The work was endless, but it had always felt orderly. Meaningful. The kind of burden she had been built to hold.

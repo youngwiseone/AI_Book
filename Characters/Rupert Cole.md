@@ -44,5 +44,5 @@ Notes:
 
 Rupert's flamboyant nature and playful teasing of Carter add a lightness to the story, which can be quite serious at times.
 
-I just realised with my change to the story Rupert could be a hidden old tech AI that Chel saved while she was digging through tech to create A.R.I. and he is so hidden that even the Original AI does not notice he is artificial and he moves up the Religious ranks covertly trying to control it from the inside to make more sense of the world. He knows that he is an AI but has never told Carter as Carter’s family has had the negative relationship with other AI’s/Old humans found on the outer edges before they lived in the main city.
+Rupert is an old-tech AI that Chel saved while recovering technology used to create A.R.I. Rupert has always known he is an AI, and Carter knows too. Carter nevertheless raised and loves Rupert as a son. Carter's resentment of AI comes partly from how Chel's work consumed the time they had together; it is not ignorance of Rupert's nature. This contradiction wounds Rupert because Carter can love one AI as family while speaking dismissively about AI in general. Rupert is sufficiently well hidden that the Original AI does not notice he is artificial, allowing him to move through the religious hierarchy and quietly investigate it from within.
 

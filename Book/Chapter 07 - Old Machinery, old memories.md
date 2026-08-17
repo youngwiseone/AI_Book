@@ -1,8 +1,5 @@
 # Chapter 7: Old Machinery, Old Memories
 
-**POV:** Carter  
-**Story beat:** Carter and Rupert read the political shape hardening around Clona, recover an old secure line, and Carter heads back out to meet Rae
-
 It took Carter far too long to escape the Hive.
 
 After Blade forced the Clona access through, the place answered with the slow malice of institutions that resented urgency. One door sealed and another opened. A security clerk wanted confirmation of authorizations already confirmed twice. Two aides in dark coats tried to reroute him through a public exit for "orderly processing," as if the dead at Clona would feel better served by proper corridor etiquette. Everywhere he turned, pale composite walls and smoked glass reflected back his slow progress out.

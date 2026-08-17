@@ -1,8 +1,5 @@
 # Chapter 4: Into the Hive
 
-**POV:** Rae  
-**Story beat:** Rae descends into A.R.I.'s domain and finds the first real contradiction
-
 The elevator ride down to A.R.I. was slow enough to become its own kind of pressure.
 
 Rae stood with one shoulder against the mirrored wall and watched the level numbers slide past in silent increments. Blade Nathan occupied the space opposite her, large enough that the lift felt smaller for containing him. In close quarters his body looked even less comfortable inside itself than it had in the office above. The seams of modification showed where his collar shifted with each breath. The hand resting at his side ended in dark hooked talons that clicked once, softly, against his own leg when the elevator jolted.

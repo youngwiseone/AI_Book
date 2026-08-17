@@ -1,3 +1,7 @@
+## Superseded Planning Notes
+
+> This file predates the August 2026 reconstruction and is not current canon. Use `rules.md`, the present `Book/` chapters, and the `Book/old/` source chapters instead. In particular: Rupert and Carter have always known Rupert is an AI; Rupert dies in the cafe after removing the tracker; the Original AI is background lore rather than the Clona antagonist; and Asher's shared enhancer/machine control network drives this book's climax.
+
 ## AI Suggestions: 22-Chapter Draft Roadmap + Next Steps
 
 ### Current status

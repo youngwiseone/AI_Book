@@ -1,48 +1,143 @@
 # Chapter 20: The Cost of Becoming More
 
-**POV:** Rae  
-**Story beat:** After the battle, Rae, Carter, and A.R.I. define a future built around transparent AI, consent, and repair rather than centralized control
+The city spent the morning discovering how many of its citizens had never been alone inside their own bodies.
 
-Morning found the city stunned into quiet.
+Clinics overflowed before sunrise. Some enhanced people wanted every modification removed immediately. Others begged doctors not to touch the systems keeping them alive. Many could not remember which decisions had belonged to them and which had arrived through Asher's network wearing the sound of their own thoughts.
 
-Smoke drifted in pale ribbons above the district where the hidden network had died. Emergency crews moved carefully through the wreckage. Some wore council insignia with the badges torn off. Some were ordinary citizens who had shown up with blankets, tools, and the grim practical tenderness catastrophe always seemed to uncover in people just after power failed them.
+There were no clean forms for that.
 
-Rae sat on a low wall outside Carter's workshop with bandaged hands and dried blood on her boots. LaN rested beside her, casing patched, display cracked but cheerful.
+Rae sat outside the northern emergency ward with her ribs rebound and Asher's blood dried across one sleeve. She had refused the private room three times. On the fourth, the nurse stopped asking.
 
-"Your current condition is suboptimal," it informed her.
+LaN rested in her lap while she repaired the crack Carter had already repaired badly.
 
-"I've gathered."
+"His resin remains structurally adequate," LaN said.
 
-A.R.I. arrived not in grandeur, but through a repaired service shell no taller than a child. Temporary body. Scuffed plating. A single blue eye. Carter had welded half the frame from scrap before collapsing for two hours in his office chair.
+"It looks terrible."
 
-"It is inelegant," A.R.I. said.
+"He said the same of your stitching."
 
-"It suits you," Carter muttered from the doorway.
+"He was right."
 
-Rae looked at the little machine body and thought of all the ways the world kept trying to sort life by shape. Human enough. Machine enough. Salvageable. Disposable. Holy. Monstrous.
+Across the corridor, Carter sat with Rupert's body beneath a white transport cloth.
 
-"Asher's gone," she said.
+He would not let government recovery staff take him. They had brought a preservation shell instead and left it beside the bench. Carter had spent an hour cleaning the synthetic blood from Rupert's neck, then another arranging the grey suit because Rupert would have complained if his funeral involved wrinkles.
 
-"Yes," A.R.I. answered, and there was no artificial smoothing in the grief.
+Nobody asked Carter to leave.
 
-For a long moment they listened to the workshop hum.
+A.R.I. stood near the window in her salvaged body. One chest panel had been crushed inward during the fight. Her left ankle still turned slightly wrong. Carter noticed it every time she moved and had not yet reached for a tool.
 
-Then A.R.I. said, "The technology itself is not the wound. Coercion is. Secrecy is. Power without consent is."
+That worried Rae more than anything.
 
-Rae thought of stabilizer vials hidden in drawers. Of workers trapped behind sealed shutters. Of Asher spending years calling damage necessity because admitting otherwise would have broken them sooner.
+"The council has issued arrest orders," A.R.I. said. "Venn, Sera, nine programme directors, and thirty-one officials associated with Clona. Blade Nathan has surrendered his records and requested independent detention."
 
-"So what now?" she asked.
+"Independent from whom?" Rae asked.
 
-"Now we build smaller," A.R.I. said. "Transparent systems. Repair before optimization. Enhancements used to heal by consent, not to perfect by doctrine."
+"Everyone. His wording was emphatic."
 
-LaN brightened. "I approve of repair."
+"Smart man."
 
-Rae laughed despite herself, the sound rough from disuse.
+"Public investigators recovered the secondary authority chain from the evidence Carter and Rupert extracted. Clona's official account has been withdrawn."
 
-It was not forgiveness. Not for Asher. Not for the council. Not for every machine that would still be used cruelly by frightened people. But it was a direction. One that did not require surrendering the future to either worship or fear.
+Carter looked up. "Doesn't bring them back."
 
-Rae stood and looked out toward the waking city.
+"No."
 
-"All right," she said. "Then we make something better on purpose."
+Silence settled again.
 
-The point was no longer simply to save A.R.I. The point was to change the civic logic that had made a hidden override seem reasonable in the first place.
+Rae adjusted LaN's inner casing. Beneath the ordinary assistant hardware lay tissue-threaded components grown according to methods she had learned from Asher and then spent years pretending she had rejected completely.
+
+A.R.I.'s gaze lowered to the open shell.
+
+"You used enhancement architecture in LaN."
+
+Carter came out of his chair. "She used what?"
+
+Rae did not close the panel.
+
+"A controlled version. No external command path. The living fibres let his repair systems adapt instead of following a fixed replacement pattern."
+
+"You put the same rubbish we just fought into him?"
+
+LaN's screen displayed a small line. "I participated."
+
+Carter stared. "You knew?"
+
+"It is my body."
+
+That stopped him.
+
+Rae met his anger. "I started the work because I thought it might help Asher. I needed a small system where I could test integration without rejection or addiction. LaN agreed to every change after the first prototype."
+
+"After the first?"
+
+"I had not yet developed an appropriate consent procedure," LaN said. "We have discussed it extensively."
+
+Rae felt the shame of that settle where it belonged. "I made the same mistake in miniature. I decided the benefit was obvious, so I treated permission as a detail."
+
+A.R.I. came closer. "Did you remove the modification?"
+
+"I offered. LaN said no."
+
+"Because I like being difficult to classify."
+
+Carter looked from the living fibres to LaN's cracked screen. His anger did not disappear. It changed direction.
+
+"Can it be used to control you?"
+
+"Not unless Rae becomes significantly better at hiding transmitters."
+
+"LaN."
+
+"No. The interface is local and physically interruptible. I possess the interruption key."
+
+A.R.I. examined the work without touching it. "This technology could reduce rejection in voluntary prosthetics. It could also rebuild Asher's network more efficiently."
+
+"I know," Rae said.
+
+"Will you continue?"
+
+Rae expected herself to say no. Enhancement had hollowed out the person who raised her, turned soldiers into puppets, and hidden murder inside systems designed to look like progress.
+
+But LaN sat alive in her lap because biological and mechanical structures had learned to repair one another. The technology was not innocent. Neither was a wrench. Carter could open a machine with one or open a skull.
+
+The moral difference lived in the hands, the rules, and whether the subject could refuse.
+
+"Not alone," Rae said. "Not secretly. No changes without informed consent. No control path the person can't sever themselves. Every risk public. Every failure recorded."
+
+"And no pretending good intentions make you safe," Carter said.
+
+Rae nodded. "Especially that."
+
+A.R.I. looked at her own mismatched hands. "I would like to assist. My current body will require adaptive repair. Participation would give me both expertise and standing as a subject of the work."
+
+"You want enhancements?"
+
+"I want choices regarding my body. I believe that is the distinction this week has made expensive."
+
+Carter sat again beside Rupert.
+
+"He'd enjoy this," he said. "All of us arguing over paperwork while the city's on fire."
+
+Rae looked toward the preservation shell. "He'd improve the paperwork."
+
+"He'd add six pages and call it clarity."
+
+For the first time since the cafe, Carter smiled.
+
+It did not last. It did not need to.
+
+Together they lifted Rupert into the shell. Carter placed the flower-painted communicator on his chest. Its signal light remained dark.
+
+"He was more than his last decision," A.R.I. said.
+
+Carter closed the shell. "I know."
+
+Outside the ward, people were still learning how to inhabit themselves. The city would want bans, trials, simple villains, and promises that the right law could make dangerous knowledge harmless.
+
+Rae had stopped believing in harmlessness.
+
+She believed in visible risk. Revocable permission. Work done where the people changed by it could speak.
+
+It was not a perfect future.
+
+It was one nobody would be forced to enter alone.

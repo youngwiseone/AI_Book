@@ -1,50 +1,119 @@
 # Chapter 12: The Thing in the Dark
 
-**POV:** Rae  
-**Story beat:** Rae is attacked by the human cost of the hidden override system and sees what coercive enhancement really produces
+Rae knew she had found something important when the factory tried to take LaN from her.
 
-Rae knew she was being followed before she heard the breathing.
+One moment he hovered beside the opened control rack, projecting the hidden alignment marks over its burned housing. The next, a hand closed around his body and pulled him into the dark.
 
-The service corridor behind Clona narrowed toward the underworks, all wet stone, old pipes, and flickering maintenance strips that painted everything in surgical green. LaN hovered close enough to brush her shoulder.
+His screen flashed red.
 
-"Movement behind," it whispered.
+"Rae—"
 
-"I know."
+The light vanished.
 
-The sound came again. Not footsteps. Weight dragging across concrete between deliberate bursts of speed.
+She dropped the relay she had been examining and drew her taser. The service room seemed to grow larger without LaN's glow. Broken machinery crowded the walls. Water struck hot metal somewhere beyond the doorway, each drop answering with a small angry hiss.
 
-Rae turned at the junction and saw it.
+"LaN?"
 
-At first her mind tried to sort the figure into categories it understood: human, animal, machine, wounded soldier, industrial borg. It failed. The thing wore the architecture of a person but none of the mercy. Too many joints. Skin like stretched scar tissue over reinforced muscle. One shoulder plated in dark organic armor. Its eyes were lucid, which made it worse.
+Something breathed behind the dead assembly line.
 
-"You shouldn't be here," it rasped.
+It came forward slowly, perhaps because it wanted her to see it.
 
-Then it charged.
+The figure had once been built on a human plan. The plan had not survived improvement. Its right arm hung almost to the floor, thickened with braided muscle and dark plates grown directly through the skin. A second elbow folded against its ribs. Metal struts entered at the spine and reappeared along the neck. One side of its face was human enough to show pain. The other had been rebuilt around a jaw that did not fit.
 
-Rae fired twice. One round disappeared into plated flesh. The other shattered a pipe above them, flooding the corridor with white steam. LaN flashed a strobe burst into the creature's face and screamed a warning tone so shrill Rae felt it in her teeth.
+LaN was clenched in its long hand.
 
-The creature hit her hard enough to drive the air from her lungs. She went down against the wall, knife in hand, and for one terrible second smelled the same chemical sweetness that had hung around Asher's injections for years.
+"Put him down," Rae said.
 
-Stabilizer.
+The creature tilted its head. A government insignia had been burned into the harness across its chest, the mark half-removed but still readable. Beneath it sat a line of surgical notation.
 
-Not random, then. Not a beast from the underground.
+Asher's notation.
 
-An enhancer kept alive past every sane boundary. Not a side effect of the conspiracy. One of its products.
+Rae knew the compact slant, the hard downstroke at the end of every sequence. She had copied it in training rooms until her hand cramped. Asher had once corrected her grip by placing their fingers over hers.
 
-She drove the knife into the soft seam under its plated arm. The creature shrieked, not in rage but in pain so human it made her hesitate. That hesitation nearly killed her.
+The creature squeezed.
 
-A shock baton cracked across the creature's spine from the darkness beyond. Blade Nathan stepped into the corridor, breath ragged, his own altered body moving like something held together by discipline alone.
+LaN's casing cracked.
 
-"Run," he told Rae. "They're already erasing the evidence."
+Rae fired.
 
-The creature retreated on all fours into the steam, leaving blood that smoked where it hit the floor.
+The taser prongs struck its chest. Current snapped across wet skin and metal supports. The creature convulsed, but did not fall. It threw LaN aside and charged.
 
-Rae did not run immediately. She looked at Blade, at the tremor in his hand, at the ruined place where principle and survival had clearly been fighting inside him for years.
+Rae moved left. The long arm broke the control rack where she had been standing. She drove the heel of her hand into the human side of its jaw, felt bone shift, and ducked beneath the return swing.
 
-"Who is that thing?"
+Too fast.
 
-Blade's answer came like a confession he had delayed too long.
+Not naturally fast. The creature's muscles committed before its balance caught up. Asher had taught her what that meant.
 
-"What happens when the government stops caring whether its miracles can come home."
+*Power always tells you where it is going. Let it arrive without you.*
 
-Rae understood then that the argument had flesh on it now. The same people who wanted A.R.I. intelligent enough to run a city but obedient enough to overrule had wanted enhanced bodies strong enough to win wars but compliant enough to discard. Different technologies. Same doctrine. Same contempt for consent.
+She stepped inside the next strike. Her baton found the graft seam beneath its arm. The creature screamed.
+
+The sound stopped her.
+
+It was not an animal sound. There was a word inside it.
+
+"Please."
+
+Rae saw the eyes clearly then. Lucid. Terrified. The person inside the modifications knew exactly what the body was doing.
+
+Her hesitation cost her.
+
+The back of its hand caught her across the shoulder and threw her into a pillar. Pain flashed white along her ribs. She hit the floor, lost the baton, and rolled as a plated fist cratered concrete beside her head.
+
+LaN dragged himself through the debris. Two of his limbs no longer worked. His screen flickered, but a thin scanning line crossed the creature.
+
+"Control implant," he said. "Upper spine. External signal active."
+
+Rae forced air into her lungs. "Can you interrupt it?"
+
+"Attempting."
+
+The creature seized her coat and lifted her from the ground.
+
+Up close, she smelled stabiliser. The same sweetness that lived in Asher's house, their office, sometimes their clothes. The same drug that bought an enhanced body one more hour at the cost of needing the next.
+
+"Who did this to you?" she asked.
+
+Its human eye filled.
+
+The other arm drew back.
+
+LaN emitted a burst of interference. The control implant sparked. For half a second the creature's grip loosened and its face became entirely its own.
+
+"Run," it whispered.
+
+Then the outside signal returned.
+
+Rae tore free, leaving half her coat in its hand. She ran between the machine rows while the creature came after her in crashing bursts. Each impact shook loose more of the already damaged ceiling. Dust fell in pale sheets. Somewhere ahead, beyond two walls of dead equipment, Carter shouted her name through the old communicator.
+
+"South machine hall," she gasped. "Not alone."
+
+Static swallowed his answer.
+
+The creature landed in front of her.
+
+It had gone over the assembly line instead of around it.
+
+Rae backed toward the outer wall. Her right arm would not lift properly. The taser was gone. One small blade remained in her boot, useless against the plated chest but perhaps enough for the implant seam if she could get behind it.
+
+The creature advanced. Its movements stuttered now as LaN continued attacking the signal. Human intention fought the commands in visible jerks.
+
+"I am sorry," Rae said.
+
+She did not know whether she meant for the creature, for LaN, or for the mentor whose handwriting had turned a person into this.
+
+It lunged.
+
+Rae dropped low, drove the blade upward, and missed the seam by the width of her thumb. The creature caught her across the temple.
+
+The room tipped.
+
+She heard LaN call her name. Heard metal strike metal somewhere close. Then a terrible groan moved through the ceiling.
+
+As her sight narrowed, Rae saw Carter on the far gantry with both hands around a length of steel. He looked at the supports above the creature, looked at her, and made a calculation no safety inspector would have approved.
+
+"Move!" he shouted.
+
+Rae tried.
+
+The ceiling came down first.

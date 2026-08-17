@@ -1,8 +1,5 @@
 # Chapter 5: Coffee, Doubt, and Rupert
 
-**POV:** Carter  
-**Story beat:** Carter steps into the public side of the investigation and finally reaches A.R.I.'s chamber
-
 Morning came cold enough to make Carter resent the existence of weather. Having less sleep the night before did not help with the drab day.
 
 He pulled his denim jacket tighter around himself and hunched his shoulders as he walked down the gusty alley toward the station, one hand jammed into a pocket, the other wrapped around a hot pastry in thin paper. The thing was full of spiced vegetables and synthetic cheese that stuck to the roof of his mouth, but it was hot and cheap and from the stall outside the platform, which made it respectable.

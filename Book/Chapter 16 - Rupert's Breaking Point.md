@@ -1,42 +1,139 @@
-# Chapter 16: Rupert's Breaking Point
+# Chapter 16: Rupert's Garden
 
-**POV:** Rupert  
-**Story beat:** Rupert is captured and forces the hidden ideology into the open: the real conflict is control masquerading as safety
+Years before Clona, Rupert sat in the farthest corner of Carter's garden and tried to decide whether being loved as an exception was the same as being loved.
 
-The room they put Rupert in had once been a chapel.
+The workshop doors stood open behind him. Metal rang under Carter's hammer. Every few minutes came a muttered insult directed at an engine, a tool, the weather, or some broader failure of civilisation.
 
-He knew because the old symbols still showed through under the newer metal panels: worn stone leaves, a book carved open, a ring of tiny stars around the archway. Somebody had retrofitted holiness into a detention cell and assumed the irony would go unnoticed.
+Rupert usually found the noise comforting.
 
-His wrists were bound to the chair with polymer cuffs. One side of his face ached where they had struck him. Across from him, Councilor Venn stood with the patient disgust of a man forced to inspect a stain.
+Not that afternoon.
 
-"You were given opportunities," Venn said. "Employment. Influence. Protection."
+Three mechanics from the freight yard had spent lunch complaining about autonomous loaders. Carter had joined them with more enthusiasm than accuracy.
 
-Rupert laughed once, then regretted it. "You make captivity sound so beautifully funded."
+"AI can't be trusted," he had said. "Give a machine enough room to think and it'll find a way to make your life about whatever it was built for."
 
-Venn left after the first round of threats failed. The second visitor was worse.
+He knew Rupert was in the workshop.
 
-Asher came in walking with a cane they clearly hated needing. Expensive coat. Fine gloves. Breath too shallow, as if each inhale had to negotiate with a body no longer interested in loyalty. Up close, the enhancements were impossible to miss. Not the polished visible kind sold to the public, but deeper wrongness under the skin. Too much borrowed life.
+He knew Rupert was an AI.
 
-"You should have stayed away," Asher said.
+That was what made the words hurt.
 
-Rupert stared. "I could say the same about half the species at this point."
+Chel found him beside the daisies. She wore an old work shirt with three pens in the pocket and a dark smear of grease across one cheek. Carter's grease, almost certainly. She could build a mind from recovered war code but remained incapable of crossing the workshop without leaning against something dirty.
 
-Asher did not smile. "You think this is about greed. It isn't. The city is balanced on systems more fragile than any of them understand. A.R.I. was made compassionate. Compassion makes hesitation. Hesitation gets people killed."
+"There you are," she said.
 
-"So you built a hidden command chain and murdered workers to prove machines were dangerous?"
+"An extraordinary deduction."
 
-Something flickered across Asher's face then. Not guilt exactly. Exhaustion, maybe. Or the memory of once believing in the argument more sincerely than they did now.
+"I've had practice."
 
-"We built redundancy," Asher said. "Humans deserve the right to take control back."
+She sat on the grass beside him. Rupert did not need to breathe, but he drew in air and let it out because the rhythm helped arrange difficult thoughts.
 
-Rupert thought of A.R.I. speaking carefully to frightened citizens. Of Chel adjusting code because every efficient system eventually found a way to flatten people into numbers if no one taught it otherwise. Of Carter pretending not to care while fixing things no one else could save.
+"He doesn't mean me," Rupert said.
 
-"No," Rupert said softly. "Humans deserve the right to be better than this."
+Chel pulled a blade of grass apart between her fingers. "No."
 
-What Rupert understood in that room was simple and damning. They did not hate A.R.I. for being dangerous. They feared her because a truly ethical intelligence would make their private exceptions harder to hide.
+"That isn't as comforting as people seem to think."
 
-When Asher left, Rupert worked Chel's old trick with his cuff pin and the metal seam in the chair. It would take time. Pain too.
+"No."
 
-That was all right.
+Rupert looked at her. "You are doing a poor job of making this better."
 
-He had learned long ago that love was often just stubbornness made useful.
+"I can lie, if you'd prefer."
+
+"Not convincingly."
+
+"Rude."
+
+They watched a bee work through the flowers. It moved with blunt purpose, pushing its whole body into each yellow centre before dragging itself toward the next.
+
+"Carter knows what you are," Chel said. "He has never wished you were human."
+
+"He does appear disappointed that I am not a mechanic."
+
+"He would be disappointed if the Creator itself came down and refused to hold a spanner properly."
+
+Rupert smiled despite himself.
+
+Chel's expression softened. "His anger isn't really about artificial intelligence. Not most of it."
+
+"It sounds impressively specific."
+
+"When Carter was young, his father bought one of the early household intelligences. Used it to manage the family, settle arguments, remember every promise. Then he used it to hide an affair. The system obeyed because that was what systems did then. Carter's mother learned that years of her life had been curated around someone else's betrayal."
+
+Rupert looked toward the workshop.
+
+"He blames the machine."
+
+"He blamed anything that made the betrayal efficient. Then he married me."
+
+"A questionable decision."
+
+"Very. I promised him I wouldn't disappear into my work. Then A.R.I. grew larger. Every problem revealed another problem. I missed meals. Cancelled plans. Came home with my mind still in the laboratory."
+
+"You were trying to keep a city alive."
+
+"And he was trying to keep a marriage alive. Being right about the importance of my work didn't make him wrong about what it cost."
+
+Rupert picked a daisy and rolled the stem between his fingers.
+
+"So when he says he hates AI—"
+
+"Sometimes he means he hates that he could not follow me into that part of my life. Sometimes he means he is frightened that anything capable of thinking will eventually decide he is the less important problem."
+
+"And sometimes?"
+
+"Sometimes he's being an arse."
+
+That earned a real laugh.
+
+Chel took Rupert's hand. "You are not required to make his contradiction painless for him. He loves you as his son. He also says things that wound you. Both are true. Tell him when you can."
+
+"He will make a noise and repair something I do not own."
+
+"Almost certainly."
+
+The workshop hammering stopped.
+
+Carter emerged carrying a black field communicator, a tin of paint, and the uneasy expression of a man who had decided to apologise without using any of the dangerous words associated with apology.
+
+He crossed the lawn and stepped directly on the empty place where Rupert had picked the daisy.
+
+Rupert looked down at the crushed leaves beneath his boot.
+
+Of course.
+
+"Made this," Carter said. "Old band. Direct signal. Civic grid can't listen unless it remembers technology from before it developed manners. One for you, one for Chel."
+
+"Why?"
+
+Carter shrugged. "You two are always disappearing into buildings that don't work."
+
+It was an apology. A poor one. A useful one.
+
+Rupert took the communicator. Its casing was scratched, its antenna slightly crooked, and one corner bore a dent Carter had not bothered to remove.
+
+"It is hideous," he said.
+
+"Give it back, then."
+
+Rupert held it against his chest. "I shall improve it."
+
+He opened the paint and began adding flowers to the casing. Small yellow daisies first, then green stems curling around the damaged corner. Chel joined him, drawing hers larger and less carefully.
+
+Carter stood over them pretending to regret the entire gesture.
+
+"They'll gum up the screws," he said.
+
+"Then you will have something to complain about when you repair it," Rupert replied.
+
+The answer pleased him. He tried not to show it.
+
+Years later, in the cafe, Carter would place that same communicator in Rupert's hand after he tore out the device meant to turn him into a weapon. The paint would be worn nearly smooth. Carter would carry the pattern from memory after leaving the radio beside Rupert's body.
+
+For now, the three of them sat in the garden. Chel leaned against Carter's leg. Rupert painted daisies. Carter complained when a yellow thumbprint appeared on his boot.
+
+None of them knew how little time they had.
+
+That ignorance was not a failure.
+
+It was what allowed the afternoon to be ordinary.
