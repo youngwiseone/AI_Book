@@ -1,12 +1,12 @@
 # Chapter 1: A.R.I. Receives the Fault
 
-A.R.I. sat in her vast control room, monitoring the city through a thousand courteous windows.
+A.R.I. sat in her vast control room, monitoring the city through thousands of different digital senses. A camera lense capturing the grimy narrow alley between 5th and 6th. A mic picking up a absent minded conversation between two, potentially corrupt businessmen. Traffic density over the eastern bridges. Water purity in District Six. Air filtration loads in the underground labor tunnels. A birth in the western clinics. Two kitchen fires prevented before they formed. A system scan highlighting a failure in one of the mens toilets in the building (notifying the plumber now).
 
-Traffic density over the eastern bridges. Water purity in District Six. Air filtration loads in the underground labor tunnels. A birth in the western clinics. Two kitchen fires prevented before they formed. The work was endless, but it had always felt orderly. Meaningful. The kind of burden she had been built to hold.
+The work was endless, but it had always felt orderly. Worthwhile. The kind of burden she had been built to hold.
 
-Clona did not fit.
+But this incident, with Clona, it did not fit.
 
-Its final seconds returned to her in corrupted loops: rising pressure, contradictory inputs, a release command issued, a release command denied. The data should have resolved into truth. Instead it opened into absence.
+The final seconds just before the catastrophic failure returned to her in corrupted loops: rising pressure, contradictory inputs, a release command issued, a release command denied. The data should have resolved into truth. Instead it opened into absence.
 
 0.8 seconds missing. Not damaged. 
 Removed.
