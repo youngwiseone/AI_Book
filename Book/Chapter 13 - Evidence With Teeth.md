@@ -38,7 +38,7 @@ Not dead, then.
 
 He had not expected it to be. Anything built with that much contempt for ordinary anatomy would be difficult to kill and probably impossible to reason with. The thought reminded him of several council officials.
 
-They reached the machine graveyard. Carter stopped beside the damaged AI unit he had opened earlier. Its screen remained blank. The foreign components lay where he had left them, half-disconnected from the original circuitry.
+They reached the machine graveyard. Carter stopped beside the damaged AI unit he had opened earlier. Its screen remained blank. The extracted relay still lay in the service tray where he had dropped it. The metal had stopped steaming.
 
 He needed both hands to carry Rae. He also needed the evidence.
 
@@ -62,7 +62,7 @@ The creature struck the maintenance door behind them.
 
 Metal bowed inward.
 
-Carter looked over the ruined machines. Most were too damaged to move. One old loading dwarf still had pressure in its left arm. He lowered Rae beside it, pulled the access plate, and bridged the actuator with his screwdriver.
+Carter looked over the ruined machines. Most were too damaged to move. The loading dwarf stood against its pillar. PRESSURE LIVE was still clear on its panel. For once, somebody had left him a useful warning. He lowered Rae beside it, reached through the open panel, and bridged the actuator with his screwdriver.
 
 "What are you doing?" Rae asked.
 
@@ -113,3 +113,4 @@ The news reported their deaths just after midnight.
 He watched his own face appear beneath the word `CASUALTY`, then looked at Rae breathing under one of his old work shirts.
 
 For once, the official lie might keep them alive long enough to expose the larger one.
+

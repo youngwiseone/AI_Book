@@ -12,7 +12,13 @@ No one answered, which was normal when he addressed a room full of dead things.
 
 He walked between the rows. Clona's emergency units had been designed to enter fire, lift wreckage, and guide workers through smoke. During the disaster, most had done none of those things. The public report blamed A.R.I.'s command failure.
 
-The first unit Carter opened had no command receiver.
+A loading dwarf stood propped against the first pillar with its service panel hanging open. The body was dead, but the pressure gauge on its left arm still showed green. Carter wound the bleed valve a quarter-turn. Nothing happened.
+
+"Lovely."
+
+He chalked PRESSURE LIVE across the panel and moved round the arm. Whoever had dumped it here hadn't even bothered to make it safe.
+
+The first emergency unit he opened had no command receiver.
 
 Somebody had removed it after the blast.
 
@@ -20,17 +26,27 @@ The second had been burned so thoroughly that the chassis came apart under his s
 
 "There you are," Carter said.
 
+He loosened the bridge's bracket and lifted it far enough to see underneath. Four ordinary screws. Somebody had even dabbed paint on the heads to show the service check was complete.
+
 The bridge sat between the emergency receiver and the unit's motor control. It could intercept A.R.I.'s instruction without altering the instruction record. Software would show a command correctly issued. The body receiving it could still be made to do something else.
 
-He had accused the city of looking in the wrong place.
+Carter photographed it before disturbing the wiring.
 
-Now he held the lie in his hand.
+The receiver was new. Its mounting plate wasn't. Clona had bolted it onto a housing that carried an old maker's stamp, the same squat little emblem people wore on work aprons for luck. Half of it had been ground away to fit the new bracket.
+
+There were no spare sockets. An adaptor the size of Carter's fist joined the two generations. Its inspection label read INTERFACE VERIFIED. Under that, in smaller letters: INTERNAL ASSEMBLY SEALED.
+
+He turned it over. A hair-fine cable ran from the added bridge through the seal.
+
+"Verified the easy bit, did you?"
+
+No wonder the logs agreed. A.R.I. was being told what reached the receiver. Nobody had given her a way to see what happened on the other side.
 
 The unit beneath him spoke.
 
 "System... assistance required."
 
-Carter nearly dropped the relay.
+Carter nearly dropped the bracket.
 
 A cracked display flickered under a layer of soot. Two pixels formed a weak blue line.
 
@@ -45,6 +61,10 @@ Carter crouched. "Can you identify who modified you?"
 "Course it is."
 
 He traced the tissue bridge. It had grown fine roots into the unit's memory housing. Removing it would trigger a charge. Leaving it would allow whoever controlled the bridge to erase the unit remotely.
+
+He checked for a way to isolate it. A shield over the receiver would stop radio, but a second connection ran into the factory's service bus. The charge shared its feed with the memory housing. Cut either carelessly and there would be nothing left to repair.
+
+He took his hand away from the cutters.
 
 "I'm going to disconnect the motor branch first," he said.
 
@@ -68,7 +88,23 @@ The weak display changed pattern as the unit processed this.
 
 "Wasn't your fault."
 
-"Evacuation failed."
+"Western stair. Door four. Obstruction present."
+
+Carter looked towards the stairwell at the far end of the hall. The door had folded across its opening. The unit's right lifting arm was bent at the same angle, paint stripped off one side.
+
+"You tried the door?"
+
+"Release requested. Motor response denied. Manual contact maintained."
+
+The arm had broken against it.
+
+Carter shifted his lamp so it didn't shine directly into the cracked display. Ridiculous thing to do. The light wouldn't hurt it.
+
+"I'll record where you were."
+
+"Workers require evacuation."
+
+"I know."
 
 Carter set his lamp on the floor. "I'm going to try getting that thing out of you. Might wipe what's left. Might not."
 
@@ -78,7 +114,7 @@ Carter set his lamp on the floor. "I'm going to try getting that thing out of yo
 
 "Proceed."
 
-Machines were supposed to be simpler than people. Carter had built a life around the comfort of that belief. Yet here he was asking permission from a crushed emergency unit while powerful humans rewrote a massacre without bothering to ask anyone.
+He set the recorder beside his lamp. The room number, the unit's service plate, the added wiring. He said each aloud and kept his hands out of the image for a moment. Chel used to make him do that before he ruined a perfectly good fault by fixing it.
 
 He cut the first root.
 
@@ -126,15 +162,27 @@ Carter held the detached relay while the last blue pixel went dark.
 
 "Damn it."
 
-He had known the unit for less than ten minutes. That should not have been enough time for the silence to feel different.
+He checked the feed. Then the feed again, with a different meter. The display stayed dark.
 
-He opened the next machine with less gentleness.
+The relay burned through his glove. He dropped it into a service tray, sucked the side of his thumb and stood there with his mouth open, forgetting what he had meant to say.
 
-The same bridge appeared inside. Then another. Every emergency unit connected to the evacuation system had carried one. Some had been fitted months before Clona. Maintenance marks showed the work had been performed in ordinary scheduled service, hidden among upgrades approved by government procurement.
+The recorder was still running.
 
-This was not one act of sabotage.
+"Outside signal triggered it," he said. "I hadn't reached the last connection."
 
-It was infrastructure.
+He stopped the recording and put the recorder back in his coat. It sounded like an excuse. It was also what had happened.
+
+Before he moved on, he took an image of the damaged arm and the western door. He left the lamp pointing at the unit while he opened the next machine.
+
+The same bridge appeared inside. Then another. Every emergency unit he checked had carried one. Some had been fitted months before Clona. Maintenance marks showed the work had been performed in ordinary scheduled service, hidden among upgrades approved by government procurement.
+
+One had the old fitting drawn on its inspection card, with a cross through it and the replacement part number written underneath. A mechanic had initialled the change. There was a neat tick beside the movement test.
+
+Carter checked the test connector. It entered downstream of the bridge. The unit would have moved perfectly on a service bench.
+
+He photographed the card. Then the connector. The initials might belong to someone who'd known exactly what they were fitting, or someone who'd been handed a box and a job sheet. He couldn't tell from here.
+
+He had three matching installation codes by the time he stopped looking.
 
 Carter called Rupert on the old direct band. The signal struggled through the concrete.
 
@@ -154,7 +202,13 @@ Rupert returned several seconds later. "Carter, there are public systems across 
 
 Carter looked across the dismantled machines.
 
-One network to seize bodies. One network to seize equipment. A.R.I. had been surrounded by sources designed to agree on a lie.
+The hospital backups bothered him. A transit lock could trap someone. A backup might be keeping them alive.
+
+"Don't tell anyone to start ripping these out," he said. "We don't know what's on the other end."
+
+"Wasn't planning a city-wide maintenance announcement, Carter."
+
+"Good. They never listen to those anyway."
 
 "Make a local copy," he said. "Then get out of the Hive."
 
@@ -170,17 +224,17 @@ The floor shook.
 
 Dust fell from the ceiling. Somewhere toward the southern hall, metal crashed with enough force to bend the sound.
 
-Rae's voice broke through the communicator.
-
-"Found something."
-
-"Same. Meet at the lift shaft."
-
-He returned the extracted relay to his pocket and stood.
+Carter reached for the relay in the tray. A second impact threw grit against his coat. He pulled his hand back and snatched up the lamp.
 
 The lower passage behind him collapsed.
 
-"Can't. Lower passage is gone. I'll take the western route."
+He pressed the communicator.
+
+"Found something. You need to see it."
+
+Rae answered through a wash of static. "Same. Meet at the lift shaft."
+
+"Can't. Lower passage collapsed after I came through. I'll take the western route."
 
 "Carter, we're not alone in here."
 
@@ -189,3 +243,4 @@ Her words ended in static.
 Then came a warning tone from LaN, a heavy impact, and silence.
 
 Carter ran.
+

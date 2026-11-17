@@ -34,11 +34,53 @@ The guard scanned their credentials, frowned at the temporary clearance, and loo
 
 Rae stepped on his boot before he could continue. "Our instructions came from Blade Nathan. You can refuse us if you give your name and record the refusal against the investigation."
 
-The guard discovered a powerful commitment to administrative neutrality and let them through.
+The guard looked at the scanner again. The council seal appeared, vanished, then appeared upside down.
+
+"Been doing that all shift," he said. He shook it.
+
+"That'll teach it," Carter said.
+
+The guard's left hand had only three fingers, broad and dark-nailed. They were too thick for the scanner's grip. He held it by a strap someone had added with two ugly screws.
+
+Rae watched him turn it over rather than ask for help.
+
+"You can enter the number manually," she said.
+
+"I know how to do my job."
+
+He entered it manually. The gate clicked open.
+
+They went through before it changed its mind.
 
 Inside, Clona smelled of wet concrete, burned insulation, scorched coolant, and something sweeter beneath all three. Rae knew the scent from enhancement clinics. Preservative gel. The kind used to keep living tissue viable outside a body.
 
 The factory's public floors had produced civic AI components, pressure engines, and industrial control units. None required preservative gel.
+
+Just inside the entrance, a little brass lamp stood beneath an old maker's plate. Someone had wiped the soot off the lettering and left the rest of the wall black. A maintenance instruction had been scratched into the shelf below it: KEEP THE RETURN CLEAR.
+
+A second hand had added: AND STOP PUTTING BLOODY CANDLES IN IT.
+
+Carter moved a cold wax stump out of a drainage slot with the end of his screwdriver.
+
+"Is that allowed?" Rae asked.
+
+"Flooding's probably frowned upon too."
+
+Behind the lamp, a pipe disappeared into masonry older than the factory's clean outer walls. Its inspection cap had been replaced so often that nothing remained of the original bolt holes. Three generations of clamps held it shut.
+
+LaN extended a probe towards it.
+
+"Leave that," Carter said. "We haven't got a week."
+
+"A.R.I. doesn't list it," LaN said.
+
+"Wouldn't know what name to give it. The new controls go round it."
+
+Rae looked at the newer conduit screwed across the wall. At the floor it divided, one branch entering the old pipe housing through a roughly cut hole.
+
+"Somebody found a way in."
+
+"Maybe. I'm not opening it to check."
 
 LaN descended from her shoulder and sampled the air. "Trace concentration increases toward the southern service level."
 
@@ -46,7 +88,9 @@ Carter aimed his lamp down the main machine hall. "Emergency units are below us.
 
 "I want the records wing and whatever's producing that smell."
 
-He took the flower-painted communicator from his coat and handed it to her. "Direct channel. No grid handshake. Press once to call, twice if something's trying to eat you."
+Rae took the black communicator he had given her on the train platform out of her pocket. "Same channel?"
+
+Carter tapped the flower-painted set inside his coat. "Don't change it. Press once to call, twice if something's trying to eat you."
 
 "What does three times mean?"
 
@@ -66,7 +110,13 @@ The first office had been emptied. Storage wafers, personal terminals, and even 
 
 In the second office, the removals had been less careful. A cabinet stood open with one hinge torn away. Somebody had pulled the obvious data blocks and overlooked the mechanical duty roster fixed inside the door.
 
-Rae photographed it.
+Rae photographed it where it hung, then took a second image wide enough to include the door and its bent hinge. LaN lit the reverse while she checked for an erased entry.
+
+"You could take it," he said.
+
+"Then it's a piece of paper I claim I found in a cupboard."
+
+She marked the room on the floor plan and photographed the empty screw holes where the terminal had been.
 
 Five technicians had entered the pressure wing during the night before the explosion. Four names belonged to Clona staff killed the next morning. The fifth field contained no name, only a military procurement code.
 
@@ -74,7 +124,15 @@ LaN searched his local archives. "Supplier dissolved eleven years ago. Biologica
 
 "Enhancers."
 
-"Likely."
+"Equipment for enhancers," LaN said. "The code doesn't identify who used it."
+
+She looked at him.
+
+"You asked me to flag unsupported conclusions."
+
+"I remember."
+
+She took another photograph, close enough to show the full code instead of just the part she recognised.
 
 Rae followed the preservative smell downstairs.
 
@@ -94,21 +152,61 @@ Restraint frames lined one wall. Their proportions varied: human, machine, and s
 
 The workstations had been wiped, but physical work left physical history. Rae found scratches where a large body had struggled against a frame. Synthetic skin caught in one buckle. Dried blood under a floor rail. Tool impressions in the central cradle matched the access points Carter had shown her in A.R.I.'s data model.
 
-This was not a factory lab repurposed after the disaster.
+LaN's display flashed amber.
 
-It was where someone had practised making living bodies and machines answer the same command.
+"Our authorisation has expired."
 
-LaN projected a scan over the central rig. "Recent use. Forty-eight to seventy-two hours."
+Rae looked back. The open door hadn't moved. No alarm sounded, but the entry reader had gone red.
 
-"After Clona."
+"Keep an eye on that," she said.
+
+Rae crouched beside a human-sized frame. Its wrist restraint had been widened by hand. The leather lining was worn smooth, but the motor that tightened it was new. Whoever had fitted it had drilled straight through an older adjustment lever.
+
+She pushed the lever. It moved a finger's width and struck the screw.
+
+"That used to release from the inside."
+
+LaN brought his light closer.
+
+The old fitting had a regulator of its own, a small sealed unit with a worn dial. A newer cable joined it to the central cradle. Rae followed that cable across the floor. It had been laid over the tiles rather than through the service channels, catching dust along its edges.
+
+"Scan both," she said. "Separately."
+
+The restraint's control and the older support unit were linked now. Whether they had needed to be was another question. She resisted the urge to pull the cable out and find out. Something elsewhere in the room might still be using it.
+
+Beside the frame stood a paper cup. Two thumb-shaped dents had been pressed into its sides to make a grip. A drinking tube lay in the bottom.
+
+Rae turned the cup with her light. No name. Just a brown ring where the last of the drink had dried.
+
+"Get that as well," she said.
+
+LaN's scan passed over the central rig. "The gel reservoir is warm. Heater still active."
+
+"How recently was it used?"
+
+"The heating prevents a reliable estimate."
+
+Rae moved her lamp down to the floor. Fire dust covered the tiles. Four clean arcs showed where the cradle's feet had been dragged through it. Under the nearest foot, a crushed strip of evidence tape carried the search team's seal.
+
+She photographed that before touching anything else.
+
+"They moved this after the search team marked the room."
 
 "Yes."
 
-The investigation team had not simply covered evidence. They had continued the experiment inside the sealed disaster site because nobody else was supposed to enter.
+"Keep the raw scan. Not just your estimate."
+
+Someone had been working here after the disaster. The empty sockets and clean benches weren't enough to say what they had done. The restraints were.
 
 Rae opened the cradle's lower panel. A row of tissue-threaded relays sat behind it, each one carrying two authority structures. The first imitated A.R.I.'s civic permissions. The second used wartime biological coordination code.
 
-She removed one with insulated tools.
+She photographed the connections and chose the relay nearest the panel's edge. LaN's probe showed no load across its output.
+
+"Empty?" she asked.
+
+"Nothing drawing power at this moment."
+
+She put an evidence sleeve on the floor within reach and eased the relay out with insulated tools.
 
 The moment it left the socket, every lamp in the laboratory went out.
 
@@ -120,7 +218,7 @@ LaN's screen became their only light.
 
 Something moved in the corridor.
 
-Rae replaced the relay and drew her weapon. The lights remained dark.
+Rae lowered the relay into the sleeve and drew her weapon. The lamps did not return. Somewhere behind the rack, a switch clicked twice and stopped.
 
 A shadow crossed the doorway, too high and broad to belong to the guard outside. It did not enter. Rae heard weight shift against concrete, followed by a wet mechanical click.
 
@@ -138,7 +236,9 @@ LaN scanned both. "The blood contains seventeen distinct genetic signatures."
 
 "One sample."
 
-Rae sealed the vial with the relay.
+Rae photographed the vial and footprint, then sealed the vial in a second sleeve. She would have liked to take a cast. She would have liked a team and some decent lights and a door that locked from her side.
+
+She put both sleeves in her coat.
 
 Her communicator clicked.
 
@@ -155,3 +255,4 @@ Rae looked toward the footprint.
 Only static answered.
 
 Behind her, deeper in the laboratory, metal began to bend.
+
