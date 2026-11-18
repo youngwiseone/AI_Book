@@ -200,7 +200,7 @@ Carter complained about the crowd while building a second waiting bench.
 
 Rae worked nearest the windows. Her station held mechanical tools on the left, biological instruments on the right, and a clear empty space between them where every new project began with conversation.
 
-That morning, a dockworker placed a failing forearm enhancement in the empty space.
+That morning, Len placed a failing forearm enhancement in the empty space. He had worked the aisles at Clona. The pass clipped to his coat now belonged to the docks.
 
 "Clinic says replacement," he said. "Can't afford replacement."
 
@@ -310,7 +310,7 @@ A meeting notice lay on Rae's desk beneath a half-repaired lamp. Tom Vale had se
 
 Rae had promised to go again. She still needed to write down what she could answer and what she couldn't.
 
-The dockworker chose the slower mechanical repair. Carter emerged to do the work, wiped his hands on a rag, and explained each part badly enough that Rae translated. The man's fingers moved again before lunch.
+Len chose the slower mechanical repair. Carter emerged to do the work, wiped his hands on a rag, and explained each part badly enough that Rae translated. The man's fingers moved again before lunch.
 
 Later, when the queue had shortened, a small service intelligence arrived alone. Its shell was obsolete and one wheel dragged across the floor.
 
