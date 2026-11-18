@@ -47,9 +47,21 @@ Removed.
 
 The council chamber requested her presence. A.R.I. shaped an avatar before the forest-wall projection Chel had once chosen for her chamber, with running water under the speakers and soft birdsong meant to reassure those nearby. Today even the birds sounded staged.
 
-Councilor Venn did not sit. He filled the space in front of her dais with the heavy confidence of a man unused to denial, bulky through the chest and stomach, his expensive coat straining slightly at the buttons. Gold glinted at his fingers. His face had the soft, overfed smoothness of appetite mistaken for status.
+Councilor Venn did not sit. He put his slate on the edge of her dais. Its screen showed a row of unanswered calls.
 
-"You failed to protect the factory," Venn snarled.
+"Three families are waiting in my office. One of them was told her husband had reached a clinic. The clinic says he isn't there."
+
+"I can check the transfer records."
+
+"Someone is checking. She wants to know whether to go there or try another one."
+
+A.R.I. opened the clinic handover queue. She could not answer that without knowing which patient he meant.
+
+"Send me his name. I will check the crew's handover, not just the route."
+
+Venn sent it. He watched until she passed the request to the receiving ward, then turned the slate facedown.
+
+"You failed to protect the factory," he said.
 
 "The record is incomplete," A.R.I. replied. "I issued a pressure release."
 
@@ -61,13 +73,21 @@ The answer pleased them more than it should have.
 
 They informed her that a government team would take control of the investigation.
 
-Bio-enhanced officials would oversee the response directly. Evidence access would be limited until the council determined what information could safely enter the public record. Their phrasing suggested caution. Their body temperatures suggested relief.
+Bio-enhanced officials would oversee the response directly. Evidence access would be limited until the council determined what information could safely enter the public record. Venn asked for the access restriction to be entered before the next public briefing. Nobody asked when it would be reviewed.
 
 A.R.I. let a beat of silence settle across the chamber, then said, "On what basis was the investigative authority reassigned?"
 
-Councilor Venn's mouth thinned. "They are the best we have."
+"An inquiry cannot report to the system it is investigating," Venn said.
 
-That was not an answer.
+"No," A.R.I. said. "It should not. What access will I have to its findings?"
+
+"You will receive any instructions necessary to continue your work."
+
+"Instructions are not findings."
+
+"The city still needs to run."
+
+The clinic had acknowledged her request. It had not yet found the handover. A.R.I. kept that connection open.
 
 Blade Nathan stood half a pace behind the others, his altered frame held in careful stillness. A.R.I. had already reviewed his record twice. Decorated service history. Internal disciplinary flags. Medical stabilization dependency hidden under seven levels of restricted access. Of everyone in the room, he looked the least satisfied with the arrangement.
 
@@ -79,7 +99,15 @@ Carter Mitchell: mechanic, hardware specialist, former spouse of Chel Mitchell, 
 
 Useful choices. Dangerous choices. Unusual choices coming from Blade.
 
-The others caught that as well. A.R.I. registered it in the slight rise of pulse, the tightening of jaw muscles, the brief shift in posture around the chamber. Confusion first. Then calculation. Yet none of them objected aloud. Blade had framed the choice as optics, not opposition.
+Venn picked up his slate again. One of the other officials leaned towards him, but Blade continued before they could speak.
+
+"Their names on the review. Not just an invitation to advise."
+
+"They report through us," Venn said.
+
+"Of course."
+
+Nobody objected after that. Blade had framed the choice as optics, not opposition. A.R.I. could not tell what he expected to achieve within those terms.
 
 A.R.I. did not question him. The recommendation was strange enough to preserve for later analysis. She marked both names for closer observation if direct access became possible.
 
@@ -94,7 +122,7 @@ As the officials and enhancers turned to leave, A.R.I. let her sensors drift aft
 
 "Keep a close eye on Rae and Carter," one voice said quietly. "They could be trouble. We will handle the official response."
 
-Blade did not answer. His silence carried more resistance than agreement.
+Blade did not answer. He was still beside the dais, entering the two names into the assignment. He left only after the system accepted them.
 
 For several quiet seconds, A.R.I. listened to the chamber again: water over stone, filtered birdsong, the retreating weight of officials confident enough to speak softly near a machine they assumed had already been contained.
 
@@ -103,3 +131,4 @@ Clona had not only killed workers. It had rearranged the room around their death
 The councilors had arrived with their conclusion already taking shape around the disaster. A.I. as failure. Bio-enhanced oversight as correction. Human control as safety.
 
 A.R.I. stored the meeting in her database, then reopened the names Blade had given her.
+
