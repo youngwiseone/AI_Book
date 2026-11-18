@@ -24,11 +24,29 @@ He shook his head.
 
 "Which would you choose?"
 
-"Not my arm."
+"Depends what you need it to do."
 
-The man looked surprised.
+"Work. Get paid."
 
-Rae showed him both systems.
+"What sort of work?"
+
+"Dock straps. Mostly in the wet. I can't keep coming back every time it sticks."
+
+Rae pulled a chair round so he could see the bench. She put the mechanical regulator beside the adaptive unit.
+
+"This one needs cleaning. I can show you how, but you'll need to get the cover off with your other hand. The adaptive one may need less of that. I can't promise it, and if the tissue starts rejecting, you come back here."
+
+"Time off."
+
+"Yes."
+
+He tried the mechanical cover with his good hand. The catch slipped under his thumb.
+
+"That's no bloody use."
+
+Rae took a wider catch from the parts drawer and laid it beside the first.
+
+"Try that before you decide."
 
 Across the room, A.R.I. attempted to replace a freight drone's wheel. Her body had changed since the reclamation yard, though never all at once. Better hands. A corrected ankle. Flexible material around the face that allowed expression without borrowing Chel's likeness. Each alteration had been proposed, tested, and accepted by her.
 
@@ -94,9 +112,35 @@ Carter looked at the damaged wheel. "We repair anything that asks nicely."
 
 The intelligence considered this. "Please."
 
-He lifted it onto Rupert's old bench.
+Carter reached for the lifting cradle, then stopped.
 
-Evening warmed the workshop brick. The last customers left. Rae cleaned her instruments. A.R.I. closed the public project records. LaN chased an insect through the garden while insisting he was conducting biological research.
+The only free bench was Rupert's.
+
+A.R.I. moved the freight drone closer to her station. "I can make room here."
+
+Carter looked at the three tools above Rupert's bench. Their handles were clean. He had cleaned them himself that morning, though nobody had used them.
+
+"No," he said. "There's room."
+
+He took the photograph down before lifting the intelligence onto the bench. One dragging wheel left a black line across the surface.
+
+"Sorry," it said.
+
+Carter stared at the mark.
+
+Then he pulled a rag from his pocket and put it under the wheel.
+
+"Workshop," he said. "It happens."
+
+He set the photograph on the shelf, clear of the work. A screw lay at the back of the bench. He put it in a tray rather than leaving it where Rupert had last put it.
+
+The intelligence's axle was bent. Carter reached for the middle tool on the wall, discovered it was the wrong size, and went to fetch his own.
+
+When he came back, Rae had left a cup of tea beside the tray. She was already at her station, cleaning an instrument.
+
+He drank some before it went cold.
+
+Evening warmed the workshop brick. The waiting bench was empty. Rae cleaned her instruments. A.R.I. closed the public project records. LaN chased an insect through the garden while insisting he was conducting biological research.
 
 Carter stood beneath the sign and looked at the painted daisy.
 
@@ -114,13 +158,9 @@ Carter approved of anything important enough to argue over.
 
 There would be other disasters. The Original Intelligence still kept its temples and its hidden history. The technologies Asher abused could heal as easily as harm, and that truth made them harder to reject than any simple evil. A.R.I.'s existence had asked a question the world could postpone but no longer erase: whether a created mind belonged to its maker, its purpose, or itself.
 
-The workshop offered no final answer.
+Inside, the little service intelligence rolled once across the floor to test its wheel. Carter went back in and found a spare wheel pin, put it in a bag and wrote the size on the outside.
 
-It offered open doors.
-
-It offered work done in view of the people who would live with it.
-
-It offered a place at the bench to anyone capable of asking.
+"Spare," he said. "Don't lose it."
 
 Carter switched off the outer light. The yellow daisy above the door held the last of the evening sun.
 
