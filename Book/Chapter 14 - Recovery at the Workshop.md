@@ -104,13 +104,23 @@ She described the stabilisers. The surgeries. The voices Asher sometimes answere
 
 "I saw what was happening to Asher."
 
-"The others."
+She knew which filter fitted their regulator. Which tube to check when they couldn't get comfortable in the chair. They would sit still for her to do those things, then start describing the next alteration while she put the tools away.
+
+"The others," Carter said.
 
 Rae put the mug down.
 
 "No. They told me they were helping them."
 
 Carter waited. She wished he would ask something else.
+
+"I went less often," she said. "Kept making sure they had supplies. That was easier."
+
+Carter moved the lamp so she could see the relay without leaning over it.
+
+"If I didn't go, I could pretend they weren't getting worse."
+
+She had still checked whether the deliveries arrived. She had been very thorough about that.
 
 "The man in the factory told me to run," Rae said. "While LaN interrupted the signal. He was trying to help me."
 
