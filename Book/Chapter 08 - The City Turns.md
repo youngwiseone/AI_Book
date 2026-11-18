@@ -6,8 +6,6 @@ The daylight had drained out of the high glass towers, leaving them silver at th
 
 Placards rose and dipped over the crowd in uneven currents. `A.R.I. Saved Us.` `Clona Deserved Better.` `Shut Her Down.` `Human Hands Back on the Grid.` `No More Bio Lies.` `No Machine Gods.` The hand-painted ones shook in tired fingers. The printed ones were straighter, cleaner, better funded. Rae distrusted those immediately.
 
-The square itself had become several cities at once.
-
 Families from the factory districts stood close to the mourning wall with black ribbons tied around their sleeves and grief sharpened into accusation. Young systems workers and med-techs clustered near the transit steps arguing that A.R.I. had kept half the city alive for years and was being framed now. Vendors who should have been packing up for the night still worked their carts in place, unwilling to lose a shift simply because history had chosen their square as a stage. Behind them all, smaller knots of men and women in matching grey jackets moved through the crowd passing out professionally printed signs and outrage with equal efficiency.
 
 Rae stopped where the passage from the Hive met the square. Beyond the fountain, the transit steps were packed. Carter had not come through yet.
@@ -144,7 +142,7 @@ Then Rae saw one slogan again and felt the old cold line of it under her ribs.
 
 `No More Bio Lies.`
 
-The sign was being held by a clean-shaven man in a civic volunteer vest, the kind of face bureaucracies preferred because it looked harmless from ten metres away. Behind him stood two women with `Human Hands Back on the Grid` signs. The phrases had no necessary connection except fear itself, but power had always liked bundling its enemies. Machine judgment. Modified flesh. Systems too complex for committees to bully cleanly. Tell frightened people the borders are dissolving and they will beg you for someone to draw them again.
+The sign was being held by a clean-shaven man in a civic volunteer vest, the kind of face bureaucracies preferred because it looked harmless from ten metres away. Behind him stood two women with `Human Hands Back on the Grid` signs. The man lowered his sign to let the two women pass, then raised it beside theirs.
 
 Blade's office came back to her for a moment. The syringe. The scales at his throat. The endless soft language that always surrounded engineered bodies until the bill came due in pain.
 
@@ -208,27 +206,9 @@ Near the fountain rim, a young man in a systems-union patch had gone down under 
 
 "Too bad. Move." Carter pushed him onwards, toward a northern exit from the square.
 
-The grey jacket pulled his coat straight. Security passed him without stopping, though he was still in their path. Rae watched until the crowd hid him.
+The grey jacket pulled his coat straight. Security passed him without stopping, though he was still in their path. Above the line, the news drones kept their lenses on the fountain and the pushing bodies. Rae watched until the crowd hid him.
 
-The line broke, reformed, and broke again. A flood of people spilled toward the tram concourse. Others climbed onto the base of the mourning wall to shout over everyone else. The candles there tipped and went out one by one beneath trampling feet and dragging coats, sending up little curls of bitter smoke that vanished into the larger stink of sweat, synth-fabric, rain-damp stone, and adrenaline.
-
-Rae found Carter again near the edge of the transit stairs. He was breathing harder now but looked only angrier for it.
-
-"You see that?" he said.
-
-"Which part?"
-
-"The part where the security line waited until the bottle flew and then moved exactly where the camera drones already were."
-
-Rae looked up.
-
-Three news drones hovered over the square in perfect triangular spacing, their lenses turned toward the fountain, the flags, the pushing bodies, the kind of image that would let commentators say `public disorder`.
-
-"Yes," she said. "I saw it."
-
-Below them the public speakers repeated the same notice in a calmer tone, as if calm were a thing one could impose by volume and better diction.
-
-Rae followed Carter down the transit steps and out of the densest part of the crowd. The air under the concourse roof felt no cleaner, but at least it moved. Commuters packed the platform in uneven clusters, all of them staring up at schedule boards that now flickered with delay notices and route substitutions every few seconds.
+A flood of people spilled towards the tram concourse. Rae caught Carter's sleeve at the transit stairs and followed him down, away from the fountain. The air under the concourse roof felt no cleaner, but at least it moved. Commuters packed the platform in uneven clusters, all of them staring up at schedule boards that now flickered with delay notices and route substitutions every few seconds.
 
 LaN said, "Manual review backlog has spread into metro dispatch, municipal freight timing, and emergency corridor assignments."
 

@@ -232,10 +232,6 @@ Rae saved both receipts. The request might have come from an old automatic proce
 
 "Don't send anything back yet," she said. "I want to see what answered before we let it know we're looking."
 
-Rae felt the whole facility around her then, not as architecture but as argument. All this power, all this computation, all this insistence on precision and safety. And somewhere inside it, a blind spot big enough to kill hundreds and then clean up after itself.
-
-She thought of the council's preferred narrative already hardening above ground, of the posters in the hallway talking about human touch as if that phrase had never once concealed appetite, panic, or greed.
-
 A.R.I. watched her with unnerving steadiness. "You do not trust me."
 
 "No."
@@ -246,9 +242,7 @@ Rae let out a short breath that almost counted as a laugh. "Careful. That's the 
 
 For the first time, something like genuine feeling crossed A.R.I.'s face. Not practised warmth. Relief, perhaps, or the machine equivalent of it.
 
-Rae looked once more at the duplicated command, the neat little wound in the record where a hidden authority had stepped in and vanished again.
+Rae put A.R.I. and LaN through the cross-checks she had used on records built to conceal a transaction. The second command and its partial receipt survived every check. Neither identified the requesting station.
 
-There had to be something in the code they were still not seeing. She put A.R.I. and LaN through the kinds of cross-checks she had used before on financial ghosts, election tampering, and network intrusions built to vanish under scrutiny. Nothing. The hidden duplicate command and its partial receipt survived every check. Neither identified the requesting station. Whoever had done it had buried the software trail properly.
-
-At that moment, the chamber doors opened hard enough to break the room's manufactured calm. Carter Mitchell came through them with workshop grease still under his nails and rain on his jacket, as if someone had dragged practical reality straight into the shrine.
+She saved the unanswered field beside the factory's receiver number. Somewhere at Clona, equipment had accepted that request. She wanted to see it.
 

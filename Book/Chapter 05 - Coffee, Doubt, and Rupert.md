@@ -184,13 +184,9 @@ A.R.I. enlarged it.
 
 Rupert came up beside him. Carter moved over without looking away from the display.
 
-"Then we go to Clona," Rae said. "In person."
+"We'll need site access," Rae said.
 
-Carter gave one short nod. "Now you're talking sense."
-
-A.R.I. began collapsing the floating data panes around them, likely to prepare whatever records would be needed for site access.
-
-Then the chamber doors opened again.
+Before A.R.I. could answer, the chamber doors opened again.
 
 Two council aides entered in dark formal coats, followed by a security officer whose expression suggested he would have preferred to escort a bomb. The lead aide did not look at Carter or Rae at all. He addressed only A.R.I.
 
@@ -208,7 +204,7 @@ The aide smoothed one cuff. "Review of your conduct and operational liability re
 
 That landed badly enough that even Rupert stopped trying to look decorative.
 
-Rae's mouth tightened. "We were just about to go to the factory."
+Rae's mouth tightened. "We need access to the factory."
 
 "That decision is above your clearance," the aide snapped, as if speaking to a bothersome insect.
 
@@ -232,7 +228,7 @@ He looked at the projections instead.
 
 Blade waited until the doors sealed behind them before moving. Then he crossed the chamber in three quick strides and lowered his voice.
 
-"You two are going to Clona now," he said.
+"I can give you service access to Clona," he said.
 
 Rae looked at him sharply. "I thought that was above our clearance."
 
@@ -252,15 +248,9 @@ LaN's display brightened. "Multiple redundancies. The command chain, timing disc
 
 "Good," Rae said.
 
-Carter turned towards the door, then stopped. The pressure traces still hung above the desk. One climbed in a smooth line while the others shook.
+Carter was still looking at the pressure traces. One climbed in a smooth line while the others shook.
 
-"Hold on. That gauge."
+"That gauge. Can you bring it closer?"
 
-Rae looked back.
-
-"Thought you wanted the factory."
-
-"I do. But I want to know what to look for when we get there."
-
-A.R.I. brought the trace closer. Somewhere else in the building, people were preparing to take this room away from her. For the moment, it still worked.
+A.R.I. enlarged the trace. Somewhere else in the building, people were preparing to take this room away from her. For the moment, it still worked.
 

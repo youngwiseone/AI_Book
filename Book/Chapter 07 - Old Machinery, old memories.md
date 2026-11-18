@@ -12,9 +12,7 @@ He was halfway to the lift bank when Rupert caught him by the elbow.
 
 Carter turned. Rupert's collar sat crooked and one cuff was still folded back. He had followed in a hurry.
 
-"You got a talent for appearing where people least want more conversation," Carter muttered.
-
-"And you have a talent for heading in the wrong direction." He pointed toward the camera poised just inside the lift. "They are trying to delay you, prevent you from being able to examine the factory site. I know a different way out. Come on."
+Rupert pointed towards the camera inside the lift. "I know a different way out. Come on."
 
 Rupert led him through a service door and down a narrow metal stair. Exposed coolant lines ran overhead. Carter ducked under a low joint someone had wrapped in a rag.
 
@@ -35,16 +33,6 @@ Rupert waited until the door sealed. He checked his personal unit, then turned t
 "Legal was taking over before I did. I haven't improved my position, but I'd rather not claim credit for the whole disaster."
 
 He pulled his cuff straight.
-
-"The new drafts are worse. These aren't phrases anyone in emergency comms would reach for. Someone had them ready."
-
-"Such as?"
-
-Rupert gave him a flat look. "`Human oversight restored.` `No autonomous judgment above accountable authority.` `Necessary continuity transition.`"
-
-Carter made a sour sound in the back of his throat. "I still don't like machines, but this is flat out wrong. Nothing so far is reason enough to replace the whole system."
-
-"Yes," Rupert said. "And yet it has already been sent for public broadcast."
 
 Carter looked down through the grating. A service pod passed beneath them, empty.
 
@@ -148,11 +136,7 @@ From somewhere above the service walls came a low distant roar, not yet a chant 
 
 Carter jerked his head toward the sound. "Crowd?"
 
-"Gathering fast."
-
-"Because of the statement."
-
-"Because of the disaster. The statement gave them something to shout. You should hear it before you go in there."
+"Gathering fast. Stay off the fountain steps."
 
 For a moment neither spoke.
 
