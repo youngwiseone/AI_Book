@@ -54,21 +54,9 @@ They watched a bee work through the flowers. It moved with blunt purpose, pushin
 
 Rupert smiled despite himself.
 
-Chel's expression softened. "His anger isn't really about artificial intelligence. Not most of it."
+Chel looked towards the workshop.
 
-"It sounds impressively specific."
-
-"When Carter was young, his father bought one of the early household intelligences. Used it to manage the family, settle arguments, remember every promise. Then he used it to hide an affair. The system obeyed because that was what systems did then. Carter's mother learned that years of her life had been curated around someone else's betrayal."
-
-Rupert looked toward the workshop.
-
-"He blames the machine."
-
-"He blamed anything that made the betrayal efficient. Then he married me."
-
-"A questionable decision."
-
-"Very. I promised him I wouldn't disappear into my work. Then A.R.I. grew larger. Every problem revealed another problem. I missed meals. Cancelled plans. Came home with my mind still in the laboratory."
+"I promised him I wouldn't disappear into my work," she said. "Then A.R.I. grew larger. Every problem revealed another problem. I missed meals. Cancelled plans. Came home with my mind still in the laboratory."
 
 "You were trying to keep a city alive."
 
@@ -76,17 +64,11 @@ Rupert looked toward the workshop.
 
 Rupert picked a daisy and rolled the stem between his fingers.
 
-"So when he says he hates AI—"
+"That isn't much to do with me."
 
-"Sometimes he means he hates that he could not follow me into that part of my life. Sometimes he means he is frightened that anything capable of thinking will eventually decide he is the less important problem."
+"No," Chel said. "It isn't."
 
-"And sometimes?"
-
-"Sometimes he's being an arse."
-
-That earned a real laugh.
-
-Chel took Rupert's hand. "You are not required to make his contradiction painless for him. He loves you as his son. He also says things that wound you. Both are true. Tell him when you can."
+Chel took Rupert's hand. "He loves you. You can still tell him when he's being an arse."
 
 "He will make a noise and repair something I do not own."
 
@@ -94,7 +76,7 @@ Chel took Rupert's hand. "You are not required to make his contradiction painles
 
 The workshop hammering stopped.
 
-Carter emerged carrying a black field communicator, a tin of paint, and the uneasy expression of a man who had decided to apologise without using any of the dangerous words associated with apology.
+Carter emerged carrying two black field communicators and a tin of paint. He stopped at the edge of the grass before coming over.
 
 He crossed the lawn and stepped directly on the empty place where Rupert had picked the daisy.
 
@@ -102,15 +84,25 @@ Rupert looked down at the crushed leaves beneath his boot.
 
 Of course.
 
-"Made this," Carter said. "Old band. Direct signal. Civic grid can't listen unless it remembers technology from before it developed manners. One for you, one for Chel."
+"Made these," Carter said. "Old band. Direct signal. Civic grid can't listen unless it remembers technology from before it developed manners. One for you, one for Chel."
 
 "Why?"
 
 Carter shrugged. "You two are always disappearing into buildings that don't work."
 
-It was an apology. A poor one. A useful one.
+Rupert left Carter holding them.
 
-Rupert took the communicator. Its casing was scratched, its antenna slightly crooked, and one corner bore a dent Carter had not bothered to remove.
+"You knew I was in there."
+
+"I wasn't talking about you."
+
+"That was what Chel said."
+
+Carter looked at her. She waited.
+
+"I shouldn't have said it," he muttered.
+
+Rupert took one communicator. Its casing was scratched, its antenna slightly crooked, and one corner bore a dent Carter had not bothered to remove.
 
 "It is hideous," he said.
 
@@ -118,7 +110,7 @@ Rupert took the communicator. Its casing was scratched, its antenna slightly cro
 
 Rupert held it against his chest. "I shall improve it."
 
-He opened the paint and began adding flowers to the casing. Small yellow daisies first, then green stems curling around the damaged corner. Chel joined him, drawing hers larger and less carefully.
+He opened the paint and began adding flowers to the casing. Small yellow daisies first, then green stems curling around the damaged corner. Carter handed Chel the other set. She joined Rupert, drawing hers larger and less carefully.
 
 Carter stood over them pretending to regret the entire gesture.
 
@@ -128,12 +120,5 @@ Carter stood over them pretending to regret the entire gesture.
 
 The answer pleased him. He tried not to show it.
 
-Years later, in the cafe, Carter would place that same communicator in Rupert's hand after he tore out the device meant to turn him into a weapon. The paint would be worn nearly smooth. Carter would carry the pattern from memory after leaving the radio beside Rupert's body.
+Carter sat down beside them. Chel leaned against Carter's leg. Rupert painted daisies. Carter complained when a yellow thumbprint appeared on his boot.
 
-For now, the three of them sat in the garden. Chel leaned against Carter's leg. Rupert painted daisies. Carter complained when a yellow thumbprint appeared on his boot.
-
-None of them knew how little time they had.
-
-That ignorance was not a failure.
-
-It was what allowed the afternoon to be ordinary.
