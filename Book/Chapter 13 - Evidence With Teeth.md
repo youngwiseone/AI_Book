@@ -80,7 +80,7 @@ Carter crossed two wires.
 
 The dwarf's loading arm fired.
 
-Its steel hand struck the creature square in the chest and drove it backwards into the corridor. Carter twisted the wires together. The arm kept pushing, old hydraulics shrieking, until creature, door, and half the surrounding wall disappeared beneath another collapse.
+Its steel hand struck the man square in the chest and drove him backwards into the corridor. Carter twisted the wires together. The arm kept pushing, old hydraulics shrieking, until the man, the door, and half the surrounding wall disappeared beneath another collapse.
 
 The floor moved under them.
 
@@ -94,7 +94,7 @@ Another slab struck the floor between them and the doorway. Carter pulled her ba
 
 LaN found the emergency route. They climbed through a ventilation trench as the factory settled behind them. Carter pushed Rae ahead where the gap narrowed, then passed LaN through after her. By the time he pulled himself into the rain, the south roof had begun sinking into its own smoke.
 
-He did not stop at the perimeter. Government medics would report them. Council security might finish what the creature had started. A site van stood outside the gate with its driver's door open and the engine running. Its driver was at the fence, shouting at people to get clear of the building. Carter pulled the rear door open and laid Rae across the seat.
+He did not stop at the perimeter. Government medics would report them. Council security might finish what the attack had started. A site van stood outside the gate with its driver's door open and the engine running. Its driver was at the fence, shouting at people to get clear of the building. Carter pulled the rear door open and laid Rae across the seat.
 
 "That yours?" LaN asked.
 
@@ -120,7 +120,7 @@ Carter checked the torn lining. Nothing.
 
 Under magnification, Carter found the government procurement mark. Beneath that, nearly hidden by the living fibres, was a second mark cut by hand.
 
-It matched the notation on the creature's harness.
+It matched the notation on the man's harness.
 
 Rae had said one word before losing consciousness in the transport.
 
@@ -133,5 +133,6 @@ The news reported their deaths just after midnight.
 He watched his own face appear beneath the word `CASUALTY`, then looked at Rae breathing under one of his old work shirts.
 
 For once, the official lie might keep them alive long enough to expose the larger one.
+
 
 
