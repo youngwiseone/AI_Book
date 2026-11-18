@@ -98,9 +98,41 @@ The older man jabbed his sign toward the casualty numbers overhead. "Blind? Two 
 
 "It sounds like sabotage."
 
-"It sounds like you trusted a machine, robot sympathisor." He spat the words out.
+"And if it is sabotage?" Rae asked the older man.
 
-The supervisor could explain the delays. He could not explain the dead. Rae had seen enough in the Hive to doubt the council's account, but she could not yet dismiss the older man's anger.
+He turned his placard towards her. "Still want her out."
+
+"Even if she didn't do this?"
+
+"She moved the night freight into our lane. Good route. Shorter. Goes straight past forty bedrooms."
+
+"You can appeal a routing decision," the supervisor said.
+
+The man took a folded notice out of his pocket. Rain had run the ink at one edge.
+
+"Three times. Same answer. Optimised against district demand. Who do I argue with?"
+
+Rae read the reference number. The notice confirmed a review, not who had conducted it.
+
+"That doesn't tell you what happened at Clona," she said.
+
+"No. Neither does his sabotage."
+
+The supervisor opened his mouth, then closed it.
+
+"I want the records," the man said. "Not another notice telling us it's settled."
+
+Rae held out her hand for the paper. He did not let go of it.
+
+"Your name?" he asked.
+
+"Rae Anderson. I'm investigating Clona."
+
+"Then you can copy it. I need the original."
+
+LaN took an image. On the reverse was a residents' contact number and a name: Tom Vale. The older man refolded the notice before the rain could reach the inside.
+
+"If you find out, tell us," he said. "Not just the people who've already picked a side."
 
 The woman by the wall had stopped arguing. She stood with one hand against her brother's photograph while the chants passed on either side of her.
 

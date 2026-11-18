@@ -118,6 +118,10 @@ She wrote his name beside the delivery entry and turned the sheet towards him. H
 
 Blade took the receipt. Rae put the archive in the locked cabinet beneath her bench, separate from the day's repairs.
 
+A meeting notice lay on Rae's desk beneath a half-repaired lamp. Tom Vale had sent the questions ahead this time. The freight lane was on them again. Rae added today's archive decision beneath his questions. His residents' group had published the finding that cleared A.R.I. of causing Clona; they had not withdrawn their objections to her governing them.
+
+Rae had promised to go. She still needed to write down what she could answer and what she couldn't.
+
 The dockworker chose the slower mechanical repair. Carter emerged to do the work, wiped his hands on a rag, and explained each part badly enough that Rae translated. The man's fingers moved again before lunch.
 
 Later, when the queue had shortened, a small service intelligence arrived alone. Its shell was obsolete and one wheel dragged across the floor.

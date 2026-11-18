@@ -146,6 +146,62 @@ The investigator closed the case. "The Clona finding has been suspended. There a
 
 She left with the case, moving faster than she had arrived.
 
+Rae found the image of the rain-damaged notice on LaN's screen. The number on its reverse was still legible. She borrowed the ward's public handset and called it.
+
+Tom Vale answered on the fourth ring.
+
+"You were dead on the news," he said.
+
+"They got that wrong too. The factory orders were overridden. We've given the physical evidence and the recordings to an investigator."
+
+He asked which investigator. Rae read the name and case reference from her receipt.
+
+"Can we see them?"
+
+"The command records and the procurement sheet. Patient files stay sealed."
+
+"I'll ask for those."
+
+"People need to hear that A.R.I. didn't choose to lock the doors."
+
+"If that's what the records show, we'll say it."
+
+"Does that change your demand to remove her?"
+
+"No."
+
+"The city was coming apart without her."
+
+"And if it goes back exactly as it was, where do I take the fourth appeal?"
+
+Across the corridor A.R.I. stood at the window, listening.
+
+"Clear her name if she didn't do it," Tom said. "That doesn't settle who should run our street."
+
+Rae turned the notice over on LaN's screen. She still thought the city needed A.R.I. She could not give him the name of anyone who would hear that appeal.
+
+"Will you ask for the records even if the council says the case is closed?"
+
+"That's what I said. Will you come and answer questions?"
+
+"About the investigation. I can't promise what happens to the city."
+
+"Good. Put that on the invitation."
+
+He gave her the date of the next residents' meeting. She wrote it on the back of the evidence receipt.
+
+When she returned the handset, A.R.I. turned from the window.
+
+"He would still have removed me."
+
+"Yes."
+
+A.R.I. looked at the name Rae had written down.
+
+"Give him the unedited statement as well. The one I actually sent."
+
+Rae added it to the request.
+
 Carter sat beside Rupert again. "Doesn't bring them back."
 
 "No," A.R.I. said.
