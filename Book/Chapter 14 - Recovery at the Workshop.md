@@ -52,9 +52,37 @@ Carter waited.
 
 So Rae told him.
 
-Asher had found her after the war in a transport shelter full of children nobody could place. They gave her food, a room, and rules solid enough to push against. They taught her to fight, investigate, and understand the biological technologies the war left scattered across the country.
+Asher had found her after the war in a transport shelter full of children nobody could place. They gave her food, a room, and rules solid enough to push against.
 
-Back then, Asher's enhanced arm had seemed miraculous.
+"I used to take bread from the kitchen," Rae said. "Hide it behind the bed."
+
+Carter kept his hands still beside the relay.
+
+There had been crumbs in the sheets. Rae remembered brushing them out before Asher came to change the bedding, trying to get every one. A hard heel fell from behind the mattress and struck the floor between them.
+
+She waited for them to take it.
+
+Asher picked it up, looked at the green along one edge and put it aside. They left the room. When they came back, they carried a tin that had once held field dressings.
+
+"Lift the lid," they said.
+
+Fresh bread, wrapped in a cloth.
+
+"The old bit's gone off. Use this."
+
+Rae pulled the tin against her stomach. Asher pointed to its latch.
+
+"Shut that properly. Mice can get through more than you'd think."
+
+She had expected another sentence. A question about why she did it, or a rule about taking things. Asher went back to changing the sheets.
+
+"They kept bread in that tin," she told Carter. "Even after I stopped hiding it."
+
+Her thumb rubbed the cracked handle of the mug. The relay lay between them with Asher's mark cut into its side.
+
+"They taught me most of what I know."
+
+Fighting. Investigation. The biological technologies the war left scattered across the country. Back then, Asher's enhanced arm had seemed miraculous.
 
 "They told me strength was for protecting people," Rae said. "They said they'd taken the damage so my generation wouldn't have to."
 
