@@ -262,13 +262,3 @@ There had to be something in the code they were still not seeing. She put A.R.I.
 
 At that moment, the chamber doors opened hard enough to break the room's manufactured calm. Carter Mitchell came through them with workshop grease still under his nails and rain on his jacket, as if someone had dragged practical reality straight into the shrine.
 
-He took one look at the suspended data and snorted. "Talking to that thing is going to get you nowhere. Stop asking the software what it thinks happened."
-
-Blade exhaled through his nose. "Carter.."
-
-Carter ignored him and kept his eyes on Rae. "Show me the factory. Real valves, real locks. Real dead hardware. If something murdered those people, the machine logs aren't where they started."
-
-Rae did not like how quickly that cut through the problem.
-
-She had reached the edge of what thought alone could extract from the system. Carter, irritatingly, had recognized it on sight.
-

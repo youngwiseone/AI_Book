@@ -190,13 +190,25 @@ Carter ignored him and fixed on Rae instead. He did not know her yet, but she lo
 
 "Show me the factory," he said. "Real valves, real locks, real dead hardware. If something murdered those people, the machine logs are not where it started."
 
-The room changed, and in the moment so had Carter. He would find what did this no matter if the AI was to blame or not. Seeing A.R.I had jolted something inside of him.
+Rae did not move towards the door.
 
-Rae's posture sharpened rather than recoiling. Good. A.R.I. watched him with unsettling steadiness, but did not interrupt. Blade looked irritated in the particular way powerful men did when a practical interruption had just knocked their carefully managed conversation off script.
+"Which lock would you start with?"
 
-Rupert came up beside him at last, one hand half-raised as if deciding whether the moment could still be rescued into professionalism. He looked over at Blade and let the hand fall again. It could not. He had expected this from Carter, just not quite so abruptly.
+"The one that didn't open."
 
-For a brief moment the room seemed to settle into a new shape. Rae turned fully toward Carter, already recalculating. Blade's irritation eased into the look of a man reluctantly admitting a point had landed. Even A.R.I. shifted her attention toward the physical site of the disaster, as if Carter had knocked the conversation back onto useful rails.
+"There's more than one."
+
+She brought two lines out of the suspended display and set them beside each other. Carter could read enough to see the repeated command and the different authority fields.
+
+"This record carries two authority chains," she said. "We don't know what accepted the second one."
+
+He looked at the second line again. There would have been something at the factory to receive it. A controller. A bridge. Not just words in the air.
+
+"Keep that one," he said, pointing. "I want to know what it was plugged into."
+
+A.R.I. enlarged it.
+
+Rupert came up beside him. Carter moved over without looking away from the display.
 
 "Then we go to Clona," Rae said. "In person."
 
