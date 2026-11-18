@@ -20,6 +20,18 @@ He wore a dark grey suit and the expression of a man trying not to run. Carter k
 
 Rupert did, humour falling away as he saw the box.
 
+His wrist unit blinked. He entered something before turning it face down.
+
+"Still at work?" Carter asked.
+
+"Checking on A.R.I. The monitor says she's intact. That's all it will give me."
+
+"Can she hear you?"
+
+"I don't know. I put where I am in the check. In case she can read it."
+
+He waited another moment. Nothing more came back.
+
 Carter opened it beneath the table. The wetware relay lay inside on a folded workshop rag.
 
 Rupert did not touch it. "Where did you find this?"

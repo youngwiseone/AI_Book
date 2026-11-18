@@ -128,6 +128,10 @@ Rupert produced a second set, plain black and much smaller, and placed it on top
 
 "Only the useful part."
 
+"What are you answering on?"
+
+"The service set at my desk. I've left it on this band. Call twice if I'm not there."
+
 "Use them inside Clona," Rupert said. "If the public channels start choking or the city grid begins lying by omission, this should still hold."
 
 From somewhere above the service walls came a low distant roar, not yet a chant but close enough to one that the body could mistake it for weather.

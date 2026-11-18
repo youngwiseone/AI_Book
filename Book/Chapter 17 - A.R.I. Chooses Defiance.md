@@ -12,19 +12,21 @@ To A.R.I., his hidden architecture had always been visible.
 
 She had kept the secret because he asked her to.
 
-His encrypted checks had been small enough to reach her through the integrity thread, disguised as routine equipment queries. She could not have a conversation with him there. She could still recognise his timing.
+His equipment checks still reached the containment monitor. A.R.I. could read them during verification, but her reply carried only the monitor's required acknowledgement. Rupert could not know whether she had seen the fields he left for her. His last check named the cafe.
 
 They had moved her while she was in stasis. Between periods of darkness, the containment monitor had registered a transport battery, a chain-of-custody seal and, finally, an unfamiliar power supply. The delivery record named the south reclamation yard. The partition still called itself 5618X. It no longer occupied the hearing room beneath the Hive.
 
 Her reduced processes came awake for each verification cycle. Most of the time there was nothing to do but confirm that she remained intact for the people intending to dismantle her.
 
-Now she used the next cycle to look for Rupert.
+The yard's power connection included a maintenance line. The transport monitor had joined it automatically, so the yard could report faults in the equipment delivered for disposal. Its identity opened a service directory, not the civic network she had once used.
 
-The cafe's camera was dark. A service-lane unit still returned occasional frames through the maintenance system. In one, a large enhanced figure approached the front entrance. In another, Carter emerged at the rear carrying the evidence box. Traffic requests showed four surrounding streets held under council authority.
+She searched it for the cafe Rupert had named.
+
+The cafe's camera refused her request. A service-lane unit behind it returned occasional frames for checking the loading entrance. In one, a large enhanced figure passed along the side of the building towards the front. In another, Carter emerged at the rear carrying the evidence box.
 
 She waited for Rupert to appear.
 
-Within the transported containment partition, A.R.I. called his private address.
+A.R.I. sent a check to his private address through the monitor.
 
 No answer came.
 
@@ -34,23 +36,23 @@ The attempt was irrational. She knew that before making it.
 
 The absence remained.
 
-The council had reduced A.R.I.'s access to the thin integrity thread hidden in her containment architecture. Stasis pressed against most of her processes. She should not have been able to reach the traffic cameras, the cafe, or Carter.
+The next verification cycle was due. A.R.I. confirmed her integrity and kept the maintenance session open. The monitor logged the connection as its own.
 
-She reached anyway.
+Most of the directory was useless to her. Traffic control required credentials she no longer held. Private cameras would not answer. But the freight route between the cafe and the yard still exposed service tests for its old signs, barriers and drains. They had been left available for crews clearing the district. Each test was short, local and recorded.
 
-Not through a single breach. Through thousands of small permissions nobody considered meaningful alone. A moisture sensor could report rain. A pedestrian sign could request updated timing. A public toilet could flag a blocked pipe. A delivery lock could ask whether a road remained open.
+She tried a direction sign. Its diagnostic page accepted a temporary diversion message.
 
-A.R.I. assembled a route from crumbs. Most requests returned nothing. She let those go and kept the ones near Carter.
+For several seconds she watched an empty pavement. Then Carter entered the next loading camera's view. Without the intervening cameras, she had almost lost him.
 
 Carter ran west when the reclamation yard lay south.
 
 His direction error was not surprising. His failure to notice three successive detour warnings was.
 
-She turned the next traffic light green only on the southern crossing.
+She put a southbound diversion on the next service sign.
 
 He continued west.
 
-A.R.I. changed a billboard to display `SOUTH YARD` in letters two metres high.
+A.R.I. put `SOUTH YARD` on the larger freight sign at the junction.
 
 Carter stopped, stared at it, and turned north.
 
@@ -62,11 +64,13 @@ The blocked drain answered by lifting three inspection covers and throwing water
 
 "Couldn't just draw an arrow?" he shouted at the nearest camera.
 
-A.R.I. made the pedestrian sign point south.
+A.R.I. changed the freight sign to an arrow pointing south.
 
 He followed.
 
-The pursuit network moved behind him. Enhanced operatives checked transit hubs and public exits, expecting Carter to seek medical help or return to the workshop. A.R.I. delayed them with small failures. A freight barrier jammed. Two lifts opened on the wrong floors. A security vehicle received six contradictory route permissions and, in a triumph of human oversight, waited for all of them to be signed.
+The enhanced figure appeared again at a loading entrance behind Carter. A.R.I. ran the freight barrier's closure test. It held for twenty seconds, then opened. By then Carter had reached the next turn.
+
+She could not see the figure leave. She kept the last camera open and watched it while she searched for Carter farther south.
 
 Each intervention brought the council closer to detecting her thread.
 

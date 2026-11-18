@@ -48,6 +48,10 @@ Blade stood near the artificial stream with his arms folded. "Then the factory i
 
 Rupert covered a smile with one hand.
 
+His wrist unit sent its usual equipment check while his hand was raised. A.R.I. returned the small acknowledgement. To the maintenance system it was a test from a staff terminal; to her it carried Rupert's private identifier. He had used it for months, checking whether she was still there when public access went down.
+
+It could carry a few fields, not speech. He had once tried fitting a complaint about Carter into the fault-description box. It had been too long.
+
 A.R.I. let the exchange pass. Her attention remained on the smooth sensor trace. A false input had entered her reasoning with the correct authority, correct timing, and correct relationship to every other source. She had not made an error. Someone had designed a lie she was built to accept.
 
 That fact did not comfort her.
