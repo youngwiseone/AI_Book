@@ -24,7 +24,7 @@ That fact sat heavily in her mind now.
 
 When the doors finally opened, light struck hard enough to make her blink.
 
-Stepping into the underground complex felt like walking into broad daylight. Terraces opened beneath an artificial sky. Engineers crossed glass bridges. Maintenance dwarves rolled between work crews carrying cable spools and replacement housings. Below them, construction teams were taking out a wall while another crew raised a new support ring.
+Stepping into the underground complex felt like walking into broad daylight. Terraces opened beneath an artificial sky. Engineers crossed glass bridges. A squat, round-bodied maintenance dwarf rolled between the work crews with a cable spool clamped against its metal chest. Its moulded face wore a broad smile. Below them, construction teams were taking out a wall while another crew raised a new support ring.
 
 A crew below the walkway was fitting a new computation bank around a squat iron distribution unit. The new frame had a gap cut into it to leave the old inspection hatch accessible. One worker held a length of conduit while another bent it round the obstruction.
 
