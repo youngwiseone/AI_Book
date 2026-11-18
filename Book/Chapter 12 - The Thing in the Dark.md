@@ -2,7 +2,7 @@
 
 Rae knew she had found something important when the factory tried to take LaN from her.
 
-One moment he hovered beside the opened control rack, projecting the hidden alignment marks over its burned housing. The next, a hand closed around his body and pulled him into the dark.
+Rae backed away from the bending metal, her taser aimed at the gap beside the control rack. LaN turned his light towards it. A hand came over the rack, closed around his body and pulled him into the dark.
 
 His screen flashed red.
 
@@ -10,7 +10,7 @@ His screen flashed red.
 
 The light vanished.
 
-She dropped the relay she had been examining and drew her taser. The service room seemed to grow larger without LaN's glow. Broken machinery crowded the walls. Water struck hot metal somewhere beyond the doorway, each drop answering with a small angry hiss.
+She raised the taser towards the sound. The service room seemed to grow larger without LaN's glow. Broken machinery crowded the walls. Water struck hot metal somewhere beyond the doorway, each drop answering with a small angry hiss.
 
 "LaN?"
 
@@ -84,7 +84,7 @@ LaN emitted a burst of interference. The control implant sparked. For half a sec
 
 Then the outside signal returned.
 
-Rae tore free, leaving half her coat in its hand. She ran between the machine rows while the creature came after her in crashing bursts. Each impact shook loose more of the already damaged ceiling. Dust fell in pale sheets. Somewhere ahead, beyond two walls of dead equipment, Carter shouted her name through the old communicator.
+Rae tore free, leaving half her coat in its hand. The evidence sleeve holding the laboratory relay fell from the torn pocket. A plated foot came down on it before she could reach it. She ran between the machine rows while the creature came after her in crashing bursts. Each impact shook loose more of the already damaged ceiling. Dust fell in pale sheets. Somewhere ahead, beyond two walls of dead equipment, Carter shouted her name through the old communicator.
 
 "South machine hall," she gasped. "Not alone."
 
@@ -117,3 +117,4 @@ As her sight narrowed, Rae saw Carter on the far gantry with both hands around a
 Rae tried.
 
 The ceiling came down first.
+

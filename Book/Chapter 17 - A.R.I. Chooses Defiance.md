@@ -54,7 +54,7 @@ A.R.I. changed a billboard to display `SOUTH YARD` in letters two metres high.
 
 Carter stopped, stared at it, and turned north.
 
-Even in grief, he retained a remarkable resistance to assistance.
+He had missed the message. She tried another way.
 
 The public toilet block on the northern corner had been closed for repairs. Its service notice still offered a pressure-test command. A.R.I. checked the maintenance crew's departure record, then opened the flushing valve.
 
@@ -140,7 +140,7 @@ He shut his eyes. "Send before you move."
 
 "Carter, what's happened?"
 
-He pressed the handset against his forehead. He could say Rupert's name. He had said it a dozen times on the way here. He couldn't make himself put what came after it into this thing.
+He pressed the handset against his forehead. His lips moved, but A.R.I.'s microphone caught nothing.
 
 "I can't do it over the radio."
 
@@ -166,7 +166,7 @@ Carter looked around the graveyard. "Chel asked me once to build a body for an i
 
 "It was not."
 
-Something shifted in his face. Not a smile, but the memory of one.
+He gave a short snort and wiped his face on his sleeve.
 
 He walked among the discarded bodies, assessing frames by touch and sight. A courier shell had intact balance systems. A military salvage unit held compact actuators but too much armour. Two obsolete care machines offered sensory arrays designed around proximity to fragile humans.
 
@@ -180,7 +180,7 @@ He walked among the discarded bodies, assessing frames by touch and sight. A cou
 
 "You'll get plenty of those once I start."
 
-A.R.I. considered the body taking shape in his mind. Limited strength. Local sensory range. No automatic access to the city's infrastructure. Distance would become physical. Damage would become immediate. For the first time, the end of a room might prevent her from knowing what lay beyond it.
+A.R.I. considered what he could build from those parts. Limited strength. Local sensory range. No automatic access to the city's infrastructure. Distance would become physical. Damage would become immediate. For the first time, the end of a room might prevent her from knowing what lay beyond it.
 
 It frightened her.
 
@@ -271,5 +271,6 @@ Carter disconnected Chel's radio and wrapped it in its rag. He put it back with 
 He read out the truck's receiver number. The acknowledgement took long enough that A.R.I. had to practise standing while they waited.
 
 "Let's go get her," Carter said.
+
 
 

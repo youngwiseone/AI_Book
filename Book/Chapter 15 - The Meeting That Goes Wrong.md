@@ -24,7 +24,7 @@ Carter opened it beneath the table. The wetware relay lay inside on a folded wor
 
 Rupert did not touch it. "Where did you find this?"
 
-"Inside an AI at Clona. Rae found the same build inside an enhanced attacker. Government mark on one side. Asher's notation on the other."
+"Inside an AI at Clona. Rae found matching hardware in the laboratory. The attacker had a control implant and the same notation on its harness. Government mark on one side. Asher's notation on the other."
 
 "Rae is alive, then."
 
@@ -188,7 +188,7 @@ Rupert saw it before Carter did.
 
 "Fifty metres," he said. "Possibly less."
 
-Carter opened his tool roll. "I can get the tracker out."
+Carter opened his tool case. "I can get the tracker out."
 
 "No."
 
@@ -282,11 +282,12 @@ Carter pressed his forehead to Rupert's for one impossible second. Then he laid 
 
 The hunter broke through.
 
-Carter picked up the evidence box and ran through the kitchen while the room came apart behind him.
+Carter slung the tool case over his shoulder, picked up the evidence box and ran through the kitchen while the room came apart behind him.
 
 He did not look back. If he looked back, he would stay. Rupert had purchased his escape with the only life he had, and Carter would not make that choice worthless simply because following it hurt.
 
 By the time he reached the alley, grief had become a physical thing beneath his ribs.
 
 Under it, anger began to burn.
+
 

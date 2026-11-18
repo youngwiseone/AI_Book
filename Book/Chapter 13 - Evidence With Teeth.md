@@ -86,17 +86,29 @@ The floor moved under them.
 
 LaN found the emergency route. They climbed through a ventilation trench as the factory settled behind them. Carter pushed Rae ahead where the gap narrowed, then passed LaN through after her. By the time he pulled himself into the rain, the south roof had begun sinking into its own smoke.
 
-He did not stop at the perimeter. Government medics would report them. Council security might finish what the creature had started. He carried Rae past the outer road to his transport and laid her across the back seat.
+He did not stop at the perimeter. Government medics would report them. Council security might finish what the creature had started. A site van stood outside the gate with its driver's door open and the engine running. Its driver was at the fence, shouting at people to get clear of the building. Carter pulled the rear door open and laid Rae across the seat.
 
-LaN docked beside her with a noise of exhausted machinery.
+"That yours?" LaN asked.
 
-Carter climbed into the driver's seat. In the mirror, the government sheeting around Clona folded inward as another section collapsed. Anyone watching would believe Rae and Carter remained inside.
+"No."
 
-That could be useful.
+He shut the door before the driver turned round.
+
+LaN settled in the footwell beside her with a noise of exhausted machinery.
+
+Carter climbed into the driver's seat. In the mirror, the government sheeting around Clona folded inward as another section collapsed. He kept the van moving.
 
 At the workshop, he cleaned Rae's head wound, bound her ribs, and repaired the worst break in LaN's casing. Only then did he empty the evidence from her coat.
 
-The wetware relay landed on the bench with a soft, unpleasant weight.
+The crushed vial was still sealed in its sleeve. Beside it, the relay LaN had lifted from the service tray landed with a soft, unpleasant weight.
+
+"She took one from the laboratory too," LaN said.
+
+Carter checked the torn lining. Nothing.
+
+"It was crushed," LaN said. "I have the photographs from before she removed it."
+
+"Keep them. Don't clean them up."
 
 Under magnification, Carter found the government procurement mark. Beneath that, nearly hidden by the living fibres, was a second mark cut by hand.
 
@@ -113,4 +125,5 @@ The news reported their deaths just after midnight.
 He watched his own face appear beneath the word `CASUALTY`, then looked at Rae breathing under one of his old work shirts.
 
 For once, the official lie might keep them alive long enough to expose the larger one.
+
 
