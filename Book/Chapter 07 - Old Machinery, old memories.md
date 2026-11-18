@@ -120,17 +120,39 @@ Rupert's mouth twitched. "You say that as if I ought to have thrown it away."
 
 The old thing sat with familiar weight in Carter's hand. Once, years ago, he had built a pair of them out of retired field radios, spare boards, and stubbornness because Chel kept working too late and Rupert kept forgetting to tell anyone where he'd gone. The result had been bulkier than necessary, overpowered for ordinary use, and impossible to kill. Rupert had painted small, tidy daisies on his. Chel's were larger and less careful. Carter still kept hers in the bottom of his tool case, wrapped in a rag that had been clean when he put it there.
 
-He remembered the sound of it crackling alive at two in the morning while rain hammered the workshop roof. Rupert complaining about code. Chel laughing from a lab across town. The easy assumption then that there would be time for all of them to answer tomorrow.
+He remembered the sound of it crackling alive at two in the morning while rain hammered the workshop roof. Rupert complaining about code. Chel laughing from a lab across town.
 
-"I repaired the band filter," Rupert said, pulling Carter back. "It runs peer-to-peer on an old frequency family nobody bothers with anymore. No civic handshake. No pretty routing layer. If someone wants to listen in, they will need to work for it."
+And the night she had not answered.
+
+He had been holding Rupert's set then too. He changed its battery, checked the antenna, took the back off. The contacts were clean. Rupert sat beside the kitchen table while Carter put the screws back in, one at a time.
+
+"Probably left hers on the bench," he had said.
+
+He remembered saying it more than once.
+
+Now he turned the painted set over and offered it back.
+
+"Are you in trouble?"
+
+Rupert looked at the radio, then at him. "I don't know yet."
+
+"That's not reassuring."
+
+"It wasn't meant to be."
+
+Carter kept his hand out.
+
+"You need it at Clona," Rupert said. "I didn't repair it to leave it in my coat."
+
+Carter lowered his hand. His thumb stayed on the nicked petal.
+
+"I repaired the band filter," Rupert continued. "It runs peer-to-peer on an old frequency family nobody bothers with anymore. No civic handshake. No pretty routing layer. If someone wants to listen in, they will need to work for it."
 
 "Too stupid for the modern systems to respect," Carter said.
 
 "Exactly."
 
 He folded his fingers around it.
-
-It was absurd how much feeling could be stored in a blunt little object and the scrape marks on its corners.
 
 Rupert produced a second set, plain black and much smaller, and placed it on top of the painted one.
 
