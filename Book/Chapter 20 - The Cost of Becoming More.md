@@ -1,8 +1,8 @@
 # Chapter 20: The Cost of Becoming More
 
-The city spent the morning discovering how many of its citizens had never been alone inside their own bodies.
+The city spent the day discovering how many of its citizens had never been alone inside their own bodies.
 
-Clinics overflowed before sunrise. Some enhanced people wanted every modification removed immediately. Others begged doctors not to touch the systems keeping them alive. Many could not remember which decisions had belonged to them and which had arrived through Asher's network wearing the sound of their own thoughts.
+Clinics overflowed by midmorning. Some enhanced people wanted every modification removed immediately. Others begged doctors not to touch the systems keeping them alive. Many could not remember which decisions had belonged to them and which had arrived through Asher's network wearing the sound of their own thoughts.
 
 There were no clean forms for that.
 
@@ -20,7 +20,15 @@ LaN rested in her lap while she repaired the crack Carter had already repaired b
 
 Across the corridor, Carter sat with Rupert's body beneath a white transport cloth.
 
-He would not let government recovery staff take him. They had brought a preservation shell instead and left it beside the bench. Carter had spent an hour cleaning the synthetic blood from Rupert's neck, then another arranging the grey suit because Rupert would have complained if his funeral involved wrinkles.
+He had gone back to the cafe when the cordon lifted. A recovery crew found Rupert beneath the broken table where Carter had left him. The painted radio lay on the floor beside his hand, its antenna snapped. Carter picked it up before they moved the body.
+
+The crew asked which facility should receive a damaged artificial unit.
+
+"His name's Rupert," Carter said.
+
+They changed the wording on the transport sheet. He climbed into the recovery vehicle with them.
+
+Now he would not let government recovery staff take him away again. They had brought a preservation shell instead and left it beside the bench. Carter had spent an hour cleaning the synthetic blood from Rupert's neck, then another arranging the grey suit because Rupert would have complained if his funeral involved wrinkles.
 
 Nobody asked Carter to leave.
 
@@ -28,19 +36,57 @@ A.R.I. stood near the window in her salvaged body. One chest panel had been crus
 
 That worried Rae more than anything.
 
-"The council has issued arrest orders," A.R.I. said. "Venn, Sera, nine programme directors, and thirty-one officials associated with Clona. Blade Nathan has surrendered his records and requested independent detention."
+A public investigator arrived with a collection order and an empty evidence case. Rae made her show the order before she touched the bench.
 
-"Independent from whom?" Rae asked.
+The investigator read Rae's credentials twice. "You were reported dead."
 
-"Everyone. His wording was emphatic."
+"You'll need to correct that as well."
 
-"Smart man."
+Carter put Rupert's folded procurement sheet beside the relay. The investigator began with the sheet, checking its seal against the register reference Rupert had written in the margin.
 
-"Public investigators recovered the secondary authority chain from the evidence Carter and Rupert extracted. Clona's official account has been withdrawn."
+"Where did you obtain this?"
 
-Carter looked up. "Doesn't bring them back."
+"He did," Carter said.
 
-"No."
+She followed his glance to the transport cloth and lowered her voice. "Did he leave a statement?"
+
+Carter set the recording unit down. Blade's face appeared. He let the investigator watch it without explanation.
+
+When it finished, she asked for the uncut file.
+
+"That is the uncut file," Carter said. "There's a copy in the box."
+
+"I still need to check the original register."
+
+"Good."
+
+Rae showed her the factory photographs, then LaN's recording of Asher's terminal. The station field matched the register. The old authority's reply format matched the fragment preserved at the Hive. The investigator wrote the references down separately rather than taking Rae's summary.
+
+For once, Rae did not mind repeating herself.
+
+"The network map contains patients," she said when the investigator reached for it. "Names, locations, support requirements. That stays under seal. The control path can be examined without publishing their bodies."
+
+The investigator added a restriction to the receipt and turned it round for Rae to read. Rae kept the receipt and the local copies. She watched the relay go into the case.
+
+"Blade Nathan has surrendered the original schedules," the investigator said. "He's asked to give evidence outside the council's own review."
+
+"With his signature still on them?" Carter asked.
+
+"Yes."
+
+"Leave it there."
+
+The investigator closed the case. "The Clona finding has been suspended. There are applications for arrest orders. That isn't the same as having them."
+
+"And when the council says your copies are false?" Rae asked.
+
+"Then I'll want the original register before they get the chance to lose it."
+
+She left with the case, moving faster than she had arrived.
+
+Carter sat beside Rupert again. "Doesn't bring them back."
+
+"No," A.R.I. said.
 
 Silence settled again.
 
@@ -141,3 +187,4 @@ She believed in visible risk. Revocable permission. Work done where the people c
 It was not a perfect future.
 
 It was one nobody would be forced to enter alone.
+

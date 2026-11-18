@@ -40,6 +40,60 @@ Relief passed visibly through Rupert. Carter had seen versions of that response 
 
 "Never said it was."
 
+Rupert laid a folded sheet beside the box. The creases had been pressed flat with unreasonable care.
+
+"Your requesting station," he said.
+
+Carter recognised the number from the paper strip at Clona. Beside it were dates of renewal and an old military programme code. Two signatures appeared at the bottom. One belonged to a procurement officer he didn't know. The other was Blade's.
+
+"Well."
+
+"I said something rather less restrained."
+
+"You stole this?"
+
+"I requested it. Then I stayed until someone regretted telling me the register existed."
+
+Rupert put a small recording unit on the table. Blade appeared on its screen, seated behind a desk without his coat. An injector case lay open beside his hand.
+
+"That is my countersignature," Blade said. "The renewals were presented as continuity access for the recovery wards. I approved them."
+
+Rupert's voice came from behind the recorder. "Were the factory installations on that schedule?"
+
+Blade slid another sheet into view. Factory equipment numbers ran down its edge. Carter bent closer. Two matched the machines he had opened.
+
+"They were on the attachment," Blade said.
+
+"Did you read it?"
+
+Blade didn't answer immediately. He closed the injector case and moved it out of his way.
+
+"I read the quantities. Not the destinations."
+
+"Why not?"
+
+"Because asking meant a review of the programme. Including the wards. That was the answer I gave myself."
+
+Rupert asked him to turn the attachment over. Blade did. The reference number continued through both sides, and the seal crossed the staple.
+
+"Keep my name on it," Blade said.
+
+The recording ended.
+
+Carter looked at Rupert. "Very generous, now we've found it."
+
+"Yes. Keep that part too."
+
+The sheet was a certified copy. Rupert had marked the register volume and shelf location along its margin. He had also copied the recording onto a second wafer, which he pushed into Carter's evidence box.
+
+"This isn't enough on its own," he said. "It ties the station to the equipment. It doesn't prove which orders went through it."
+
+"The bits in here might."
+
+"That was rather the hope. Also, try not to put your thumb over the seal. I spent an unpleasant afternoon obtaining it."
+
+Carter moved his thumb. Rupert folded the certified sheet, put it and the recorder beside the copied wafer in the evidence box, and tucked the rag over them.
+
 Rupert took out a narrow diagnostic lead and connected it to the relay. Data crawled across his wrist display. The first scan returned clean. The second did too.
 
 "It's lying to you," Carter said.
@@ -174,15 +228,11 @@ Rupert looked down at the hand holding him.
 
 Carter's grip tightened.
 
-"But you do mean the part of Chel that kept taking her away from you. The work. The hours. The thing you could never repair for her because she understood it and you didn't."
+"Sometimes it still sounds like you do."
 
-"This isn't the time."
+"Rupert—"
 
-"It is the only time I have."
-
-The cafe's front window cracked as something heavy struck the outer frame.
-
-Rupert continued quickly. "I spent years knowing you loved me and wondering whether love was the exception you made for a convincing machine."
+The cafe's front window cracked as something heavy struck the outer frame. Carter pulled at his wrist, trying to get him away from the table.
 
 "You're my son."
 
@@ -194,9 +244,9 @@ The glass bowed inward.
 
 Rupert turned his wrist and caught Carter's hand in both of his.
 
-"Chel did not choose A.R.I. instead of you," he said. "She chose work she believed would keep people alive. She was wrong about what it cost you. You were wrong to make every intelligence carry the blame. Both things can be true."
+"You can't fix this here," Rupert said.
 
-Carter's vision blurred. "We can argue about it at home."
+"Then at home." Carter's vision blurred. "We can argue about it at home."
 
 "I would like that."
 
@@ -239,3 +289,4 @@ He did not look back. If he looked back, he would stay. Rupert had purchased his
 By the time he reached the alley, grief had become a physical thing beneath his ribs.
 
 Under it, anger began to burn.
+
