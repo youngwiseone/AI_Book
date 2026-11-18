@@ -2,7 +2,17 @@
 
 The previous evening, Carter had seen Chel in the moonlight again.
 
-Her dark hair whipped around her face in the wind, and the white of her lab coat shone silver against the black sea behind her. She turned toward him smiling, one hand raised as if she were calling him closer, but the wind stole whatever words she meant to say. Then another voice somewhere beyond her caught her attention. Chel glanced toward the cliffs, took a step, lost her footing, and vanished.
+Chel stood near the cliff edge, her white lab coat snapping against her legs. The sea below was black until a wave broke and showed him how far down it was. Salt stung his lips.
+
+She turned and smiled. He could see her mouth forming words, but heard only the wind. He moved towards her, trying to catch what she was saying.
+
+Something glinted below the cliff. Chel leaned to look. Gravel ran from beneath her shoe.
+
+He called her name. The wind filled his mouth.
+
+The edge sagged under her heel. She reached towards him as it gave way, her sleeve briefly within reach. He lunged with both hands open. White cloth flashed below the lip of the cliff, then nothing.
+
+He was still reaching.
 
 Carter woke with a violent start and cracked his head on the underside of the transport vehicle he had been sleeping under.
 
