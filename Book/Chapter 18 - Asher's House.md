@@ -198,7 +198,7 @@ The field set clicked inside Rae's coat. LaN checked the acknowledgement from th
 
 At A.R.I.'s name, Asher moved.
 
-The ordinary hand became a blur aimed at Rae's shoulder.
+The taloned hand became a blur aimed at Rae's shoulder.
 
 Rae threw herself sideways. Asher's talons closed on empty air, then went through the wall behind her. Stone and timber burst across the floor.
 
