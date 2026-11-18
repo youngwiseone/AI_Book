@@ -1,8 +1,8 @@
 # Chapter 19: A.R.I. and Asher
 
-A.R.I. had never before occupied a body while someone hated it.
+A.R.I. had heard people threaten to smash the body in her public chamber. The intelligence answering them had remained safely elsewhere.
 
-She had observed hatred through cameras, microphones, court records, medical sensors, and the public language people used when they wanted cruelty to sound preventative. None of that resembled standing inside Asher's ruined training hall while their gaze travelled over every visible seam Carter had welded into her.
+She had observed hatred through cameras, microphones, court records, medical sensors, and the public language people used when they wanted cruelty to sound preventative. Now she stood inside Asher's ruined training hall while their gaze travelled over every visible seam Carter had welded into her. Her memory housing was behind one of those seams. There was nowhere else to withdraw to.
 
 "That," Asher said, "is what you saved?"
 
@@ -174,7 +174,9 @@ Nessa looked at her. "How do you know that?"
 
 Nessa rubbed the mark where the bridge had pressed into her shoulder. "I thought it was broken."
 
-More came through the house. Nessa dragged the fallen weapon rack across the doorway, then sat behind it to catch her breath.
+More came through the house. Nessa dragged the fallen weapon rack across the doorway. A hand caught its top rail from the other side.
+
+Asher sent another hold command. The hand went still, locked around the rail. Nessa braced a foot against the rack and sat behind it to catch her breath.
 
 Asher watched Nessa. "One body. You cannot open them all by hand."
 
@@ -236,7 +238,11 @@ Rae understood. "If you let them go, then everything you did to keep the program
 
 "It ended," Rae said. "You didn't."
 
-The network surged. The two soldiers still linked to it seized as Asher tried to restore full control. Nessa stayed behind the rack, one hand over her pump.
+The network surged. Asher renewed the movement order. The two soldiers in the room jerked forward; at the doorway the rack scraped towards Nessa. She wedged her heel against its base.
+
+"Stop them," Rae said.
+
+Asher returned them to hold. The rack stayed where it was. Nessa kept her foot against it, one hand over her pump.
 
 A.R.I. reached through LaN into the exposed local relay. She could not give a remote release without Asher's authority. She could change which responses reached their display.
 
@@ -352,7 +358,7 @@ Rae laughed once through tears. "She's difficult like that."
 
 Their hand went slack in Rae's.
 
-Around them, the freed enhanced soldiers began helping one another from the floor.
+Around them, the freed enhanced soldiers began helping one another from the floor. The hand on the rack finally opened. Nessa let its owner pull the obstruction clear, then took the arm he offered her.
 
 Carter sat against the broken training post, holding the wrench Rupert had first learned to use as a child.
 

@@ -198,7 +198,7 @@ He walked among the discarded bodies, assessing frames by touch and sight. A cou
 
 "You'll get plenty of those once I start."
 
-A.R.I. considered what he could build from those parts. Limited strength. Local sensory range. No automatic access to the city's infrastructure. Distance would become physical. Damage would become immediate. For the first time, the end of a room might prevent her from knowing what lay beyond it.
+A.R.I. considered what he could build from those parts. Limited strength. Local sensory range. No automatic access to the city's infrastructure. The body in her public chamber had been an interface; breaking its hand would not have damaged the mind behind it. Here, the mind would have to fit inside the frame. Distance would become physical. Damage would become immediate. For the first time, the end of a room might prevent her from knowing what lay beyond it.
 
 It frightened her.
 

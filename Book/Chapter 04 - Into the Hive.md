@@ -48,7 +48,7 @@ The answer sank in slowly.
 
 Rae had known A.R.I. ran the city. She had not truly pictured what that meant at a physical level. Not just one machine thinking inside a box, but an intelligence constantly redesigning the architecture that allowed it to think bigger.
 
-Nationwide scale, Blade had implied upstairs. The facility had already begun growing toward that future.
+Rae wondered how far beyond the city those new banks were meant to reach. There was still room for more.
 
 That made the Clona accusation feel even stranger. If A.R.I. truly managed systems this vast with the precision everyone claimed, then a catastrophic failure at a factory should have been an aberration almost too sharp to believe. Yet there were the dead. Hundreds of them. Real human lives lost, enough to poison every conversation above ground.
 
