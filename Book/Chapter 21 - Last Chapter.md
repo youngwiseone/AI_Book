@@ -86,21 +86,37 @@ He placed a sealed archive on Rae's bench.
 
 "Asher's surviving research," he said. "Including the network records and the names of every person connected to it. The council wanted the dangerous portions destroyed."
 
-"And you brought them here?"
+Rae moved it away from the dockworker's open repair tray.
 
-"Destruction is how this started. Secrets, scarcity, one authority deciding which discipline could be trusted. The old histories say the Original Intelligence made the same choice before the war."
+"Does the investigator have a copy?"
 
-A.R.I. looked up from the drone.
+"Yes. This is for the work you're doing here."
 
-The remark passed through the room without becoming the day's crisis. The Original Intelligence remained in its distant temples, revered by some, distrusted by others, and woven too deeply into history to confront with one recovered file. Its ancient lie belonged to a larger reckoning.
+"Then the patient records stay sealed."
 
-Clona belonged to them now.
+"I thought you wanted it public."
 
-Rae accepted the archive. "It goes public after we remove private medical details. All of it."
+"The research. Not a list of people and where to find their implants."
 
-Blade nodded. "Asher would hate that."
+Blade looked at the archive. "The council will call all of it dangerous."
 
-"They hated lots of useful things."
+"They can put that in writing."
+
+A.R.I. left the drone and came to the bench. "We need to check which bridges are still installed before releasing the control instructions. Removing names would not protect anyone still connected."
+
+Rae took a clean job sheet and wrote the archive number at the top.
+
+"Those go to the people disconnecting them first. We keep a record of what we've held back and why. No quietly losing pages."
+
+She wrote his name beside the delivery entry and turned the sheet towards him. He read it before signing.
+
+"The old histories say the Original Intelligence did this before the war," he said. "Kept deciding who could be trusted with what."
+
+"Then give us the histories as well."
+
+"I don't have the originals."
+
+Blade took the receipt. Rae put the archive in the locked cabinet beneath her bench, separate from the day's repairs.
 
 The dockworker chose the slower mechanical repair. Carter emerged to do the work, wiped his hands on a rag, and explained each part badly enough that Rae translated. The man's fingers moved again before lunch.
 
@@ -156,8 +172,6 @@ She joined him at the door. Beyond the lane, the city continued in glass, stone,
 
 Carter approved of anything important enough to argue over.
 
-There would be other disasters. The Original Intelligence still kept its temples and its hidden history. The technologies Asher abused could heal as easily as harm, and that truth made them harder to reject than any simple evil. A.R.I.'s existence had asked a question the world could postpone but no longer erase: whether a created mind belonged to its maker, its purpose, or itself.
-
 Inside, the little service intelligence rolled once across the floor to test its wheel. Carter went back in and found a spare wheel pin, put it in a bag and wrote the size on the outside.
 
 "Spare," he said. "Don't lose it."
@@ -165,5 +179,3 @@ Inside, the little service intelligence rolled once across the floor to test its
 Carter switched off the outer light. The yellow daisy above the door held the last of the evening sun.
 
 Tomorrow, something else would break.
-
-They would decide together what repair meant.
