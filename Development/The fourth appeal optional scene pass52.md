@@ -1,5 +1,7 @@
 # The fourth appeal
 
+> **Status update, pass53:** Integrated into Chapter21 with a shorter opening evidence review. The text below is retained as the earlier optional draft for comparison, not a separate meeting or an additional scene to insert.
+
 **Optional interstitial scene, not inserted into the manuscript.** Proposed placement: after Chapter20 and before the six-month workshop ending. The residents' meeting is already promised; its events, supporting characters and freight arrangements below are new development choices. This does not resolve the wider reconstructed-human history or establish a final city constitution.
 
 ---
