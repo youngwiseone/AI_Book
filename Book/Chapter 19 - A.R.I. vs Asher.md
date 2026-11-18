@@ -162,6 +162,18 @@ The woman opened her hand, closed it, then put it against her own face.
 
 Rae took her hand away.
 
+"Bed six?" she asked.
+
+Nessa looked at her. "How do you know that?"
+
+"Your call unit. At Clona. We found the recording."
+
+"I kept pressing it."
+
+"The light was still on."
+
+Nessa rubbed the mark where the bridge had pressed into her shoulder. "I thought it was broken."
+
 More came through the house. Nessa dragged the fallen weapon rack across the doorway, then sat behind it to catch her breath.
 
 Asher watched Nessa. "One body. You cannot open them all by hand."
@@ -347,5 +359,6 @@ Carter sat against the broken training post, holding the wrench Rupert had first
 A.R.I. stood between two kinds of wreckage and understood that nobody in the room had won.
 
 They had only ended one form of ownership.
+
 
 

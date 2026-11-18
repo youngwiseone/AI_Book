@@ -180,6 +180,30 @@ Rae turned the cup with her light. No name. Just a brown ring where the last of 
 
 "Get that as well," she said.
 
+A call unit hung from the frame by a short lead. Its button had been worn almost blank. An amber light remained on above the word PENDING.
+
+Rae checked the markings before touching it. The review switch was separate from the call button. She pressed it.
+
+A woman's voice came out of the little speaker.
+
+"Nessa. Bed six. I said no to the transfer. Can somebody come down here?"
+
+A click, then the same voice, closer to the microphone.
+
+"The button says it's sent. I'm still here."
+
+Rae waited. There was no reply on the recording.
+
+"Can you date it?" she asked.
+
+"The unit's clock has reset."
+
+"Copy it anyway. Include the unit number."
+
+She looked along the empty frames. A name and a request, and no way to tell whether the woman had left this room on her feet.
+
+Rae left the amber light on.
+
 LaN's scan passed over the central rig. "The gel reservoir is warm. Heater still active."
 
 "How recently was it used?"
@@ -255,4 +279,5 @@ Rae looked toward the footprint.
 Only static answered.
 
 Behind her, deeper in the laboratory, metal began to bend.
+
 
