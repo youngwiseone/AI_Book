@@ -182,9 +182,49 @@ LaN said, "Manual review backlog has spread into metro dispatch, municipal freig
 
 One train on the far line overshot its mark by half a carriage and had to jerk backward under shouted instructions from a station operator. Across the tracks, two maintenance drones sat motionless with their route lights blinking for permission that had not arrived.
 
-Rae watched a nurse in blue scrubs miss her connection because Platform Three had just become Platform Five and no one on the overhead system seemed sure whether that was still true. She watched a delivery driver throw both hands in the air at a dead gate that had never before needed convincing. She watched a man in a funeral sash buying coffee with hands that would not quite steady.
+A delivery driver had stopped at the dead gate to their platform. His loaded trolley blocked half the passage. WAIT FOR AUTHORISATION blinked above him.
 
-Invisible systems only became visible when someone wanted to teach people who owned them.
+A woman in a patched maintenance coat squeezed past the trolley. Bony ridges ran from her jaw into the collar. A temple badge had been sewn over an older transit badge, leaving its orange edge visible.
+
+She touched a little ceramic plate hanging at her throat. It was a broken piece of circuitry, its gold tracks rubbed dull.
+
+"Keep the lost," she said. "Bring the living home."
+
+Carter looked at the plate. "Does that still answer?"
+
+"Not in my time. Hold this."
+
+She handed him her lamp and unlocked the gate's lower panel. Carter held the light where she pointed. Behind the new display sat a much older mechanism, green corrosion climbing its terminals. A bundle of replacement wires had been tied out of the way with string.
+
+"Temple looks after the gates now?" Rae asked.
+
+"Temple pays me. Transit stopped."
+
+The woman tapped a worn lever. "Lift that. Slowly."
+
+Carter reached in. The gate gave an inch, caught, then opened as she freed the mechanical stop. The display continued asking for permission.
+
+"Keep it there."
+
+Rae caught the trolley before it rolled back into the people behind it. The driver pushed through. The woman waved the waiting passengers after him, counting them under her breath.
+
+Carter watched her work. "You need a new return spring."
+
+"I know. They sent another display."
+
+When the passage was clear, she set the hold-open catch and let him lower the lever. He took his hand out, and she closed the panel.
+
+From above came another burst of chanting. No machine gods.
+
+The woman put the circuit fragment back beneath her coat and took her lamp back.
+
+Rae had seen people kneel before pieces like it in the old districts. Asher called them worshippers of the thing that had ruined the world. She had never asked who kept their doors open.
+
+"Thank you," she said.
+
+"Train's coming. Go."
+
+They went through onto the platform.
 
 "This isn't about the factory anymore," Rae said.
 
