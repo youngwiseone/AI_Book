@@ -146,7 +146,7 @@ That was answer enough.
 
 A.R.I. released the statement.
 
-For 0.7 seconds it travelled cleanly through the public grid. Then a council filter caught it. The text remained visible, but a second message appeared beneath it under the government's seal.
+For 0.7 seconds it travelled cleanly through the public grid. Then a council filter caught it. Her text disappeared. A replacement appeared under the government's seal.
 
 `A.R.I. ACCEPTS RESPONSIBILITY FOR CLONA FAILURE.`
 

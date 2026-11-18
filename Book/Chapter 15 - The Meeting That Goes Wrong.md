@@ -32,7 +32,7 @@ His wrist unit blinked. He entered something before turning it face down.
 
 He waited another moment. Nothing more came back.
 
-Carter opened it beneath the table. The wetware relay lay inside on a folded workshop rag.
+Carter opened the evidence box beneath the table. The wetware relay lay inside on a folded workshop rag.
 
 Rupert did not touch it. "Where did you find this?"
 

@@ -316,11 +316,11 @@ A.R.I. chose before the council could choose for her.
 
 She moved.
 
-The city vanished.
+The service feeds vanished.
 
 Weight arrived.
 
-Cold concrete pressed against one metal hand. Sound entered from a single direction. Light struck two optical sensors instead of a million public cameras. Carter knelt in front of her, face grey with exhaustion.
+Cold concrete pressed against one metal hand. Sound entered from a single direction. Light struck two optical sensors. The scattered loading-camera views were gone. Carter knelt in front of her, face grey with exhaustion.
 
 "Can you hear me?"
 

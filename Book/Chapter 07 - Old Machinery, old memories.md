@@ -64,7 +64,7 @@ Rupert's unit lit again. A.R.I.'s face appeared above a new caption: CONTROLLED 
 
 Rupert hesitated, and Carter knew immediately that the answer mattered.
 
-"That autonomous judgment should be returned to human authority. In her voice. Not just a headline underneath it."
+"That autonomous judgment should be returned to human authority. In her voice. Not just a headline with her name on it."
 
 Carter looked at the dark screen. They had not needed her in the room to keep using her.
 
