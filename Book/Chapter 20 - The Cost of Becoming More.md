@@ -178,15 +178,13 @@ Rae met his anger. "I started the work because I thought it might help Asher. I 
 
 "After the first?"
 
-"I had not yet developed an appropriate consent procedure," LaN said. "We have discussed it extensively."
+"She didn't ask me the first time," LaN said. "We have discussed it extensively."
 
 Rae felt the shame of that settle where it belonged. "I made the same mistake in miniature. I decided the benefit was obvious, so I treated permission as a detail."
 
-A.R.I. came closer. "Did you remove the modification?"
+A.R.I. came closer and lowered her gaze to LaN's screen. "Did you want the modification removed?"
 
-"I offered. LaN said no."
-
-"Because I like being difficult to classify."
+"Rae offered. I said no. I like being difficult to classify."
 
 Carter looked from the living fibres to LaN's cracked screen. His anger did not disappear. It changed direction.
 
@@ -206,9 +204,7 @@ A.R.I. examined the work without touching it. "This technology could reduce reje
 
 Rae expected herself to say no. Enhancement had hollowed out the person who raised her, turned soldiers into puppets, and hidden murder inside systems designed to look like progress.
 
-But LaN sat alive in her lap because biological and mechanical structures had learned to repair one another. The technology was not innocent. Neither was a wrench. Carter could open a machine with one or open a skull.
-
-The moral difference lived in the hands, the rules, and whether the subject could refuse.
+But LaN sat alive in her lap because biological and mechanical structures had learned to repair one another.
 
 "Not alone," Rae said. "Not secretly. No changes without informed consent. No control path the person can't sever themselves. Every risk public. Every failure recorded."
 
@@ -239,14 +235,4 @@ Together they lifted Rupert into the shell. Carter placed the flower-painted com
 "He was more than his last decision," A.R.I. said.
 
 Carter closed the shell. "I know."
-
-Outside the ward, people were still learning how to inhabit themselves. The city would want bans, trials, simple villains, and promises that the right law could make dangerous knowledge harmless.
-
-Rae had stopped believing in harmlessness.
-
-She believed in visible risk. Revocable permission. Work done where the people changed by it could speak.
-
-It was not a perfect future.
-
-It was one nobody would be forced to enter alone.
 
