@@ -12,11 +12,11 @@ Families from the factory districts stood close to the mourning wall with black 
 
 LaN tightened his grip on Rae's shoulder. His display flickered with motion flags only she could see.
 
-"Current estimate: one thousand three hundred and twelve people," he said. "Twenty-three probable agitators. Sixteen armed security. One pastry cart maintaining admirable discipline."
+"Current estimate: one thousand three hundred and twelve people," he said. "Twenty-three people in matching jackets. Sixteen armed security. One pastry cart maintaining admirable discipline."
 
 "I respect the professionalism under pressure." Rae noted, looking across at the pastry cart.
 
-The pastry cart stood at the edge of the square under a strip light, the vendor still selling fried dough twists to whoever could remain ideological while eating sugar. Capitalism it seems was able to pull realism into an otherwise unwordly scene. The banners or the shouting, made the whole area feel abstract, like in a seperate space. But, cities did not stop for crisis. And pastry it seems did not stop for anyone. She laughed at the absurdity of anyone buying food in a time like this.
+A woman with a memorial ribbon bought two dough twists and passed one to the man beside her. They ate standing up, watching the casualty board.
 
 Above the square, the civic holo-murals had given up pretending this was an ordinary evening. What should have been artful cityscapes and public health advisories now cycled between council seals, casualty tallies, and formal lines of condolence in expensive type. Every image lingered a fraction longer on the council crest than on the dead.
 
@@ -44,13 +44,23 @@ Rae glanced at him. "You mean the statement."
 
 "You've spoken to her once."
 
-"I've spoken to Chel's work my whole life." His jaw tightened. "Chel built space into hard messages. Room for thought. Room for doubt. Whoever wrote that statement didn't want either. They wanted control."
+"Chel wouldn't have written it like that." He kept watching the screen. "She'd have wanted to know what failed."
 
-Rae looked back at the screen.
+"So do I."
 
-Control was the right word.
+"Then we're agreed."
 
-What had been released into the square was not just blame. It was doctrine. The council had not merely told the city that A.R.I. might have failed. It had blamed and told the civillians just what kind of future would follow. Human first. Human oversight. Human conscience restored by committee, "Bah!" as if committees had a conscience when they only needed jurisdiction.
+"They changed her statement. We saw that. It doesn't mean she can't fail."
+
+Carter lowered the pastry. For a moment Rae thought he would walk away.
+
+"We found a second authority chain," he said.
+
+"Yes. And we still have to find who used it."
+
+He folded the paper round the uneaten half and pushed it into his pocket.
+
+"Then we'd better get to the bloody factory."
 
 A chant rose from the western side of the square and hit the stone hard enough to come back uglier.
 
@@ -66,15 +76,23 @@ She wore a Clona worker badge still clipped to her coat. Her eyes were red-rimme
 
 One of the gray jackets answered without missing a beat. "And who ran the system that killed him?"
 
-"I trust A.R.I. she has helped so many I know. She has been running the city 7 years now. Even if this was a mistake.." She trailed off, unsure she wanted to finish the sentence. Tiredness and immense sorrow clung it's weight to her tiny frame.
+"I don't know," the woman said. "I asked which exit he was near. They gave me that statement."
 
-"Conspiracy! Hearsay! Don't let machines fool you into obendiance." They pushed past her and onwards with their chant. "AI must die!"
+She pointed at the screen.
 
-The words were neat. Prewritten. They passed through the square with the dead, synthetic ease of something rehearsed in a room far quieter than this one.
+"There's your answer," the gray jacket said.
+
+"No. That's what you're shouting."
+
+He pushed past her, lifting his sign over her brother's photograph. She caught its lower edge and shoved it away from the wall.
+
+"Keep that off him."
+
+The next chant drowned her out. Rae saw her straighten the photograph and press its curling corner back against the stone.
 
 On the opposite side of the fountain, a tram supervisor in reflective orange argued with an older man holding a `Shut Her Down` placard.
 
-"You pull A.R.I. off the grid in one afternoon and see what happens," the supervisor snapped. "My whole district is already behind. Dispatch is blind."
+"Seven years she's run this city. You pull A.R.I. off the grid in one afternoon and see what happens," the supervisor snapped. "My whole district is already behind. Dispatch is blind."
 
 The older man jabbed his sign toward the casualty numbers overhead. "Blind? Two hundred and fourteen dead sounds blind to me."
 
@@ -82,7 +100,9 @@ The older man jabbed his sign toward the casualty numbers overhead. "Blind? Two 
 
 "It sounds like you trusted a machine, robot sympathisor." He spat the words out.
 
-No one in the square was outright lying, Rae thought. That was what made it dangerous. The grief was real. The fear was real. The dependence was real. People whose families had been protected by A.R.I.'s systems for years now had to stand beside people whose families had died under those same systems.
+The supervisor could explain the delays. He could not explain the dead. Rae had seen enough in the Hive to doubt the council's account, but she could not yet dismiss the older man's anger.
+
+The woman by the wall had stopped arguing. She stood with one hand against her brother's photograph while the chants passed on either side of her.
 
 Then Rae saw one slogan again and felt the old cold line of it under her ribs.
 
@@ -118,7 +138,7 @@ Security moved immediately, too quickly to have been merely alert. Black-armored
 
 LaN projected a spray of red markers across Rae's connected vision lens.
 
-"Agitators repositioning. Probability of crush event rising."
+"The group by the fountain is moving behind the security line. Probability of crush event rising."
 
 "We need to move." She called out to Carter, but he had already dissapeared into the crowd. Then she heard the child crying.
 
@@ -152,7 +172,7 @@ Near the fountain rim, a young man in a systems-union patch had gone down under 
 
 "Too Bad. Move." Carter pushed him onwards, toward a northern exit from the square.
 
-Rae caught the brief expression on the gray jacket's face as security advanced past him. It was not fear. It was irritation at disrupted choreography.
+The gray jacket pulled his coat straight. Security passed him without stopping, though he was still in their path. Rae watched until the crowd hid him.
 
 The line broke, reformed, and broke again. A flood of people spilled toward the tram concourse. Others climbed onto the base of the mourning wall to shout over everyone else. The candles there tipped and went out one by one beneath trampling feet and dragging coats, sending up little curls of bitter smoke that vanished into the larger stink of sweat, synth-fabric, rain-damp stone, and adrenaline.
 
