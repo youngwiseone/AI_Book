@@ -8,7 +8,7 @@ Carter trusted it immediately.
 
 He chose the corner with a view of both doors and placed the shielded evidence box on the seat beside him. The flower-painted communicator sat in his pocket, heavier than it had any right to be.
 
-Outside, the city performed normality. Trams moved. People hurried beneath umbrellas. Two streets away, protesters shouted about A.R.I. while council drones reminded everyone to remain calm. The words reached the cafe softened by rain and old glass.
+A tram passed outside, its windows fogged above the seated passengers. People hurried beneath umbrellas. Two streets away, protesters shouted about A.R.I. while council drones reminded everyone to remain calm. Through the rain and old glass, Carter could hear the rising voices but not the words.
 
 Rupert arrived exactly on time.
 
@@ -42,7 +42,7 @@ Rupert did not touch it. "Where did you find this?"
 
 "Broken, loud, difficult. Same as usual."
 
-Relief passed visibly through Rupert. Carter had seen versions of that response all his life: a held breath Rupert did not need, shoulders lowering because he had learned human bodies used the motion to tell each other danger had passed. None of it was imitation. It was simply the shape Rupert's feelings had learned to wear.
+Rupert let out a breath and sat back. His hand had been gripping the edge of the table. He laid it flat, smoothing a damp ring left by the last customer's cup.
 
 "The council reported both of you dead," Rupert said.
 
@@ -202,11 +202,13 @@ Rupert enlarged the authority header. His face changed.
 
 "Carter, this is not one hidden project. It is an army nobody told had survived the war."
 
-The coffee machine stopped hissing.
+Carter heard a cup set down behind the counter. Without the coffee machine hissing, the little sound carried across the room.
 
-Neither of them noticed at first.
+The lights above the counter went dark. The woman serving there tried the switch, then looked towards the window. A tram had stopped halfway through the intersection. Its doors remained shut.
 
-Then the lights above the counter went dark. The rain continued beyond the windows, but traffic noise had disappeared. A tram stood motionless halfway through the intersection. Pedestrians had cleared from both pavements.
+Two people on the pavement turned back the way they had come. A third stepped off the kerb, looked beneath the viaduct and hurried after them. Carter could hear rain tapping the cafe's awning where the traffic had been.
+
+Behind him, the kitchen door swung shut.
 
 Rupert looked toward the glass.
 
@@ -236,11 +238,9 @@ Rupert stared at the map on his wrist. Gaps in recent memory resolved against go
 
 "I believed I was among people who knew what I was."
 
-The words carried no revelation. Carter had known Rupert was artificial since Chel brought him to the workshop in a borrowed coat, too thin and too formal, with old technology hidden under convincing skin. Carter had taught him to hold a wrench. Chel had taught him that he did not need to pretend to breathe when nobody was watching.
+Carter held the collar clear of the barb. He had done this for a grazed neck once, when Rupert was still small enough to need a crate beside the workbench. Chel had brought the right dressing. He remembered Rupert asking whether it would stick to his skin.
 
-The people who installed the tracker had known too, even if most of the government still accepted Chel's human identity records.
-
-Knowing had not stopped them treating him like equipment.
+He kept the cloth back while Rupert turned his head.
 
 Outside, a large figure moved beneath the viaduct. Too broad for an ordinary person. One arm reached below its coat in the same wrong proportions as the creature at Clona.
 
@@ -338,7 +338,7 @@ The city map vanished. The approaching figure outside stopped as if blinded.
 
 "You stupid—" Carter's voice broke. "You stupid bloody—"
 
-Rupert's eyes found him once more. Most of the systems behind them were already failing.
+Rupert's eyes found him once more. One lid trembled without closing.
 
 "I love you, Carter."
 
@@ -360,8 +360,6 @@ Carter slung the tool case over his shoulder, picked up the evidence box and ran
 
 He did not look back. If he looked back, he would stay.
 
-By the time he reached the alley, grief had become a physical thing beneath his ribs.
-
-Under it, anger began to burn.
+In the alley, the case struck Carter’s knee. He caught it against his leg and kept running, one hand pressed hard round the handle.
 
 
