@@ -4,17 +4,7 @@ By lunchtime the cold had settled into the workshop. Carter had barely slept aft
 
 He pulled his denim jacket tighter around himself and hunched his shoulders as he walked down the gusty alley toward the station, one hand jammed into a pocket, the other wrapped around a hot pastry in thin paper. The thing was full of spiced vegetables and synthetic cheese that stuck to the roof of his mouth, but it was hot and cheap and from the stall outside the platform, which made it respectable.
 
-He still did not fully understand why he had agreed to any of this.
-
-Fixing A.I. and software had always been the sort of work he mocked other people for getting sentimental about. Hardware made sense. Metal bent. Wires burned. Bearings failed. You could learn a machine's moods if you paid enough attention. Software, by comparison, always felt like educated guesswork dressed in clean language. Chel had loved it, which was one of the many reasons she had always been the smarter of the two of them.
-
-He bit into the pastry and nearly scorched his tongue.
-
-The platform speakers crackled to life above him with the afternoon guidance bulletin, a calm feminine voice announcing adjusted route times, weather advisories, and civic courtesy reminders in a tone so measured it made every piece of the city sound two degrees more obedient than it really was. A.R.I.'s work, whether Carter liked it or not. The transport lines had run almost flawlessly since she took over the system. Crash rates had plummeted. Delays were rare. Even traffic flow through the industrial districts had stopped behaving like a collective death wish.
-
-That was part of what made Clona sit so badly in his gut.
-
-Systems that worked this well did not usually fail by accident in ways dramatic enough to make politicians feel useful.
+He bit into the pastry and nearly scorched his tongue. Above him, the platform speakers announced the afternoon route times in A.R.I.'s calm voice. Carter checked the board anyway.
 
 Rupert was already waiting at the other end of the station concourse when Carter arrived, standing beside a cafe cart in a charcoal coat and polished shoes that had no business being near train grime. He held two takeaway cups in one hand and a paper bag in the other, waving as if they were meeting for leisure instead of a catastrophe.
 
@@ -106,15 +96,13 @@ He slipped the wafer into his pocket.
 
 "Someone has to speak plain once they all start circling the code and forgetting there were actual bolts, locks, and bodies involved. You're good at that. Painfully so."
 
-Carter rolled the wafer once between thumb and forefinger. "You should've found someone less stubborn."
+Carter turned the wafer over in his pocket. "You should've found someone less stubborn."
 
 "I tried. They all agreed too quickly."
 
 They both laughed.
 
-The train shifted lines and curved into the central districts. Here the city grew sleeker. Towers rose in bright composites and smart glass. Gardens spilled from terraces in mathematically pleasing drapes. Signage glowed from under awnings designed to suggest handcraft while quietly tracking pedestrian movement. Even the cafes looked overmanaged. Carter had passed through these districts with Chel on her days off years ago, back when they still made a habit of taking trains simply to get lost somewhere together. She had liked the little side streets best, the ones hiding bad internet cafes and better food. He still remembered one place that served thick noodles in broth so hot it kept steaming long after the bowls were empty.
-
-He rubbed a hand across his face as if he could wipe the memory off like dust.
+The train shifted lines and curved into the central districts. Carter kept his hand in the pocket with Chel's wafer.
 
 "You all right?" Rupert asked.
 
@@ -275,6 +263,4 @@ Rae looked back.
 "I do. But I want to know what to look for when we get there."
 
 A.R.I. brought the trace closer. Somewhere else in the building, people were preparing to take this room away from her. For the moment, it still worked.
-
-If they were going to find the truth of Clona, it would have to be in the real wreckage now, before official process, delay, and too many careful hands turned what remained into something tidier than the truth.
 

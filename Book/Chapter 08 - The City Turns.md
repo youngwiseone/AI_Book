@@ -10,6 +10,8 @@ The square itself had become several cities at once.
 
 Families from the factory districts stood close to the mourning wall with black ribbons tied around their sleeves and grief sharpened into accusation. Young systems workers and med-techs clustered near the transit steps arguing that A.R.I. had kept half the city alive for years and was being framed now. Vendors who should have been packing up for the night still worked their carts in place, unwilling to lose a shift simply because history had chosen their square as a stage. Behind them all, smaller knots of men and women in matching grey jackets moved through the crowd passing out professionally printed signs and outrage with equal efficiency.
 
+Rae stopped where the passage from the Hive met the square. Beyond the fountain, the transit steps were packed. Carter had not come through yet.
+
 LaN tightened his grip on Rae's shoulder. His display flickered with motion flags only she could see.
 
 "Current estimate: one thousand three hundred and twelve people," he said. "Twenty-three people in matching jackets. Sixteen armed security. One pastry cart maintaining admirable discipline."
@@ -61,6 +63,8 @@ Carter lowered the pastry. For a moment Rae thought he would walk away.
 He folded the paper round the uneaten half and pushed it into his pocket.
 
 "Then we'd better get to the bloody factory."
+
+Rae led him towards the transit steps, keeping to the edge of the crowd.
 
 A chant rose from the western side of the square and hit the stone hard enough to come back uglier.
 
@@ -276,21 +280,9 @@ Rae had seen people kneel before pieces like it in the old districts. Asher call
 
 "Train's coming. Go."
 
-They went through onto the platform.
+They went through onto the platform as the train doors opened. Rae checked the permit. The time lost underground and in the square had left them little room for another delay.
 
-"This isn't about the factory anymore," Rae said.
-
-Carter gave her a sharp look. "No. It's about who gets to own everything after the factory."
-
-"Someone is overloading every system tied to A.R.I.," Rae said. "Pulling it apart piece by piece. Replacing it while people are too frightened to notice it is intentional."
-
-The train doors opened on their line with a tired hydraulic cough. Nobody boarded immediately. The people nearest the threshold waited to see if the car would jerk, stall, or misread them. When it held steady, they stepped in with the caution usually reserved for damaged bridges.
-
-Rae paused on the platform.
-
-"Blade gave us a window to get into Clona," she said. "If we lose it, we lose it."
-
-"Then we go now," Carter said.
+Carter waited until she had stepped aboard before following.
 
 He reached inside his jacket and brought out a small black communicator barely more sophisticated than a pocket calculator. Its casing was scratched. Its antenna looked old enough to vote. Nothing about it suggested elegance, which was likely the point.
 
@@ -304,37 +296,17 @@ The thing was heavier than it looked.
 
 Rae closed her fingers around the communicator and slipped it into her coat pocket beside her toolkit.
 
-LaN's display brightened.
+"Once we're inside the factory," Rae said, catching an overhead rail, "I want to search for records, access logs, human traces, anything that tells me who touched the place before or after the blast."
 
-"Corroborating note: four media accounts pushed the `Human Hands Back on the Grid` slogan within ninety seconds of the council notice. Shared origin cluster probable."
-
-"We're already too late," Rae said. "They will put a stop to our access to the factory site soon."
-
-"Good," Carter said. "I hate arriving where I'm expected."
-
-The line began to chime for departure.
-
-"Once we're inside the factory," Rae said, stepping toward the door, "I want to search for records, access logs, human traces, anything that tells me who touched the place before or after the blast."
-
-"Fine. You take the evidence trail." Carter followed her into the carriage. "I take the machines. Whatever's left down there, I'll pull it apart until it either tells the truth or breaks trying." He had an excited glint in his eyes. Machines were his domain.
+"Fine. You take the evidence trail." Carter braced himself beside her. "I take the machines. Whatever's left down there, I'll pull it apart until it either tells the truth or breaks trying." He had an excited glint in his eyes. Machines were his domain.
 
 LaN's display dimmed slightly. Carter grunted an apology in its direction.
 
-The doors began to close behind them.
+The doors closed. The carriage jolted into motion.
 
 The carriage was more crowded than it should have been at this point of day, but still quieter than the square. A child slept against his father's shoulder with tear salt still drying on his face. Two office workers muttered over a frozen civic app that kept refreshing to the same emergency seal. A woman with a memorial ribbon stared at the dark window and did not blink for three stations.
 
-Rae stood with one hand on the overhead rail and watched the city slide by in broken reflections.
-
-Without A.R.I.'s invisible corrections, the urban rhythms were already starting to show their teeth. Intersections held too long or changed too early. Delivery drones stacked awkwardly over loading lanes waiting for reroutes. A public fountain near the finance district had shut itself off mid-cycle and now spilled water in irregular bursts like a bad lung. Security vehicles moved faster than ambulances. At a clinic entrance, the queue had bent out under the rain shelter and around the corner.
-
-It was not collapse. The city still functioned. Trains still ran. Doors still opened. Lights still held. But the grace had gone out of it. What remained was the older machinery beneath: delay, hierarchy, permission, human hands reaching for every lever at once.
-
-Rae thought of the signs in the square. Of the worker with the dead brother. Of the tram supervisor defending a system he no longer trusted to protect him. Of the anti-bio slogan riding beside anti-machine outrage because fear liked company. Of the council seal lingering a little longer than the names of the dead.
-
-Clona had not stayed in the factory.
-
-It had spilled into the streets, the stations, the feeds, the timing of doors, the order of sirens, the argument over whose kind of mind should be allowed to hold a city together.
+Beyond the window, delivery drones stacked over a loading lane waiting for reroutes. At a clinic entrance, the queue had bent out under the rain shelter and around the corner. The city still functioned. Their train stopped at the next station; people got off, others made room. Rae checked the permit again and put it away.
 
 Beside her, Carter looked out at the darkening districts with a face that had gone beyond anger into decision.
 
@@ -344,6 +316,4 @@ Rae kept her eyes on the glass.
 
 "No," she said. "They wanted the city back."
 
-The train carried them out toward Clona and whatever truth still remained there in metal, ash, and sabotage while behind them the square kept shouting in unison.
-
-"AI must die!"
+At the next junction the train took the industrial line. The towers fell behind them.
