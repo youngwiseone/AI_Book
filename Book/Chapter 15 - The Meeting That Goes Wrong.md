@@ -96,7 +96,31 @@ Blade didn't answer immediately. He closed the injector case and moved it out of
 
 "Because asking meant a review of the programme. Including the wards. That was the answer I gave myself."
 
-Rupert asked him to turn the attachment over. Blade did. The reference number continued through both sides, and the seal crossed the staple.
+"And the continuation you signed after Clona?"
+
+Blade looked past the recorder.
+
+"The ward had enough stabiliser for one more night. The delivery was waiting for my signature."
+
+"Did you renew the equipment allocations too?"
+
+"They were bundled."
+
+Rupert waited.
+
+"Yes," Blade said. "I asked for a separate application."
+
+"Has it been approved?"
+
+"Not yet."
+
+Blade reached for the first schedule. Rupert's voice stopped him.
+
+"I need the continuation as well. Otherwise this looks like something you stopped doing before people died."
+
+For a while the recording held on Blade's hands. Then he opened the drawer and put another sheet beside the first. The signature was the same. The date was later.
+
+Rupert asked him to turn the factory-equipment attachment over. Blade did. The reference number continued through both sides, and the seal crossed the staple.
 
 "Keep my name on it," Blade said.
 
