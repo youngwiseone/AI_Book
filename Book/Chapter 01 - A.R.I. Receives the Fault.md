@@ -124,11 +124,7 @@ As the officials and enhancers turned to leave, A.R.I. let her sensors drift aft
 
 Blade did not answer. He was still beside the dais, entering the two names into the assignment. He left only after the system accepted them.
 
-For several quiet seconds, A.R.I. listened to the chamber again: water over stone, filtered birdsong, the retreating weight of officials confident enough to speak softly near a machine they assumed had already been contained.
-
-Clona had not only killed workers. It had rearranged the room around their deaths, aligning grief, authority, and blame too neatly to trust.
-
-The councillors had arrived with their conclusion already taking shape around the disaster. A.I. as failure. Bio-enhanced oversight as correction. Human control as safety.
+For several quiet seconds, A.R.I. listened to the chamber again: water over stone, filtered birdsong, the officials’ voices fading beyond the door.
 
 A.R.I. stored the meeting in her database, then reopened the names Blade had given her.
 
