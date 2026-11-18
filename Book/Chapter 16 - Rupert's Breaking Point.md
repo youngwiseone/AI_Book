@@ -74,6 +74,8 @@ Chel took Rupert's hand. "He loves you. You can still tell him when he's being a
 
 "Almost certainly."
 
+The bee came back to the daisy in his hand. Rupert stopped turning the stem. Its weight barely moved the flower, but he kept his fingers still until it lifted away.
+
 The workshop hammering stopped.
 
 Carter emerged carrying two black field communicators and a tin of paint. He stopped at the edge of the grass before coming over.
@@ -102,7 +104,7 @@ Carter looked at her. She waited.
 
 "I shouldn't have said it," he muttered.
 
-Rupert took one communicator. Its casing was scratched, its antenna slightly crooked, and one corner bore a dent Carter had not bothered to remove.
+Rupert laid the daisy beside his knee and took one communicator. Its casing was scratched, its antenna slightly crooked, and one corner bore a dent Carter had not bothered to remove.
 
 "It is hideous," he said.
 
@@ -110,7 +112,7 @@ Rupert took one communicator. Its casing was scratched, its antenna slightly cro
 
 Rupert held it against his chest. "I shall improve it."
 
-He opened the paint and began adding flowers to the casing. Small yellow daisies first, then green stems curling around the damaged corner. Carter handed Chel the other set. She joined Rupert, drawing hers larger and less carefully.
+He opened the paint, glanced at the daisy beside his knee, and began adding flowers to the casing. Small yellow daisies first, then green stems curling around the damaged corner. Carter handed Chel the other set. She joined Rupert, drawing hers larger and less carefully.
 
 Carter stood over them pretending to regret the entire gesture.
 
