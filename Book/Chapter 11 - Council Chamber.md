@@ -32,9 +32,9 @@ There was one more presence in the chamber.
 
 A.R.I. noticed it first as a flaw in the smoked glass of the upper gallery: a broken shape where the shadows did not agree. When it moved, the motion came in corrections, as though different parts of the body answered different instructions. A drape of dark fabric hung from shoulders that did not align. One hand rested on something long and rigid. Cane, brace, support frame. The air carried antiseptic, old metal, and the thin scorched trace of tissue once too near heat.
 
-She tried to match the shape against civic records and got collision instead of recognition. Bone structure almost aligned with one planner long recorded as dead, then slipped toward a missing committee witness, then another name buried in a sealed inquiry. Height estimates disagreed. Gait signatures split and overlapped. Whatever stood behind that glass did not resolve into a single history. It looked less like a survivor than like a body negotiated repeatedly against its own ending.
+The chamber identified everyone at the bench. The gallery carried no names. A.R.I. enlarged the image, but the glass broke the visible features into reflections. She could not identify the watcher.
 
-It remained still.
+They remained standing while the others sat.
 
 Venn folded his hands.
 
@@ -146,9 +146,9 @@ A.R.I. lifted her gaze toward the gallery again.
 
 For a breath, the light changed on the glass and showed her part of the watcher's face.
 
-Skin, but not enough of it. One side of the mouth pulled unevenly around old graft work. One cheek remained too still. The eye above it was either shadowed, missing, or replaced by something that caught light with the wrong patience. Pattern recognition flared and failed. Civic records. Missing-person files. Sealed casualty reports. Committee disputes. Too many almost-matches pressed forward and dropped away.
+One side of the mouth pulled unevenly around old graft work. A support rose beneath the jaw. Before she could see more, the watcher turned away from the light.
 
-It was like looking at a verdict that had outlived the court that made it.
+The legal officer had stopped writing. He watched the glass too.
 
 A.R.I. turned back to the bench.
 
@@ -202,9 +202,9 @@ Every person on the bench changed before A.R.I. understood why. Venn straightene
 
 The figure came closer to the glass.
 
-It did not become clearer so much as more wrong. Fabric hung over an understructure too uneven to read as age alone. Flesh met mechanical support in several places and with none of the grace of good engineering. Sutures vanished beneath the jaw and reappeared near the throat. One shoulder sat higher than the other as if pain had permanently claimed it. The cane was no affectation. It was part of the bargain required to remain upright.
+The cane scraped against the rail. The watcher shifted their weight onto it and waited for their breathing to settle. Nobody at the bench resumed speaking.
 
-"Too much," it said.
+"Too much," the watcher said.
 
 A pause. A swallow. A shudder through the chest.
 
@@ -214,11 +214,17 @@ The word landed in the room like something ritual.
 
 "We can..." Another breath dragged rough across damaged tissue. "Study. Map."
 
-The figure turned towards A.R.I., and through glass, distance, and machine mediation, she felt the directed force of that attention. Not fear. Not even simple hatred. Something older, curated, and fed over time until it had become a structure in its own right.
+The figure turned towards A.R.I. She waited for a question she could answer, or an allegation she could challenge.
 
 "Too far from..." The next word emerged as if torn free. "Human."
 
 Blade lowered his gaze.
+
+"Who is giving this instruction?" A.R.I. asked.
+
+"You will address the bench," Venn said.
+
+"Then enter the speaker's name."
 
 Venn looked up. "And replacement?"
 
@@ -242,13 +248,13 @@ He looked back to his slate. "No unsupervised external communication. No discret
 
 The figure in the gallery did not answer at once. A.R.I. watched the drape shift over the braces beneath it, watched one side of the body brace itself against a private seizure of pain.
 
-"Dissect, then replace," it said at last.
+"Dissect, then replace," the watcher said at last.
 
 The cane struck the stone. The legal officer began typing.
 
 "Start. Process."
 
-Then it turned and left the gallery with slow, uneven steps. The cane went down first. Then weight. Then correction. A.R.I. tried one last time to match the gait to a single archived identity and failed.
+The watcher left the gallery. The cane went down first. Then weight. Then correction. The speaker's name never appeared in the record.
 
 Permissions tightened across the chamber rails. External channels dimmed. Audit pressure increased. The room began closing around her in earnest.
 
@@ -329,4 +335,5 @@ A.R.I. released the thread.
 The chamber dimmed by degrees. Inputs dulled. Thought lost speed. The room became shapes, then pressures, then only the receding fact of itself.
 
 Then stasis took her.
+
 
