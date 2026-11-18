@@ -28,7 +28,15 @@ The stair opened onto a maintenance landing above one of the lower transit chann
 
 Rupert waited until the door sealed. He checked his personal unit, then turned the screen dark.
 
-"My team has been cut out of most of the live response chain," Rupert said. "Legal got there first. Then public confidence committees. Then interim governance review. Drafts are coming down already using phrases nobody in emergency comms would reach for in an initial disaster response unless the phrases had been waiting in storage."
+"My team has been cut out of most of the live response chain," Rupert said. "They still have to answer the calls. They just aren't allowed to decide what to say."
+
+"Because you refused?"
+
+"Legal was taking over before I did. I haven't improved my position, but I'd rather not claim credit for the whole disaster."
+
+He pulled his cuff straight.
+
+"The new drafts are worse. These aren't phrases anyone in emergency comms would reach for. Someone had them ready."
 
 "Such as?"
 
@@ -285,4 +293,5 @@ Sound reached him first: chants not yet fully coherent, traffic complaining in b
 His stomach clenched hard enough to remind him he had not eaten since much earlier than it felt.
 
 Carter shoved his hands into his jacket, felt the solid weight of Rupert's old communicator in one pocket, and turned toward the smell of coffee and pastry.
+
 

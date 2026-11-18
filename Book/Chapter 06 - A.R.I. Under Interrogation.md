@@ -156,6 +156,46 @@ Rae stared at the screen. "They had that ready."
 
 "Yes," A.R.I. said.
 
+Rupert's unit sounded again. He opened the message beside the replacement headline.
+
+`Confirm approved wording for district response staff.`
+
+Below it was a list of his team's names. A.R.I. recognised the people who answered questions when her public guidance failed to answer them. Their shifts had been extended twice since the explosion.
+
+Rupert began to type, stopped, then opened a voice connection.
+
+"Don't send that under our approval."
+
+A tired voice answered. "It's already on the public feed. We need something for the desks."
+
+"You have her actual statement."
+
+"I'm not allowed to use it."
+
+"Then say we don't have a verified account yet."
+
+"They've told us to use this one. Rupert, the phones haven't stopped."
+
+His hand closed round the edge of the unit.
+
+"Put me down as refusing approval. Not the team. They weren't in here."
+
+Blade stepped closer. "Let me speak to—"
+
+"No. If you're countermanding it, do that. Otherwise they'll think I've approved it through you."
+
+Blade stopped.
+
+There was a small sound from the open line. A chair moving, perhaps.
+
+"They'll send it without us," the voice said.
+
+"I know."
+
+Rupert ended the call. The list of names disappeared from his screen. The request had been withdrawn, not the wording. He checked once, then lowered his wrist.
+
+A.R.I. had expected him to look at her. He was looking at the number of calls waiting on his team's display.
+
 Something unfamiliar moved through her processes. It was not surprise. The probability of deliberate distortion had been high. It was not anger, though anger sat nearby.
 
 It was the recognition of being used while the use was still happening.
@@ -185,3 +225,4 @@ She wanted to ask him what he had seen. The receiving circuit repeated its instr
 "Ending this connection," she said.
 
 The room's image left her. She no longer knew whether they had gone.
+
