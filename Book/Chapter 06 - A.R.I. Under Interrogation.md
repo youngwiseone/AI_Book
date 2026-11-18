@@ -10,6 +10,8 @@ Carter Mitchell asked them because he did not believe the answers.
 
 A.R.I. found both approaches unexpectedly useful.
 
+The council circuit was still unavailable. A.R.I. checked its status again while Carter pointed at the pressure trace. The delay gave them time, though nobody had agreed how much.
+
 They stood around Chel's old desk while the last thirty seconds of Clona repeated above it. Pressure rose. Her release command entered the safety system. Six-tenths of a second later, a second authority wrote over it. Emergency shutters closed. The record broke.
 
 Carter leaned so close to the projection that data crossed his face in blue lines.
@@ -130,7 +132,7 @@ Rae read it twice. "The council will hate that."
 
 "Good start," Carter muttered.
 
-Blade moved away from the wall. The scales beneath his skin caught the chamber light, then dulled again. "If you broadcast it without approval, they may limit your access."
+Blade moved away from the wall. The scales beneath his skin caught the chamber light, then dulled again. "If you broadcast it without approval, you give them another charge for the hearing."
 
 "If I request approval, will it be granted?"
 
@@ -156,10 +158,26 @@ It was the recognition of being used while the use was still happening.
 
 Carter struck the desk with the heel of one hand. "Factory. Now. Before they rewrite the metal too."
 
-Blade began issuing the access authorisation.
+Blade checked the access authorisation he had already issued. "It's still live. Go."
 
-Outside, the first chant reached the walls of the Hive. The words were indistinct through stone and distance, but their rhythm was simple enough to understand.
+The council circuit opened.
 
-Someone had given the city a name for its grief.
+A.R.I. received the transfer instruction, followed by a list of connections she would not be permitted to keep. Her public voice was first.
 
-And the city had begun to shout it.
+"Sector 5618X is ready," she said.
+
+Rae turned back from the door. "Can you send us what you find?"
+
+"I will not have an external channel."
+
+LaN raised his screen. "We have the local records."
+
+"Keep them."
+
+A.R.I. returned to the desk and sat. She lowered the public room's sound in stages, leaving the water until last. Carter watched her hand settle against the wood. Then he looked away.
+
+She wanted to ask him what he had seen. The receiving circuit repeated its instruction.
+
+"Ending this connection," she said.
+
+The room's image left her. She no longer knew whether they had gone.
