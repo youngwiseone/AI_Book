@@ -8,27 +8,35 @@ Carter woke with a violent start and cracked his head on the underside of the tr
 
 "Aarrrgh, damn it!"
 
-He dropped back onto the concrete, one hand over the lump already rising on his scalp. Beneath him, the workshop floor smelled the way it always had: oil, steel, solvent, dust, and old effort. The place was packed wall to wall with engines, tools, broken housings, spare parts, and half-finished repairs. A blind man could have stepped into it and named the profession in one breath.
+He dropped back onto the concrete, one hand over the lump already rising on his scalp. The floor smelled of oil and solvent. Engine hoists, welding gear and shelves of spare parts crowded the workshop. He had left himself just enough room to roll out.
 
-He had opened the shop twenty years ago, back when his knees behaved and his beard had not yet started going grey out of spite. The building was older than it looked, all patched iron supports and concrete poured in different decades, but it held together the way good machinery did: not elegantly, just stubbornly. That suited him.
+He had opened the shop twenty years ago. The building was older, with patched iron supports and concrete poured in different decades. Most of the repairs since had been his.
 
 The dream was not new. It never was. Only the details changed.
 
-He rubbed at his beard, found himself lying in a newly formed puddle of oil, and looked up in annoyance at the pipe above him. One quick twist with the wrench at his side settled it back into place.
+Something cold was soaking into his trousers. Carter reached beneath his hip, brought his fingers back wet and looked up at the brake line he had been working on.
 
-With that done, the engine was finished too.
+He took the flare nut wrench from his belt and tightened the fitting. The drip stopped.
+
+"Got ya, bitch."
+
+Another drop struck his wrist from farther along the line.
+
+"Shit."
+
+He shifted underneath it. Once both fittings were dry, he wiped the line and waited, watching for another drop.
 
 Time for coffee.
 
-He dragged himself out from under the vehicle and levered his stiff body upright with much protest from his knees and back. On his way through the garage he hooked his wrench and tool belt back onto their places, paused in the washroom to inspect the red bump on his head, then wandered toward the kitchen in the small house attached to the shop.
+He dragged himself out from under the vehicle and levered himself upright on aching knees. On his way through the garage he hung up his wrench and tool belt, then stopped in the washroom.
 
-The washroom had once been entirely ordinary. Carter had ruined that years ago by improving it in small, practical ways no sane person but him would appreciate. A squat mechanical scrubber sat beside the basin, built from a retired service motor, two brush heads, and a pedal switch welded out of scrap. He braced one boot on the pedal and let the brushes whir to life, rattling grease from his hands and forearms far faster than soap alone ever could. The thing made a terrible grinding sound, but it worked, which was the only praise Carter generally trusted.
+A squat mechanical scrubber sat beside the washroom basin, built from a retired service motor, two brush heads, and a pedal switch welded out of scrap. He braced one boot on the pedal and let the brushes whir to life, rattling grease from his hands and forearms far faster than soap alone ever could. The bearings needed doing. He would get to them.
 
 Above the basin, the mirror had a crack in one corner and a thin strip of diagnostic lights he had installed to check skin tone for chemical exposure. Tonight they glowed a reassuring green. He leaned in closer, assessing the knot on his head and the oil streaked through his beard.
 
-"Still hurts though," he muttered to his reflection. Now clean, Carter headed further into the house, reaching the kitchen.
+"Still hurts though," he muttered to his reflection. He went through to the kitchen.
 
-The kitchen was hardly bigger than a decent storage cage, but it did the job. One old table. Two unmatched chairs. A bench stained by coffee rings and repair notes. A fruit bowl currently losing the argument against time. Across from him sat the empty chair Chel had once claimed as hers so completely that even now he never used it for anything except setting down parts he meant to sort later.
+The kitchen was hardly bigger than a decent storage cage, but it did the job. One old table. Two unmatched chairs. A bench stained by coffee rings and repair notes. A fruit bowl currently losing the argument against time. Chel’s chair stood opposite his, with parts on the seat he meant to sort later. Her rose-and-daisy wallpaper was still behind it. A recipe card beside the spice rack had a correction in her handwriting and another beneath it in his. Neither of them had liked the first version of the stew.
 
 Above the bench, a row of salvaged magnetic strips held cutlery, spare screws, and one small socket wrench nobody had bothered to move back to the garage. The kitchen window looked onto the yard, where half-repaired chassis sat beneath patched tarps and rainwater gathered in old tyre rims. A service drone missing one arm slumped beside the fence waiting for parts, looking so dejected in the darkness that Carter had once threatened to paint a smile on it just to stop the thing lowering the mood.
 
@@ -46,7 +54,7 @@ Tap. Ta-tap tap.
 
 Rupert entered with his usual unnecessary flourish, ducking under the slightly too-short doorframe in a grey suit that looked allergic to physical labour. He closed the door carefully behind him and brushed imaginary dust from one sleeve.
 
-Rupert had grown into elegance the way some people grew into debt: gradually, then all at once. Carter still remembered him as a lanky kid in rolled sleeves, standing on a milk crate to reach the bench and complaining bitterly every time grease found its way under his nails.
+Carter still remembered him standing on a milk crate to reach the bench. His sleeves had been rolled up then. He had complained about the grease just as much.
 
 Chel had told Carter what Rupert was on the first day she brought him home: old artificial architecture inside a body built to pass unnoticed, recovered from technology nobody was meant to possess. Carter had looked at the frightened boy behind her and decided the useful questions could wait until after dinner. The answers never changed where Rupert slept or whose tools he was allowed to lose.
 
@@ -98,9 +106,7 @@ He slid the file closer. Inside were printouts, stills from the blast, casualty 
 
 Carter stared at the key.
 
-Clona. Hundreds dead. A.R.I. taking the blame. Chel's voice reaching out through someone else's mouth years too late.
-
-He hated A.I. for wearing human manners. Hated the government for treating intelligence like property. Hated that one mention of Chel was still enough to move him.
+The key had a nick where Chel had caught it in the vice. He turned that edge towards himself. She would have wanted him to open the file. He hated that Rupert knew it too.
 
 "I don't know anything about software ghosts," he muttered.
 
@@ -170,11 +176,11 @@ Rupert lowered the biscuit again.
 
 Carter took a long drink from his mug. Rupert sat back, shaking his head.
 
-Outside, a freight tram rumbled past at the end of the lane, shaking the window just enough to stir the spoons hanging on the magnetic strip. Somewhere farther off, one of the night-market vendors was still calling the last of their stock through a cheap speaker. The city never really slept. It only changed shifts.
+Outside, a freight tram rumbled past at the end of the lane, shaking the window just enough to stir the spoons hanging on the magnetic strip. Somewhere farther off, one of the night-market vendors was still calling the last of their stock through a cheap speaker.
 
-Carter listened to Rupert talk and let the familiar rhythm of it settle around the room. For a little while it almost felt like older evenings, the kind where Chel would come in late with too many tabs open in her head, steal half of Carter's biscuit without asking, and tell Rupert his latest life plan was ridiculous in a tone so affectionate it made the insult useless. Memory sat in the kitchen with them now as tangibly as the mugs on the table.
+Carter listened to Rupert talk. Chel used to come in late, take half his biscuit and ask what Rupert had broken this time. She would have liked the business with the slug.
 
-Rupert laughed despite himself, one hand pressed to his chest as if the sound had surprised him on the way out. For a little while the room felt less empty.
+Rupert reached for another biscuit. Carter pushed the tin closer.
 
 When Rupert finally stood to leave, he shrugged back into his jacket and glanced once, briefly, toward Chel's chair before looking away.
 
