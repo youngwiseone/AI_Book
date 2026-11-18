@@ -262,13 +262,9 @@ Rae expected herself to say no. Enhancement had hollowed out the person who rais
 
 But LaN sat alive in her lap because biological and mechanical structures had learned to repair one another.
 
-"Not alone," Rae said. "Not secretly. No changes without informed consent. No control path the person can't sever themselves. Every risk public. Every failure recorded."
+"Not alone," Rae said. "Not secretly. No changes without informed consent. Every failure recorded."
 
-"And no pretending good intentions make you safe," Carter said.
-
-Rae nodded. "Especially that."
-
-A.R.I. looked at her own mismatched hands. "I would like to assist. My current body will require adaptive repair. Participation would give me both expertise and standing as a subject of the work."
+A.R.I. looked at her own mismatched hands. "I would like to assist. My current body will require adaptive repair."
 
 "You want enhancements?"
 
