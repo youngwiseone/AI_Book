@@ -96,7 +96,21 @@ Fighting. Investigation. The biological technologies the war left scattered acro
 
 "Later there was always another war coming. Another enemy. Another reason to keep the programmes alive. Their body started rejecting the changes. Instead of stopping, they replaced whatever failed."
 
-She described the stabilisers. The surgeries. The voices Asher sometimes answered when nobody else was in the room. A network of enhanced soldiers linked through biological control signals, first for coordination in combat and later because Asher no longer knew how to exist without being obeyed.
+She described the stabilisers. The surgeries. The voices Asher sometimes answered when nobody else was in the room.
+
+"They kept the old coordination programme running," she said. "I thought the work was support. Keeping people stable."
+
+"You saw it?"
+
+"I saw what was happening to Asher."
+
+"The others."
+
+Rae put the mug down.
+
+"No. They told me they were helping them."
+
+Carter waited. She wished he would ask something else.
 
 "The man in the factory told me to run," Rae said. "While LaN interrupted the signal. He was trying to help me."
 
