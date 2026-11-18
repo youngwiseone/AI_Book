@@ -226,15 +226,19 @@ Rae drew her baton.
 
 They charged.
 
-Rae did not contest their strength. She let it arrive without her. The first strike passed close enough to pull her coat. The second shattered the training post. She moved toward Asher's damaged side, forcing their body to turn faster than its support systems could correct.
+Rae stepped off the line of the charge. The talons caught her coat and tore through the hem. She turned towards the windows, away from the reach of that hand.
 
-Every enhancement announced itself. The right knee locked before a lunge. Shoulder plates lifted before the talons came across. Chemical pressure hissed through the neck a half-second before a burst of speed.
+Asher's right knee locked. She knew that pause. In training it had given her time to get behind them.
 
-Asher had taught her to read power.
+She moved. Pressure hissed through their neck, and the shoulder came round before she was clear. Rae ducked beneath it. The training post split beside her head. A splinter caught in her hair; she left it there.
 
-They had given her every tool required to defeat them.
+Too slow. She was too slow now.
 
-Rae struck the first injection port. Glass broke. Stabiliser sprayed across the floor.
+Asher pulled their hand out of the post. Rae backed towards their damaged side, keeping the broken wood between them. Her ribs wouldn't let her take a full breath. She watched the plates above their shoulder lift and moved before the talons followed.
+
+They struck the post again. Its upper half folded across the mat. Asher lifted their arm to pull free, exposing the injection ports beneath it.
+
+Rae stepped in and hit the nearest one with her baton. Glass broke. Stabiliser ran over her knuckles and sprayed across the floor.
 
 Asher howled and backhanded her into the weapon rack.
 
