@@ -50,7 +50,49 @@ Blade gave a short, humorless snort. The empty vial sailed across the room and s
 
 Bio-enhancers had taught Rae early that power loved soft language. `Adjustment`. `Optimization`. `Necessary risk`. Then came the hidden bruises, the pills, the shaking hands when the medication wore thin.
 
-Blade flicked a holographic screen to life between them.
+A light blinked on the corner of Blade's desk. He silenced it. It blinked again.
+
+"What?"
+
+A woman's voice answered. "Recovery stores. The ward's stabiliser delivery is still on hold."
+
+"How much have they got?"
+
+"Enough for tonight. Less if they take more transfers."
+
+Blade glanced towards the dartboard.
+
+"The replacement contract?"
+
+"Emergency approval could go through this afternoon. I can't promise it."
+
+"Can the current supplier fill the order?"
+
+"They have it ready. But the programme renewal includes the other equipment allocations. Review asked for those to be separated."
+
+He opened the renewal on the desk.
+
+"Send the delivery under the existing arrangement. I'll sign the continuation."
+
+"All of it?"
+
+"For this week."
+
+"I can send the separate application as well."
+
+"Do that. Get the delivery moving first."
+
+He signed.
+
+"Tell the ward when it's on the vehicle. Not when somebody says it's approved."
+
+The connection closed.
+
+Rae looked at the document. "Is the equipment urgent too?"
+
+Blade closed the file. "We can argue about the rest when the ward has its delivery."
+
+He flicked a holographic screen to life between them.
 
 Clona filled the air in cold blue light.
 
