@@ -48,7 +48,7 @@ The house lights pulsed. LaN picked up a reply on the local network and put it o
 
 LaN angled his screen towards A.R.I. "Rae recorded the connection. Asher has been requesting priority through the Original Intelligence's surviving services."
 
-The receipt layout matched the fragment from Clona. A.R.I. copied it beside her missing command record. The requesting-station field was intact this time.
+The receipt layout matched the fragment from Clona. A.R.I. copied it beside the incomplete factory return. The requesting-station field was intact this time.
 
 "You made the factory accept another authority," she said. "Then left me to account for what it did."
 
