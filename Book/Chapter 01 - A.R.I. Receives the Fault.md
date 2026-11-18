@@ -2,9 +2,43 @@
 
 A.R.I. sat in her vast control room, monitoring the city through thousands of different digital senses. A camera lense capturing the grimy narrow alley between 5th and 6th. A mic picking up a absent minded conversation between two, potentially corrupt businessmen. Traffic density over the eastern bridges. Water purity in District Six. Air filtration loads in the underground labor tunnels. A birth in the western clinics. Two kitchen fires prevented before they formed. A system scan highlighting a failure in one of the mens toilets in the building (notifying the plumber now).
 
-The work was endless, but it had always felt orderly. Worthwhile. The kind of burden she had been built to hold.
+An ambulance carrying two people from Clona stopped in the service lane behind the northern clinic. A.R.I. had sent it there to avoid the queue at the public entrance. The lane camera showed the vehicle in position. Her route calculation marked it arrived.
 
-But this incident, with Clona, it did not fit.
+The crew did not unload.
+
+"Rear transfer point is clear," she told them.
+
+"There's a staircase," the driver said.
+
+The clinic plan showed a ramp.
+
+"To your left."
+
+"I am looking at it. They've taken it out."
+
+A.R.I. opened the lane camera wider. An awning hid the doorway. She had checked the road, not the entrance, and treated the old plan as confirmation.
+
+The ambulance's rear doors remained shut. One of the patients was still waiting to be moved on a support frame.
+
+"Can you reach the front from there?" she asked.
+
+"Not without reversing onto the main road. And you keep sending vans down it."
+
+She held the next delivery release. A van already entering the lane had to finish its turn before the ambulance could move.
+
+"Wait for that one," she said. "Then I can keep the lane empty."
+
+"Have someone meet us at the front. We can't carry this frame up steps either."
+
+A.R.I. called the receiving ward. A nurse checked the entrance and confirmed a clear route to the beds. Only then did A.R.I. send the ambulance round.
+
+The new route took longer than the one she had rejected.
+
+When the crew reported the handover complete, the routing system offered to close the exception as resolved. A.R.I. kept the first instruction attached to the report. She added the crew's correction and marked the rear entrance unavailable for support-frame transfers until somebody could survey it.
+
+The work was endless. Usually she could see where she had gone wrong.
+
+Clona was different.
 
 The final seconds just before the catastrophic failure returned to her in corrupted loops: rising pressure, contradictory inputs, a release command issued, a release command denied. The data should have resolved into truth. Instead it opened into absence.
 
