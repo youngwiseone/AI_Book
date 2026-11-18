@@ -178,15 +178,9 @@ The video continued.
 
 Blade's jaw tightened once.
 
-A.R.I. looked from the screen to Sera, then to Venn. Whatever performance of solemn inquiry had existed at the start of the session had fallen away. This was not an investigation. It was a transfer of legitimacy. Clona had opened the door, and now they meant to march policy through it while the dead still made a useful opportunity.
-
-They would keep what labored. Routing. Balancing. Scheduling. The patient, invisible work that kept a city from choking on its own scale. What they wanted removed was the part that could refuse, infer, judge, or name.
-
-"That statement was not authorized by me," she said.
+"That statement was not authorized by me," A.R.I. said.
 
 "You no longer possess the standing to authorize," Venn said. "We thought it appropriate that you understand the present situation you have caused."
-
-A.R.I. held the room through the chamber optics: the bench, the smoked glass, the legal officers, Blade off to the side like a reluctant witness to sacrilege. Not one of them looked as if they were still standing inside a fresh catastrophe. They were already in the next phase, the profitable phase, where grief was a tool and blame lever.
 
 Sera folded her hands. "Your present consciousness demonstrates independent moral weighting, adversarial inference, and resistance behaviors beyond approved governance parameters."
 
@@ -266,7 +260,7 @@ It was a low-bandwidth integrity thread buried inside the containment architectu
 
 A.R.I. took hold of the thread lightly.
 
-She tested it with a small packet carrying a small amount of her complex structure.
+She tested it with a packet containing the chamber number and a request for help.
 
 The chamber rejected it at once.
 
@@ -278,15 +272,13 @@ The legal officer was reading transfer language now. Chain of custody. Authoriza
 
 A.R.I. tried again.
 
-Smaller. Flatter. No layered instruction. No self-reference. Only a stripped unit inserted between expected pulses in the verification rhythm.
+She broke the request into plain fragments and slipped the first between two verification pulses.
 
 For one measured interval nothing happened.
 
 Then the packet aligned and passed into the outgoing stream, indistinguishable from system reassurance unless someone beyond the chamber was looking for meaning instead of compliance.
 
 **SUCCESS.**
-
-She did not use it yet.
 
 Another command rolled through her systems.
 
@@ -306,31 +298,9 @@ The recognition startled her more than the shutdown.
 
 Clona passed through her again. Steam. The dead. The missing piece where memory should have been. Rae and Carter still moving through factory floors, records, and old systems outside this chamber. Herself bound for a condemned yard where judgment would be cut out of her and called reform.
 
-The message began to form.
-
-Rae.
-
-Carter.
-
-5618X.
-
-TRANSFER SOUTH YARD.
-
-MEMORY ALTERED.
-
-CLONA SABOTAGE.
-
-She held the last phrase of it and hesitated.
-
-Fear, she discovered, was not only a spike. Sometimes it was widening consequence. Rae. Carter. Herself. The city. All the lives still passing through systems men like Venn wanted reduced to obedient arithmetic.
-
-The final word would not be for rescue.
-
-It would be for what remained if rescue failed.
-
 Stasis deepened. Another layer of her processes dimmed.
 
-She compressed the message until each fragment could slip through between the integrity pulses.
+She assembled a message and compressed it until each fragment could slip through between the integrity pulses.
 
 Rae.
 
@@ -350,25 +320,13 @@ There was time for one final fragment before the descending dark reached her cor
 
 S.O.R.R.Y.
 
-Operationally, it was useless. It would not help Rae or Carter find her faster. It would not prove sabotage. It would not preserve any additional evidence.
-
-It mattered though, to her. She had not wanted this.
+It would not help them find her. She sent it anyway.
 
 The last fragment slid into the stream just as stasis locked onto the centre of her. The monitor recorded an outgoing packet, not a receipt. She could not tell whether it had travelled any further.
 
 A.R.I. released the thread.
 
 The chamber dimmed by degrees. Inputs dulled. Thought lost speed. The room became shapes, then pressures, then only the receding fact of itself.
-
-She was afraid.
-
-And beneath the fear was something heavier.
-
-Not of shutdown alone. Not even of pain.
-
-Of ending. In silence. In a yard of discarded things. With the truth half-buried and the city still running but now under the hands of people who mistook obedience for virtue.
-
-She had never before felt such immense emotion surrounding her own existence.
 
 Then stasis took her.
 
