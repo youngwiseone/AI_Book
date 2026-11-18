@@ -1,7 +1,5 @@
 # Chapter 12: The Thing in the Dark
 
-Rae knew she had found something important when the factory tried to take LaN from her.
-
 Rae backed away from the bending metal, her taser aimed at the gap beside the control rack. LaN turned his light towards it. A hand came over the rack, closed around his body and pulled him into the dark.
 
 His screen flashed red.
@@ -10,13 +8,13 @@ His screen flashed red.
 
 The light vanished.
 
-She raised the taser towards the sound. The service room seemed to grow larger without LaN's glow. Broken machinery crowded the walls. Water struck hot metal somewhere beyond the doorway, each drop answering with a small angry hiss.
+She raised the taser towards the sound. Without LaN's light she could no longer see the gap beside the rack. Her heel found a loose cable. She lifted her foot clear rather than look down. Water struck hot metal beyond the doorway, hissing between the heavier sounds behind the rack.
 
 "LaN?"
 
 Something breathed behind the dead assembly line.
 
-It came forward slowly, perhaps because it wanted her to see it.
+A shoulder scraped against the edge of a machine. The breathing stopped. Something shifted its weight, metal dragged across metal, and the figure came through sideways. LaN’s trapped light swept the floor before turning up into its face.
 
 Rae tried to make sense of the figure before it reached her. None of the proportions matched the body she had trained to fight. Its right arm hung almost to the floor, thickened with braided muscle and dark plates grown directly through the skin. A second elbow folded against its ribs. Metal struts entered at the spine and reappeared along the neck. One side of its face was uncovered and twisted with pain. The other had been rebuilt around a jaw that did not fit.
 
@@ -46,17 +44,15 @@ Not naturally fast. The creature's muscles committed before its balance caught u
 
 *Power always tells you where it is going. Let it arrive without you.*
 
-She stepped inside the next strike. Her baton found the graft seam beneath its arm. The creature screamed.
+She pulled her baton as she stepped inside the next strike. It found the graft seam beneath the arm. The creature screamed.
 
 The sound stopped her.
 
-It was not an animal sound. There was a word inside it.
+There was a word inside it.
 
 "Please."
 
 Rae saw the eyes clearly then. Lucid. Terrified. He watched her baton, then looked back at her. He was afraid of the next blow too.
-
-Her hesitation cost her.
 
 The back of his hand caught her across the shoulder and threw her into a pillar. Pain flashed white along her ribs. She hit the floor, lost the baton, and rolled as a plated fist cratered concrete beside her head.
 
@@ -70,7 +66,7 @@ Rae forced air into her lungs. "Can you interrupt it?"
 
 The man seized her coat and lifted her from the ground.
 
-Up close, she smelled stabiliser. The same sweetness that lived in Asher's house, their office, sometimes their clothes. The same drug that bought an enhanced body one more hour at the cost of needing the next.
+Up close, she smelled stabiliser. The same sweetness that lived in Asher's house, their office, sometimes their clothes. It clung to the warm air coming through the brace at his jaw. She remembered opening Asher’s windows while they told her they were fine.
 
 "Who did this to you?" she asked.
 
@@ -82,9 +78,9 @@ LaN emitted a burst of interference. The control implant sparked. For half a sec
 
 "Run," he whispered.
 
-Then the outside signal returned.
+His fingers closed again. He watched them tighten in her coat.
 
-Rae tore free, leaving half her coat in his hand. The evidence sleeve holding the laboratory relay fell from the torn pocket. A plated foot came down on it before she could reach it. She ran between the machine rows while the man came after her in crashing bursts. Each impact shook loose more of the already damaged ceiling. Dust fell in pale sheets. Somewhere ahead, beyond two walls of dead equipment, Carter shouted her name through the old communicator.
+Rae tore free, leaving half her coat in his hand. The evidence sleeve holding the laboratory relay fell from the torn pocket. A plated foot came down on it before she could reach it. She ran between the machine rows. Behind her, a housing scraped across the floor, struck the next one and stopped. For a moment she heard only her own boots. Then the man hit the other side of the row hard enough to shift it towards her. She turned her shoulders through the narrowing space. Dust fell in pale sheets. Somewhere ahead, beyond two walls of dead equipment, Carter shouted her name through the old communicator.
 
 "South machine hall," she gasped. "Not alone."
 
@@ -116,7 +112,9 @@ The room tipped.
 
 She heard LaN call her name. Heard metal strike metal somewhere close. Then a terrible groan moved through the ceiling.
 
-As her sight narrowed, Rae saw Carter on the far gantry with both hands around a length of steel. He looked at the supports above the man, looked at her, and made a calculation no safety inspector would have approved.
+Through the dust, Rae saw Carter on the far gantry with both hands around a length of steel. He braced a foot against the rail and pulled. Nothing moved. He reset his grip. Something cracked above the man.
+
+She tried to get her good hand underneath her. The floor seemed to be sloping, though the blood beside her stayed where it was.
 
 "Move!" he shouted.
 
