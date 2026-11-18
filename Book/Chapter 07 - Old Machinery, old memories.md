@@ -172,7 +172,59 @@ That made Carter straighten.
 
 "No?"
 
-"I should stay here." Rupert's voice held, but only just. "If they are rewriting the meaning of Clona in real time, someone needs to remain where the rewrites are being typed. My access is narrow, but it still exists. I can watch the language move. I can watch who it starts serving."
+"I should stay here."
+
+"You've seen what they're doing. Come back to the shop."
+
+Rupert opened his personal unit again. This time he turned the screen towards Carter.
+
+A casualty entry filled it. Below the name, a hospital message confirmed that the man was alive. The correction had been returned twice.
+
+"He's been trying to ring his wife," Rupert said. "Her number was on the terminal he left at work. He remembers most of it."
+
+"Hospital can't find her?"
+
+"They asked us. The contact office holds her number; comms can't open that record. My team passed the request through and got told not to alter a confirmed notification."
+
+Carter read the entry again. "They told her he was dead?"
+
+"Before the ward identified him."
+
+"Then tell her he isn't."
+
+Rupert turned the screen back and opened the return notice. "They've classified it as a change to the Clona statement. It needs approval from the office that issued it."
+
+"That's not a statement. That's a bloody phone call."
+
+"Yes."
+
+A reply appeared while he held the unit. Rupert read it, took a breath, then typed with both thumbs.
+
+"What are you telling them?"
+
+"That the ward has verified his identity. That I will take responsibility for the correction. Again."
+
+"Put me on."
+
+"No."
+
+"I can be persuasive."
+
+"You can get escorted out. I need them to answer."
+
+Carter stopped reaching for the unit.
+
+Rupert sent the reply. Then he took a folded page from his pocket and made a mark beside one of the names on it. There were more than Carter wanted to count.
+
+"You could do that from home."
+
+"Not through the staff channel. They've closed remote access to the response records."
+
+Carter looked towards the stairs, then back at Rupert.
+
+"How long?"
+
+"Until somebody takes the calls. Properly. Then I'll see what else they've been changing."
 
 "And if they decide your access is a problem?"
 
@@ -186,7 +238,9 @@ Carter almost smiled.
 
 Almost.
 
-The truth was he did not like leaving Rupert inside a building currently filling with lies. Rupert had never looked fragile to him exactly, but he had always seemed made for rooms with books, screens, and clean light, not rooms where power had remembered its appetite. Then again, there was nothing fragile about choosing to remain inside the machinery once you had seen what it was doing.
+Carter watched Rupert fold the page along its worn creases. He wanted to take him by the elbow and lead him up the stairs. The name on the screen was still marked dead.
+
+He checked the landing door instead, making sure it opened from this side.
 
 "Be careful," Carter said.
 

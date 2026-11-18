@@ -40,6 +40,16 @@ Relief passed visibly through Rupert. Carter had seen versions of that response 
 
 "Never said it was."
 
+"That man in the ward," Carter said. "Did you get hold of his wife?"
+
+"Yes. They put him on the call."
+
+"Good."
+
+"She made him say his name twice."
+
+Carter rubbed a thumb along the edge of the box. "Can't blame her."
+
 Rupert laid a folded sheet beside the box. The creases had been pressed flat with unreasonable care.
 
 "Your requesting station," he said.
