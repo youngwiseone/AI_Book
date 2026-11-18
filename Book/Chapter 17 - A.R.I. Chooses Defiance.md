@@ -182,7 +182,7 @@ Carter looked around the graveyard. "Chel asked me once to build a body for an i
 
 He gave a short snort and wiped his face on his sleeve.
 
-He walked among the discarded bodies, assessing frames by touch and sight. A courier shell had intact balance systems. A military salvage unit held compact actuators but too much armour. Two obsolete care machines offered sensory arrays designed around proximity to fragile humans.
+He walked among the discarded bodies, assessing frames by touch and sight. A courier shell had intact balance systems. A military salvage unit held compact actuators but too much armour. Two stripped care-machine shells, their memory cradles empty, offered sensory arrays designed around proximity to fragile humans.
 
 "I can't move all of you," he said. "Not quickly. But I can give enough of you somewhere to stand."
 
@@ -232,7 +232,61 @@ He put the set on the bench facing him. "That'll save us an argument."
 
 She waited while he moved the board.
 
-He worked through the night, grief turning each movement exact. A.R.I. guided him where her own architecture met the containment rails. He argued with three of her specifications, improved one, and ignored a recommended calibration because, in his words, the replacement joint "felt wrong."
+He worked through the night. A.R.I. guided him where her own architecture met the containment rails.
+
+Before connecting the new memory housing, he took a scratched diagnostic key from his coat pocket.
+
+"Chel's old one," he said. "Rupert brought it round."
+
+The key's stored test sequence appeared on the bench reader. A.R.I. recognised the load profile from her early build records.
+
+"That tested a much smaller system."
+
+"It'll still show me what the supply does when it's asked for something."
+
+"It cannot verify the transfer."
+
+"Not putting you through it. Just a load."
+
+He left the memory housing disconnected and clipped a bank of resistors across the supply. He wired a small lamp across the same feed beside his meter. The first test held. He braced the legs on blocks before powering their actuators for the second.
+
+The controller continued to report a steady supply.
+
+The lamp dipped.
+
+Carter looked from it to the controller. Then he ran the test again.
+
+Same result.
+
+"The motors are pulling this rail down," he said.
+
+A.R.I. checked the proposed connections. That rail also fed the memory housing. The controller was reporting an average, not the lowest voltage.
+
+"Separate the feeds."
+
+"Means stripping the other care shell."
+
+"Yes."
+
+He stared at the assembled chest. Most of the connections would have to come out again.
+
+"The unit at Clona," he said. "It was still in there when the charge fired."
+
+He took the chest apart.
+
+A.R.I. waited while he brought the second regulator across the floor. He used that shell's battery for the memory feed, keeping it separate from the motor supply. There was no spare mount for the regulator. He made one, filed the edge smooth and fitted an insulating sheet between the two boards.
+
+The next test held with the legs moving. He changed the load and ran it once more.
+
+Only then did he connect the memory housing.
+
+"The key doesn't test the rest of me," A.R.I. said.
+
+"I heard you."
+
+He left the meter where he could see it.
+
+Through the remaining work he argued with three of her specifications, improved one, and ignored a recommended calibration because, in his words, the replacement joint "felt wrong."
 
 As the first light reached the broken windows, the service radio clicked. LaN's check-in arrived in fragments: leaving the workshop, northern estates, Asher's house. Carter acknowledged it and left the handset beside his tools.
 
