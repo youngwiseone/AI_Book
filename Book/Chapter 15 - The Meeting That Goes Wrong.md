@@ -148,7 +148,7 @@ Then hundreds.
 
 "And machine systems. One network for both."
 
-Carter watched the lights multiply. The map reached government buildings, military housing, clinics, the Hive, and into districts whose records claimed no enhancement programme had ever operated.
+Carter watched the lights multiply. The map reached government buildings, military housing, clinics, the Hive, and districts whose records claimed no enhancement programme had ever operated.
 
 "Can it reach A.R.I.?"
 
@@ -268,7 +268,7 @@ Carter's grip tightened.
 
 "Rupert—"
 
-The cafe's front window cracked as something heavy struck the outer frame. Carter pulled at his wrist, trying to get him away from the table.
+The cafe's front window cracked as something heavy struck the outer frame. Carter pulled at Rupert's wrist, trying to get him away from the table.
 
 "You're my son."
 

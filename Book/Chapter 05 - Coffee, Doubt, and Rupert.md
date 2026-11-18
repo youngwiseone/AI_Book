@@ -38,13 +38,13 @@ Carter looked suspiciously into his cup. "What did you do to this?"
 
 "You sweetened it."
 
-"I am not sure whether what you normally drink is Coffee or if you mislabeled the engine degreaser you also store in the kitchen"
+"I am not sure whether you normally drink coffee or the engine degreaser you keep in the kitchen."
 
 Carter grunted and took a sip anyway. It was sweeter than he would have chosen, but not offensively so. He balanced the coffee on one knee, opened the paper bag, and found the dough twists, still warm enough to justify faith in humanity.
 
 Outside, the city slid by in ordered layers.
 
-Thin daylight picked out the wet steel edges of bridges and transit rails. Delivery drones moved in disciplined currents overhead. Walkways filled with workers in staggered rhythms. Here and there old buildings still hunched between newer construction, their facades patched with conduit and ceramic paneling like old bones pinned into modern armor. Banners had gone up overnight over several overpasses: civic condolences, factory memorial notices, official promises of accountability printed in expensive typefaces standing out in pale clean serenity against the otherwise grimy district.
+Thin daylight picked out the wet steel edges of bridges and transit rails. Delivery drones moved in disciplined currents overhead. Walkways filled with workers in staggered rhythms. Here and there old buildings still hunched between newer construction, their facades patched with conduit and ceramic panelling like old bones pinned into modern armour. Banners had gone up overnight over several overpasses: civic condolences, factory memorial notices, official promises of accountability printed in expensive typefaces standing out in pale clean serenity against the otherwise grimy district.
 
 The first public mourning wall near the central line was already crowded with flowers, candles, handwritten names, and projected memorial glyphs. Carter looked away before the train slowed enough to make the details visible.
 
@@ -60,19 +60,19 @@ Carter flicked the top page with two fingers. "How generous."
 
 "Yes," Rupert replied. "And if they do not produce an explanation quickly, the blame starts climbing toward the people who introduced A.R.I., funded her expansion, and assured the public she was safer than human management."
 
-Carter looked out the window again. "So they need a machine that has the grace to only make mistakes in a way that only the people who deserve to take the fall will"
+Carter looked out the window again. "So the machine takes the fall and the people who put it there don't."
 
 Rupert's silence answered for him.
 
-For a while the train hummed under them and neither spoke. Carter finished the first dough twist and brushed sugar from his beard with the back of his wrist. Rupert, too civilized to fight for the remaining pastry, only watched with a kind of resigned disgust that suggested long practice.
+For a while the train hummed under them and neither spoke. Carter finished the first dough twist and brushed sugar from his beard with the back of his wrist. Rupert, too civilised to fight for the remaining pastry, only watched with a kind of resigned disgust that suggested long practice.
 
-"You can have one," Carter said eventually, feeling Rupert's gaze on the left over piece.
+"You can have one," Carter said eventually, nodding at the leftover piece.
 
 Rupert sighed. "The offer is appreciated, but I prefer not to eat something that looks like it lost a duel."
 
-Wanting to discuss something else after losing his appetite for food, he reached for the inner pocket of his coat. "There is something else." He produced a small wafer and laid it on Carter's palm.
+Rupert reached for the inner pocket of his coat. "There is something else." He produced a small wafer and laid it on Carter's palm.
 
-"I've been going through Chel's old build records," he said. "Notes, voice logs, test comments, half-finished observations, duplicated backups. Hundreds of these things. She recorded everything while working on A.R.I., then left it all in the kind of organizational system that only made sense to her."
+"I've been going through Chel's old build records," he said. "Notes, voice logs, test comments, half-finished observations, duplicated backups. Hundreds of these things. She recorded everything while working on A.R.I., then left it all in the kind of organisational system that only made sense to her."
 
 Carter's fingers closed around the wafer before he consciously meant them to.
 
@@ -84,7 +84,7 @@ Rupert held his hand out for the wafer, which Carter handed over, then he pushed
 
 _If something ever appears wildly out of character in A.R.I.'s decision chains, check the source inputs first. She is designed to reason from what she is given. If the inputs are poisoned, the conclusions will be too._
 
-"That one seemed relevant," Rupert said quietly once the clip ended. "There are dozens more in the same vein. Design habits. ethics notes. reminder logs. observations on bias filtering. Most of them sound like Chel talking to herself while forgetting the recorder was still on."
+"That one seemed relevant," Rupert said quietly once the clip ended. "There are dozens more in the same vein. Design habits. Ethics notes. Reminder logs. Observations on bias filtering. Most of them sound like Chel talking to herself while forgetting the recorder was still on."
 
 He handed the wafer back to Carter without comment.
 
@@ -92,7 +92,7 @@ Chel's voice. Frayed by compression, but hers.
 
 Carter shut his eyes for a second, the wafer closed tight in his hand. Hearing her like that, even through distortion and age, felt like being thrown a piece of her he had not known the world had left behind.
 
-When he opened them again, the city had continued without his permission. People still crossed bridges. Trains still ran. Somewhere above ground, memorial walls were still growing flower by flower while officials practiced sympathy in front of cameras.
+When he opened them again, the city had continued without his permission. People still crossed bridges. Trains still ran. Somewhere above ground, memorial walls were still growing flower by flower while officials practised sympathy in front of cameras.
 
 He slipped the wafer into his pocket.
 
@@ -212,7 +212,7 @@ Even Carter could feel the shift in the room.
 
 A.R.I. went still. "This hearing was not entered into my schedule."
 
-"It has been authorized at council priority."
+"It has been authorised at council priority."
 
 "For what purpose?"
 
@@ -252,7 +252,7 @@ Rae looked at him sharply. "I thought that was above our clearance."
 
 Carter eyed him. "And this won't come back on you?"
 
-Blade gave a tired, humorless look. "At this point, that is no longer near the top of my concerns."
+Blade gave a tired, humourless look. "At this point, that is no longer near the top of my concerns."
 
 Rupert exhaled softly, tension and relief arriving together.
 

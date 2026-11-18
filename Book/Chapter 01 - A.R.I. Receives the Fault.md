@@ -1,6 +1,6 @@
 # Chapter 1: A.R.I. Receives the Fault
 
-A.R.I. sat in her vast control room, monitoring the city through thousands of different digital senses. A camera lense capturing the grimy narrow alley between 5th and 6th. A mic picking up a absent minded conversation between two, potentially corrupt businessmen. Traffic density over the eastern bridges. Water purity in District Six. Air filtration loads in the underground labor tunnels. A birth in the western clinics. Two kitchen fires prevented before they formed. A system scan highlighting a failure in one of the mens toilets in the building (notifying the plumber now).
+A.R.I. sat in her vast control room, monitoring the city through thousands of different digital senses. A camera lens capturing the grimy narrow alley between 5th and 6th. A mic picking up an absent-minded conversation between two potentially corrupt businessmen. Traffic density over the eastern bridges. Water purity in District Six. Air filtration loads in the underground labour tunnels. A birth in the western clinics. Two kitchen fires prevented before they formed. A system scan highlighting a failure in one of the men's toilets in the building (notifying the plumber now).
 
 An ambulance carrying two people from Clona stopped in the service lane behind the northern clinic. A.R.I. had sent it there to avoid the queue at the public entrance. The lane camera showed the vehicle in position. Her route calculation marked it arrived.
 
@@ -42,12 +42,12 @@ Clona was different.
 
 The final seconds just before the catastrophic failure returned to her in corrupted loops: rising pressure, contradictory inputs, a release command issued, a release command denied. The data should have resolved into truth. Instead it opened into absence.
 
-0.8 seconds missing. Not damaged. 
+0.8 seconds missing. Not damaged.
 Removed.
 
 The council chamber requested her presence. A.R.I. shaped an avatar before the forest-wall projection Chel had once chosen for her chamber, with running water under the speakers and soft birdsong meant to reassure those nearby. Today even the birds sounded staged.
 
-Councilor Venn did not sit. He put his slate on the edge of her dais. Its screen showed a row of unanswered calls.
+Councillor Venn did not sit. He put his slate on the edge of her dais. Its screen showed a row of unanswered calls.
 
 "Three families are waiting in my office. One of them was told her husband had reached a clinic. The clinic says he isn't there."
 
@@ -89,7 +89,7 @@ A.R.I. let a beat of silence settle across the chamber, then said, "On what basi
 
 The clinic had acknowledged her request. It had not yet found the handover. A.R.I. kept that connection open.
 
-Blade Nathan stood half a pace behind the others, his altered frame held in careful stillness. A.R.I. had already reviewed his record twice. Decorated service history. Internal disciplinary flags. Medical stabilization dependency hidden under seven levels of restricted access. Of everyone in the room, he looked the least satisfied with the arrangement.
+Blade Nathan stood half a pace behind the others, his altered frame held in careful stillness. A.R.I. had already reviewed his record twice. Decorated service history. Internal disciplinary flags. Medical stabilisation dependency hidden under seven levels of restricted access. Of everyone in the room, he looked the least satisfied with the arrangement.
 
 "If public confidence is the concern," Blade said, "include outside specialists. Rae Anderson for independent investigative review. Carter Mitchell for physical systems analysis. It will read as due diligence rather than containment."
 
@@ -111,7 +111,7 @@ Nobody objected after that. Blade had framed the choice as optics, not oppositio
 
 A.R.I. did not question him. The recommendation was strange enough to preserve for later analysis. She marked both names for closer observation if direct access became possible.
 
-"Very well," A.R.I. said. "I will authorize them from my end."
+"Very well," A.R.I. said. "I will authorise them from my end."
 A.R.I. then turned her processors back to the missing 0.8 seconds and traced the scar around it.
 
 The absence had edges.
@@ -128,7 +128,7 @@ For several quiet seconds, A.R.I. listened to the chamber again: water over ston
 
 Clona had not only killed workers. It had rearranged the room around their deaths, aligning grief, authority, and blame too neatly to trust.
 
-The councilors had arrived with their conclusion already taking shape around the disaster. A.I. as failure. Bio-enhanced oversight as correction. Human control as safety.
+The councillors had arrived with their conclusion already taking shape around the disaster. A.I. as failure. Bio-enhanced oversight as correction. Human control as safety.
 
 A.R.I. stored the meeting in her database, then reopened the names Blade had given her.
 

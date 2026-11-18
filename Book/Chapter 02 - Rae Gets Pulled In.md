@@ -34,7 +34,7 @@ The first thing that hit her was the smell of whiskey.
 
 The second was Blade Nathan.
 
-He stood behind the desk like a soldier who had never really left the war behind. Tall, broad, and kept upright by force of will more than comfort, Blade wore his modifications the way some men wore ceremonial armor: not proudly, exactly, but without apology. The left hand resting on the desk ended in dark hooked talons. Fine scale-work shimmered faintly under the skin near his throat. Even standing still, he gave the impression of a body engaged in constant negotiation with itself.
+He stood behind the desk like a soldier who had never really left the war behind. Tall, broad, and kept upright by force of will more than comfort, Blade wore his modifications the way some men wore ceremonial armour: not proudly, exactly, but without apology. The left hand resting on the desk ended in dark hooked talons. Fine scale-work shimmered faintly under the skin near his throat. Even standing still, he gave the impression of a body engaged in constant negotiation with itself.
 
 He smiled at her reaction. It was not a pleasant expression.
 
@@ -46,9 +46,9 @@ He opened a drawer, withdrew a syringe, and drove it into his own arm with the b
 
 Rae flinched despite herself.
 
-Blade gave a short, humorless snort. The empty vial sailed across the room and struck a dartboard on the far wall, where it joined several others already embedded there like trophies from a private war. Up close, the signs of strain were impossible to miss: blistering at the edge of the collar, a faint tremor in the shoulder, the rigid care with which he lowered himself back into the chair.
+Blade gave a short, humourless snort. The empty vial sailed across the room and struck a dartboard on the far wall, where it joined several others already embedded there like trophies from a private war. Up close, the signs of strain were impossible to miss: blistering at the edge of the collar, a faint tremor in the shoulder, the rigid care with which he lowered himself back into the chair.
 
-Bio-enhancers had taught Rae early that power loved soft language. `Adjustment`. `Optimization`. `Necessary risk`. Then came the hidden bruises, the pills, the shaking hands when the medication wore thin.
+Bio-enhancers had taught Rae early that power loved soft language. `Adjustment`. `Optimisation`. `Necessary risk`. Then came the hidden bruises, the pills, the shaking hands when the medication wore thin.
 
 A light blinked on the corner of Blade's desk. He silenced it. It blinked again.
 

@@ -44,7 +44,7 @@ Rupert gave him a flat look. "`Human oversight restored.` `No autonomous judgmen
 
 Carter made a sour sound in the back of his throat. "I still don't like machines, but this is flat out wrong. Nothing so far is reason enough to replace the whole system."
 
-"Yes," Rupert said. "And yet it has already been sent to broadcast in public ."
+"Yes," Rupert said. "And yet it has already been sent for public broadcast."
 
 Carter looked down through the grating. A service pod passed beneath them, empty.
 

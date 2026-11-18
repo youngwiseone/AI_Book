@@ -4,7 +4,7 @@ The elevator ride down to A.R.I. was slow enough to become its own kind of press
 
 Rae stood with one shoulder against the mirrored wall and watched the level numbers slide past in silent increments. Blade Nathan occupied the space opposite her, large enough that the lift felt smaller for containing him. In close quarters his body looked even less comfortable inside itself than it had in the office above. The seams of modification showed where his collar shifted with each breath. The hand resting at his side ended in dark hooked talons that clicked once, softly, against his own leg when the elevator jolted.
 
-LaN had climbed down from Rae's shoulder to crouch on the floor between them, all four limbs spread for balance as the lift descended. At a glance he still looked like a mass-produced assistant unit in a clean white shell. but he did not move like one. His balance corrected too fluidly, his limbs flexed with tiny organic compensations no factory standard had ever managed. The pale map rotating across his display marked the underground facility in stacked rings of access zones, maintenance shafts, and restricted chambers.
+LaN had climbed down from Rae's shoulder to crouch on the floor between them, all four limbs spread for balance as the lift descended. At a glance he still looked like a mass-produced assistant unit in a clean white shell. But he did not move like one. His balance corrected too fluidly; his limbs flexed with tiny organic compensations no factory standard had ever managed. The pale map rotating across his display marked the underground facility in stacked rings of access zones, maintenance shafts, and restricted chambers.
 
 "Estimated depth?" Rae asked.
 
@@ -28,7 +28,7 @@ That fact sat heavily in her mind now.
 
 When the doors finally opened, light struck hard enough to make her blink.
 
-The underground complex was so vast it imitated walking into broad daylight. It opened before them in terraces and walkways, a white-and-gold sprawl laid out beneath an artificial sky of diffused panels. Engineers crossed glass bridges with tablets tucked under their arms. Technicians clustered in knots beside transparent displays. Maintenance dwarves rolled between work crews bearing tools, cable spools, and replacement housings in their compact metal frames. Construction teams dismantled one section of wall while another crew raised an expanded support ring nearby, as if the whole facility were mid-molt.
+Stepping into the underground complex felt like walking into broad daylight. It opened before them in terraces and walkways, a white-and-gold sprawl laid out beneath an artificial sky of diffused panels. Engineers crossed glass bridges with tablets tucked under their arms. Technicians clustered in knots beside transparent displays. Maintenance dwarves rolled between work crews bearing tools, cable spools, and replacement housings in their compact metal frames. Construction teams dismantled one section of wall while another crew raised an expanded support ring nearby, as if the whole facility were mid-moult.
 
 The old slogan from the hallway upstairs came back to Rae in spite of herself.
 
@@ -78,9 +78,9 @@ Rae ducked inside and took the nearest seat. LaN hopped to the bench beside her,
 
 As the pod accelerated, the facility began to move around them in a long white sweeping blur.
 
-From this height Rae could see more of the labor concealed beneath the grandeur. Not just the lab-coated specialists and polished executives, but the welders down on the lower levels, the crews hauling old computation housing away in skeletal carts, the sleep-starved programmers eating out of packets while they argued over code displays, the janitorial drones gliding between footprints before anyone important had to notice people made mess. The whole place felt like a city inside the city, one hidden below the feet of citizens who prayed to systems they would never see.
+From this height Rae could see more of the labour concealed beneath the grandeur. Not just the lab-coated specialists and polished executives, but the welders down on the lower levels, the crews hauling old computation housing away in skeletal carts, the sleep-starved programmers eating out of packets while they argued over code displays, the janitorial drones gliding between footprints before anyone important had to notice people made mess. The whole place felt like a city inside the city, one hidden below the feet of citizens who prayed to systems they would never see.
 
-"Most people imagine a single room when they think of A.R.I.," Blade said, surprising Rae by speaking first inside the silent transport unit, breaking her attention away from the people they were whizzing by. "A voice. A humanoid shell. A central chamber."
+"Most people imagine a single room when they think of A.R.I.," Blade said, drawing Rae's attention from the workers passing below. "A voice. A humanoid shell. A central chamber."
 
 "That's easier to sell than this," Rae said.
 
@@ -94,13 +94,13 @@ Rae looked at the scientists hurrying below, all motion and white coats and coor
 
 "Hive it is," she murmured.
 
-The pod slowed as it approached the facility center.
+The pod slowed as it approached the facility centre.
 
-Here the architecture changed. The broader industrial noise of the outer rings fell away. The structures grew cleaner, quieter, more deliberate, and the traffic thinned from crowds to selected personnel. What sat at the center was not larger in the obvious way, but more protected. A circular chamber of smoked glass and pale composite material, ringed by security stations and threaded with cable trunks that vanished into the floor beneath it.
+Here the architecture changed. The broader industrial noise of the outer rings fell away. The structures grew cleaner, quieter, more deliberate, and the traffic thinned from crowds to selected personnel. What sat at the centre was not larger in the obvious way, but more protected. A circular chamber of smoked glass and pale composite material, ringed by security stations and threaded with cable trunks that vanished into the floor beneath it.
 
 This, then, was the public face built atop the true body.
 
-The pod docked with a muted click into place and the canopy lifted. Blade stepped out first, presented identification to the nearest security officer, and motioned for Rae to do the same. The guard's eyes lingered on her authorization longer than seemed necessary, then moved to LaN.
+The pod docked with a muted click into place and the canopy lifted. Blade stepped out first, presented identification to the nearest security officer, and motioned for Rae to do the same. The guard's eyes lingered on her authorisation longer than seemed necessary, then moved to LaN.
 
 "Assistant unit designation?"
 
@@ -112,7 +112,7 @@ Blade replied before Rae could. "He stays."
 
 The guard did not look pleased by this, which improved Rae's mood slightly. She bent down to let LaN clamber back up onto his usual perch on her shoulder. The guard waved them through.
 
-The passage into A.R.I.'s chamber was longer than Rae expected, a glass-walled corridor wrapped around the central room so visitors had to approach by degrees. Through the clear sections she could still see glimpses of that true infrastructure surrounding the chamber proper: all the people, technology and maintainence units carefully obscured from public view. The effort required to maintain even the illusion of a lifelike robotic body had to be enormous. The effort required to maintain the actual intelligence behind it was almost obscene.
+The passage into A.R.I.'s chamber was longer than Rae expected, a glass-walled corridor wrapped around the central room so visitors had to approach by degrees. Through the clear sections she could still see glimpses of that true infrastructure surrounding the chamber proper: all the people, technology and maintenance units carefully obscured from public view. The effort required to maintain even the illusion of a lifelike robotic body had to be enormous. The effort required to maintain the actual intelligence behind it was almost obscene.
 
 Rae rolled one shoulder. "Funny."
 
@@ -132,7 +132,7 @@ It was a room designed to reassure people frightened by intelligence.
 
 It also felt, in its own way, like propaganda.
 
-A.R.I. sat at a desk near the center of the room, dark-haired and composed in a body so lifelike it made Rae's skin tighten. Not because the resemblance to humanity was imperfect. Because it was careful. Measured. A face built to feel safe. A figure designed not for intimidation, but for trust.
+A.R.I. sat at a desk near the centre of the room, dark-haired and composed in a body so lifelike it made Rae's skin tighten. Not because the resemblance to humanity was imperfect. Because it was careful. Measured. A face built to feel safe. A figure designed not for intimidation, but for trust.
 
 That unsettled Rae more.
 
@@ -148,19 +148,19 @@ Rae took it.
 
 The synthetic skin was warm. Not warm enough to pass for human, but near enough to make the distinction feel impolite.
 
-"I can see you are not so easily swayed by the calming atmosphere. Others like yourself usually skip straight to asking whether I can lie" A.R.I. said.
+"I can see you are not so easily swayed by the calming atmosphere. Others like yourself usually skip straight to asking whether I can lie," A.R.I. said.
 
-Rae raised an eyebrow. Both at the statement and the fact she was being sterotyped from the get go. It was a valid question though. "Well, can you?"
+Rae raised an eyebrow. She was being stereotyped from the get-go. It was a valid question, though. "Well, can you?"
 
-"Yes," A.R.I. said. "Under very specific conditions. I am an extension of the government body, and follow similar rules when trying to minimise negative impacts."
+"Yes," A.R.I. said. "Under very specific conditions. I am an extension of the government body and follow similar rules when trying to minimise negative impacts."
 
 Blade made a quiet sound through his nose that might have been disapproval. Rae felt a pulse of unwilling amusement.
 
-"I wasn't asked if I wanted to come here" Rae said.
+"I wasn't asked if I wanted to come here," Rae said.
 
-"No," A.R.I. replied. "Blade sought you out because of your work and..personal history."
+"No," A.R.I. replied. "Blade sought you out because of your work and... personal history."
 
-Rae visibly flinched at this comment. Blade did not seem to care, he withdrew to the edge of the chamber, close enough to listen, far enough to signal privacy without granting it. Typical.
+Rae flinched. Blade did not seem to care. He withdrew to the edge of the chamber, close enough to listen, far enough to signal privacy without granting it. Typical.
 
 A.R.I.'s attention shifted past Rae's shoulder and settled on LaN. Not a glance. An assessment.
 
@@ -170,7 +170,7 @@ LaN tilted his screen toward her. "I am full of surprises."
 
 Rae rested two fingers against his casing before he could say more. Reflex. Possessive, maybe.
 
-A.R.I. kept looking at LaN with visible interest now, curiosity breaking through the practiced calm. "You altered him substantially."
+A.R.I. kept looking at LaN with visible interest now, curiosity breaking through the practised calm. "You altered him substantially."
 
 "I improved him," Rae said.
 
@@ -180,7 +180,7 @@ A.R.I. did not press. "Blade also sought you out because your previous cases dis
 
 Rae's mouth tightened. She decided not to bother with any further pleasantries. "Walk me through Clona."
 
-A.R.I. returned to the desk and brought the factory logs up in layered holographic panes. Data opened around them in crisp blue-white strips: pressure graphs, valve behavior, staff positions, emergency protocol timing, source input chains. LaN dropped from Rae's shoulder to the floor, then scrambled onto a low side table so he could angle his display toward the feed.
+A.R.I. returned to the desk and brought the factory logs up in layered holographic panes. Data opened around them in crisp blue-white strips: pressure graphs, valve behaviour, staff positions, emergency protocol timing, source input chains. LaN dropped from Rae's shoulder to the floor, then scrambled onto a low side table so he could angle his display toward the feed.
 
 The more A.R.I. explained, the less the event resembled a simple failure.
 
@@ -270,7 +270,7 @@ A.R.I. watched her with unnerving steadiness. "You do not trust me."
 
 Rae let out a short breath that almost counted as a laugh. "Careful. That's the second likable thing you've said."
 
-For the first time, something like genuine feeling crossed A.R.I.'s face. Not practiced warmth. Relief, perhaps, or the machine equivalent of it.
+For the first time, something like genuine feeling crossed A.R.I.'s face. Not practised warmth. Relief, perhaps, or the machine equivalent of it.
 
 Rae looked once more at the duplicated command, the neat little wound in the record where a hidden authority had stepped in and vanished again.
 

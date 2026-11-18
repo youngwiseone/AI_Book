@@ -220,7 +220,7 @@ Asher's eyes followed the wrench.
 
 LaN's screen refreshed. The two soldiers were still sending requests to stop. Each came back rejected.
 
-A.R.I. knelt beside Asher. "You said A.R.I. cannot understand cost because she cannot feel pain. You feel all of theirs. Why has that not stopped you?"
+A.R.I. knelt beside Asher. "You said I cannot understand cost because I cannot feel pain. You feel all of theirs. Why has that not stopped you?"
 
 Asher's gaze shifted across the people they controlled.
 

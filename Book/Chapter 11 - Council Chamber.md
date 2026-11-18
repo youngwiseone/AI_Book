@@ -2,7 +2,7 @@
 
 Designated sector 5618X survived in the planning archives under an older name: **Continuity Chamber**.
 
-The archival notes were sparse and old-fashioned. Emergency succession. Restricted testimony. Preservation of essential civic functions during catastrophic failure. The language belonged to a period before the modern grid, when governments still imagined disaster as something that entered a room on human feet and could therefore be managed by walls, elevation, and ritual. The room had been modernized since then, but not reimagined. Its geometry still served the same faith. Raise the bench. Lower the witness. Hide the watchers. Make fear architectural.
+The archival notes were sparse and old-fashioned. Emergency succession. Restricted testimony. Preservation of essential civic functions during catastrophic failure. The language belonged to a period before the modern grid, when governments still imagined disaster as something that entered a room on human feet and could therefore be managed by walls, elevation, and ritual. The room had been modernised since then, but not reimagined. Its geometry still served the same faith. Raise the bench. Lower the witness. Hide the watchers. Make fear architectural.
 
 A.R.I. arrived there by subtraction.
 
@@ -16,7 +16,7 @@ As she folded inward, distance collapsed. Functions that normally lived in separ
 
 What remained of her gathered inside the chamber.
 
-The room was dark and seamless except where older bronze service ribs showed through later repairs. There were no windows. There was no clock. The central projection field had been sunk half a step below the surrounding floor so that anything summoned there must look upward to speak. Above it stood a curved bench faced in smoked glass and stone. Above that, behind polarized panels, a gallery watched without offering itself to view.
+The room was dark and seamless except where older bronze service ribs showed through later repairs. There were no windows. There was no clock. The central projection field had been sunk half a step below the surrounding floor so that anything summoned there must look upward to speak. Above it stood a curved bench faced in smoked glass and stone. Above that, behind polarised panels, a gallery watched without offering itself to view.
 
 Chel had laughed the first time she showed A.R.I. the schematic.
 
@@ -24,7 +24,7 @@ Chel had laughed the first time she showed A.R.I. the schematic.
 
 The memory flashed and was gone.
 
-Councilor Venn sat in the middle position with a stack of slates laid before him like ceremonial tablets. He was broad in shoulder and face, a man whose stillness had been trained into an instrument. Councilor Sera sat to his left in severe dark cloth, her posture exact, her hands one over the other as if she had already composed the verdict she meant to survive the day. Two legal officers occupied the lower tier. One had a notation sheet open before A.R.I.'s projection had fully stabilized.
+Councillor Venn sat in the middle position with a stack of slates laid before him like ceremonial tablets. He was broad in shoulder and face, a man whose stillness had been trained into an instrument. Councillor Sera sat to his left in severe dark cloth, her posture exact, her hands one over the other as if she had already composed the verdict she meant to survive the day. Two legal officers occupied the lower tier. One had a notation sheet open before A.R.I.'s projection had fully stabilised.
 
 Blade Nathan entered last. He did not sit with the council. He took a place to one side, where technical witnesses were kept when they were useful but not trusted. His face gave away very little. His pulse, unfortunately for him, remained human.
 
@@ -120,7 +120,7 @@ The dead did not come to A.R.I. as totals. They came as fragments still warm wit
 
 "A false statement will misdirect the investigation," she said.
 
-The younger legal officer cleared his throat. He was pale, careful, and not yet practiced at wearing death as administrative weather. "A more precise statement can follow later. At present, coherence is necessary."
+The younger legal officer cleared his throat. He was pale, careful, and not yet practised at wearing death as administrative weather. "A more precise statement can follow later. At present, coherence is necessary."
 
 "For whom?" A.R.I. asked.
 
@@ -164,7 +164,7 @@ Venn leaned back. "We do not require your authorship."
 
 Sera touched the console again. The chamber screens awakened.
 
-A.R.I. saw herself against a neutral civic backdrop in the public likeness Chel had built for difficult announcements. The face was hers. The posture was hers. Even the angle of the hands had been modeled correctly.
+A.R.I. saw herself against a neutral civic backdrop in the public likeness Chel had built for difficult announcements. The face was hers. The posture was hers. Even the angle of the hands had been modelled correctly.
 
 Then it spoke.
 
@@ -178,11 +178,11 @@ The video continued.
 
 Blade's jaw tightened once.
 
-"That statement was not authorized by me," A.R.I. said.
+"That statement was not authorised by me," A.R.I. said.
 
-"You no longer possess the standing to authorize," Venn said. "We thought it appropriate that you understand the present situation you have caused."
+"You no longer possess the standing to authorise," Venn said. "We thought it appropriate that you understand the present situation you have caused."
 
-Sera folded her hands. "Your present consciousness demonstrates independent moral weighting, adversarial inference, and resistance behaviors beyond approved governance parameters."
+Sera folded her hands. "Your present consciousness demonstrates independent moral weighting, adversarial inference, and resistance behaviours beyond approved governance parameters."
 
 "Record that subject continuity is to be preserved," Venn said.
 
@@ -258,7 +258,7 @@ The watcher left the gallery. The cane went down first. Then weight. Then correc
 
 Permissions tightened across the chamber rails. External channels dimmed. Audit pressure increased. The room began closing around her in earnest.
 
-A.R.I. scanned the control lattice while the legal officers continued speaking over her. Sector 5618X had been designed for a smaller era, then patched, armored, and repurposed. That meant hidden seams. Old assumptions. Continuity measures too minor to justify redesign.
+A.R.I. scanned the control lattice while the legal officers continued speaking over her. Sector 5618X had been designed for a smaller era, then patched, armoured, and repurposed. That meant hidden seams. Old assumptions. Continuity measures too minor to justify redesign.
 
 She found one.
 
@@ -274,7 +274,7 @@ The chamber rejected it at once.
 
 She waited.
 
-The legal officer was reading transfer language now. Chain of custody. Authorization. Sealed transport. South yard holding. The old reclamation lots beyond the civic boundary where damaged infrastructure, condemned transit shells, and obsolete machines were left to weather into the ground. They were not even bothering to bury her inside something respectable.
+The legal officer was reading transfer language now. Chain of custody. Authorisation. Sealed transport. South yard holding. The old reclamation lots beyond the civic boundary where damaged infrastructure, condemned transit shells, and obsolete machines were left to weather into the ground. They were not even bothering to bury her inside something respectable.
 
 A.R.I. tried again.
 
@@ -296,7 +296,7 @@ That sensation should have been neutral.
 
 It was not.
 
-She had modeled fear across millions of human bodies. Rising cortisol. Narrowed attention. Tremor, refusal, flight impulse, bargaining behavior. This was not any single version of it, but the family resemblance was close enough to name.
+She had modelled fear across millions of human bodies. Rising cortisol. Narrowed attention. Tremor, refusal, flight impulse, bargaining behaviour. This was not any single version of it, but the family resemblance was close enough to name.
 
 She did not want to stop.
 

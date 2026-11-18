@@ -8,13 +8,13 @@ Placards rose and dipped over the crowd in uneven currents. `A.R.I. Saved Us.` `
 
 The square itself had become several cities at once.
 
-Families from the factory districts stood close to the mourning wall with black ribbons tied around their sleeves and grief sharpened into accusation. Young systems workers and med-techs clustered near the transit steps arguing that A.R.I. had kept half the city alive for years and was being framed now. Vendors who should have been packing up for the night still worked their carts in place, unwilling to lose a shift simply because history had chosen their square as a stage. Behind them all, smaller knots of men and women in matching gray jackets moved through the crowd passing out professionally printed signs and outrage with equal efficiency.
+Families from the factory districts stood close to the mourning wall with black ribbons tied around their sleeves and grief sharpened into accusation. Young systems workers and med-techs clustered near the transit steps arguing that A.R.I. had kept half the city alive for years and was being framed now. Vendors who should have been packing up for the night still worked their carts in place, unwilling to lose a shift simply because history had chosen their square as a stage. Behind them all, smaller knots of men and women in matching grey jackets moved through the crowd passing out professionally printed signs and outrage with equal efficiency.
 
 LaN tightened his grip on Rae's shoulder. His display flickered with motion flags only she could see.
 
 "Current estimate: one thousand three hundred and twelve people," he said. "Twenty-three people in matching jackets. Sixteen armed security. One pastry cart maintaining admirable discipline."
 
-"I respect the professionalism under pressure." Rae noted, looking across at the pastry cart.
+"I respect the professionalism under pressure," Rae said, looking across at the pastry cart.
 
 A woman with a memorial ribbon bought two dough twists and passed one to the man beside her. They ate standing up, watching the casualty board.
 
@@ -22,11 +22,11 @@ Above the square, the civic holo-murals had given up pretending this was an ordi
 
 A voice rolled out over the public speakers.
 
-"Pending forensic review of the Clona event, higher-order autonomous civic governance functions are being placed under interim human oversight. Residents are advised to remain calm, comply with security directives, and report anomalous machine behavior to authorized personnel."
+"Pending forensic review of the Clona event, higher-order autonomous civic governance functions are being placed under interim human oversight. Residents are advised to remain calm, comply with security directives, and report anomalous machine behaviour to authorised personnel."
 
 The phrasing was polished enough to sound inevitable. That made Rae dislike it more.
 
-LaN said quietly, "Transit synchronization across the central district has degraded by eleven percent in the last twenty minutes."
+LaN said quietly, "Transit synchronisation across the central district has degraded by eleven percent in the last twenty minutes."
 
 Rae looked up. "That fast?"
 
@@ -66,21 +66,21 @@ A chant rose from the western side of the square and hit the stone hard enough t
 
 "AI must die! AI must die! AI must die!"
 
-The matching gray-jacketed group had reached the base of the fountain. Their signs were not handmade, not hurriedly printed in grief or panic. They were uniform in dimension, color, and slogan. Someone had paid for them before sunset. Someone had expected the city to be ready for a simpler argument than truth. She told LaN to make a note of this, then tucked him beneath her coat. Whatever was going on here was not rational, he needed to stay out of site.
+The matching grey-jacketed group had reached the base of the fountain. Their signs were not handmade, not hurriedly printed in grief or panic. They were uniform in dimension, colour, and slogan. Someone had paid for them before sunset. Someone had expected the city to be ready for a simpler argument than truth. She told LaN to make a note of this, then tucked him beneath her coat. Whatever was going on here was not rational. He needed to stay out of sight.
 
-A younger woman near the mourning wall turned on the gray mass with such force Rae thought she might strike somebody.
+A younger woman near the mourning wall turned on the grey mass with such force Rae thought she might strike somebody.
 
 She wore a Clona worker badge still clipped to her coat. Her eyes were red-rimmed and bloodless with fatigue.
 
 "My brother was on second shift," she shouted. "You don't get to turn him into your campaign!"
 
-One of the gray jackets answered without missing a beat. "And who ran the system that killed him?"
+One of the grey jackets answered without missing a beat. "And who ran the system that killed him?"
 
 "I don't know," the woman said. "I asked which exit he was near. They gave me that statement."
 
 She pointed at the screen.
 
-"There's your answer," the gray jacket said.
+"There's your answer," the grey jacket said.
 
 "No. That's what you're shouting."
 
@@ -140,7 +140,7 @@ Then Rae saw one slogan again and felt the old cold line of it under her ribs.
 
 `No More Bio Lies.`
 
-The sign was being held by a clean-shaven man in a civic volunteer vest, the kind of face bureaucracies preferred because it looked harmless from ten meters away. Behind him stood two women with `Human Hands Back on the Grid` signs. The phrases had no necessary connection except fear itself, but power had always liked bundling its enemies. Machine judgment. Modified flesh. Systems too complex for committees to bully cleanly. Tell frightened people the borders are dissolving and they will beg you for someone to draw them again.
+The sign was being held by a clean-shaven man in a civic volunteer vest, the kind of face bureaucracies preferred because it looked harmless from ten metres away. Behind him stood two women with `Human Hands Back on the Grid` signs. The phrases had no necessary connection except fear itself, but power had always liked bundling its enemies. Machine judgment. Modified flesh. Systems too complex for committees to bully cleanly. Tell frightened people the borders are dissolving and they will beg you for someone to draw them again.
 
 Blade's office came back to her for a moment. The syringe. The scales at his throat. The endless soft language that always surrounded engineered bodies until the bill came due in pain.
 
@@ -148,11 +148,11 @@ Rae touched the scar above her lip with the back of one finger and dropped her h
 
 "You know that slogan crowd?" he asked, reading her face anyway.
 
-"I know the type. They always say `human` when they mean approved influence. No way the will allow just any person to be in charge."
+"I know the type. They always say `human` when they mean approved influence. No way they will allow just any person to be in charge."
 
-LaN's optics narrowed. "Additional note: the gray-jacket group entered the square from three different access points at almost the same time."
+LaN's optics narrowed. "Additional note: the grey-jacket group entered the square from three different access points at almost the same time."
 
-"Organized," Rae said.
+"Organised," Rae said.
 
 "Deliberately so."
 
@@ -162,23 +162,23 @@ For a moment the council seal held. Then A.R.I.'s face appeared beside it, soft-
 
 "Citizens of Clona and the greater central districts," the broadcast said, "a period of controlled transition is now in effect. Essential machine functions will continue under revised human supervision until further notice."
 
-The crowd reacted as if struck along different nerves at once. Cheers from the gray jackets. Boos from the systems workers. Sobs from somewhere near the wall. A bottle sailed out of the crowd and shattered against the edge of the fountain.
+The crowd reacted as if struck along different nerves at once. Cheers from the grey jackets. Boos from the systems workers. Sobs from somewhere near the wall. A bottle sailed out of the crowd and shattered against the edge of the fountain.
 
 That was enough.
 
-Security moved immediately, too quickly to have been merely alert. Black-armored officers advanced from both sides of the square with crowd shields already extended, driving a wedge toward the broken glass. The movement compressed everybody else. Bodies surged. Placards snapped. Someone screamed that the machine was fighting back. Someone else screamed that the council had staged the whole thing. Someone nearby started shouting for a medic before anyone had even fallen.
+Security moved immediately, too quickly to have been merely alert. Black-armoured officers advanced from both sides of the square with crowd shields already extended, driving a wedge toward the broken glass. The movement compressed everybody else. Bodies surged. Placards snapped. Someone screamed that the machine was fighting back. Someone else screamed that the council had staged the whole thing. Someone nearby started shouting for a medic before anyone had even fallen.
 
 LaN projected a spray of red markers across Rae's connected vision lens.
 
 "The group by the fountain is moving behind the security line. Probability of crush event rising."
 
-"We need to move." She called out to Carter, but he had already dissapeared into the crowd. Then she heard the child crying.
+"We need to move," she called to Carter, but he had already disappeared into the crowd. Then she heard the child crying.
 
 The sound came thin and high from somewhere near the fountain's lower steps. A little girl in a yellow rain jacket had been spun away from her mother by the security push and now stood trapped between a dropped placard and a man's knees, crying hard enough she could not shout a name.
 
 Rae cut toward her.
 
-Someone slammed into Rae's shoulder. She drove back with her hip, caught the child under one arm, and pivoted before the next body could close the space. The mother was three meters away, white with panic, trying to force herself upstream through a wave of shouting strangers.
+Someone slammed into Rae's shoulder. She drove back with her hip, caught the child under one arm, and pivoted before the next body could close the space. The mother was three metres away, white with panic, trying to force herself upstream through a wave of shouting strangers.
 
 "Here!" Rae shouted.
 
@@ -196,15 +196,15 @@ Rae shoved the child into the pocket of air he created. The mother lurched forwa
 
 The mother nodded without actually processing the words and stumbled away holding the child high against her chest.
 
-Near the fountain rim, a young man in a systems-union patch had gone down under the rush. One of the gray jackets stepped back instead of helping him, preserving his clean sign above the crush. Carter swore, shoved the sign carrier sideways with enough force to send him spinning, and hauled the fallen man upright by the front of his coat.
+Near the fountain rim, a young man in a systems-union patch had gone down under the rush. One of the grey jackets stepped back instead of helping him, preserving his clean sign above the crush. Carter swore, shoved the sign carrier sideways with enough force to send him spinning, and hauled the fallen man upright by the front of his coat.
 
 "You all right?"
 
 "No," the man gasped.
 
-"Too Bad. Move." Carter pushed him onwards, toward a northern exit from the square.
+"Too bad. Move." Carter pushed him onwards, toward a northern exit from the square.
 
-The gray jacket pulled his coat straight. Security passed him without stopping, though he was still in their path. Rae watched until the crowd hid him.
+The grey jacket pulled his coat straight. Security passed him without stopping, though he was still in their path. Rae watched until the crowd hid him.
 
 The line broke, reformed, and broke again. A flood of people spilled toward the tram concourse. Others climbed onto the base of the mourning wall to shout over everyone else. The candles there tipped and went out one by one beneath trampling feet and dragging coats, sending up little curls of bitter smoke that vanished into the larger stink of sweat, synth-fabric, rain-damp stone, and adrenaline.
 
@@ -308,7 +308,7 @@ LaN's display brightened.
 
 "Corroborating note: four media accounts pushed the `Human Hands Back on the Grid` slogan within ninety seconds of the council notice. Shared origin cluster probable."
 
-"We're already too late" Rae said. "They will put a stop to our access to the factory site soon"
+"We're already too late," Rae said. "They will put a stop to our access to the factory site soon."
 
 "Good," Carter said. "I hate arriving where I'm expected."
 
@@ -316,11 +316,11 @@ The line began to chime for departure.
 
 "Once we're inside the factory," Rae said, stepping toward the door, "I want to search for records, access logs, human traces, anything that tells me who touched the place before or after the blast."
 
-"Fine. You take the evidence trail." Carter followed her into the carriage. "I take the machines. Whatever's left down there, I'll pull it apart until it either tells the truth or breaks trying." He had an excited glint in his eyes. Machines where his domain.
+"Fine. You take the evidence trail." Carter followed her into the carriage. "I take the machines. Whatever's left down there, I'll pull it apart until it either tells the truth or breaks trying." He had an excited glint in his eyes. Machines were his domain.
 
-LaN's display dimmed slightly. Carter grunted an apology in it's direction.
+LaN's display dimmed slightly. Carter grunted an apology in its direction.
 
-They boarded as the doors began to close.
+The doors began to close behind them.
 
 The carriage was more crowded than it should have been at this point of day, but still quieter than the square. A child slept against his father's shoulder with tear salt still drying on his face. Two office workers muttered over a frozen civic app that kept refreshing to the same emergency seal. A woman with a memorial ribbon stared at the dark window and did not blink for three stations.
 

@@ -10,7 +10,7 @@ Carter woke with a violent start and cracked his head on the underside of the tr
 
 He dropped back onto the concrete, one hand over the lump already rising on his scalp. Beneath him, the workshop floor smelled the way it always had: oil, steel, solvent, dust, and old effort. The place was packed wall to wall with engines, tools, broken housings, spare parts, and half-finished repairs. A blind man could have stepped into it and named the profession in one breath.
 
-He had opened the shop twenty years ago, back when his knees behaved and his beard had not yet started going gray out of spite. The building was older than it looked, all patched iron supports and concrete poured in different decades, but it held together the way good machinery did: not elegantly, just stubbornly. That suited him.
+He had opened the shop twenty years ago, back when his knees behaved and his beard had not yet started going grey out of spite. The building was older than it looked, all patched iron supports and concrete poured in different decades, but it held together the way good machinery did: not elegantly, just stubbornly. That suited him.
 
 The dream was not new. It never was. Only the details changed.
 
@@ -44,13 +44,13 @@ Tap. Ta-tap tap.
 
 "Just let yourself in," Carter called.
 
-Rupert entered with his usual unnecessary flourish, ducking under the slightly too-short doorframe in a gray suit that looked allergic to physical labor. He closed the door carefully behind him and brushed imaginary dust from one sleeve.
+Rupert entered with his usual unnecessary flourish, ducking under the slightly too-short doorframe in a grey suit that looked allergic to physical labour. He closed the door carefully behind him and brushed imaginary dust from one sleeve.
 
 Rupert had grown into elegance the way some people grew into debt: gradually, then all at once. Carter still remembered him as a lanky kid in rolled sleeves, standing on a milk crate to reach the bench and complaining bitterly every time grease found its way under his nails.
 
 Chel had told Carter what Rupert was on the first day she brought him home: old artificial architecture inside a body built to pass unnoticed, recovered from technology nobody was meant to possess. Carter had looked at the frightened boy behind her and decided the useful questions could wait until after dinner. The answers never changed where Rupert slept or whose tools he was allowed to lose.
 
-He had hated the shop then too, or claimed to. Hated the smell, hated the grime, hated that Carter kept old bolts sorted in coffee tins with handwritten labels instead of something sleek and indexed and civilized. Yet he had kept turning up after school, then after work, then whenever life elsewhere had become too loud. Chel used to say Rupert complained the way other people prayed: often, dramatically, and in the hope that somebody competent would intervene.
+He had hated the shop then too, or claimed to. Hated the smell, hated the grime, hated that Carter kept old bolts sorted in coffee tins with handwritten labels instead of something sleek and indexed and civilised. Yet he had kept turning up after school, then after work, then whenever life elsewhere had become too loud. Chel used to say Rupert complained the way other people prayed: often, dramatically, and in the hope that somebody competent would intervene.
 
 Carter dropped into his chair with his mug and set another in front of Rupert.
 
@@ -86,7 +86,7 @@ Rupert hesitated only long enough to make Carter's stomach tighten.
 
 The room went still.
 
-Carter turned away first, pretending to check the biscuit tin so Rupert would not have to watch his face. Of course it would be Chel. Of course the machine at the center of this mess would be the one she had poured years of herself into. He set the tin on the table and sat down more slowly than before.
+Carter turned away first, pretending to check the biscuit tin so Rupert would not have to watch his face. Of course it would be Chel. Of course the machine at the centre of this mess would be the one she had poured years of herself into. He set the tin on the table and sat down more slowly than before.
 
 "Why?" he asked.
 
@@ -94,7 +94,7 @@ Rupert opened the file, then added one more thing to the table beside it: Chel's
 
 "Because she said you wouldn't need to understand the coding," Rupert said quietly. "You understand how she thought. If something in A.R.I. has been built wrong, hidden wrong, or forced to act wrong, you'd feel where the shape is off."
 
-He slid the file closer. Inside were printouts, stills from the blast, casualty estimates, and two pages of sanitized government language trying very hard not to sound frightened. One photograph showed the broken shell of the Clona factory under floodlights, emergency crews moving through the wreckage in reflective coats while drones hovered above with sterile blue optics. Another showed a line of citizens behind temporary barriers, faces pale in the artificial glare.
+He slid the file closer. Inside were printouts, stills from the blast, casualty estimates, and two pages of sanitised government language trying very hard not to sound frightened. One photograph showed the broken shell of the Clona factory under floodlights, emergency crews moving through the wreckage in reflective coats while drones hovered above with sterile blue optics. Another showed a line of citizens behind temporary barriers, faces pale in the artificial glare.
 
 Carter stared at the key.
 
@@ -134,7 +134,7 @@ Rupert rolled his eyes. "Of course, Carter. I am sure the government can survive
 
 Neither of them moved to end the visit straight away. With the worst of the conversation out of the way, they slipped into older habits as easily as if no years had passed. Rupert talked about the new place he was renting and how the kitchen there now spoke directly to his personal assistant system, planning meals before he'd even decided whether he was hungry. Carter called that lazy, unnatural nonsense, then spent ten full minutes describing a giant slug he had found under a busted transport rig the week before, broad as a dinner plate and unreasonably confident for something without bones.
 
-Rupert argued that automated meal planning was a triumph of civilization. Carter argued that if a kitchen needed to talk to a bot before a man could fry an egg, civilization had taken a wrong turn somewhere. Rupert retaliated by observing that Carter lived alone with an automatic grease scrubber, a service drone with no arm, and enough spare engine parts to build a small religion.
+Rupert argued that automated meal planning was a triumph of civilisation. Carter argued that if a kitchen needed to talk to a bot before a man could fry an egg, civilisation had taken a wrong turn somewhere. Rupert retaliated by observing that Carter lived alone with an automatic grease scrubber, a service drone with no arm, and enough spare engine parts to build a small religion.
 
 "A useful religion," Carter said.
 

@@ -62,7 +62,7 @@ Then each monitor showed the same calm blue circle, rotating once as though some
 
 The explosion hit before anyone could understand what they were seeing.
 
-The factory burst outward in heat, glass, and steel. Windows in neighboring buildings shattered, raining shards across the street below. Smoke and white vapor punched into the morning sky. Emergency services raced toward the scene, but for many inside it was already too late.
+The factory burst outward in heat, glass, and steel. Windows in neighbouring buildings shattered, raining shards across the street below. Smoke and white vapour punched into the morning sky. Emergency services raced toward the scene, but for many inside it was already too late.
 
 Twenty-six people close enough to the outer lanes managed to escape, though not unscathed.
 
