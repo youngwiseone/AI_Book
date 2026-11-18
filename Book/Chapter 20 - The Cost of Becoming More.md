@@ -6,7 +6,57 @@ Clinics overflowed by midmorning. Some enhanced people wanted every modification
 
 There were no clean forms for that.
 
-Rae sat outside the northern emergency ward with her ribs rebound and Asher's blood dried across one sleeve. She had refused the private room three times. On the fourth, the nurse stopped asking.
+At the northern ward entrance, a security attendant asked A.R.I. her name and checked it against his slate. The notice still ordered her returned to council custody.
+
+"Wait here," he said.
+
+Carter stopped beside her. Rae leaned against the wall, one hand pressed to her ribs.
+
+She asked for the public handset. The attendant pointed to the wall without taking his eyes off A.R.I.
+
+Rae called the external investigations desk. The first person tried to refer her to the council's Clona review. She gave her credentials, then read out the requesting-station number and the names on Rupert's certified procurement sheet.
+
+"One of the approving officials is on the recording admitting it. I have the copy here. Who can receive evidence against the body conducting the review?"
+
+She was put on hold. A trolley passed between her and Carter. He stayed beside A.R.I. while the attendant made a call of his own.
+
+When somebody answered Rae, she made him repeat his name and the case number. LaN sent the procurement copy and the section of his recording showing Asher operating the old terminal. Rae kept the patient map out of the transfer.
+
+A receipt came back. Then an instruction to preserve the originals for collection.
+
+"They're trying to take one of the witnesses back to the council," Rae said. "The witness is A.R.I."
+
+The man asked her to repeat that.
+
+A.R.I. came to the handset. "The retrieval order was issued by officials whose conduct forms part of this evidence. I can give an account of the hearing. I cannot do that if they dismantle me."
+
+The attendant held out his slate. His instructions had not changed.
+
+"Ask for an interim order," Rae told the man. "Put the retrieval notice in front of whoever signs it. Don't leave that out."
+
+They waited beside the wall while patients went through the doors. Carter kept opening and closing the catches on his tool case.
+
+The order arrived before the council retrieval team did, countersigned by the duty magistrate. It barred transfer to the council or alteration of A.R.I. pending external review. She was required to remain at the ward until an examiner had taken her account. It did not clear her of Clona.
+
+"Will I remain conscious?" A.R.I. asked.
+
+Rae checked the conditions. "No shutdown or stasis. It says that here."
+
+"I will wait here," A.R.I. said.
+
+Rae watched the attendant check the signature through a separate line.
+
+He stepped away from the doors.
+
+"They can challenge this," he said.
+
+"They'll have to put their names on that too," Rae replied.
+
+When the two retrieval officers arrived, the attendant gave them a copy. They called their office from the entrance, then returned to their vehicle without A.R.I.
+
+Rae kept the receipt. The evidence was no longer only in the box Carter carried.
+
+Later, Rae sat outside the northern emergency ward with her ribs rebound and Asher's blood dried across one sleeve. She had refused the private room three times. On the fourth, the nurse stopped asking.
 
 LaN rested in her lap while she repaired the crack Carter had already repaired badly.
 
@@ -145,6 +195,8 @@ The investigator closed the case. "The Clona finding has been suspended. There a
 "Then I'll want the original register before they get the chance to lose it."
 
 She left with the case, moving faster than she had arrived.
+
+The examiner came an hour later. A.R.I. gave her account of the hearing, the transfer and her escape. Afterwards, he signed her release from the ward. The council's retrieval claim remained suspended, not dismissed.
 
 Rae found the image of the rain-damaged notice on LaN's screen. The number on its reverse was still legible. She borrowed the ward's public handset and called it.
 
