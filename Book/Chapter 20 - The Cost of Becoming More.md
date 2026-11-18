@@ -68,7 +68,69 @@ For once, Rae did not mind repeating herself.
 
 The investigator added a restriction to the receipt and turned it round for Rae to read. Rae kept the receipt and the local copies. She watched the relay go into the case.
 
-"Blade Nathan has surrendered the original schedules," the investigator said. "He's asked to give evidence outside the council's own review."
+A trolley stopped beside the bench. Nessa sat on its edge with a blanket around her shoulders and one foot braced on the wheel. A temporary lead ran from beneath her collar to a battery strapped beside her.
+
+"The recording," she said to Rae. "Have you still got it?"
+
+LaN lifted his screen. "Yes."
+
+"Can I have it?"
+
+The investigator took out her slate. "Your name?"
+
+Nessa pulled the blanket closer. "I was asking her."
+
+Rae held up a hand to the investigator, then turned back. "She needs accounts from people who were there. If you can tell her about the frame—"
+
+"Not today."
+
+"It would help establish—"
+
+"I said not today."
+
+Rae stopped.
+
+The trolley's porter looked towards the ward doors, then away. Nessa's foot stayed on the wheel.
+
+"Sorry," Rae said. "You don't have to."
+
+Nessa looked at the evidence case. "Does that mean I don't get the recording?"
+
+"No. LaN, make her a copy."
+
+"Somewhere private," Nessa said. "I don't want it played here."
+
+LaN darkened his screen. Rae pulled an unused wafer from her kit and put it beside him. He copied the sound without opening the speaker, then checked it against the original.
+
+Rae offered it to Nessa. "The clock in the call unit had reset. We can't put a date on it."
+
+"I know when I said it."
+
+She took the wafer and closed her hand around it.
+
+The investigator lowered her slate. "I can leave a contact number."
+
+"On paper."
+
+The investigator tore a corner from her receipt pad and wrote it down. Nessa tucked it into the blanket with the wafer.
+
+"I don't want the pump taken out," she told Rae.
+
+"Nobody's asking you to."
+
+"They asked twice in there."
+
+"I didn't know." Rae looked at the temporary lead. "Is it giving you trouble?"
+
+"The alarm keeps going off. I want that checked. Then I want to sleep."
+
+Rae almost reached for the inspection flap. Instead she asked the porter to bring the ward nurse. When the nurse arrived, Nessa repeated the request herself. Rae stayed out of it.
+
+Nessa lifted her foot from the wheel. The porter took her through the ward doors.
+
+The investigator put her slate away without adding a statement.
+
+"Blade Nathan has surrendered the original schedules," she said. "He's asked to give evidence outside the council's own review."
 
 "With his signature still on them?" Carter asked.
 
