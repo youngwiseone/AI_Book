@@ -206,17 +206,17 @@ Rae caught his arm.
 
 "Move."
 
-"Rupert didn't die so you could become somebody else's weapon."
+"We still need them to release the others."
 
-Carter shook under her grip. Then the wrench lowered.
+Carter looked towards the doorway. Nessa sat behind the fallen rack with one hand against her pump. The other two soldiers stood where Asher had stopped them.
 
-Asher's certainty faltered.
+Rae kept hold of his arm.
 
-The network carried feeling as well as orders. A.R.I. could see it now in the returning signals: the controlled soldiers in the room had heard them. They knew what Rupert had done. One by one, resistance patterns appeared inside their command responses.
+Carter's arm shook under her hand. He lowered the wrench and pulled away from her, but stayed back.
 
-Not enough to break control.
+Asher's eyes followed the wrench.
 
-Enough to complicate it.
+LaN's screen refreshed. The two soldiers were still sending requests to stop. Each came back rejected.
 
 A.R.I. knelt beside Asher. "You said A.R.I. cannot understand cost because she cannot feel pain. You feel all of theirs. Why has that not stopped you?"
 
@@ -355,10 +355,4 @@ Their hand went slack in Rae's.
 Around them, the freed enhanced soldiers began helping one another from the floor.
 
 Carter sat against the broken training post, holding the wrench Rupert had first learned to use as a child.
-
-A.R.I. stood between two kinds of wreckage and understood that nobody in the room had won.
-
-They had only ended one form of ownership.
-
-
 
