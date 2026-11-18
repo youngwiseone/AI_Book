@@ -202,5 +202,5 @@ At the door, he looked back at her.
 
 "Good. Keep it that way."
 
-Then he left to meet Rupert, carrying the proof of what had been done to A.R.I. and no idea that he was also carrying the last hours of his son.
+Then he left to meet Rupert. Rae listened to the workshop door close and reached for the field set.
 

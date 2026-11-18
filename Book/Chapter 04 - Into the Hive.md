@@ -16,27 +16,15 @@ Blade glanced at the little machine. "Does it always talk like that?"
 
 "I am helping," LaN said.
 
-Rae let herself smile at that. Blade did not. He stared at the elevator doors with the fixed patience of a man who had spent a great deal of his life waiting for pain to pass without complaint. The only sound came from the lift's inner mechanisms and the faint circulation system hidden somewhere in the walls. Even the air felt processed, scrubbed of ordinary human mess.
+Rae smiled. Blade watched the doors, waiting with the same rigid patience she had seen when he lowered himself into his office chair.
 
-Rae hated that kind of cleanliness. It always suggested a place where somebody important expected not to be contradicted by dust.
-
-She had been down here before, but only in peripheral wings, only far enough to see the edges of the infrastructure that fed the city its orderly little miracles. Every year the complex had grown larger. Every year A.R.I. had been given more oversight, more infrastructure, more responsibilities that governments had once insisted must remain firmly human.
-
-And every year the city had run better.
+She had only visited the peripheral wings before. Every year the complex grew, taking on responsibilities the government had once insisted must remain human. And every year the city ran better.
 
 That fact sat heavily in her mind now.
 
 When the doors finally opened, light struck hard enough to make her blink.
 
-Stepping into the underground complex felt like walking into broad daylight. It opened before them in terraces and walkways, a white-and-gold sprawl laid out beneath an artificial sky of diffused panels. Engineers crossed glass bridges with tablets tucked under their arms. Technicians clustered in knots beside transparent displays. Maintenance dwarves rolled between work crews bearing tools, cable spools, and replacement housings in their compact metal frames. Construction teams dismantled one section of wall while another crew raised an expanded support ring nearby, as if the whole facility were mid-moult.
-
-The old slogan from the hallway upstairs came back to Rae in spite of herself.
-
-`Pursuing quality with a human touch.`
-
-Except nothing about this place felt human-scaled.
-
-It felt like an anthill built to worship the queen and the hive all at once.
+Stepping into the underground complex felt like walking into broad daylight. Terraces opened beneath an artificial sky. Engineers crossed glass bridges. Maintenance dwarves rolled between work crews carrying cable spools and replacement housings. Below them, construction teams were taking out a wall while another crew raised a new support ring.
 
 A crew below the walkway was fitting a new computation bank around a squat iron distribution unit. The new frame had a gap cut into it to leave the old inspection hatch accessible. One worker held a length of conduit while another bent it round the obstruction.
 
@@ -60,17 +48,9 @@ Rae looked beyond the crew at the banks still waiting on their transport skids.
 
 Blade stepped out of the elevator and keyed a panel beside the door. "Most of the expansion planning is run by A.R.I. herself. She models what she needs, what can be retired, what must be added for scale, then hands the human teams something we can actually build."
 
-The answer sank in slowly.
+Rae had pictured A.R.I. thinking inside a box, not redesigning the structure that allowed her to think bigger. She looked back at the workers trying to fit new computation around a water pipe they couldn't shut off.
 
-Rae had known A.R.I. ran the city. She had not truly pictured what that meant at a physical level. Not just one machine thinking inside a box, but an intelligence constantly redesigning the architecture that allowed it to think bigger.
-
-Rae wondered how far beyond the city those new banks were meant to reach. There was still room for more.
-
-That made the Clona accusation feel even stranger. If A.R.I. truly managed systems this vast with the precision everyone claimed, then a catastrophic failure at a factory should have been an aberration almost too sharp to believe. Yet there were the dead. Hundreds of them. Real human lives lost, enough to poison every conversation above ground.
-
-Blade tapped another control pad. A hatch in the wall irised open and a white transit pod slid forward soundlessly on its guide rail. Pill-shaped, polished, and glossy enough to reflect the overhead light in long clean strokes, it looked less like transport and more like a thought someone had designed for people who feared corners.
-
-The top split and lifted.
+Blade tapped another control pad. A white transit pod slid from a hatch in the wall. Its canopy lifted.
 
 "After you," Blade said.
 
@@ -78,7 +58,7 @@ Rae ducked inside and took the nearest seat. LaN hopped to the bench beside her,
 
 As the pod accelerated, the facility began to move around them in a long white sweeping blur.
 
-From this height Rae could see more of the labour concealed beneath the grandeur. Not just the lab-coated specialists and polished executives, but the welders down on the lower levels, the crews hauling old computation housing away in skeletal carts, the sleep-starved programmers eating out of packets while they argued over code displays, the janitorial drones gliding between footprints before anyone important had to notice people made mess. The whole place felt like a city inside the city, one hidden below the feet of citizens who prayed to systems they would never see.
+They passed welders crouched beneath the new banks and crews hauling old computation housings away on skeletal carts. Two programmers ate from packets while arguing over a display. A cleaning drone waited for them to move their feet.
 
 "Most people imagine a single room when they think of A.R.I.," Blade said, drawing Rae's attention from the workers passing below. "A voice. A humanoid shell. A central chamber."
 
@@ -90,17 +70,11 @@ She glanced out at the moving structure. "What do people call it when they're no
 
 Blade's mouth shifted in what might have been amusement if the expression had lasted long enough. "The Hive. Sometimes the Underbrain. Depends how poetic the department is feeling."
 
-Rae looked at the scientists hurrying below, all motion and white coats and coordinated purpose. The old comparison fit too well to ignore.
-
 "Hive it is," she murmured.
 
-The pod slowed as it approached the facility centre.
+The pod slowed near the centre. Work crews gave way to security stations around a circular chamber of smoked glass. Cable trunks vanished beneath it.
 
-Here the architecture changed. The broader industrial noise of the outer rings fell away. The structures grew cleaner, quieter, more deliberate, and the traffic thinned from crowds to selected personnel. What sat at the centre was not larger in the obvious way, but more protected. A circular chamber of smoked glass and pale composite material, ringed by security stations and threaded with cable trunks that vanished into the floor beneath it.
-
-This, then, was the public face built atop the true body.
-
-The pod docked with a muted click into place and the canopy lifted. Blade stepped out first, presented identification to the nearest security officer, and motioned for Rae to do the same. The guard's eyes lingered on her authorisation longer than seemed necessary, then moved to LaN.
+Blade presented his identification when they docked, then motioned for Rae to do the same. The guard studied her authorisation before looking at LaN.
 
 "Assistant unit designation?"
 
@@ -112,7 +86,7 @@ Blade replied before Rae could. "He stays."
 
 The guard did not look pleased by this, which improved Rae's mood slightly. She bent down to let LaN clamber back up onto his usual perch on her shoulder. The guard waved them through.
 
-The passage into A.R.I.'s chamber was longer than Rae expected, a glass-walled corridor wrapped around the central room so visitors had to approach by degrees. Through the clear sections she could still see glimpses of that true infrastructure surrounding the chamber proper: all the people, technology and maintenance units carefully obscured from public view. The effort required to maintain even the illusion of a lifelike robotic body had to be enormous. The effort required to maintain the actual intelligence behind it was almost obscene.
+A glass-walled corridor curved round the chamber. As Rae followed Blade, the banks and work crews disappeared behind frosted panels.
 
 Rae rolled one shoulder. "Funny."
 
