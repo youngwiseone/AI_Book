@@ -54,19 +54,21 @@ Carter looked at him. Rupert did not look away.
 
 "You were probably right," Carter said. He wished that made him less angry about it.
 
-Then he looked up sharply. "You saw the statement?"
+Rupert's unit lit again. A.R.I.'s face appeared above a new caption: CONTROLLED TRANSITION. He closed it.
 
-"Only fragments before they locked the feed path," Rupert said. "Enough to know it was wrong."
+"Another one?" Carter asked.
 
-"Wrong how?"
+"A new recording. It started while you were stuck at security. I got fragments before they locked our feed path."
+
+"What did they make her say this time?"
 
 Rupert hesitated, and Carter knew immediately that the answer mattered.
 
-"Too certain," Rupert said. "Too polished. Too doctrinal. It sounded less like Chel's influence and more like someone trying to imitate what frightened them about her."
+"That autonomous judgment should be returned to human authority. In her voice. Not just a headline underneath it."
 
-That was close enough to what Carter had felt to put ice behind his ribs.
+Carter looked at the dark screen. They had not needed her in the room to keep using her.
 
-"They're going to push it citywide," Rupert added. "Possibly already have by the time you reach the surface."
+"The public screens are carrying it now," Rupert said.
 
 "Then Rae needs to hear this."
 

@@ -212,7 +212,7 @@ Silence, then a burst of data.
 
 Rupert returned several seconds later. "Carter, there are public systems across the city built from Clona stock. Transit locks. Hospital backups. Water controls. The procurement path runs through an old military enhancement office."
 
-"Asher?"
+"Who signed it?"
 
 "The authorisation is sealed above my access. But the programme class is biological coordination. That station number is on the requisition. I can trace who renewed it if the old register is still downstairs."
 

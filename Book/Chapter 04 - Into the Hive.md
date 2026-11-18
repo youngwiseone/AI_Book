@@ -38,7 +38,23 @@ Except nothing about this place felt human-scaled.
 
 It felt like an anthill built to worship the queen and the hive all at once.
 
-Huge cable trunks ran outward from the facility's center like roots from some buried white tree. Water moved beneath sections of the glass flooring in narrow illuminated channels, both for cooling and humidity control if Rae had to guess. Living vines of data climbed support columns wrapped with gold-threaded circuitry, and in the distance she could see entire banks of old machinery being cut out and replaced with newer modules.
+A crew below the walkway was fitting a new computation bank around a squat iron distribution unit. The new frame had a gap cut into it to leave the old inspection hatch accessible. One worker held a length of conduit while another bent it round the obstruction.
+
+"Why leave that in?" Rae asked.
+
+Blade followed her glance. "It still feeds water to the flats above us."
+
+"Can't you isolate it?"
+
+"There's a shutoff on the old plan. Nobody's found it. A.R.I. can read the outlet pressure. She can't see what's inside the assembly."
+
+Below them, the worker tried the bent conduit against the frame. It fouled the hatch. He took it down again.
+
+"So she has to build round it."
+
+"Until someone can replace it without cutting off the flats."
+
+Rae looked beyond the crew at the banks still waiting on their transport skids.
 
 "How do you keep track of all of this?" Rae asked before she could stop herself.
 
