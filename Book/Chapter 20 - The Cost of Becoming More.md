@@ -194,7 +194,21 @@ The investigator closed the case. "The Clona finding has been suspended. There a
 
 "Then I'll want the original register before they get the chance to lose it."
 
-She left with the case, moving faster than she had arrived.
+She reached for the case. Carter took another folded sheet from his coat.
+
+"Different matter," he said. "Rupert was asking about Chel Mitchell's death. These are the requests he made."
+
+The investigator checked the review number. "Is this connected to Clona?"
+
+"I don't know. Neither did he."
+
+"Then it needs its own referral. I can record that you've brought it."
+
+Carter let her copy both sides. He kept the sheet when she handed it back.
+
+"My name on the contact," he said. "Not his."
+
+She wrote it down. Then she left with the case, moving faster than she had arrived.
 
 The examiner came an hour later. A.R.I. gave her account of the hearing, the transfer and her escape. Afterwards, he signed her release from the ward. The council's retrieval claim remained suspended, not dismissed.
 

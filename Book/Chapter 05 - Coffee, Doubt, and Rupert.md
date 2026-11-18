@@ -86,29 +86,129 @@ When he opened them again, the city had continued without his permission. People
 
 He slipped the wafer into his pocket.
 
-"She knew something," Rupert said quietly.
+"That was the clearest copy," Rupert said.
 
-"She usually did."
+Carter kept his hand in his pocket with the wafer.
 
-"I know I wasn't the one who brought you in," Rupert said. "Blade made that call. I assigned myself because I knew you should not be left to a room full of software people and council staff on your own."
+Rupert reached into his satchel again. This time he brought out a folded sheet.
 
-"Rude."
+Carter saw Chel's name at the top.
 
-"Someone has to speak plain once they all start circling the code and forgetting there were actual bolts, locks, and bodies involved. You're good at that. Painfully so."
+"What's that?"
 
-Carter turned the wafer over in his pocket. "You should've found someone less stubborn."
+"Part of the incident review."
 
-"I tried. They all agreed too quickly."
+"I've got the report."
 
-They both laughed.
+"You've got the final summary. So had I."
 
-The train shifted lines and curved into the central districts. Carter kept his hand in the pocket with Chel's wafer.
+Carter left the sheet where it was. He remembered the words beneath her name. Software error. A short account of work he hadn't understood, written by people who had stopped answering him once the account was final.
+
+Rupert unfolded the bottom edge. Two entries carried the same review number. The first referred the cause for further examination. The second closed the review with software failure entered as the cause.
+
+"Where's the examination?" Carter asked.
+
+"It isn't in the file they gave me."
+
+"That doesn't mean they didn't do it."
+
+"No."
+
+"I asked for the supporting work," Rupert said. "Not a repeat of the verdict."
+
+The reverse carried a request history. Carter read the dates. The first was from Rupert's first year in government service. There were long gaps, then several entries close together. Most ended with the name of another office.
+
+"This is why you went there?"
+
+Rupert rested both hands on his knees.
+
+"Part of it."
+
+Carter looked up. "You let me think you'd gone to work for the people who—"
+
+He stopped before he said it. A passenger across the aisle glanced towards them, then back at her own screen.
+
+"I did go to work for them," Rupert said. "That part wasn't a misunderstanding."
+
+"You could have told me what you were doing."
+
+"I wanted to have something to show you."
+
+Carter turned the sheet over again. All those dates, and two lines that did not explain the space between them.
+
+"You think they killed her."
+
+Rupert watched the passing window for a moment.
+
+"I went looking for proof that they had. I haven't found it. This could be work they lost. It could be a decision nobody wanted to defend. It isn't proof of murder."
+
+"But you're still looking."
+
+"Yes."
+
+Carter pushed the sheet back towards him.
+
+"Then stop doing it on your own."
+
+Rupert's hand stopped above it.
+
+"I am not asking you to come into those offices."
+
+"Good. They wouldn't enjoy it."
+
+"Carter."
+
+"Bring the copies round. The questions too. I might not know what half the words mean, but I can read a date."
+
+Rupert lowered his hand to the seat.
+
+"You haven't wanted their paperwork in the house."
+
+"I haven't wanted much in the house. You've noticed."
+
+The train braked. Carter caught Rupert's cup before it slid off the seat and set it nearer the window.
+
+"Do you think Clona's connected?"
+
+"I haven't found anything that connects them."
+
+Carter looked at the request dates again. "You were planning to do all of it without telling me."
+
+Rupert had no answer to that.
+
+Carter folded the sheet along its old creases and put it inside his coat, separate from the Clona brief.
+
+"And I didn't only stay because of Chel," Rupert said.
+
+Carter looked at him.
+
+"There are people who ring my office because every other number has sent them somewhere else. Sometimes I can actually get them an answer. I like that part of the job."
+
+"You could do that somewhere better."
+
+"Possibly. I haven't found it yet."
+
+Carter took the remaining piece of dough from the bag and broke it in two. He held out the less damaged half. Rupert accepted it without inspecting the sugar on Carter's fingers.
+
+For a while they ate without speaking. Chel's wafer pressed against the paper inside Carter's coat. Neither could tell him what had happened to her.
+
+"Blade asked for you because of the hardware," Rupert said. "I asked to come along. This isn't why you're here."
+
+"I agreed last night."
+
+"I know."
+
+"You could still have told me last night."
+
+Rupert looked down at his hands. Carter left him to answer that in his own time.
+
+The train shifted lines and curved into the central districts.
 
 "You all right?" Rupert asked.
 
 "No," Carter said. "But I'm on a train with you heading toward a giant state-funded machine shrine, so let's not aim too high."
 
-Rupert smiled despite himself. "That is the most encouraging answer you could have given."
+Rupert nodded. He picked up his cup, then put it down again without drinking.
 
 By the time they reached the government interchange, the weather had turned from merely cold to pointedly hostile. Wind tunneled between the buildings and snapped at coat hems. Rupert led them through a side entrance marked for internal staff, past two layers of guards, through one security hall that smelled faintly of disinfectant and polished stone.
 
