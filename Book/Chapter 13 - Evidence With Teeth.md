@@ -106,7 +106,47 @@ LaN settled in the footwell beside her with a noise of exhausted machinery.
 
 Carter climbed into the driver's seat. In the mirror, the government sheeting around Clona folded inward as another section collapsed. He kept the van moving.
 
-At the workshop, he cleaned Rae's head wound, bound her ribs, and repaired the worst break in LaN's casing. Only then did he empty the evidence from her coat.
+At the workshop, Carter cleared the narrow bed beside the office with one sweep of his arm. Parts struck the floor. He left them there.
+
+Rae opened her eyes when he put her down.
+
+"LaN?"
+
+"Here," the little bot said from the foot of the bed.
+
+She tried to turn towards him. Carter caught her shoulder before she rolled onto the torn side of her coat.
+
+"Easy."
+
+"Don't lose what's in there."
+
+"It can wait."
+
+She looked at his face as if she did not quite believe him.
+
+He had a first-aid box, clean cloths and years of keeping his own cuts out of the machinery. None of that told him what had happened inside her head. He cleaned the blood away carefully. There was less damage to see beneath it than he had feared. He did not know whether that meant anything.
+
+"Can you check her?" he asked LaN.
+
+The bot climbed onto the bed, favouring his broken limbs. A line moved across his screen.
+
+"I can tell you her breathing and pulse. I can't tell you why she lost consciousness."
+
+Carter looked towards the van keys on the bench.
+
+Rae followed his glance. "Not the site medics."
+
+"I know."
+
+He pulled a chair beside the bed. The keys stayed where they were.
+
+Rae stayed awake while he finished the bandages around her ribs and helped her into a clean work shirt. The pain caught her whenever she moved. Once she gripped his wrist hard enough to stop him.
+
+He waited until she let go.
+
+By the time she settled, LaN was listing sideways against her ankle. Carter brought his tools to the chair. The casing repair was work he understood. He kept looking past it at Rae.
+
+Only then did he empty the evidence from her coat.
 
 The crushed vial was still sealed in its sleeve. Beside it, the relay LaN had lifted from the service tray landed with a soft, unpleasant weight.
 
