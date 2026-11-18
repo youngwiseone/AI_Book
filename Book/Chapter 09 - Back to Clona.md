@@ -88,7 +88,7 @@ Carter aimed his lamp down the main machine hall. "Emergency units are below us.
 
 "I want the records wing and whatever's producing that smell."
 
-Rae took the black communicator he had given her on the train platform out of her pocket. "Same channel?"
+Rae took the black communicator he had given her on the train out of her pocket. "Same channel?"
 
 Carter tapped the flower-painted set inside his coat. "Don't change it. Press once to call, twice if something's trying to eat you."
 
