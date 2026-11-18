@@ -214,9 +214,33 @@ Rae kept her eyes on the data. "Can you identify the second chain?"
 
 A.R.I.'s gaze shifted to her. "Because it possessed sufficient permissions to erase itself from the visible record."
 
-That landed differently.
+Rae enlarged the strip between the two timestamps. Most of it was blank, but a receipt number remained at the edge.
 
-Not random failure. Not a ghost in the machine. A hidden hand with authorized reach.
+"What signed that?"
+
+"The factory's continuity service," A.R.I. said. "It can retain authority when a newer controller is disconnected."
+
+"Newer meaning you."
+
+"Yes."
+
+Blade came closer. "It's a fallback. Most of those services haven't answered a request in years."
+
+"This one did," Rae said.
+
+She asked A.R.I. to put an ordinary receipt beside it. The lengths differed. So did the order of the fields. The older one had space for a requesting station that the factory's current record did not display.
+
+"Can you ask it who made the request?"
+
+"Not through this connection. I receive the factory's reports. I don't administer its continuity service."
+
+"All this room and nobody gave you the other key."
+
+"They did not expect me to need it."
+
+Rae saved both receipts. The request might have come from an old automatic process, a person with access, or something imitating one. A.R.I.'s logs would not settle that.
+
+"Don't send anything back yet," she said. "I want to see what answered before we let it know we're looking."
 
 Rae felt the whole facility around her then, not as architecture but as argument. All this power, all this computation, all this insistence on precision and safety. And somewhere inside it, a blind spot big enough to kill hundreds and then clean up after itself.
 
@@ -234,7 +258,7 @@ For the first time, something like genuine feeling crossed A.R.I.'s face. Not pr
 
 Rae looked once more at the duplicated command, the neat little wound in the record where a hidden authority had stepped in and vanished again.
 
-There had to be something in the code they were still not seeing. She put A.R.I. and LaN through the kinds of cross-checks she had used before on financial ghosts, election tampering, and network intrusions built to vanish under scrutiny. Nothing. The only discrepancy that survived was that brief hidden duplicate command. Whoever had done it had buried the software trail properly.
+There had to be something in the code they were still not seeing. She put A.R.I. and LaN through the kinds of cross-checks she had used before on financial ghosts, election tampering, and network intrusions built to vanish under scrutiny. Nothing. The hidden duplicate command and its partial receipt survived every check. Neither identified the requesting station. Whoever had done it had buried the software trail properly.
 
 At that moment, the chamber doors opened hard enough to break the room's manufactured calm. Carter Mitchell came through them with workshop grease still under his nails and rain on his jacket, as if someone had dragged practical reality straight into the shrine.
 
@@ -247,3 +271,4 @@ Carter ignored him and kept his eyes on Rae. "Show me the factory. Real valves, 
 Rae did not like how quickly that cut through the problem.
 
 She had reached the edge of what thought alone could extract from the system. Carter, irritatingly, had recognized it on sight.
+

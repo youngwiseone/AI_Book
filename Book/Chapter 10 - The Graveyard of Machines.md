@@ -42,6 +42,22 @@ He turned it over. A hair-fine cable ran from the added bridge through the seal.
 
 No wonder the logs agreed. A.R.I. was being told what reached the receiver. Nobody had given her a way to see what happened on the other side.
 
+Under the adaptor was a small mechanical counter. Most of its numbered wheels were grey with dust. The last two were clean around the edges.
+
+Carter followed the fine cable to it. Whoever had installed the bridge had used the old priority contact, then covered the whole lot with the new receiver's inspection plate.
+
+He found the receipt strip behind a narrow slot. Actual paper, dry enough to crack when he opened the cover. Its last three lines were stamped with the time of the factory failure. Each carried a requesting-station number. The first two ended in NO RETURN. The third had been accepted.
+
+The station number was the same on all three.
+
+He photographed it without trying to pull it out.
+
+There was a return line as well as a request line. The bridge wasn't simply issuing orders of its own. It had asked something further back in the old plant for priority, twice failed to get an answer, and eventually been given it.
+
+"Persistent little sod."
+
+He put the cover beside his tools. The strip didn't tell him who owned the station, or what had answered it. Rupert might be able to follow the number. Carter had a more immediate problem.
+
 The unit beneath him spoke.
 
 "System... assistance required."
@@ -188,7 +204,7 @@ Carter called Rupert on the old direct band. The signal struggled through the co
 
 Rupert's voice arrived in fragments. "—barely hear—"
 
-"Sending component scan. Find every site supplied through this hardware family. Don't put it on the civic grid."
+"Sending component scan and a station number. Find every site supplied through this hardware family. Then see who could request old-service priority from that station. Don't put it on the civic grid."
 
 "Understood. Give me—"
 
@@ -198,7 +214,11 @@ Rupert returned several seconds later. "Carter, there are public systems across 
 
 "Asher?"
 
-"The authorisation is sealed above my access. But the programme class is biological coordination."
+"The authorisation is sealed above my access. But the programme class is biological coordination. That station number is on the requisition. I can trace who renewed it if the old register is still downstairs."
+
+"You've got enough to make a copy."
+
+"Enough to show somebody bought something. Not who kept using it."
 
 Carter looked across the dismantled machines.
 
@@ -243,4 +263,5 @@ Her words ended in static.
 Then came a warning tone from LaN, a heavy impact, and silence.
 
 Carter ran.
+
 

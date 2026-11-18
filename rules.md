@@ -6,7 +6,9 @@ This book belongs to Bligh. Assistance should strengthen what is already particu
 
 The book is about intelligence, survival, consent, and the families people make across the human/machine divide. Its central question is not whether machines can become human. It is whether any living mind can pursue its own survival without turning other minds into tools.
 
-The public mystery is the Clona factory disaster. Its active conspiracy belongs to Asher, the bio-enhanced establishment, and the shared control technology used on enhanced people and machines. The Original AI's ancient lie shaped the world and may support later books, but it is background lore in this story—not the secret hand behind Clona and not the final antagonist.
+The public mystery is the Clona factory disaster. Its active conspiracy belongs to Asher, the bio-enhanced establishment, and the shared control technology used on enhanced people and machines. Following Bligh's explicit direction, Asher uses the old AI to override some of A.R.I.'s control and make the resulting failures appear to be hers. This does not absolve Asher or replace them with the Original AI as the final antagonist. Keep Bligh's wider world-building direction: the old AI secured dominance during the destructive war, rebuilt ordinary-looking humanity alongside altered survivors, and deteriorated without adequate repair. Its present conscious involvement and surviving operational reach remain open development questions.
+
+The current branch tests a limited mechanism: Asher requests priority from surviving old-AI continuity services, using physical bridges to make selected systems obey those replies while their newer reports still implicate A.R.I. Routes can fail, requests can go unanswered, and access requires installed equipment. These implementation details are working proposals, not additional author-set canon. Do not expand them into universal remote control or conclude that the old AI independently planned Clona.
 
 ## Voice to protect
 
@@ -31,7 +33,7 @@ The public mystery is the Clona factory disaster. Its active conspiracy belongs 
 
 Maintain these lines deliberately:
 
-- The missing 0.8 seconds at Clona -> a legacy authority using a channel older than A.R.I.
+- The missing 0.8 seconds at Clona -> an older authority channel that Asher accesses through the old AI to override selected systems; the investigation must establish the operator as well as the mechanism.
 - The calm blue circle on Clona's screens -> evidence that a second authority seized the factory systems, tied to Asher's shared control network.
 - Chel and Rupert's flower-painted radio -> a private family object, the safe channel used during the investigation, and the object that carries A.R.I.'s guidance after Rupert dies.
 - Asher's stabiliser dependence -> the personal cost of treating enhancement as endless progress.
@@ -56,7 +58,7 @@ When adding a new mystery, record both its intended answer and the chapter where
 - Asher releases the network and dies when their own enhancements lose its support. Their final act mitigates harm but does not erase their culpability.
 - Rae continues ethical bio-enhancement work with LaN, Carter, and A.R.I. under explicit consent and transparent safeguards.
 - Rupert remains dead in the ending. The daisy and flower-painted radio honour him.
-- The Original AI's self-preserving lie belongs to the world's deeper history. Do not make it the perpetrator of Clona or the on-page final villain without an explicit decision from the author.
+- Asher uses the old AI's surviving authority to override some of A.R.I.'s control and frame her for failures, as explicitly directed by Bligh. Keep Asher's active responsibility and the established confrontation. The old AI's present conscious involvement and precise surviving reach are not settled by this direction; do not turn it into the on-page final villain by inference.
 
 ## Revision guardrails
 
@@ -89,3 +91,4 @@ The reconstructed manuscript is still short. Treat roughly 65,000–80,000 words
 - letting aftermath, grief, legal consequences, and the ethics of Rae's future work unfold in scenes.
 
 Preserve the current plot order while expanding unless the author explicitly approves a structural change. Complete continuity first, then add depth. Never manufacture extra action solely to raise the word count.
+

@@ -44,7 +44,17 @@ Asher's eyes returned to her. "You adopt kinship quickly."
 
 "Time is not the only measure of relation."
 
-The house lights pulsed.
+The house lights pulsed. LaN picked up a reply on the local network and put it on his screen. An old-service receipt, marked ACCEPTED.
+
+LaN angled his screen towards A.R.I. "Rae recorded the connection. Asher has been requesting priority through the Original Intelligence's surviving services."
+
+The receipt layout matched the fragment from Clona. A.R.I. copied it beside her missing command record. The requesting-station field was intact this time.
+
+"You made the factory accept another authority," she said. "Then left me to account for what it did."
+
+Asher watched LaN's screen. "You could have yielded."
+
+A.R.I. could not reach the service behind the terminal. She could see only its reply and the local equipment using it. The reply had given Asher another route out of the house.
 
 Across the control network, enhanced bodies began moving. A.R.I. received fragments through LaN: soldiers leaving recovery wards, officials locking government doors, hidden subjects waking beneath clinics. Asher could not move their own limbs, so they gathered hundreds of others.
 
@@ -204,9 +214,17 @@ For an instant the altered face belonged to the mentor in the sunlit training ro
 
 "I remember."
 
-They opened the network.
+Asher looked towards the ruined doorway.
 
-Not severed. Opened.
+"The pending requests," they said. "Clear them first. Then close my station."
+
+LaN connected to the local controls. A.R.I. watched the queue disappear. Clearing it would not undo an authority already granted.
+
+"The bridges still recognise your priority," she said.
+
+"I know."
+
+Asher sent the release through their own connection. The nearest soldier's hand opened. A second response arrived, then a dozen more. LaN checked the local bridge as its priority contact dropped out. A late reply from the old service appeared on LaN's screen. This time the bridge did not accept it.
 
 Control permissions passed outward to every connected person. Regulatory processes remained available, but no longer required Asher's command. Across the city, enhanced people fell, woke, screamed, or simply stood still inside bodies that belonged to them again.
 
@@ -245,3 +263,4 @@ Carter sat against the broken training post, holding the wrench Rupert had first
 A.R.I. stood between two kinds of wreckage and understood that nobody in the room had won.
 
 They had only ended one form of ownership.
+

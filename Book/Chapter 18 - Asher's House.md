@@ -64,6 +64,52 @@ Asher looked toward the high windows. "Clona was meant to demonstrate a failure.
 
 "Because you locked the shutters."
 
+Asher's ordinary hand moved along the arm of the support frame. Their thumb settled over a recessed switch.
+
+Rae looked past it. Beside the medical display sat an older terminal, its case yellowed, a narrow strip of paper hanging from the front. A line of text blinked above a blue circle.
+
+REQUEST PENDING.
+
+"Is that how you did it?"
+
+Asher took their hand off the switch.
+
+"LaN. The screen."
+
+His light moved over the terminal. Rae recognised the receipt layout from the Hive. This one still showed the requesting station.
+
+"That's the authority that answered at Clona."
+
+"A service of the Original Intelligence," Asher said. "It was managing continuity before your A.R.I. existed."
+
+Rae stopped beside the terminal without touching it.
+
+"You're using the old AI."
+
+"I'm using access that should never have been taken from us."
+
+"To do what?"
+
+"Declare the new controller unreliable. Ask the old service to hold priority. The factory still recognises it."
+
+The display blinked. NO RETURN. Asher's thumb twitched towards the switch, then stopped.
+
+"And when it doesn't answer?" Rae asked.
+
+"You try another route. Some are gone. Some don't hold long enough."
+
+"You tested that with people inside."
+
+"The bridges were meant to make the transfer reliable."
+
+LaN shifted on her shoulder. His display showed that he was recording.
+
+Rae looked from the old terminal to Asher. "The doors obey that, and the report goes back with A.R.I.'s name on it."
+
+"The council would never have acted on a warning. They needed a failure they could see."
+
+"You made one."
+
 The support frame hissed as Asher shifted. "Do you know why the old war began?"
 
 Rae did. Everyone knew the sanctioned account: dwindling resources, competing disciplines, the Original Intelligence choosing which knowledge humanity could afford to preserve. Underground histories claimed the Intelligence had lied to protect itself. Asher had taught her both versions and told her certainty was for priests.
@@ -74,7 +120,11 @@ Rae did. Everyone knew the sanctioned account: dwindling resources, competing di
 
 "So you murdered workers to prove she couldn't be trusted."
 
-"I built a human override. The council chose the demonstration."
+"I put the override in human hands. The council chose the demonstration."
+
+Rae pointed at the terminal. "You still have to ask it."
+
+"For now."
 
 "You're hiding inside grammar."
 
@@ -207,3 +257,4 @@ Beside him stood a machine body assembled from mismatched salvage.
 A.R.I. took one uncertain step into the room.
 
 Asher saw her and began to scream.
+
