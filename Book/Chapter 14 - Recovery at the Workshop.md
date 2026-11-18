@@ -192,6 +192,40 @@ He wrote the frequency on a parts label and stuck it to the set. "Stay here till
 
 LaN sent a test packet. The painted radio clicked against Carter's palm.
 
+Rae drew the entrance hall of Asher's house on the back of a delivery sheet. She marked the room with the support frame, then the training hall beyond it.
+
+"You can stay on my shoulder until we're close enough to see the controls," she told LaN. "Under my coat if they start asking about you."
+
+"No."
+
+Her pen stopped.
+
+"They'll want to know what I've done to you."
+
+"I don't want to be carried into their reach."
+
+"You're still limping."
+
+"Then carry me to the door. Not through it."
+
+LaN crossed the paper, dragging his repaired limb over Rae's line. He stopped beside the entrance she had drawn.
+
+"I want to see the way out. I can't do that from inside your coat."
+
+Rae looked at the torn coat hanging beside the bench. She had been planning how to keep him hidden, not how he would leave.
+
+"I need you where you can record the controls."
+
+"I can move when I see them."
+
+She put the pen down.
+
+"You'll tell me if you can't get a view?"
+
+"Yes."
+
+Rae turned the paper so he could see the route into the next room. She had drawn that doorway too narrow. She widened it before he could point it out.
+
 Late that afternoon, Rae could cross the workshop without help if she moved slowly. Carter packed the relay into a shielded box and checked the old communicator twice.
 
 At the door, he looked back at her.

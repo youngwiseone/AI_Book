@@ -42,6 +42,8 @@ Rae crossed the entrance hall where she had once waited after school. The room h
 
 Asher's voice came from the adjoining room.
 
+At the doorway, LaN touched her wrist. Rae lowered her arm and let him climb down. He moved to one side of the doorframe, clear of her boots, and turned his screen towards the room.
+
 Rae entered and stopped.
 
 They sat inside a support frame bolted through the floor. Tubes entered their back and arms. Mechanical braces held the weight of shoulders widened far beyond human proportion. Skin had been stretched over grafted muscle and armour until it shone. One hand remained nearly ordinary. The other rested on the floor, taloned fingers long enough to close around Rae's torso.
@@ -70,7 +72,7 @@ Rae looked at the plate again. No inspection latch. It had been grown into the s
 
 "You always did prefer tools to people."
 
-LaN's screen displayed an offended face. Rae put a steadying hand against his casing.
+LaN's screen displayed an offended face.
 
 "Clona," she said. "Was it you?"
 
@@ -94,7 +96,7 @@ Asher took their hand off the switch.
 
 "LaN. The screen."
 
-His light moved over the terminal. Rae recognised the receipt layout from the Hive. This one still showed the requesting station.
+LaN moved along the wall until he could see past the support frame, then lifted his light to the terminal. Rae recognised the receipt layout from the Hive. This one still showed the requesting station.
 
 "That's the authority that answered at Clona."
 
@@ -120,7 +122,7 @@ The display blinked. NO RETURN. Asher's thumb twitched towards the switch, then 
 
 "The bridges were meant to make the transfer reliable."
 
-LaN shifted on her shoulder. His display showed that he was recording.
+LaN angled his screen towards her. His display showed that he was recording.
 
 Rae looked from the old terminal to Asher. "The doors obey that, and the report goes back with A.R.I.'s name on it."
 
@@ -190,7 +192,9 @@ At A.R.I.'s name, Asher moved.
 
 The ordinary hand became a blur aimed at Rae's shoulder.
 
-Rae caught LaN and threw herself sideways. Asher's talons closed on empty air, then went through the wall behind her. Stone and timber burst across the floor.
+Rae threw herself sideways. Asher's talons closed on empty air, then went through the wall behind her. Stone and timber burst across the floor.
+
+She looked for LaN. He was already backing through the doorway, keeping the opening in view. She left him to it and moved away from Asher's embedded hand.
 
 "You brought her here?" Asher roared.
 
@@ -203,6 +207,8 @@ Rae ran into the training hall.
 It was the one room that had not changed. Padded floor. Weapon racks. High narrow windows. The marks of thousands of practice strikes still cut the central post.
 
 Asher entered by removing most of the doorway.
+
+LaN followed through the wrecked opening behind them, keeping close to the wall.
 
 Rae drew her baton.
 
