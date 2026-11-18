@@ -196,6 +196,40 @@ He connected Rae's field set to the workshop aerial and brought up the repairers
 
 "Not private," he said, turning it down. "But it doesn't need the civic grid. LaN can put the check-ins in code. Give the relay time to answer before you repeat yourself."
 
+Rae touched the transmit button without pressing it.
+
+"Can someone on this band reach the rescue crews?"
+
+"Probably. Everybody can hear you ask."
+
+She looked at the wall screen. Her photograph was still in the row of presumed dead.
+
+"They stopped searching. He might be alive."
+
+Carter moved the set closer.
+
+She pressed the button. "Message for Clona rescue control. Possible trapped survivor in the passage into the lower disposal hall. By the loading dwarf. Enhanced man, badly injured."
+
+A burst of static answered. Then a voice asked her to repeat the location.
+
+She did.
+
+"Don't send anyone from this band in," Rae said. "The structure was still moving when we left. He was being driven by a control implant. He may not be able to stop himself hurting someone. The crews need to know before they approach."
+
+"Who's reporting?"
+
+Rae kept her thumb on the button. Carter watched the set.
+
+"Someone who got out."
+
+She released the button. For a moment there was only static.
+
+"I'll pass it to rescue control. Can't tell you whether they'll go."
+
+"Ask them to keep it on the search record."
+
+The voice read back the location. Rae corrected the level, waited until it was repeated properly, then lowered the set. No rescue crew had answered.
+
 "What if you don't come back?" Rae asked.
 
 He wrote the frequency on a parts label and stuck it to the set. "Stay here till morning. If you leave, tell me where. No guessing."
