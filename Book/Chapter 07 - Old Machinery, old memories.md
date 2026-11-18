@@ -1,6 +1,6 @@
 # Chapter 7: Old Machinery, Old Memories
 
-Carter's site permit was running down while a security clerk checked an authorisation already confirmed twice. Behind the desk, two aides argued about which exit he was allowed to use.
+Ninety minutes after leaving A.R.I.'s chamber, Carter was still underground. A security clerk was checking an authorisation already confirmed twice. Behind the desk, two aides argued about which exit he was allowed to use.
 
 He left them to it.
 
@@ -274,7 +274,7 @@ Rupert's expression went thin and fond at once. "That is the most reassuring thi
 
 Then Carter was moving again.
 
-The stair brought him to an outer passage. At the final security door, a guard checked his permit, looked at how little time remained on it, and let him through. Evening air caught the sweat on his face.
+The stair brought him to an outer passage. At the final security door, a guard checked his permit, looked at the shrinking time window, and let him through. Evening air caught the sweat on his face.
 
 The city above had changed while he was underground.
 

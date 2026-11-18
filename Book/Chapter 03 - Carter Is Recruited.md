@@ -1,6 +1,6 @@
 # Chapter 3: Carter Is Recruited
 
-He saw Chel in the moonlight again.
+The previous evening, Carter had seen Chel in the moonlight again.
 
 Her dark hair whipped around her face in the wind, and the white of her lab coat shone silver against the black sea behind her. She turned toward him smiling, one hand raised as if she were calling him closer, but the wind stole whatever words she meant to say. Then another voice somewhere beyond her caught her attention. Chel glanced toward the cliffs, took a step, lost her footing, and vanished.
 
@@ -126,7 +126,7 @@ Rupert rolled his eyes. "Of course, Carter. I am sure the government can survive
 
 "It'll be a first."
 
-"We can meet tomorrow," Rupert said. "Nine o'clock. The new Bio-Cafe around the corner."
+"We can meet tomorrow," Rupert said. "One o'clock. Coffee cart at the station."
 
 "I'll be late."
 

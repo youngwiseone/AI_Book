@@ -1,6 +1,6 @@
 # Chapter 2: Rae Gets Pulled In
 
-Rain polished the government intake building until it looked less like stone and more like a sealed thought.
+By the afternoon after Clona, rain had polished the government intake building until it looked less like stone and more like a sealed thought.
 
 Rae sat in the waiting area with water darkening the shoulders of her coat and watched a ceiling vent struggle against the smell of old beer, synthetic cherry vape, and wet wool. Beside her, LaN crouched near her chair on four slim limbs, shell gleaming white in the dimness.
 

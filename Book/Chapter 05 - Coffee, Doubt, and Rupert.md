@@ -1,6 +1,6 @@
 # Chapter 5: Coffee, Doubt, and Rupert
 
-Morning came cold enough to make Carter resent the existence of weather. Having less sleep the night before did not help with the drab day.
+By lunchtime the cold had settled into the workshop. Carter had barely slept after Rupert left. He shut the doors and went to meet him.
 
 He pulled his denim jacket tighter around himself and hunched his shoulders as he walked down the gusty alley toward the station, one hand jammed into a pocket, the other wrapped around a hot pastry in thin paper. The thing was full of spiced vegetables and synthetic cheese that stuck to the roof of his mouth, but it was hot and cheap and from the stall outside the platform, which made it respectable.
 
@@ -10,7 +10,7 @@ Fixing A.I. and software had always been the sort of work he mocked other people
 
 He bit into the pastry and nearly scorched his tongue.
 
-The platform speakers crackled to life above him with the morning guidance bulletin, a calm feminine voice announcing adjusted route times, weather advisories, and civic courtesy reminders in a tone so measured it made every piece of the city sound two degrees more obedient than it really was. A.R.I.'s work, whether Carter liked it or not. The transport lines had run almost flawlessly since she took over the system. Crash rates had plummeted. Delays were rare. Even traffic flow through the industrial districts had stopped behaving like a collective death wish.
+The platform speakers crackled to life above him with the afternoon guidance bulletin, a calm feminine voice announcing adjusted route times, weather advisories, and civic courtesy reminders in a tone so measured it made every piece of the city sound two degrees more obedient than it really was. A.R.I.'s work, whether Carter liked it or not. The transport lines had run almost flawlessly since she took over the system. Crash rates had plummeted. Delays were rare. Even traffic flow through the industrial districts had stopped behaving like a collective death wish.
 
 That was part of what made Clona sit so badly in his gut.
 
@@ -30,7 +30,7 @@ Carter took the bag first. "Good. See? That's why I keep you around."
 
 "Technicality."
 
-They boarded the city transport just as the doors chimed closed. Inside, the carriage smelled of damp coats, battery heat, and someone's aggressively herbal breakfast. Rupert chose a pair of seats near the window and set the coffees between them before Carter could slosh one into his own lap.
+They boarded the city transport just as the doors chimed closed. Inside, the carriage smelled of damp coats, battery heat, and someone's aggressively herbal lunch. Rupert chose a pair of seats near the window and set the coffees between them before Carter could slosh one into his own lap.
 
 Carter looked suspiciously into his cup. "What did you do to this?"
 
@@ -44,7 +44,7 @@ Carter grunted and took a sip anyway. It was sweeter than he would have chosen, 
 
 Outside, the city slid by in ordered layers.
 
-Morning light picked out the wet steel edges of bridges and transit rails. Delivery drones moved in disciplined currents overhead. Walkways filled with workers in staggered rhythms. Here and there old buildings still hunched between newer construction, their facades patched with conduit and ceramic paneling like old bones pinned into modern armor. Banners had gone up overnight over several overpasses: civic condolences, factory memorial notices, official promises of accountability printed in expensive typefaces standing out in pale clean serenity against the otherwise grimy district.
+Thin daylight picked out the wet steel edges of bridges and transit rails. Delivery drones moved in disciplined currents overhead. Walkways filled with workers in staggered rhythms. Here and there old buildings still hunched between newer construction, their facades patched with conduit and ceramic paneling like old bones pinned into modern armor. Banners had gone up overnight over several overpasses: civic condolences, factory memorial notices, official promises of accountability printed in expensive typefaces standing out in pale clean serenity against the otherwise grimy district.
 
 The first public mourning wall near the central line was already crowded with flowers, candles, handwritten names, and projected memorial glyphs. Carter looked away before the train slowed enough to make the details visible.
 
@@ -68,7 +68,7 @@ For a while the train hummed under them and neither spoke. Carter finished the f
 
 "You can have one," Carter said eventually, feeling Rupert's gaze on the left over piece.
 
-Rupert sighed. "The offer is appreciated, but I prefer not to eat breakfast that looks like it lost a duel."
+Rupert sighed. "The offer is appreciated, but I prefer not to eat something that looks like it lost a duel."
 
 Wanting to discuss something else after losing his appetite for food, he reached for the inner pocket of his coat. "There is something else." He produced a small wafer and laid it on Carter's palm.
 

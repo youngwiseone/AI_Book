@@ -96,7 +96,7 @@ The unit did not know Clona had already fallen. Its last stable memory remained 
 
 He could have lied. It would have made no practical difference.
 
-"The factory exploded. You were damaged. It's been days."
+"The factory exploded. You were damaged. It happened yesterday."
 
 The weak display changed pattern as the unit processed this.
 
