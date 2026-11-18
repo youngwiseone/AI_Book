@@ -36,7 +36,7 @@ Something roared behind them.
 
 Not dead, then.
 
-He had not expected it to be. Anything built with that much contempt for ordinary anatomy would be difficult to kill and probably impossible to reason with. The thought reminded him of several council officials.
+He looked for the next door. One collapse had not stopped it, and he had no spare hands.
 
 They reached the machine graveyard. Carter stopped beside the damaged AI unit he had opened earlier. Its screen remained blank. The extracted relay still lay in the service tray where he had dropped it. The metal had stopped steaming.
 
@@ -72,6 +72,10 @@ The door burst open.
 
 The creature forced itself through, shoulders scraping both sides. Concrete dust covered its plated body. One arm hung broken. The human eye found Rae and filled with fresh terror.
 
+"He's being controlled," Rae said.
+
+The long arm reached through the broken doorway.
+
 Carter crossed two wires.
 
 The dwarf's loading arm fired.
@@ -80,9 +84,13 @@ Its steel hand struck the creature square in the chest and drove it backwards in
 
 The floor moved under them.
 
-"That," Rae said weakly, "was your subtle plan?"
+Rae tried to see past the loading arm.
 
-"It noticed, didn't it?"
+"Can he get out?"
+
+Another slab struck the floor between them and the doorway. Carter pulled her back.
+
+"I can't see him. We have to go."
 
 LaN found the emergency route. They climbed through a ventilation trench as the factory settled behind them. Carter pushed Rae ahead where the gap narrowed, then passed LaN through after her. By the time he pulled himself into the rain, the south roof had begun sinking into its own smoke.
 

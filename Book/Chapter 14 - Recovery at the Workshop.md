@@ -24,6 +24,12 @@ He pointed at the small wall screen. The morning report showed their photographs
 
 "Almost like they weren't hoping."
 
+"Did they find the man in the south hall?"
+
+"Report didn't mention him."
+
+Rae watched until the footage changed to another street. They had not shown the doorway where the loading arm had been.
+
 LaN tested his repaired limb. It moved with a slight hitch but remained attached. "Carter used three components not approved by my manufacturer."
 
 "Your manufacturer isn't here."
@@ -92,7 +98,7 @@ Fighting. Investigation. The biological technologies the war left scattered acro
 
 She described the stabilisers. The surgeries. The voices Asher sometimes answered when nobody else was in the room. A network of enhanced soldiers linked through biological control signals, first for coordination in combat and later because Asher no longer knew how to exist without being obeyed.
 
-"The thing in the factory recognised me," Rae said. "It asked me to run while the signal was interrupted."
+"The man in the factory told me to run," Rae said. "While LaN interrupted the signal. He was trying to help me."
 
 Carter looked at the relay. "So the machines and the enhancers were controlled through the same hardware."
 
@@ -110,7 +116,7 @@ Carter caught her before she fell. "Sit down."
 
 "Not today."
 
-"They know I'm alive if the creature reported back."
+"They know I'm alive if his implant sent anything back."
 
 "Then they can enjoy the suspense."
 
