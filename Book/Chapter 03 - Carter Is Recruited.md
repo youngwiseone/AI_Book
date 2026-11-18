@@ -132,13 +132,43 @@ Rupert rolled his eyes. "Of course, Carter. I am sure the government can survive
 
 "I already accounted for that."
 
-Neither of them moved to end the visit straight away. With the worst of the conversation out of the way, they slipped into older habits as easily as if no years had passed. Rupert talked about the new place he was renting and how the kitchen there now spoke directly to his personal assistant system, planning meals before he'd even decided whether he was hungry. Carter called that lazy, unnatural nonsense, then spent ten full minutes describing a giant slug he had found under a busted transport rig the week before, broad as a dinner plate and unreasonably confident for something without bones.
+Neither of them moved to end the visit straight away. Rupert talked about the new place he was renting and how the kitchen there now spoke directly to his personal assistant system, planning meals before he'd even decided whether he was hungry. Carter called that lazy, unnatural nonsense.
 
-Rupert argued that automated meal planning was a triumph of civilisation. Carter argued that if a kitchen needed to talk to a bot before a man could fry an egg, civilisation had taken a wrong turn somewhere. Rupert retaliated by observing that Carter lived alone with an automatic grease scrubber, a service drone with no arm, and enough spare engine parts to build a small religion.
+"Your washroom has an automatic grease scrubber," Rupert said.
 
-"A useful religion," Carter said.
+"That's different."
 
-"A noisy one."
+"Of course."
+
+Carter reached for another biscuit and remembered the slug.
+
+"Found a slug under a transport rig last week. You should've seen it."
+
+He spread his hands a dinner plate's width apart. Rupert moved the biscuit tin out of the way.
+
+"That big?"
+
+"Broader when it flattened out. Couldn't get it off the inspection cover."
+
+"What did you do?"
+
+"Took the whole thing off. Carried it into the yard."
+
+Rupert stopped with a biscuit halfway to his mouth. "The cover?"
+
+"Yes, the cover. Had to prop it against the fence till the slug let go."
+
+"How long?"
+
+"Customer came back before it did."
+
+Rupert lowered the biscuit again.
+
+"You sent the rig out without its inspection cover?"
+
+"Course not. Made him a cup of tea."
+
+Carter took a long drink from his mug. Rupert sat back, shaking his head.
 
 Outside, a freight tram rumbled past at the end of the lane, shaking the window just enough to stir the spoons hanging on the magnetic strip. Somewhere farther off, one of the night-market vendors was still calling the last of their stock through a cheap speaker. The city never really slept. It only changed shifts.
 
