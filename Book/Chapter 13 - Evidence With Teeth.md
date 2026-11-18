@@ -52,11 +52,7 @@ LaN descended, caught it between two functioning limbs, and immediately lost hei
 
 Rae opened her eyes again. "Inside my coat."
 
-Carter pushed the relay into the surviving side of her coat. His fingers caught on something wet and fibrous along the component.
-
-Tissue.
-
-Not residue from the creature. It had been grown through the machine's control bridge, living material wrapped around a hardware instruction. Rae's evidence and his were not separate. Whoever built the enhanced attacker had used the same method to force false data into the factory AIs.
+Carter pushed the relay into the surviving side of her coat.
 
 The creature struck the maintenance door behind them.
 
