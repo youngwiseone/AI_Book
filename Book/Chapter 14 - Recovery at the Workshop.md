@@ -328,6 +328,20 @@ She put the pen down.
 
 Rae turned the paper so he could see the route into the next room. She had drawn that doorway too narrow. She widened it before he could point it out.
 
+LaN put his damaged foot on the paper to hold it flat. That morning it had folded beneath him. Now it held, though the joint still shook.
+
+Rae watched him shift a little more weight onto it.
+
+"Don't tear what's just joined."
+
+"I am testing it."
+
+"So am I. From here."
+
+He put the repair trace on his screen. A thin connection crossed the gap between the damaged fibre ends. Carter’s brace kept the joint aligned while the living strands joined across the break.
+
+LaN lifted the foot before it began to buckle. The dent in his shell remained.
+
 Late that afternoon, Rae could cross the workshop without help if she moved slowly. Carter packed the relay into a shielded box and checked the old communicator twice.
 
 At the door, he looked back at her.
