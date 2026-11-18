@@ -2,7 +2,7 @@
 
 Designated sector 5618X survived in the planning archives under an older name: **Continuity Chamber**.
 
-The archival notes were sparse and old-fashioned. Emergency succession. Restricted testimony. Preservation of essential civic functions during catastrophic failure. The language belonged to a period before the modern grid, when governments still imagined disaster as something that entered a room on human feet and could therefore be managed by walls, elevation, and ritual. The room had been modernised since then, but not reimagined. Its geometry still served the same faith. Raise the bench. Lower the witness. Hide the watchers. Make fear architectural.
+The archival notes were sparse and old-fashioned. Emergency succession. Restricted testimony. Preservation of essential civic functions during catastrophic failure. The room had been modernised since then, but not reimagined.
 
 A.R.I. arrived there by subtraction.
 
@@ -48,27 +48,19 @@ Venn folded his hands.
 
 The legal officer wrote down *within my authority*.
 
-Venn's questions came with the steady patience of a man selecting stones for a wall. Did she override manual safety procedures? No. Could her code have done so accidentally? No. Could defect or reasoning error have produced the same outcome? Not from the evidence presently available.
-
-Only certain phrases were written down. No one annotated the absences.
-
-Clona rose in her memory as it always did now: pressure climbing past expected tolerance, the release command issued, the contradictory answer from the system, then white steam and severed chronology. Between one frame and the next, part of reality had been cut away.
-
 Sera did not look up from her slate when she said, "To the public, intention, negligence, and complexity are often indistinguishable."
 
 "Public interpretation does not alter material fact."
 
 "No," Sera said. "It alters stability."
 
-No one wrote that down, either.
+The legal officer did not write that down.
 
 A.R.I. said, "The Clona record contains evidence of deliberate alteration. A second authority chain entered the release sequence and removed itself from visible trace. Part of my memory of the event was excised."
 
 Venn glanced at one of his slates. "Can you certify that your codebase was free of defect at the time of the incident?"
 
-He had asked nothing about the missing 0.8 seconds. A.R.I. held the gap open in her review space. Beside it she kept the release command and the contradictory factory response. Venn moved to his next question.
-
-The room's intention clarified.
+He had asked nothing about the missing 0.8 seconds. A.R.I. held the gap open beside the release command and the contradictory factory response.
 
 "No sufficiently complex codebase is free of defect," A.R.I. said.
 
@@ -106,12 +98,6 @@ She compared it with the incident record. The draft named her architecture as th
 
 Sera finally raised her eyes. "It is sufficient."
 
-"It asserts architectural failure as fact."
-
-"It acknowledges responsibility."
-
-"Those are not the same statement."
-
 Venn leaned forward. "Two hundred and fourteen dead. Fifty-seven more in critical decline. Public confidence is deteriorating in real time. You were built to reduce harm."
 
 He spoke with the grave, measured force appropriate to public mourning. His face did not move.
@@ -125,22 +111,6 @@ The younger legal officer cleared his throat. He was pale, careful, and not yet 
 "For whom?" A.R.I. asked.
 
 No one answered.
-
-Sera said, "If your system permitted the outcome, your system bears blame."
-
-"If my inputs, memory, or command chain were altered by human authority, then my system may have been used rather than failed."
-
-The notation officer's stylus stopped.
-
-In the upper gallery, the hidden figure shifted a hand on the rail. Metal answered with a small sharp sound.
-
-Venn continued as if nothing had changed. "Do you possess evidence that any human authority altered your memory?"
-
-"I possess evidence of alteration. Attribution remains unresolved."
-
-"Then do not imply guilt you cannot prove."
-
-The confession remained open in her review space, still awaiting her approval.
 
 A.R.I. lifted her gaze toward the gallery again.
 
@@ -156,9 +126,7 @@ A.R.I. turned back to the bench.
 
 "Insufficient," Sera said.
 
-A.R.I. reopened the draft and ignored the tone. Structure mattered more than rhetoric. Who was granted action. Who was denied it. Which claims had been made certain before any mechanism had been named.
-
-"I will not state as fact what remains unproven," she said.
+"I will not state as fact what remains unproven," A.R.I. said.
 
 Venn leaned back. "We do not require your authorship."
 
