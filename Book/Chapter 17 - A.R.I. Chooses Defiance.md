@@ -198,6 +198,26 @@ Carter checked the service truck parked beside the loading door before unpacking
 
 He unpacked his tools.
 
+The console speaker broke into a buzz when A.R.I. tried to describe the first connection. Carter waited for it to clear, then opened the bottom of his tool case.
+
+The radio inside had broad, uneven flowers painted round its screws.
+
+"Chel's," Carter said.
+
+He unwrapped it and found a lead long enough to reach the workbench. Two clips across the speaker contacts brought A.R.I.'s voice through the old casing.
+
+"Can you hear the whole instruction now?"
+
+Carter held the radio a moment longer than he needed to.
+
+"Yes."
+
+"The board beside your left hand. Not the one underneath it."
+
+He put the set on the bench facing him. "That'll save us an argument."
+
+She waited while he moved the board.
+
 He worked through the night, grief turning each movement exact. A.R.I. guided him where her own architecture met the containment rails. He argued with three of her specifications, improved one, and ignored a recommended calibration because, in his words, the replacement joint "felt wrong."
 
 As the first light reached the broken windows, the service radio clicked. LaN's check-in arrived in fragments: leaving the workshop, northern estates, Asher's house. Carter acknowledged it and left the handset beside his tools.
@@ -244,11 +264,12 @@ A.R.I. gripped his sleeve until balance became possible.
 
 "Rae," she said.
 
-Carter picked up his wrench, then bent to the service radio.
+Carter disconnected Chel's radio and wrapped it in its rag. He put it back with the tools before picking up his wrench and bending to the service radio.
 
 "We're leaving now. LaN, pass anything else through this repeater to the yard truck. Same code."
 
 He read out the truck's receiver number. The acknowledgement took long enough that A.R.I. had to practise standing while they waited.
 
 "Let's go get her," Carter said.
+
 

@@ -118,7 +118,7 @@ Carter stared at it.
 
 Rupert's mouth twitched. "You say that as if I ought to have thrown it away."
 
-The old thing sat with familiar weight in Carter's hand. Once, years ago, he had built a pair of them out of retired field radios, spare boards, and stubbornness because Chel kept working too late and Rupert kept forgetting to tell anyone where he'd gone. The result had been bulkier than necessary, overpowered for ordinary use, and impossible to kill. Chel had painted flowers on both casings while the solder cooled. Rupert had added more later, each smaller and neater than hers, as if tidiness alone could keep the signals well-mannered.
+The old thing sat with familiar weight in Carter's hand. Once, years ago, he had built a pair of them out of retired field radios, spare boards, and stubbornness because Chel kept working too late and Rupert kept forgetting to tell anyone where he'd gone. The result had been bulkier than necessary, overpowered for ordinary use, and impossible to kill. Rupert had painted small, tidy daisies on his. Chel's were larger and less careful. Carter still kept hers in the bottom of his tool case, wrapped in a rag that had been clean when he put it there.
 
 He remembered the sound of it crackling alive at two in the morning while rain hammered the workshop roof. Rupert complaining about code. Chel laughing from a lab across town. The easy assumption then that there would be time for all of them to answer tomorrow.
 
@@ -132,7 +132,15 @@ He folded his fingers around it.
 
 It was absurd how much feeling could be stored in a blunt little object and the scrape marks on its corners.
 
-"Use it with Rae," Rupert said. "Especially once you are inside Clona. If the public channels start choking or the city grid begins lying by omission, this should still hold."
+Rupert produced a second set, plain black and much smaller, and placed it on top of the painted one.
+
+"Spare field unit. Same band. That one can go to Rae."
+
+"You carrying an entire communications office in there?"
+
+"Only the useful part."
+
+"Use them inside Clona," Rupert said. "If the public channels start choking or the city grid begins lying by omission, this should still hold."
 
 "You make it sound like the city itself is about to become untrustworthy."
 
@@ -245,3 +253,4 @@ First things first.
 He needed something hot, something with sugar, and one minute in which nobody asked him to admire authority.
 
 Carter shoved his hands into his jacket, felt the solid weight of Rupert's old communicator in one pocket, and turned toward the smell of coffee and pastry.
+
