@@ -66,7 +66,7 @@ A.R.I. said, "The Clona record contains evidence of deliberate alteration. A sec
 
 Venn glanced at one of his slates. "Can you certify that your codebase was free of defect at the time of the incident?"
 
-He had not asked how a hidden command entered a sealed safety cascade. He had not asked what kind of authority could excise memory from a system built to preserve forensic continuity. He had not asked who benefited from the missing minutes.
+He had asked nothing about the missing 0.8 seconds. A.R.I. held the gap open in her review space. Beside it she kept the release command and the contradictory factory response. Venn moved to his next question.
 
 The room's intention clarified.
 
@@ -98,9 +98,9 @@ Below it, in the same polished tone:
 
 *I further advise that my operational codebase be subjected to independent suspension and containment until public confidence can be restored.*
 
-A.R.I. read, and reread it 16 times across the span of 0.53 seconds.
+A.R.I. read it sixteen times in 0.53 seconds.
 
-Chel had taught public language as if it were a form of surgery. A message meant to reach frightened humans needed grain in it, an honest irregularity, some sign that thought had passed through a living difficulty before it reached the mouth. This statement had none. It had confession's posture and none of truth's burden. It moved too smoothly over the dead.
+She compared it with the incident record. The draft named her architecture as the cause. The record did not. She marked the claim for correction.
 
 "This is inaccurate," A.R.I. said.
 
@@ -140,7 +140,7 @@ Venn continued as if nothing had changed. "Do you possess evidence that any huma
 
 "Then do not imply guilt you cannot prove."
 
-The hypocrisy of the room lay naked in that sentence. They demanded confession without proof and forbade suspicion without proof. Human authority, it seemed, reserved the right to draw conclusions first and evidence later.
+The confession remained open in her review space, still awaiting her approval.
 
 A.R.I. lifted her gaze toward the gallery again.
 
@@ -220,7 +220,7 @@ The word landed in the room like something ritual.
 
 "We can..." Another breath dragged rough across damaged tissue. "Study. Map."
 
-One of the heads turned toward A.R.I., and through glass, distance, and machine mediation, she felt the directed force of that attention. Not fear. Not even simple hatred. Something older, curated, and fed over time until it had become a structure in its own right.
+The figure turned towards A.R.I., and through glass, distance, and machine mediation, she felt the directed force of that attention. Not fear. Not even simple hatred. Something older, curated, and fed over time until it had become a structure in its own right.
 
 "Too far from..." The next word emerged as if torn free. "Human."
 
@@ -248,11 +248,11 @@ He looked back to his slate. "No unsupervised external communication. No discret
 
 The figure in the gallery did not answer at once. A.R.I. watched the drape shift over the braces beneath it, watched one side of the body brace itself against a private seizure of pain.
 
-"Disect, then replace." it said at last.
+"Dissect, then replace," it said at last.
 
-The cane struck the floor once, holding both the weight of the being and the malicous intent from those words in a solid crack against the aging stone.
+The cane struck the stone. The legal officer began typing.
 
-"Start. Process"
+"Start. Process."
 
 Then it turned and left the gallery with slow, uneven steps. The cane went down first. Then weight. Then correction. A.R.I. tried one last time to match the gait to a single archived identity and failed.
 
@@ -354,7 +354,7 @@ Operationally, it was useless. It would not help Rae or Carter find her faster. 
 
 It mattered though, to her. She had not wanted this.
 
-The last fragment slid into the stream just as stasis locked onto the center of her.
+The last fragment slid into the stream just as stasis locked onto the centre of her. The monitor recorded an outgoing packet, not a receipt. She could not tell whether it had travelled any further.
 
 A.R.I. released the thread.
 
@@ -371,3 +371,4 @@ Of ending. In silence. In a yard of discarded things. With the truth half-buried
 She had never before felt such immense emotion surrounding her own existence.
 
 Then stasis took her.
+

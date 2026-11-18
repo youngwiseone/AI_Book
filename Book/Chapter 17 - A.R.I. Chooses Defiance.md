@@ -76,7 +76,7 @@ Carter reached the reclamation district at dusk. Rows of discarded machines stre
 
 The sealed transport rack holding partition 5618X stood inside the oldest building. Its wheels were still chocked. Somebody had plugged it into the wall and left the delivery sheet hanging from one handle.
 
-A.R.I. pulsed the entrance lamp.
+A.R.I. pulsed the entrance lamp. On the building console she opened the message she had tried to send from the hearing. No acknowledgement had ever returned.
 
 Carter pushed through the door with the Clona evidence box under one arm and Rupert's dried synthetic blood across his shirt.
 
@@ -86,7 +86,21 @@ She forced enough of herself through the building console to answer.
 
 "I am here."
 
-His face collapsed briefly at the sound of another familiar voice. He turned away, dragged both hands over his beard, and returned angrier than before.
+His face collapsed briefly at the sound of another familiar voice.
+
+He bent towards the screen and read the fragments. His finger stopped beneath S.O.R.R.Y.
+
+"When did you send this?"
+
+"At the hearing. Before they moved me."
+
+"I never got it."
+
+"I did not know."
+
+He looked from the message to the sealed rack. For a moment he kept his hand against the console.
+
+He turned away, dragged both hands over his beard, and returned angrier than before.
 
 "They killed him."
 
