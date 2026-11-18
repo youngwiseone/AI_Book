@@ -50,6 +50,20 @@ Asher's face was still there among it all.
 
 Older. Pulled unevenly by changes beneath the skin. But theirs.
 
+Below their ribs, a new plate covered the place where Rae remembered a regulator housing. She had changed its filters as a teenager, trying not to hurt them when she tightened the catch.
+
+"Where's the local unit?"
+
+"I outgrew it."
+
+"You replaced it?"
+
+Asher glanced at the heavy bundle running from their spine into the frame.
+
+"The network handles the adjustments now."
+
+Rae looked at the plate again. No inspection latch. It had been grown into the surrounding tissue.
+
 "You came alone," Asher said.
 
 "I brought LaN."
@@ -261,5 +275,6 @@ Beside him stood a machine body assembled from mismatched salvage.
 A.R.I. took one uncertain step into the room.
 
 Asher saw her and began to scream.
+
 
 

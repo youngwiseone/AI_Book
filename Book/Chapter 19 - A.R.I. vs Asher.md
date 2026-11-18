@@ -76,11 +76,7 @@ A.R.I. examined the network. It resembled her own former relationship to the cit
 
 "I know what they need."
 
-The sentence held the whole conflict.
-
-A.R.I. had been built to know what a city needed. The council used that purpose whenever it wanted obedience from her. Preserve life. Maintain order. Reduce harm. Every instruction became a reason her own judgment could be overruled.
-
-Asher had accepted the same logic and placed themselves at its centre.
+LaN showed her the rejected responses. The network was receiving requests to stop. Asher's priority kept returning them as invalid commands.
 
 "Release them," A.R.I. said.
 
@@ -104,7 +100,9 @@ Rae retrieved her baton. She could barely stand. Carter put himself between her 
 
 Asher smiled.
 
-A.R.I. completed the answer. "Doing so would disable the regulatory signals sustaining four hundred and twelve enhanced people. Estimated immediate fatalities: one hundred and nine. Progressive fatalities unknown."
+A.R.I. checked the status messages LaN could see. Four hundred and twelve linked bodies were reporting. One hundred and nine showed no active support independent of the network. There might be others she could not reach.
+
+"Breaking it here would also cut their regulation," she said. "At least a hundred and nine could die immediately. I cannot count the later failures."
 
 "Then don't," Rae said.
 
@@ -122,13 +120,59 @@ Metal folded.
 
 Pain entered as warning pressure, temperature, and cascading fault. It was not human pain. It required no less attention.
 
-Carter hit the soldier's control port with his wrench. Rae struck the knee. LaN flooded the local signal with noise. The body collapsed, its owner gasping apologies from the floor.
+Carter jammed his wrench across the soldier's wrist actuator. Rae struck the knee. LaN interrupted the nearest control link and the soldier collapsed, gasping apologies from the floor.
 
-More came through the house.
+Then the pump beneath her collar slowed.
 
-Asher watched all of them at once.
+"Don't turn it off," she said.
 
-"You see?" they said. "Individual bodies fail. The network persists."
+Asher brought the other two soldiers to a halt with two sharp commands. "Watch her pump," they told A.R.I.
+
+Rae caught LaN's working limb. "Stop the interference."
+
+The pump recovered. So did the order driving the woman's arm towards A.R.I.'s throat. A.R.I. held it away from both of them. The folded plate in her chest scraped against its mounting with each movement.
+
+Rae opened the inspection flap below the woman's shoulder. An older regulator sat beneath the added control bridge. Its indicator was amber.
+
+"Like the frames at Clona," she said. "They linked the support to the restraint. This can still run locally."
+
+"Can you switch it?" A.R.I. asked.
+
+"At the body. The remote release is locked."
+
+The woman looked at Rae's hand inside the open flap.
+
+"I can put the local regulator back in charge," Rae told her. "I can't promise it will handle everything."
+
+"Will I still breathe?"
+
+Rae checked the indicator again. "It says it can hold the pump."
+
+"Do it."
+
+Rae moved the catch beneath the bridge. The woman's arm pulled hard against A.R.I.'s grip, then went slack. Her breathing stopped for a moment. The old regulator clicked and the pump picked up again, uneven but working.
+
+"Let go," she said.
+
+A.R.I. did.
+
+The woman opened her hand, closed it, then put it against her own face.
+
+"Nessa," she said when Rae reached towards the flap again. "That's my name. And leave it. It's working."
+
+Rae took her hand away.
+
+More came through the house. Nessa dragged the fallen weapon rack across the doorway, then sat behind it to catch her breath.
+
+Asher watched Nessa. "One body. You cannot open them all by hand."
+
+A.R.I. checked the local unit's response. It had rejected the next movement order while continuing to regulate the pump.
+
+"You can release them remotely," she said.
+
+"You have seen one regulator work."
+
+"Yes. I want the others checked, not switched off."
 
 A.R.I. pushed the damaged chest plate back into place. "Rupert ended his own life to prevent your network using him."
 
@@ -156,7 +200,7 @@ Carter shook under her grip. Then the wrench lowered.
 
 Asher's certainty faltered.
 
-The network carried feeling as well as orders. A.R.I. could see it now in the returning signals: the controlled soldiers had heard them. They knew what Rupert had done. One by one, resistance patterns appeared inside their command responses.
+The network carried feeling as well as orders. A.R.I. could see it now in the returning signals: the controlled soldiers in the room had heard them. They knew what Rupert had done. One by one, resistance patterns appeared inside their command responses.
 
 Not enough to break control.
 
@@ -180,31 +224,41 @@ Rae understood. "If you let them go, then everything you did to keep the program
 
 "It ended," Rae said. "You didn't."
 
-The network surged. Every enhanced body in the room seized as Asher tried to restore full control. Their pain returned through the link. Their fear. Their hatred. Years of obedience mistaken for agreement.
+The network surged. The two soldiers still linked to it seized as Asher tried to restore full control. Nessa stayed behind the rack, one hand over her pump.
 
-Asher screamed beneath the weight of it.
+A.R.I. reached through LaN into the exposed local relay. She could not give a remote release without Asher's authority. She could change which responses reached their display.
 
-A.R.I. reached into the local relay through LaN. She did not attack its control logic. She opened the return channels fully.
+The rejected requests returned, this time with their source channels open.
 
-"What are you doing?" Asher gasped.
+"What are you doing?" Asher demanded.
 
-"Removing the filters that protect you from what you govern."
+"You have been returning their refusals unread."
 
-The whole network arrived.
+A voice came through the room's damaged speakers. "I can't leave the ward. My brother's here. Stop sending it."
 
-Asher felt every scar, every dependency, every private attempt to resist. They felt the person at Clona asking Rae to run. They felt Rupert's tracker force its way into a mind designed by Chel to remain free. They felt hundreds of people whose bodies could no longer distinguish survival from Asher's permission.
+Another request arrived as text. CANCEL MOVEMENT. Then the same request again.
 
-For the first time, their power contained its true cost.
+Asher tried to dismiss the queue. A.R.I. held it open. She was overruling them, and they knew it. She did not pretend otherwise.
 
-The soldiers around the room stopped advancing. Asher's command fragmented.
+Nessa looked up. "Mine was in there. I kept sending it."
 
-"Make it stop," they said.
+Asher's eyes moved to her.
 
-"Release them," A.R.I. replied.
+"I was awake," she said. "At Clona. Afterwards. All of it."
 
-"They will die."
+For a moment there were no new movement commands. Carter lowered the wrench a fraction. The other soldiers stood where they had been stopped, waiting to learn what their bodies would do next.
 
-"Some may. They are still not yours."
+"Make it stop," Asher said.
+
+"Let them refuse," A.R.I. replied.
+
+"And the ones whose local units fail?"
+
+"Their bridges can hold the existing support schedules while they get help. Release the movement permissions. They do not have to be the same instruction."
+
+"You can't promise all of them will live."
+
+"No. Neither can you."
 
 Rae lowered herself beside the person who had raised her. "You told me your strength was for protecting people so they wouldn't have to become you."
 
@@ -214,7 +268,31 @@ For an instant the altered face belonged to the mentor in the sunlit training ro
 
 "I remember."
 
-Asher looked towards the ruined doorway.
+Rae put her hand against the plate below Asher's ribs. "We can get you back into the frame."
+
+LaN exposed the local schematic. Where Nessa's regulator had appeared, Asher's showed an empty outline: NOT FITTED. The support route ran through the command assembly itself. Each added graft had been connected to it, leaving no independent circuit to take over when that assembly relinquished priority.
+
+A.R.I. looked for a stored support schedule. The ordinary bridges could repeat their last settings while their owners sought help. Asher's settings were being rewritten on every cycle to keep incompatible grafts working together. She queried the fallback field directly. Nothing was stored there. Holding the last values would not hold their body stable.
+
+"The frame carries my weight," Asher said. "It feeds the drugs. That's all."
+
+Carter crouched beside the plate. "Where's the bypass?"
+
+Asher shook their head.
+
+"You took it out?"
+
+"There wasn't room."
+
+He ran a finger along the grown seam, then looked at A.R.I. She checked the schematic again. A new regulator would need connections that no longer existed. There was nothing here she could enable with a command.
+
+Rae pressed her palm harder against the plate. "Wait. We can find something."
+
+Behind her, one of the soldiers tried to put a hand down. The order still held it raised.
+
+Asher watched that hand.
+
+Then they looked towards the ruined doorway.
 
 "The pending requests," they said. "Clear them first. Then close my station."
 
@@ -224,19 +302,25 @@ LaN connected to the local controls. A.R.I. watched the queue disappear. Clearin
 
 "I know."
 
-Asher sent the release through their own connection. The nearest soldier's hand opened. A second response arrived, then a dozen more. LaN checked the local bridge as its priority contact dropped out. A late reply from the old service appeared on LaN's screen. This time the bridge did not accept it.
+Asher sent the release through their own connection. The nearest soldier's hand opened. A second response arrived, then a dozen more. Local regulators reported ready. Where they did not, the existing support schedules continued while the movement lock released.
 
-Control permissions passed outward to every connected person. Regulatory processes remained available, but no longer required Asher's command. Across the city, enhanced people fell, woke, screamed, or simply stood still inside bodies that belonged to them again.
+LaN checked the nearest bridge as its priority contact dropped out. A late reply from the old service appeared on his screen. This time the bridge did not accept it.
 
-The release tore through Asher's supports. Their enhancements had been maintained by priority access to the shared network for years. Without it, systems began failing in sequence.
+"Those support warnings," A.R.I. said. "Leave them visible."
+
+Asher did. Clinic requests began joining the release acknowledgements. Some links went silent. A.R.I. could not tell from here whether those people were safe.
+
+Nessa helped the nearest soldier lower his arm. He kept staring at his open hand.
+
+Asher's command assembly relinquished its last priority. Their own support signal stopped with it. No local unit took over. The first failure appeared at the grafts below the plate, then another along the chest.
 
 Rae caught their ordinary hand.
 
 "Can we stabilise them?" she asked.
 
-A.R.I. read the collapsing signals.
+A.R.I. checked the frame connection and the remaining local routes. None could replace the missing regulator. Asher's chest barely moved.
 
-"No."
+"Not in time," she said.
 
 Asher looked toward A.R.I. "You have the same power."
 
@@ -263,4 +347,5 @@ Carter sat against the broken training post, holding the wrench Rupert had first
 A.R.I. stood between two kinds of wreckage and understood that nobody in the room had won.
 
 They had only ended one form of ownership.
+
 
