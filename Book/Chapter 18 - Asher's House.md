@@ -18,9 +18,13 @@ LaN tightened his working limbs around Rae's shoulder.
 
 "Don't."
 
-Rae's ribs hurt with every step. Carter would have locked her in the workshop if he could have done so without admitting concern. She had left while he was packing the relay for Rupert.
+Rae's ribs hurt with every step. She had waited through the night at Carter's workshop, sleeping in short, uncomfortable stretches while LaN kept the field set beside her. At first light she could stand without catching the edge of the bench. It was a poor test of fitness. It was the one she had.
 
-The thought of them together gave her a small measure of comfort.
+Carter had answered their departure message from the south yard. He had found A.R.I. He still hadn't said what had happened to Rupert.
+
+Rae checked the plain communicator in her coat. LaN had the repeater code and the yard truck's receiver number. She could turn back, but she would spend the walk imagining Asher emptying another laboratory.
+
+She kept going.
 
 At Asher's gate, every security light turned toward her.
 
@@ -166,7 +170,7 @@ Asher's face tightened. "I kept you out of the programme."
 
 "No. You forgot how to live without it."
 
-LaN chimed softly. "Message delivered. Carter and A.R.I. have our location."
+The field set clicked inside Rae's coat. LaN checked the acknowledgement from the yard truck, then chimed softly. "Message delivered. Carter and A.R.I. have our location."
 
 At A.R.I.'s name, Asher moved.
 
@@ -257,4 +261,5 @@ Beside him stood a machine body assembled from mismatched salvage.
 A.R.I. took one uncertain step into the room.
 
 Asher saw her and began to scream.
+
 

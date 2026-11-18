@@ -100,7 +100,15 @@ The cruelty of it silenced her. Carter heard it too. His face tightened.
 
 Rae lowered herself into the chair.
 
-They made the plan properly. Rae would go to Asher once she could move without reopening her ribs. Carter would take the relay to Rupert. His government access and knowledge of A.R.I.'s architecture might identify how the control bridge reached both machine and enhancer networks.
+They made the plan properly. Carter would take the relay to Rupert that evening. His government access and knowledge of A.R.I.'s architecture might identify how the control bridge reached both machine and enhancer networks. Rae would stay until morning. If she could reach the door without needing the bench to hold her up, they would argue about Asher then.
+
+"I know the house," she said. "I can get in."
+
+"I believe you. It's the getting out I'm worried about."
+
+She sat through the next breath before answering. "First light. No later."
+
+Carter didn't like it. He brought the chair closer anyway.
 
 "You trust him?" Rae asked.
 
@@ -114,7 +122,7 @@ Carter glared at him. "Did you put that in there?"
 
 Rae managed a painful smile. "He's always been dramatic."
 
-They spent the afternoon separating evidence into copies. Nothing went onto the civic grid. Carter brought out the old peer-to-peer communicator Rae had returned to him, its black casing scratched and dotted with painted flowers.
+They spent the afternoon separating evidence into copies. Nothing went onto the civic grid. Rae set the plain black field communicator beside LaN. Carter took the flower-painted set out of his own coat and checked its battery.
 
 "Ugly," Rae said.
 
@@ -126,7 +134,17 @@ They spent the afternoon separating evidence into copies. Nothing went onto the 
 
 His thumb rested briefly on a small daisy near the antenna.
 
-By evening, Rae could cross the workshop without help if she moved slowly. Carter packed the relay into a shielded box and checked the old communicator twice.
+He connected Rae's field set to the workshop aerial and brought up the repairers' repeater band. A burst of complaints about a missing pump filled the room.
+
+"Not private," he said, turning it down. "But it doesn't need the civic grid. LaN can put the check-ins in code. Give the relay time to answer before you repeat yourself."
+
+"What if you don't come back?" Rae asked.
+
+He wrote the frequency on a parts label and stuck it to the set. "Stay here till morning. If you leave, tell me where. No guessing."
+
+LaN sent a test packet. The painted radio clicked against Carter's palm.
+
+Late that afternoon, Rae could cross the workshop without help if she moved slowly. Carter packed the relay into a shielded box and checked the old communicator twice.
 
 At the door, he looked back at her.
 
@@ -137,3 +155,4 @@ At the door, he looked back at her.
 "Good. Keep it that way."
 
 Then he left to meet Rupert, carrying the proof of what had been done to A.R.I. and no idea that he was also carrying the last hours of his son.
+

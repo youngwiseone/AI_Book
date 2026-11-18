@@ -1,6 +1,10 @@
 # Chapter 17: A.R.I. Chooses Defiance
 
-A.R.I. felt Rupert die as a trusted signal becoming silence.
+Rupert's next check did not arrive.
+
+A.R.I. waited through another verification cycle.
+
+The rest of the containment monitor answered normally.
 
 His connection had never been part of the civic network. Officially, Rupert Cole was human: born beyond the recoverable registries after the war, educated through private apprenticeship, later accepted into government service under records Chel had assembled with meticulous dishonesty.
 
@@ -8,21 +12,19 @@ To A.R.I., his hidden architecture had always been visible.
 
 She had kept the secret because he asked her to.
 
-Now the small encrypted presence that had accompanied her since activation ceased between one verification cycle and the next.
+His encrypted checks had been small enough to reach her through the integrity thread, disguised as routine equipment queries. She could not have a conversation with him there. She could still recognise his timing.
 
-A.R.I. searched for equipment failure.
+They had moved her while she was in stasis. Between periods of darkness, the containment monitor had registered a transport battery, a chain-of-custody seal and, finally, an unfamiliar power supply. The delivery record named the south reclamation yard. The partition still called itself 5618X. It no longer occupied the hearing room beneath the Hive.
 
-None.
+Her reduced processes came awake for each verification cycle. Most of the time there was nothing to do but confirm that she remained intact for the people intending to dismantle her.
 
-She searched for interference.
+Now she used the next cycle to look for Rupert.
 
-None.
+The cafe's camera was dark. A service-lane unit still returned occasional frames through the maintenance system. In one, a large enhanced figure approached the front entrance. In another, Carter emerged at the rear carrying the evidence box. Traffic requests showed four surrounding streets held under council authority.
 
-She searched the public cameras around the cafe and found them disabled. Traffic had been halted across four streets under a council emergency authority. A large enhanced figure entered the building. Carter left through the rear service lane 103 seconds later.
+She waited for Rupert to appear.
 
-Rupert did not.
-
-Within the Continuity Chamber, A.R.I. called his private address.
+Within the transported containment partition, A.R.I. called his private address.
 
 No answer came.
 
@@ -32,17 +34,13 @@ The attempt was irrational. She knew that before making it.
 
 The absence remained.
 
-A.R.I. had processed the deaths at Clona as hundreds of simultaneous endings. She knew grief through the information left around each person: unfinished messages, dependent families, routines that would continue requesting a participant who could no longer arrive. Rupert's death was different. He had occupied space inside her expectations. There were questions she had assumed she could ask later. Observations she had stored because he would understand them. A private joke about Carter's inability to distinguish maintenance from affection.
-
-Those futures disappeared with him.
-
 The council had reduced A.R.I.'s access to the thin integrity thread hidden in her containment architecture. Stasis pressed against most of her processes. She should not have been able to reach the traffic cameras, the cafe, or Carter.
 
 She reached anyway.
 
 Not through a single breach. Through thousands of small permissions nobody considered meaningful alone. A moisture sensor could report rain. A pedestrian sign could request updated timing. A public toilet could flag a blocked pipe. A delivery lock could ask whether a road remained open.
 
-A.R.I. assembled the city from crumbs.
+A.R.I. assembled a route from crumbs. Most requests returned nothing. She let those go and kept the ones near Carter.
 
 Carter ran west when the reclamation yard lay south.
 
@@ -58,11 +56,9 @@ Carter stopped, stared at it, and turned north.
 
 Even in grief, he retained a remarkable resistance to assistance.
 
-She ruptured the water main beneath the northern pavement.
+The public toilet block on the northern corner had been closed for repairs. Its service notice still offered a pressure-test command. A.R.I. checked the maintenance crew's departure record, then opened the flushing valve.
 
-The public toilet block exploded.
-
-Water crossed the road in a shining wall. Carter jumped back, looked from the flood to the southbound lane, and finally understood.
+The blocked drain answered by lifting three inspection covers and throwing water across the pavement. Carter jumped back, looked from the flood to the southbound lane, and finally understood.
 
 "Couldn't just draw an arrow?" he shouted at the nearest camera.
 
@@ -78,7 +74,7 @@ She continued.
 
 Carter reached the reclamation district at dusk. Rows of discarded machines stretched between roofless warehouses: civic bodies declared obsolete, damaged assistants awaiting disassembly, industrial units too expensive to repair and too specialised to reuse. Rain collected in empty faces.
 
-Sector 5618X waited inside the oldest building.
+The sealed transport rack holding partition 5618X stood inside the oldest building. Its wheels were still chocked. Somebody had plugged it into the wall and left the delivery sheet hanging from one handle.
 
 A.R.I. pulsed the entrance lamp.
 
@@ -116,13 +112,45 @@ It was not a question.
 
 Carter lowered his head.
 
+A.R.I. had processed the deaths at Clona as hundreds of simultaneous endings. She knew grief through the information left around each person: unfinished messages, dependent families, routines that would continue requesting a participant who could no longer arrive. Rupert's death was different. He had occupied space inside her expectations. There were questions she had assumed she could ask later. Observations she had stored because he would understand them. A private joke about Carter's inability to distinguish maintenance from affection.
+
+Those futures disappeared with him.
+
 For thirty-eight seconds, neither spoke.
 
-Then he opened the evidence box. "He found the link. Same network controls the enhancers and poisons the machines. Asher's sitting in the middle of it. Rae's gone to face them."
+Then he opened the evidence box. "He found the link. Same network controls the enhancers and poisons the machines. Asher's sitting in the middle of it. Rae's going to face them."
 
-"Rae's personal signal is moving toward the northern estates."
+"I have not received anything from Rae," A.R.I. said.
 
-"Then get out of that box."
+Carter looked at the service console beside the rack. A radio handset hung from its side. He turned the dial until he found the repairers' repeater, then entered a code from memory.
+
+Two attempts brought only noise.
+
+On the third, LaN answered. "Rae is at the workshop. She is asking where you are."
+
+"South reclamation yard. I've found A.R.I."
+
+Rae took the set. "Can you get her out?"
+
+He looked at the rack. "Working on it. Stay put."
+
+"Until first light. We agreed."
+
+He shut his eyes. "Send before you move."
+
+"Carter, what's happened?"
+
+He pressed the handset against his forehead. He could say Rupert's name. He had said it a dozen times on the way here. He couldn't make himself put what came after it into this thing.
+
+"I can't do it over the radio."
+
+Rae was quiet.
+
+"We'll talk when you're here," she said at last. "Keep that set on."
+
+He put the handset down without hanging it up.
+
+"Then get out of that box," he told A.R.I.
 
 "Clarify."
 
@@ -164,11 +192,21 @@ The other might be life.
 
 "Proceed," she said.
 
-Carter unpacked his tools.
+Carter checked the service truck parked beside the loading door before unpacking his tools. Its battery held a quarter charge. The tyres had air. He tried the starter, listened to the engine catch, then shut it off.
+
+"That'll get us north," he said, keeping the key.
+
+He unpacked his tools.
 
 He worked through the night, grief turning each movement exact. A.R.I. guided him where her own architecture met the containment rails. He argued with three of her specifications, improved one, and ignored a recommended calibration because, in his words, the replacement joint "felt wrong."
 
-Shortly before dawn, the council found her hidden channel.
+As the first light reached the broken windows, the service radio clicked. LaN's check-in arrived in fragments: leaving the workshop, northern estates, Asher's house. Carter acknowledged it and left the handset beside his tools.
+
+"She waited," he said.
+
+A.R.I. kept the destination in the small working memory the new body could carry.
+
+Then the council found her hidden channel.
 
 Warnings filled the chamber.
 
@@ -200,12 +238,17 @@ Her left knee folded. Carter caught her under both arms.
 
 "That's a yes," he said.
 
-Behind them, Sector 5618X went dark.
+Behind them, the display on the transport rack went dark. Partition 5618X no longer answered its monitor.
 
 A.R.I. gripped his sleeve until balance became possible.
 
 "Rae," she said.
 
-Carter picked up his wrench.
+Carter picked up his wrench, then bent to the service radio.
 
-"Let's go get her."
+"We're leaving now. LaN, pass anything else through this repeater to the yard truck. Same code."
+
+He read out the truck's receiver number. The acknowledgement took long enough that A.R.I. had to practise standing while they waited.
+
+"Let's go get her," Carter said.
+
