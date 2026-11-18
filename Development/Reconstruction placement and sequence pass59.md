@@ -1,5 +1,7 @@
 # Reconstruction discovery: three structural approaches and a scene sequence
 
+**Status update, pass67:** A continuous six-scene prose draft now develops the post-climax placement in [The Receiving Houses](Reconstruction%20movement%20-%20The%20Receiving%20Houses%20pass67.md), with [placement and provisional choices](Reconstruction%20movement%20placement%20pass67.md). The earlier alternatives and non-contiguous samples below remain development history, not additional manuscript events.
+
 **Development proposal only.** No Book, World or rules changes. Baseline: `2114eba8804151d594355010550650ece42fb8f1`. The samples are not newly established events, places, people or evidence. The author has specified reconstruction in the world and historically wanted a slow late discovery; he has not expressly reselected the old Asher-revelation scene for this version.
 
 ## Recommendation

@@ -1,5 +1,7 @@
 # Reconstruction scene trials
 
+**Status update, pass67:** A continuous six-scene prose draft now develops the post-climax placement in [The Receiving Houses](Reconstruction%20movement%20-%20The%20Receiving%20Houses%20pass67.md), with [placement and provisional choices](Reconstruction%20movement%20placement%20pass67.md). The earlier alternatives and non-contiguous samples below remain development history, not additional manuscript events.
+
 **Optional prose experiments, not manuscript events.** Read with `Discovery sequence.md`. These are two non-contiguous scenes, not a complete discovery compressed into one visit. Miri, the building and records are proposed. The preceding false interpretation, acquisition of independent receiving records and external technical review still need scenes. These trials establish, provisionally, a particular programme producing living humans, not yet its commission by the Original AI, post-war purpose or population scale. No character's ancestry is established.
 
 ## Trial A: the line that still works
