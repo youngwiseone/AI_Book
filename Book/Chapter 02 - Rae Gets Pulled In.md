@@ -20,7 +20,15 @@ She stretched the stiffness from her shoulders and set her empty coffee mug on t
 
 "Miracles do happen."
 
-Rae held out an arm and let LaN clamber up to his usual perch on her shoulder. The receptionist barely glanced up as LaN flashed the required credentials. Beyond the waiting room, the inner doors slid open onto a long hallway that lit itself segment by segment as she walked.
+She stayed where she was. Room one could wait a moment. She watched the blue reflection tremble across the ceiling, enjoying the thought of someone on the other side of the doors checking the time for a change.
+
+LaN turned his screen towards her.
+
+"Yes, all right."
+
+She held out her arm. He climbed onto her shoulder, adjusted his grip and thanked her. Rae waited until he was settled before getting up.
+
+The receptionist looked up from a call as they passed. Rae gave her a small wave; the woman returned it with two fingers still holding her pen. LaN flashed their credentials, and the inner doors opened onto a long hallway that lit itself segment by segment as they walked.
 
 The walls were lined with framed photographs, donation plaques, polished certificates, and propaganda posters stamped with the slogan: `Pursuing quality with a human touch.`
 
