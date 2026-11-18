@@ -77,6 +77,14 @@ Before changing a chapter, identify in one sentence: its character goal, turn, c
 
 The author will make the final pass. Leave him strong scenes and clear choices, not prose so sealed that it resists being made his own.
 
+## Provisional integrated reconstruction movement
+
+On the development branch, the late structure is now Chapter20 (Clona aftermath), Chapter21 (the residents' meeting), Chapter22 (The Receiving Houses), and Chapter23 (the six-month Daisy Workshop ending). The existing Clona outcomes and workshop actions retain their order. The old Chapter21 filename is retained for link stability, but its heading now names the residents' meeting.
+
+Chapter22 is a reversible structural development of the author's rebuilt-human world, not a claim that every supporting detail is established canon. The repair leads to biological records and apparatus, independently kept receiving records, and a commissioning/transport chain. The evidence supports a post-war reconstruction programme operated by the Original Intelligence's administration, with living children received in more than one district. It does not establish every living person's ancestry, the full population total, the old AI's private motives or present consciousness, or all religious origins.
+
+Miri, Eda, Havel, the washhouse, the receiving records and their acquisition are provisional supporting inventions. Do not turn them into a second secret conspiracy or make the discovery vindicate Asher's coercion. Keep the finding's emotional consequence in Rae's unresolved wish to consult Asher and the group's continuing practical work. Rupert remains dead and his bench is not used before the final workshop scene. Blade's archive arrives only in that six-month scene; the earlier discovery uses independent sources.
+
 ## Full-length target
 
 The reconstructed manuscript is still short. Treat roughly 65,000–80,000 words as the working target for a complete science-fantasy novel, subject to the author's preference. Do not reach that target by padding description or repeating arguments. Expansion should come from:

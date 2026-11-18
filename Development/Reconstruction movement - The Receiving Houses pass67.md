@@ -1,5 +1,7 @@
 # The Receiving Houses
 
+**Integration update, pass68:** This movement is now provisionally integrated as [Book Chapter22](../Book/Chapter%2022%20-%20The%20Receiving%20Houses.md), between the residents' meeting and the six-month workshop. See [assembled integration review](Integration%20of%20The%20Receiving%20Houses%20pass68.md). This Development copy records the proposal and is not an additional set of events.
+
 > Provisional continuous prose draft for insertion after the residents' meeting and before the six-month workshop ending. New events, supporting characters and historical evidence are branch proposals. This draft does not replace the Clona resolution or establish any named character's ancestry.
 
 ## 1. The cover
@@ -166,7 +168,7 @@ She almost snapped at him. The words stopped behind her teeth. Carter was not en
 
 Rae crossed out the heading she had written on her own sheet. Not erased it. Crossed it out. Below, she wrote the part number.
 
-The workbench opposite remained clear except for Rupert's tools. Carter had turned his photograph towards the room. Rae had moved their copies to the kitchen table without asking why they could not use the spare surface.
+Rupert's workbench stood opposite. Carter had turned his photograph towards the room. Rae had moved their copies to the kitchen table without asking why they could not use the spare surface.
 
 A.R.I. stood at the table's end. Carter had put a folded rag under her left foot to stop the faulty ankle rocking against the tiles.
 
@@ -700,6 +702,6 @@ On the way home, Rae stopped at the transport office with Tom's appeal receipts.
 
 Carter went on ahead with A.R.I. At the workshop, he put the photographs of the lower installation in an empty parts drawer. He labelled it with the washhouse address, not the name of a discovery.
 
-Rupert's bench was still clear. Carter looked at it, then took Miri's worn key to his own vice.
+Carter left Rupert's bench as it was and took Miri's worn key to his own vice.
 
 There was another copy to make before somebody had to use the broken one.

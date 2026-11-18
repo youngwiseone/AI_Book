@@ -1,5 +1,7 @@
 # Placement and provisional choices: The Receiving Houses
 
+**Integration update, pass68:** This movement is now provisionally integrated as [Book Chapter22](../Book/Chapter%2022%20-%20The%20Receiving%20Houses.md), between the residents' meeting and the six-month workshop. See [assembled integration review](Integration%20of%20The%20Receiving%20Houses%20pass68.md). This Development copy records the proposal and is not an additional set of events.
+
 This is a continuous reconstruction-discovery movement, not another set of alternatives. Its proposed location is after the residents' meeting in current Chapter21 and before the six-month Daisy Workshop scene. Six linked scenes take place over several visits while the workshop is resuming work. They do not interrupt the urgent Clona timetable or replace the existing climax.
 
 ## Creative choices made for this draft
@@ -19,7 +21,7 @@ These supporting people, institutions, documents, activities and sequences are p
 
 Rupert remains dead. Asher remains dead and culpable. ARI's embodiment and legal status remain limited rather than imperial. The council is not magically defeated. The freight-lane grievance remains active. No named character's ancestry, exact war date or surviving population genealogy is assigned. Blade's archive still arrives in the six-month workshop scene: this movement uses independent washhouse, receiving-house and transport records, not an earlier duplicate delivery.
 
-The final workshop should remain the emotional settlement, including Len's choice, the archive safeguards, Tom's continuing questions and Carter using Rupert's bench. A clear movement break is needed before the new prose, with the six-month scene retained as a separate closing section. Current Book files are not rewritten by this draft publication; integration can use the reviewed movement without pretending its six scenes already happened in the unchanged manuscript.
+The final workshop should remain the emotional settlement, including Len's choice, the archive safeguards, Tom's continuing questions and Carter using Rupert's bench. A clear movement break is needed before the new prose, with the six-month scene retained as a separate closing section. Pass67 initially published the prose without changing Book files. Pass68 integrates the reviewed movement into the working manuscript with separate chapter divisions and preserves the six-month workshop ending.
 
 ## Why this form
 
