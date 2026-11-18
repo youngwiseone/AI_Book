@@ -180,7 +180,7 @@ Carter glared at him. "Did you put that in there?"
 
 Rae managed a painful smile. "He's always been dramatic."
 
-They spent the afternoon separating evidence into copies. Nothing went onto the civic grid. Rae set the plain black field communicator beside LaN. Carter took the flower-painted set out of his own coat and checked its battery.
+Rae set the plain black field communicator beside LaN. Carter took the flower-painted set out of his own coat and checked its battery.
 
 "Ugly," Rae said.
 
@@ -229,6 +229,64 @@ She released the button. For a moment there was only static.
 "Ask them to keep it on the search record."
 
 The voice read back the location. Rae corrected the level, waited until it was repeated properly, then lowered the set. No rescue crew had answered.
+
+Before they started on the copies, Carter took a saucepan into the kitchen.
+
+Rae followed him as far as the table. Above the hotplate, a little motor held a wooden spoon by a clamp. Carter lowered it into the soup and turned a switch. The spoon made three steady circuits, struck the side of the pan and began knocking in the same place.
+
+"Usually works," he said.
+
+He moved the saucepan half an inch. The spoon completed another circuit and caught again.
+
+"Very nearly working," Rae said.
+
+"Bowl cupboard. Behind you."
+
+She turned her chair rather than twist towards the cupboard, and slid two bowls out while he loosened the clamp. He pulled a cord hanging beside the table; the extractor rattled awake above the stove.
+
+Rae looked at the cord, then at the switch less than an arm's reach from it.
+
+"So you don't have to stand up?"
+
+"That's the idea."
+
+"Did it take long to fit?"
+
+"Longer than standing up. It adds up."
+
+The spoon knocked again.
+
+Carter put a hand beneath the motor to feel the vibration. Rae could see him beginning to take the thing apart in his head.
+
+"Is the soup hot?"
+
+"Yes."
+
+"Then serve it before you improve it."
+
+He switched the motor off. The spoon came free of the clamp and dropped into the pan.
+
+Carter looked at the surface.
+
+"Clean handle," he said.
+
+"I hadn't asked."
+
+He fished it out with the ladle.
+
+Carter brought the saucepan to the table. Rae pulled the breadboard within reach and held the loaf steady while he cut it. She passed half back to him.
+
+For a while the only conversation was about where Carter kept the salt. It was in a jar marked WASHERS. The washers, he explained, had gone into something else.
+
+Rae turned the jar until its blank side faced her and ate.
+
+Carter finished first. He pushed his chair back, looking towards the stirring motor. Then he saw the bread still in her hand and settled again.
+
+"Leave the bowls," he said when she was done. "I'll get them."
+
+They went back to the workshop. The motor remained where it was, with the spoon drying beside the sink.
+
+They spent the afternoon separating evidence into copies. Nothing went onto the civic grid.
 
 "What if you don't come back?" Rae asked.
 
