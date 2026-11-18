@@ -214,6 +214,20 @@ Carter examined the barb again. Rupert was right. Fine branches ran inward towar
 
 "Then we both run."
 
+Carter pulled him up from the chair and turned towards the kitchen.
+
+Rupert's right hand closed on Carter's sleeve and dragged him back against the table. The chair fell behind them.
+
+"Let go."
+
+"I'm trying."
+
+Rupert stared at his own fingers. He caught them with his left hand and tried to prise them open. Carter stopped pulling long enough to help.
+
+The grip slackened. Rupert snatched his hand away.
+
+Carter kicked the fallen chair aside, clearing the way to the kitchen.
+
 The figure outside came closer.
 
 Rupert touched the tracker. His fingers were steady now.
@@ -294,7 +308,7 @@ The hunter broke through.
 
 Carter slung the tool case over his shoulder, picked up the evidence box and ran through the kitchen while the room came apart behind him.
 
-He did not look back. If he looked back, he would stay. Rupert had purchased his escape with the only life he had, and Carter would not make that choice worthless simply because following it hurt.
+He did not look back. If he looked back, he would stay.
 
 By the time he reached the alley, grief had become a physical thing beneath his ribs.
 
