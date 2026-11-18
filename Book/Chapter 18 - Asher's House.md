@@ -54,6 +54,14 @@ Older. Pulled unevenly by changes beneath the skin. But theirs.
 
 Below their ribs, a new plate covered the place where Rae remembered a regulator housing. She had changed its filters as a teenager, trying not to hurt them when she tightened the catch.
 
+She bent towards it, reaching for the catch before she saw there wasn't one. Pain caught beneath her own ribs. Asher held out their ordinary hand, and she took it to steady herself.
+
+"You're hurt."
+
+She had come to ask about Clona. Instead she was braced beside the frame, trying to find the fault in Asher's body as if that were still her job.
+
+Rae let go of their hand and straightened with her weight against the frame. Asher kept watching her, their hand still open.
+
 "Where's the local unit?"
 
 "I outgrew it."
@@ -64,7 +72,7 @@ Asher glanced at the heavy bundle running from their spine into the frame.
 
 "The network handles the adjustments now."
 
-Rae looked at the plate again. No inspection latch. It had been grown into the surrounding tissue.
+Rae looked at the plate again. It had been grown into the surrounding tissue.
 
 "You came alone," Asher said.
 
