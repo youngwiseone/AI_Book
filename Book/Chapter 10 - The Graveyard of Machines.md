@@ -1,10 +1,14 @@
 # Chapter 10: The Graveyard of Machines
 
-The disposal hall beneath Clona looked like a place machines had gone to be punished.
+Carter stopped at the bottom of the disposal-hall stairs. His lamp caught a row of pale service shells between the concrete pillars, then another behind it. Water ticked into a casing somewhere out of reach of the light.
 
-Service units lay in rows between concrete pillars. Some carried evidence tags. Others had been thrown into heaps high enough that lower bodies bent beneath the weight. Outer shells had been opened, memory housings removed, and identity plates stacked in a bin near the door.
+Some units carried evidence tags. Beyond the marked rows, bodies had been piled against the wall. Water ran round the rim of a wheel near the top and dripped from its tyre. Beneath it, a lower shell had folded round the edge of someone else's chassis.
 
-Carter swept his lamp across them.
+He turned sideways to get past a lifting arm. Its fingertips scraped his coat.
+
+Memory housings stood open along the next row. The empty sockets were dry inside. Near the door, identity plates filled a bin; one had caught across its rim, held there by the screws still threaded through it.
+
+Carter moved his lamp from the plates to the blank spaces on the nearest bodies.
 
 "Search team did this?"
 
@@ -88,13 +92,9 @@ He took his hand away from the cutters.
 
 Carter stopped.
 
-The unit did not know Clona had already fallen. Its last stable memory remained inside the disaster, waiting for a body to obey.
-
 "There aren't any workers left," he said.
 
 "Clarify."
-
-He could have lied. It would have made no practical difference.
 
 "The factory exploded. You were damaged. It happened yesterday."
 
@@ -114,7 +114,7 @@ Carter looked towards the stairwell at the far end of the hall. The door had fol
 
 The arm had broken against it.
 
-Carter shifted his lamp so it didn't shine directly into the cracked display. Ridiculous thing to do. The light wouldn't hurt it.
+Carter shifted his lamp so it didn't shine directly into the cracked display. He caught himself doing it and left it there.
 
 "I'll record where you were."
 
@@ -158,7 +158,7 @@ The last root had grown through the identity core. Carter changed tools and work
 
 For eight minutes, the operation held.
 
-Then the bridge received an outside signal.
+The receiver’s incoming-signal light blinked.
 
 Every living fibre contracted.
 
@@ -168,7 +168,7 @@ Carter tore the relay free.
 
 The charge fired.
 
-White light passed through the unit's display. Its stored files vanished in descending blocks faster than he could interrupt them.
+White light flared behind the cracked display. Carter reached for the supply lead. The speaker gave a dry click.
 
 "System..."
 
