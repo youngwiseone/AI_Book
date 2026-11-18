@@ -62,19 +62,71 @@ Rae looked up sharply. "A.R.I.?"
 
 Blade's gaze did not move from the projection. "According to the machine's own report, multiple emergency procedures failed to trigger. The source data around the event is cloudy at best, which is unlike any record tied to her systems."
 
-Rae paused. That made no sense. A.R.I. had been built to remove error from the city's decision-making, not introduce it. Seven years of oversight, and the city had become cleaner, safer, harder to manipulate by ordinary rumor and bureaucratic failure. Plenty of people hated her for exactly that.
+"Back a little," Rae said.
 
-"And you want me to do what?" Rae asked.
+Blade moved the footage back.
+
+"Before the steam."
+
+The factory loading entrance appeared through a gap between two vehicles. A shutter descended across it. Somebody on the inside struck the lower edge before it met the floor.
+
+Rae held up a hand. Blade stopped the image.
+
+"That closed."
+
+"Pressure isolation," he said. "An automatic response."
+
+"Was it supposed to close?"
+
+"That is one of the questions."
+
+"Then don't give me a list of things that failed to happen. I need the things that did happen too."
+
+LaN leaned towards the projection. "The camera angle does not show the other exits."
+
+"I know," Rae said. "Keep the frame reference. Not a conclusion."
+
+He marked it on his display.
+
+Seven years of A.R.I.'s oversight had made the city cleaner, safer, harder to manipulate by ordinary rumour and bureaucratic failure. That did not tell Rae who had closed this door. She waited until Blade moved his hand away from the playback controls.
+
+"And you want me to do what?" she asked.
 
 "Look into the matter before the story settles into something none of us can undo."
 
-LaN's display brightened on her shoulder. "Detecting omission patterns," it chirped.
+"You will have access to A.R.I. directly," Blade added.
 
-Blade ignored the remark, though not the implication. "You will have access to A.R.I. directly."
+"And the factory's human side?"
 
-Rae studied him. "You say that as if it's a concession."
+"Staff records are being assembled."
 
-"It is."
+"Contractors. Inspections. Who approved the equipment."
+
+Blade glanced towards the closed drawer. His fingers tightened against the desk.
+
+"Those records belong to several offices."
+
+"Including yours?"
+
+"Yes."
+
+"Then put that request through to all of them."
+
+"You have not accepted the assignment."
+
+"I haven't heard all of it yet."
+
+Blade's jaw tightened. He opened a new field beside the case number and entered the request. Rae waited for him to finish.
+
+"That does not guarantee release," he said.
+
+"No. Leave the unanswered ones in the record."
+
+He turned the screen so she could read it. The request included his office. Its status was pending.
+
+LaN saved the reference beside the frame number.
+
+Rae sat back. "Now I'll talk to A.R.I."
 
 Somewhere under the city, a machine designed to care for everyone had become the perfect container for blame. Rae did not trust A.R.I. She trusted the government even less. What she trusted was the look in Blade's face: not innocence, not honesty, but pressure.
 
