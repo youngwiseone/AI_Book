@@ -42,7 +42,7 @@ Clona was different.
 
 The final seconds just before the catastrophic failure returned to her in corrupted loops: rising pressure, contradictory inputs, a release command issued, a release command denied. The data should have resolved into truth. Instead it opened into absence.
 
-0.8 seconds missing. Not damaged.
+Her other systems remained in memory through the same interval. In the factory return record, 0.8 seconds were missing. Not damaged.
 Removed.
 
 The council chamber requested her presence. A.R.I. shaped an avatar before the forest-wall projection Chel had once chosen for her chamber, with running water under the speakers and soft birdsong meant to reassure those nearby. Today even the birds sounded staged.
@@ -116,7 +116,7 @@ A.R.I. then turned her processors back to the missing 0.8 seconds and traced the
 
 The absence had edges.
 
-Whatever had been done to her memory was not random corruption. The missing segment had been isolated cleanly, removed without damaging the surrounding chains. It carried the precision of deliberate access, as though someone had reached into her cognition through an older door and closed it again behind them.
+The factory record was not randomly corrupted. The missing segment had been isolated cleanly, leaving the surrounding chains intact. Its boundary times were present. The report still identified itself as complete. She had stored it with that verification attached.
 
 As the officials and enhancers turned to leave, A.R.I. let her sensors drift after them and caught the murmur of a conversation they had assumed the chamber's running water would conceal.
 

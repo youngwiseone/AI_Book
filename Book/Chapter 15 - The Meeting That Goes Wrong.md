@@ -178,7 +178,21 @@ Carter watched the lights multiply. The map reached government buildings, milita
 
 "Not directly. But it can poison what she sees. Enough false sources agreeing with one another become truth from the outside."
 
-"That's what happened at Clona."
+"And the hole in the record?" Carter asked.
+
+Rupert followed the return channel on the display. It passed through a second gate inside the bridge before reaching the new receiver.
+
+"It suppresses the feedback when the old priority contact takes over. Keeps the start and end times. Marks the interval complete."
+
+"Even if nothing comes through?"
+
+"Especially then."
+
+Rupert opened the timing field beside the gate. "Eight-tenths of a second before it lets the return through again."
+
+Carter remembered the empty strip above Chel's desk. "That's her missing time. She didn't forget it."
+
+"She never received it." Rupert traced the channel again. "Her own release command survives on the other side. They left her with what she asked for and blanked the changeover."
 
 Rupert enlarged the authority header. His face changed.
 

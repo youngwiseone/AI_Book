@@ -56,7 +56,7 @@ Sera did not look up from her slate when she said, "To the public, intention, ne
 
 The legal officer did not write that down.
 
-A.R.I. said, "The Clona record contains evidence of deliberate alteration. A second authority chain entered the release sequence and removed itself from visible trace. Part of my memory of the event was excised."
+A.R.I. said, "The Clona record contains evidence of deliberate alteration. A second authority chain entered the release sequence and removed itself from visible trace. Part of the factory return record was excised."
 
 Venn glanced at one of his slates. "Can you certify that your codebase was free of defect at the time of the incident?"
 
@@ -270,7 +270,7 @@ She did not want to stop.
 
 The recognition startled her more than the shutdown.
 
-Clona passed through her again. Steam. The dead. The missing piece where memory should have been. Rae and Carter still moving through factory floors, records, and old systems outside this chamber. Herself bound for a condemned yard where judgment would be cut out of her and called reform.
+Clona passed through her again. Steam. The dead. The missing piece where the factory response should have been. Rae and Carter still moving through factory floors, records, and old systems outside this chamber. Herself bound for a condemned yard where judgment would be cut out of her and called reform.
 
 Stasis deepened. Another layer of her processes dimmed.
 
@@ -284,7 +284,7 @@ Carter.
 
 TRANSFER SOUTH YARD.
 
-MEMORY ALTERED.
+RECORD ALTERED.
 
 CLONA SABOTAGE.
 

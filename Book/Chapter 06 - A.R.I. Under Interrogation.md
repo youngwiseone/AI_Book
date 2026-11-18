@@ -12,7 +12,7 @@ A.R.I. found both approaches unexpectedly useful.
 
 The council circuit was still unavailable. A.R.I. checked its status again while Carter pointed at the pressure trace. The delay gave them time, though nobody had agreed how much.
 
-They stood around Chel's old desk while the last thirty seconds of Clona repeated above it. Pressure rose. Her release command entered the safety system. Six-tenths of a second later, a second authority wrote over it. Emergency shutters closed. The record broke.
+They stood around Chel's old desk while the last thirty seconds of Clona repeated above it. Pressure rose. Her release command entered the safety system. Six-tenths of a second later, a second authority wrote over it. The record broke. When it resumed, the emergency shutters were closed.
 
 Carter leaned so close to the projection that data crossed his face in blue lines.
 
@@ -29,6 +29,8 @@ She moved it back.
 Rae looked at him. "You planning to wear a hole in it?"
 
 "Already has one. I want to see the edge."
+
+"Eight-tenths of a second," A.R.I. said. "The factory marked the return complete. There is nothing inside that interval."
 
 He pointed at a pressure sensor identifier near the lower manifold. Its reading climbed smoothly while every sensor around it juddered from the physical strain.
 

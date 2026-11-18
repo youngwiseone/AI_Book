@@ -33,7 +33,7 @@ The current branch tests a limited mechanism: Asher requests priority from survi
 
 Maintain these lines deliberately:
 
-- The missing 0.8 seconds at Clona -> an older authority channel that Asher accesses through the old AI to override selected systems; the investigation must establish the operator as well as the mechanism.
+- The missing 0.8 seconds in Clona’s return record -> the physical bridge suppresses feedback during the old-priority changeover, retaining boundary times and falsely marking the interval complete. A.R.I. stores that incomplete input; her other memories continue through the interval. This branch deliberately narrows the earlier suggestion of direct excision from her cognition. The separate 0.6-second delay identifies the second authority’s arrival, not the length of the missing return. The investigation must establish Asher as operator as well as the mechanism.
 - The calm blue circle on Clona's screens -> evidence that a second authority seized the factory systems, tied to Asher's shared control network.
 - The flower-painted pair -> Rupert's small daisies and Chel's larger, less careful flowers preserve their own acts of making. Rupert's set passes to Carter, stays with Rupert at the cafe, and is recovered with his body. Chel's companion stays in Carter's tool case and carries A.R.I.'s live repair guidance through its speaker during embodiment. Neither contains a surviving consciousness or imitation of its former owner. Rae's plain black field unit is separate equipment, introduced alongside Rupert's painted set in Chapter07.
 - Asher's stabiliser dependence -> the personal cost of treating enhancement as endless progress.
@@ -91,5 +91,6 @@ The reconstructed manuscript is still short. Treat roughly 65,000–80,000 words
 - letting aftermath, grief, legal consequences, and the ethics of Rae's future work unfold in scenes.
 
 Preserve the current plot order while expanding unless the author explicitly approves a structural change. Complete continuity first, then add depth. Never manufacture extra action solely to raise the word count.
+
 
 
