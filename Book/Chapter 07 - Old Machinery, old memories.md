@@ -1,32 +1,22 @@
 # Chapter 7: Old Machinery, Old Memories
 
-It took Carter far too long to escape the Hive.
+Carter's site permit was running down while a security clerk checked an authorisation already confirmed twice. Behind the desk, two aides argued about which exit he was allowed to use.
 
-After Blade forced the Clona access through, the place answered with the slow malice of institutions that resented urgency. One door sealed and another opened. A security clerk wanted confirmation of authorizations already confirmed twice. Two aides in dark coats tried to reroute him through a public exit for "orderly processing," as if the dead at Clona would feel better served by proper corridor etiquette. Everywhere he turned, pale composite walls and smoked glass reflected back his slow progress out.
+He left them to it.
 
-He had spent enough of the day inside he needed to get out and feel the sun back on his skin. Couldn't imagine how these corporate types do it, holed up in offices, entering and leaving only in the darkenss of night. He shuddered at the thought.
-
-By the time he finally broke free of the last checkpoint, his head ached, his temper had gone sharp, and his stomach had started muttering threats. He had been running since morning on coffee, pastry, anger, and whatever stirred inside him, fueling his attention forward, toward the truth behind what had happened.
-
-Behind him, somewhere deeper in the underworks, A.R.I.'s public chamber had gone dark.
-
-Carter kept walking, burying the thought of the lifeless humanoid into the back of his mind.
-
-The public corridors of the Hive had been designed to soothe people who liked being impressed. Stone polished to a soft glow. Light hidden in seams so the walls seemed to breathe it. Water running somewhere unseen. Planters full of expensive green things nobody was ever supposed to touch. Chel would have appreciated the craft and mocked the self-importance.
+Somewhere deeper in the underworks, A.R.I.'s public chamber had gone dark. He kept seeing the body sitting lifeless at the desk. He wanted out before somebody decided he should go back and wait beside it.
 
 He was halfway to the lift bank when Rupert caught him by the elbow.
 
 "Not here," Rupert said quietly.
 
-That alone was enough to make Carter turn quickly in suprise. He looked toward him, searching for an explanation.
-
-Rupert had lost most of the decorative calm he often wore like a second coat. His collar sat slightly crooked. One cuff was still folded back from some earlier hurry. The elegant arrangement of him remained in place, but strain now showed through the seams. He looked less like a man leaving an office and more like someone stuck inside a building that had shifted gears quite suddenly. There was a darkness in his expression Carter could not easily shake.
+Carter turned. Rupert's collar sat crooked and one cuff was still folded back. He had followed in a hurry.
 
 "You got a talent for appearing where people least want more conversation," Carter muttered.
 
 "And you have a talent for heading in the wrong direction." He pointed toward the camera poised just inside the lift. "They are trying to delay you, prevent you from being able to examine the factory site. I know a different way out. Come on."
 
-Rupert led him through a service door half-hidden behind a decorative wall panel and down one narrow flight of metal stairs. The change was immediate. The public quiet of the Hive vanished. Here there was no stone theater, no soft acoustics, no curated serenity. Cable trunks sweated heat through their housings. The walls were old steel painted over too many times. Coolant lines ran exposed along the ceiling with occasional beads of condensation hanging like clear glass fruit. Carter felt better the moment he stepped into it.
+Rupert led him through a service door and down a narrow metal stair. Exposed coolant lines ran overhead. Carter ducked under a low joint someone had wrapped in a rag.
 
 "Finally," he said, looking around. "A part of the building that admits it's a machine."
 
@@ -36,21 +26,9 @@ Rupert led him through a service door half-hidden behind a decorative wall panel
 
 The stair opened onto a maintenance landing above one of the lower transit channels. Through a grated panel Carter could see service pods gliding under them like pale beetles. Farther off, somewhere above the outer walls, he could hear the first blurred swell of crowd noise making its way into the building.
 
-Rupert waited until the door sealed before speaking.
+Rupert waited until the door sealed. He checked his personal unit, then turned the screen dark.
 
-"They've already decided what this is going to mean," he said.
-
-Carter folded his arms. "Clona."
-
-"Yes."
-
-"That didn't take long."
-
-"No," Rupert said. "Which is exactly why I am worried."
-
-He took out his personal unit, touched it once, then shut the screen dark again without showing Carter whatever he had checked. That small, aborted motion told Carter more than a page of formal language would have. Rupert was frightened enough now to distrust even the silence around them.
-
-"My team has been cut out of most of the live response chain," Rupert said. "Legal got there first. Then public confidence committees. Then interim governance review. Drafts are coming down already using phrases nobody in emergency comms would reach for on a first-day disaster response unless the phrases had been waiting in storage."
+"My team has been cut out of most of the live response chain," Rupert said. "Legal got there first. Then public confidence committees. Then interim governance review. Drafts are coming down already using phrases nobody in emergency comms would reach for in an initial disaster response unless the phrases had been waiting in storage."
 
 "Such as?"
 
@@ -60,33 +38,21 @@ Carter made a sour sound in the back of his throat. "I still don't like machines
 
 "Yes," Rupert said. "And yet it has already been sent to broadcast in public ."
 
-The maintenance landing hummed around them. Pumps worked. Pod rails carried silent traffic. Somewhere in the wall a relay clicked over with the dry confidence of a thing that still knew its purpose. Carter looked past Rupert through the grating and thought about the room they had left behind. A.R.I. seated at the desk. Lights dimming in her eyes. Chel's ghost written even in the expression it held.
+Carter looked down through the grating. A service pod passed beneath them, empty.
 
-"They don't want to know what happened," he said at last.
+"I spent ten years telling myself Chel built a machine," he said. "Then I walk into that room and see her."
 
-"No."
+"I know."
 
-"They want control over the city."
+"You might've warned me."
 
-"Yes."
+Rupert rubbed the edge of his cuff between his fingers.
 
-There was no pleasure in it being confirmed after he said it out loud.
+"I thought you wouldn't come."
 
-Carter leaned against the rail and scrubbed a hand down his beard. For a few seconds he said nothing. He was not a man given to careful self-examination, but there were too many pieces moving now for bluntness alone to keep up. He thought of A.R.I.'s face, of the way it had carried traces of Chel without ever becoming her, of how much he had hated that at first sight. Then he thought of the aides, the hearing, the shutdown, the way every powerful person in the room had seemed to grow calmer once she had agreed to halt the investigation and move to the designated sector mentioned.
+Carter looked at him. Rupert did not look away.
 
-"I spent ten years telling myself Chel built a machine," he said.
-
-Rupert stayed still.
-
-"Then I walk into that room and see..her"
-
-Rupert's expression softened, though only for a moment. "You are allowed to dislike the architecture of your own feelings, Carter."
-
-"That's the kind of sentence people invent when they've never fixed an engine with a hammer."
-
-"I have watched you fix several things with a hammer that should not have survived it. I am merely saying confusion is not the same as weakness."
-
-Carter snorted despite himself.
+"You were probably right," Carter said. He wished that made him less angry about it.
 
 Then he looked up sharply. "You saw the statement?"
 
@@ -164,14 +130,6 @@ Rupert produced a second set, plain black and much smaller, and placed it on top
 
 "Use them inside Clona," Rupert said. "If the public channels start choking or the city grid begins lying by omission, this should still hold."
 
-"You make it sound like the city itself is about to become untrustworthy."
-
-Rupert gave him a look that said he did not have time for jokes masquerading as optimism.
-
-"Carter," he said quietly, "I think the city is about to become extremely trustworthy. It will say exactly what the people above it require."
-
-That was worse.
-
 From somewhere above the service walls came a low distant roar, not yet a chant but close enough to one that the body could mistake it for weather.
 
 Carter jerked his head toward the sound. "Crowd?"
@@ -180,7 +138,7 @@ Carter jerked his head toward the sound. "Crowd?"
 
 "Because of the statement."
 
-"Because of the disaster. Because of the statement. Because certain groups appear to have been waiting all day for a sentence they could carry into the street." Rupert rested one hand on the rail and looked down into the moving service traffic below them. "Grief organizes badly on its own. Power is often kind enough to help."
+"Because of the disaster. The statement gave them something to shout. You should hear it before you go in there."
 
 For a moment neither spoke.
 
@@ -294,8 +252,6 @@ Rupert pushed off the rail. "Then go. If I learn anything useful, I will reach y
 
 Carter nodded once.
 
-They were not men built for embraces, confessions, or any of the other graceful repairs people liked to imagine would matter in dangerous times. What they had instead was this: a maintenance landing above the service channels, an old communicator in Carter's pocket, a disaster spreading upward through the city, and the knowledge that both of them understood the stakes well enough not to insult the other with false comfort.
-
 Rupert held the door for him.
 
 "You smell like machine grease and civic contempt," he said. "Try not to make too memorable an impression on the square."
@@ -314,19 +270,13 @@ Rupert's expression went thin and fond at once. "That is the most reassuring thi
 
 Then Carter was moving again.
 
-The Hive tried to keep him a little longer on the way out. Another corridor. Another seal check. Another apologetic official face trying to direct him toward some approved route that would have delivered him to the surface in time to miss anything useful. He ignored one, glared through another, and finally found an outer stair that rose in a hard spiral through the building's skin. By the time he pushed through the final security door, evening air hit him with enough cold to feel honest.
+The stair brought him to an outer passage. At the final security door, a guard checked his permit, looked at how little time remained on it, and let him through. Evening air caught the sweat on his face.
 
 The city above had changed while he was underground.
 
 Sound reached him first: chants not yet fully coherent, traffic complaining in broken bursts, drones overhead, the unsettled murmur of too many people learning the same bad news in different ways. Then smell. Rain on stone. Exhaust. Hot wiring. Human crowd. Under it all, surprisingly vivid, came the scent of coffee and frying dough rolling across the square on the cold like a hand taking him by the collar.
 
 His stomach clenched hard enough to remind him he had not eaten since much earlier than it felt.
-
-The whole process had taken too long. The waiting. The chamber. The shutdown. The clutches of that place and all the polished little hands inside it. He was done being delayed for the dignity of other people's narratives.
-
-First things first.
-
-He needed something hot, something with sugar, and one minute in which nobody asked him to admire authority.
 
 Carter shoved his hands into his jacket, felt the solid weight of Rupert's old communicator in one pocket, and turned toward the smell of coffee and pastry.
 

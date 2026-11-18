@@ -124,41 +124,27 @@ Rupert smiled despite himself. "That is the most encouraging answer you could ha
 
 By the time they reached the government interchange, the weather had turned from merely cold to pointedly hostile. Wind tunneled between the buildings and snapped at coat hems. Rupert led them through a side entrance marked for internal staff, past two layers of guards, through one security hall that smelled faintly of disinfectant and polished stone.
 
-The lift down to the underworks was smoother than Carter wanted it to be. Getting very close now to what Chel had spent most of her life creating, and what he would need to tear apart in order to find what went wrong. The idea of it sunk to the pit of his stomach.
+The lift carried them down into the Hive. Carter watched the level markers descend. Somewhere below was what Chel had spent most of her life creating, and what he might now have to take apart.
 
-He stood beside Rupert and folded both arms across his chest as the level markers descended. He had spent the last decade avoiding this sort of place wherever possible. He liked his machinery where he could see all of it. Here, every wall suggested the existence of ten more behind it.
+Rupert was still working on his personal unit.
 
-Rupert busied himself on his personal unit, flicking messages to three different teams at once. "There are already calls from the council for a press statement this afternoon. They want a shape to put around the disaster before the public makes one for them."
+"They want a press statement this afternoon," he said. "I am supposed to help provide it."
 
-"Of course they do."
+"And are you?"
 
-"I am supposed to help provide that shape."
+"Depends what they ask me to say."
 
-Carter looked at him sidelong. "And are you?"
+A message opened. Rupert read it twice, then closed it without replying.
 
-Rupert kept his eyes on the screen. "Not if the shape turns out to be a coffin built for the wrong thing."
+Beyond the lift, workers crossed the terraces around great trunks of cable and coolant. Carter caught sight of a welder crouched beside an unfinished mounting before Rupert steered him into an inward-bound pod. He wanted to stop and ask what they were installing. A conversation about brackets would have been easier than this.
 
-Carter could see how frightened Rupert was, no matter how much he tried to hide it away with the dramatic flair he liked to add to everything he touched. Carter was worried too.
+His palms had started to sweat by the time they reached the centre. Rupert noticed and politely looked elsewhere.
 
-When the elevator opened, Carter couldn't help but be impressed on the craftsmenship. The Hive stretched out before them in shining terraces and industrial calm. Workers moved over the floor and across bridges in programmed-looking streams. Maintenance units rolled along marked tracks. Great trunks of cable and coolant lines disappeared into the heart of the complex. It looked less like a building than a mechanical ecosystem pretending it had not already outgrown ordinary architecture.
+"She doesn't bite."
 
-"Still think software is just guessing?" Rupert asked lightly as they stepped out.
+"It's never the biting I worry about."
 
-Carter eyed the construction happening on the far rings, the modular expansion, the choreographed labor. "I think this is what guessing looks like when you give it a national budget."
-
-Rupert made an offended sound but kept walking.
-
-They took a pod inward. Carter did not care for pods either. Too smooth, too silent, too sealed. Through the curved canopy he watched the lower levels pass beneath them: coders, technicians, construction drones, welders, and teams replacing old hardware with fresh banks built to cleaner tolerances. Somewhere inside all of that sat the public illusion of a single machine-person everyone could name and blame.
-
-His palms had started to sweat by the time the pod reached the center.
-
-Rupert noticed and politely looked elsewhere.
-
-"She doesn't bite," he said after a moment.
-
-"Bad news. It's never the biting I worry about."
-
-The approach corridor into A.R.I.'s chamber was almost offensively tasteful. Water sounds. softened light. dark stone. Plants selected to calm mammals with inherited instincts they no longer had any practical use for. Chel had absolutely had a hand in this. Carter could feel her all over the design. Not in the aesthetics exactly, but in the intent. She had always believed intelligence worked better if you refused to treat it like a monster first.
+They followed the sound of water into a softly lit corridor. Chel had wanted people to feel welcome here. Carter remembered arguing about the expense of it while she cleared a space for the plans on his workbench.
 
 Which was why seeing the chamber for the first time hit him so hard.
 
