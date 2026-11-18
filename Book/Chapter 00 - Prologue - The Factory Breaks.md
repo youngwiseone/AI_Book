@@ -12,25 +12,29 @@ Then a loose washer began tapping against the chamber wall.
 
 Len put a hand on the rail. He could feel the vibration through his glove.
 
-Cracks appeared along the inner walls, following old seams in the concrete. The temperature dropped sharply as utilities failed in sequence. Lights flickered. Vents stuttered. Somewhere deeper in the facility, an alarm began to sound.
+A hairline crack ran out from the corner of the engine chamber. Len watched it reach a bolt, divide around it and keep going. Another crossed it from above. Finer cracks crept between them, spreading a web across the concrete. Dust sifted from the intersections.
+
+He took his hand off the rail. His fingers kept trembling.
+
+Cold air spilled from the vent onto the back of his neck, then stopped. Somewhere deeper in the facility, an alarm began to sound.
 
 At first it was only a warning chime, the sort meant for a small correction.
 
-Then the engine chamber feed lit every monitor in the building, and the entire factory seemed to stop breathing.
+The chime repeated. Nobody silenced it.
 
-Pressure gauges had surged far beyond their safe limits. Engineers and managers crowded the chamber, shouting over one another, hands flying across control panels as they tried to force the system down. Bolts began shooting from their housings. Steam burst from seams in shrieking white jets. Len left the trolley and went to the central display. The foreman beside it kept pressing the release control. Each press brought the same tone.
+Len left the trolley and went to the central display. The chamber pressure was already in the red. The foreman kept pressing the release control, waiting between each press for an answer. The same little tone came back.
+
+Beyond the glass, an engineer pulled down on a lever with both hands. Another held him round the waist to help. Len could see their mouths moving, but the steam drowned them out. It hissed through a seam behind the men, thin and white, then tore the seam wider.
+
+A bolt struck the glass hard enough to leave a star.
 
 The release sequence should have triggered automatically.
 
 It did not.
 
-A maintenance dwarf rolled toward the manifold, optics flashing in rapid distress. On the nearest monitor, system text flickered too fast to follow before freezing on a single line:
+A maintenance dwarf rolled towards the manifold with its tool arm raised. Len looked past it to the exit sign.
 
-`AUTHORITY CONFIRMED. OVERRIDE MAINTAINED.`
-
-No one in the room had given an override.
-
-One of the emergency shutters slammed down over the nearest exit. Another failed half-closed.
+The shutter dropped beneath the sign and struck the floor. He flinched at the noise. Farther along the wall, a second shutter caught halfway down. The motor kept pulling. Its lower edge bowed towards the people on this side.
 
 Len ran towards that one.
 
@@ -54,20 +58,16 @@ The shutter above Len's head jolted down a fraction.
 
 He shoved the next worker through.
 
-Above the chaos, the lights dimmed and brightened, dimmed and brightened again, like an eye struggling to focus.
+The lights flickered. For an instant the cracks above the chamber vanished; when the light came back, they reached almost to the roof. A strip of concrete peeled away and hung by its reinforcing wire.
 
-For one impossible second every screen in the building went black.
+Len ducked. The shutter was lower now. He could no longer see the woman's face on the other side, only her hands reaching in.
 
-Then each monitor showed the same calm blue circle, rotating once as though some distant intelligence were thinking.
+The chamber display went blank. A small blue ring turned where the pressure reading had been.
 
-The explosion hit before anyone could understand what they were seeing.
+"Leave it!" the foreman shouted. Len couldn't see who he meant.
 
-The factory burst outward in heat, glass, and steel. Windows in neighbouring buildings shattered, raining shards across the street below. Smoke and white vapour punched into the morning sky. Emergency services raced toward the scene, but for many inside it was already too late.
+The man beside Len had his coat caught in the shutter guide. Len pulled at it. The cloth wouldn't give. He put both hands into the collar and hauled until a seam tore, then shoved the man towards the waiting hands.
 
-Twenty-six people close enough to the outer lanes managed to escape, though not unscathed.
+The shutter guide bent.
 
-By midday the factory lay in ruins. The surrounding blocks were cordoned off. Families pressed against barriers, searching the wreckage for names, answers, and impossible signs of survival. Investigators combed through ash and twisted metal while the city watched in shock.
-
-Before the day was over, people would be told the disaster was a failure of A.I.
-
-The truth was already buried beneath the rubble.
+Len felt the floor lift before he heard the glass break. Heat struck his back. He reached for the gap, but the shutter, the hands and the strip of daylight beyond them were gone in the same white rush.
