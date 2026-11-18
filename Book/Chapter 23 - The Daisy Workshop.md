@@ -14,7 +14,7 @@ Copies of the reconstruction finding sat beside the appointment book, with Havel
 
 Rae worked nearest the windows. Her station held mechanical tools on the left, biological instruments on the right, and a clear empty space between them where every new project began with conversation.
 
-That morning, Len placed a failing forearm enhancement in the empty space. He had worked the aisles at Clona. The pass clipped to his coat now belonged to the docks.
+That morning, Len put down a folded copy of the reconstruction finding and placed a failing forearm enhancement beside it. He had worked the aisles at Clona. The pass clipped to his coat now belonged to the docks.
 
 "Clinic says replacement," he said. "Can't afford replacement."
 
@@ -42,7 +42,23 @@ Rae pulled a chair round so he could see the bench. She put the mechanical regul
 
 "Yes."
 
-He tried the mechanical cover with his good hand. The catch slipped under his thumb.
+Len glanced at the paper beside his arm.
+
+"The people looking after those children. Did they get the bottles?"
+
+Rae looked at the folded page. He had marked the carer's letter with a dirty thumbnail.
+
+"I found a later schedule with fewer children coming. Nothing confirming the bottles arrived."
+
+"So you don't know."
+
+"No."
+
+He folded the paper along its old crease and put it in his coat.
+
+"Show me how this one opens."
+
+Rae turned the mechanical cover towards him. He tried it with his good hand. The catch slipped under his thumb.
 
 "That's no bloody use."
 

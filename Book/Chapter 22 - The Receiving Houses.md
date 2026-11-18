@@ -536,7 +536,15 @@ She turned back to the driver's unpaid hours. Whatever else it had been, the rec
 
 "I don't know. We can compare what it ordered with what the other books say happened."
 
-One attachment came from a receiving district, not the continuity office. Its writer objected to a schedule that assumed there would be enough adults to take the next group. The surviving families were already caring for more children than they could feed. Several carers required treatment for their own alterations. The writer wanted supplies and trained staff, not another target.
+One attachment came from a receiving district, not the continuity office. The writer had crossed out the proposed intake and written beside it: NO STAFF FOR THESE.
+
+Below that, the formal complaint gave way to smaller handwriting.
+
+*My hand was altered to lift things. I can hold a child. I cannot open the feeds you send. The tabs tear off between my fingers and someone else has to do it. The woman opening them for me is due back at the clinic. Her own treatment has already been put off twice.*
+
+*Send the refillable bottles with broad screw caps we asked for. Send someone for the night shift. Please stop counting her as available while she is away.*
+
+Carter turned back to the supply list. The bottles had been entered under replacement equipment, with no priority marked beside them.
 
 A later schedule reduced the intake.
 
