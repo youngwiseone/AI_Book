@@ -114,7 +114,7 @@ Three enhanced soldiers entered the hall. Their faces were awake and horrified. 
 
 A.R.I. met the first.
 
-Her new body lacked Asher's strength, but Carter had built it from machines designed to carry injured people through collapsing buildings. She caught the soldier's arm, redirected the strike, and let momentum take him into the wall. Her left ankle slipped. She recovered too late and the second soldier drove a shoulder into her chest.
+Her new body lacked Asher's strength. She caught the soldier's arm, redirected the strike, and let momentum take him into the wall. Her left ankle slipped. She recovered too late and the second soldier drove a shoulder into her chest.
 
 Metal folded.
 
@@ -361,4 +361,5 @@ Their hand went slack in Rae's.
 Around them, the freed enhanced soldiers began helping one another from the floor. The hand on the rack finally opened. Nessa let its owner pull the obstruction clear, then took the arm he offered her.
 
 Carter sat against the broken training post, holding the wrench Rupert had first learned to use as a child.
+
 
