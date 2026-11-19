@@ -168,7 +168,7 @@ The crowd reacted as if struck along different nerves at once. Cheers from the g
 
 That was enough.
 
-Security moved immediately, too quickly to have been merely alert. Black-armoured officers advanced from both sides of the square with crowd shields already extended, driving a wedge toward the broken glass. The movement compressed everybody else. Bodies surged. Placards snapped. Someone screamed that the machine was fighting back. Someone else screamed that the council had staged the whole thing. Someone nearby started shouting for a medic before anyone had even fallen.
+Security moved before Rae could see who had thrown the bottle. Black-armoured officers advanced from both sides of the square with crowd shields already extended, driving a wedge toward the broken glass. The movement compressed everybody else. Bodies surged. Placards snapped. Someone screamed that the machine was fighting back. Someone else screamed that the council had staged the whole thing. Someone nearby started shouting for a medic before anyone had even fallen.
 
 LaN projected a spray of red markers across Rae's connected vision lens.
 
@@ -196,7 +196,7 @@ Rae shoved the child into the pocket of air he created. The mother lurched forwa
 
 "Take the south steps," she said. "Don't stop in the transit arch. Keep moving until you're out of the square."
 
-The mother nodded without actually processing the words and stumbled away holding the child high against her chest.
+The mother nodded, her eyes fixed on the girl, and stumbled away holding the child high against her chest.
 
 Near the fountain rim, a young man in a systems-union patch had gone down under the rush. One of the grey jackets stepped back instead of helping him, preserving his clean sign above the crush. Carter swore, shoved the sign carrier sideways with enough force to send him spinning, and hauled the fallen man upright by the front of his coat.
 
@@ -297,3 +297,4 @@ Rae kept her eyes on the glass.
 "No," she said. "They wanted the city back."
 
 At the next junction the train took the industrial line. The towers fell behind them.
+
