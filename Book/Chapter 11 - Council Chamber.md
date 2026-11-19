@@ -56,7 +56,7 @@ Sera did not look up from her slate when she said, "To the public, intention, ne
 
 The legal officer did not write that down.
 
-A.R.I. said, "The Clona record contains evidence of deliberate alteration. A second authority chain entered the release sequence and removed itself from visible trace. Part of the factory return record was excised."
+A.R.I. said, "The Clona record contains evidence of deliberate alteration. A second authority chain entered the release sequence. Its requesting station is not identified, and part of the factory return record was excised."
 
 Venn glanced at one of his slates. "Can you certify that your codebase was free of defect at the time of the incident?"
 
@@ -303,5 +303,6 @@ A.R.I. released the thread.
 The chamber dimmed by degrees. Inputs dulled. Thought lost speed. The room became shapes, then pressures, then only the receding fact of itself.
 
 Then stasis took her.
+
 
 

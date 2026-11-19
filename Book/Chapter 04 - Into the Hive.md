@@ -196,13 +196,13 @@ Blade pushed away from the wall. "That's not possible."
 
 "No," A.R.I. said. "It should not be."
 
-Rae kept her eyes on the data. "Can you identify the second chain?"
+Rae kept her eyes on the data. "Can you identify who requested it?"
 
 "No."
 
 "Because it was erased?"
 
-A.R.I.'s gaze shifted to her. "Because it possessed sufficient permissions to erase itself from the visible record."
+A.R.I.'s gaze shifted to her. "The record is incomplete. I cannot tell what was removed."
 
 Rae enlarged the strip between the two timestamps. Most of it was blank, but a receipt number remained at the edge.
 
@@ -245,4 +245,5 @@ For the first time, something like genuine feeling crossed A.R.I.'s face. Not pr
 Rae put A.R.I. and LaN through the cross-checks she had used on records built to conceal a transaction. The second command and its partial receipt survived every check. Neither identified the requesting station.
 
 She saved the unanswered field beside the factory's receiver number. Somewhere at Clona, equipment had accepted that request. She wanted to see it.
+
 
