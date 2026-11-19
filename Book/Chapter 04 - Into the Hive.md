@@ -190,7 +190,7 @@ Rae turned back to the projection. "Say that again."
 
 A.R.I. was silent just long enough for the room's artificial stream to feel louder.
 
-"The command appears to have happened twice," she said at last. "Once when I issued it. Once six-tenths of a second later, under a different authority chain."
+"My release command is recorded first," she said at last. "Six-tenths of a second later, the sequence is recorded under a different authority chain."
 
 Blade pushed away from the wall. "That's not possible."
 
