@@ -222,7 +222,7 @@ A delivery driver had stopped at the dead gate to their platform. His loaded tro
 
 A woman in a patched maintenance coat squeezed past the trolley. Bony ridges ran from her jaw into the collar. A temple badge had been sewn over an older transit badge, leaving its orange edge visible.
 
-She touched a little ceramic plate hanging at her throat. It was a broken piece of circuitry, its gold tracks rubbed dull.
+She touched a little ceramic plate hanging at her throat. It was a broken piece of circuitry, its gold tracks rubbed dull. A little sunburst was stamped in one corner; years of thumbs had taken most of the rays off.
 
 "Keep the lost," she said. "Bring the living home."
 

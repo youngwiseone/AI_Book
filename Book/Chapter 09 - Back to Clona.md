@@ -1,6 +1,6 @@
 # Chapter 9: Back to Clona
 
-By the time Rae and Carter returned to Clona, the ruins had been cleaned for cameras.
+By the time Rae and Carter reached Clona, the ruins had been cleaned for cameras.
 
 Government sheeting covered the torn facade. Each white panel carried the council seal and a line about remembrance. The street had been cleared of glass, personal belongings, and the paper notices families had tied to the security fence. A row of fresh memorial lights shone against the rain.
 
@@ -98,9 +98,9 @@ Carter tapped the flower-painted set inside his coat. "Don't change it. Press on
 
 They split at the collapsed lift shaft.
 
-Rae and LaN entered the records wing through a gap where an emergency shutter had stopped half-closed. The shutter's lower edge was bent outward. Fingernail marks striped the paint beneath it.
+Rae and LaN entered the records wing through a gap where an emergency shutter had stopped half-closed. The shutter's lower edge was bent outward. Fingernail marks striped the paint beneath it. A single work boot lay on its side just inside the gap. Someone had retied the broken lace with a length of red cord.
 
-She did not let herself imagine how long the workers had tried.
+Rae stepped over it. She had to stop herself putting the boot upright.
 
 The first office had been emptied. Storage wafers, personal terminals, and even paper files were gone. Cleaning marks showed where equipment had rested before the blast.
 

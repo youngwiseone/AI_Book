@@ -26,7 +26,7 @@ The next shutter stuck halfway down. People made for it at once. A woman went do
 
 “Back up. You're on her foot.”
 
-He couldn't tell who'd heard. He got two hands round her heel and pulled. The boot came away empty. She went through in one sock, then turned on the other side and started reaching back for people.
+He couldn't tell who'd heard. He got two hands round her heel and pulled. There was red cord where the lace had broken. The boot came away empty. She went through in one sock, then turned on the other side and started reaching back for people.
 
 “Low,” she said. “Get down low.”
 

@@ -1,5 +1,7 @@
 # Chapter 6: The Shape of Blame
 
+Carter's finger was still at the edge of the pressure trace when A.R.I. checked the council circuit again. No connection. She enlarged the trace until he could see where it had started drawing a straight line.
+
 A.R.I. had been questioned by humans every day since she first spoke.
 
 Most questions were requests wearing a softer coat. How quickly could she reduce traffic through the river wards? Which hospital should receive more power during a shortage? Would she confirm that a council decision was supported by available evidence? Even when people asked what she thought, they usually meant which answer she could provide without altering what they had already decided.
@@ -10,9 +12,7 @@ Carter Mitchell asked them because he did not believe the answers.
 
 A.R.I. found both approaches unexpectedly useful.
 
-The council circuit was still unavailable. A.R.I. checked its status again while Carter pointed at the pressure trace. The delay gave them time, though nobody had agreed how much.
-
-They stood around Chel's old desk while the last thirty seconds of Clona repeated above it. Pressure rose. Her release command entered the safety system. Six-tenths of a second later, a second authority wrote over it. The record broke. When it resumed, the emergency shutters were closed.
+The delay gave them time, though nobody had agreed how much. The last thirty seconds of Clona repeated above Chel's old desk. Pressure rose. Her release command entered the safety system. Six-tenths of a second later, a second authority wrote over it. The record broke. When it resumed, the emergency shutters were closed.
 
 Carter leaned so close to the projection that data crossed his face in blue lines.
 
