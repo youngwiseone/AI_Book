@@ -1,0 +1,5 @@
+# End-to-end read: Clona, the city and the workshop
+
+Read Chapters 00–23 from working head `4b76681a8cf34597ea94a429bb0e505b00074d65` in order. No new characters, changes to Clona's cause, or changes to Asher's role. The investigation is strongest where a character recognises something that has already mattered to another person. The workshop ending is strongest when the repair, not a speech about it, carries the change.
+
+The first group joins the Hive scene to the hearing's interruption, plants a repaired boot in the prologue that is seen again at the shutter, and lets the maintenance worker's relic carry the maker's mark seen later at the washhouse. The second group shortens the opening detours of the reconstruction investigation without removing the washing, the evidence from independent records, the letter about feeding, or Rae's grief. It corrects what Rae said to Asher and makes A.R.I.'s final ankle repair address the crooked joint Carter built. The Fourth Appeal stays before the Receiving Houses; The Daisy Workshop is the ending.

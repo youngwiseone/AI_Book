@@ -32,7 +32,7 @@ He asked for a dry brush. She held the mirror while he got the flour out.
 
 Someone had put a wet copper washer on the top copy of the reconstruction finding. Rae lifted the washer and set it in a dish. The paper underneath had taken a little ring of green. She dried it on her sleeve before putting it back beside the appointment book. Havel's review was clipped at the back. Miri's visiting notice lay on top: the morning wash came first, and visitors could see the drawings without going down the stairs. There had been several corrections to the notice. That was the one Miri had underlined.
 
-Blade arrived at midday. Without his government coat he had nowhere to put his gloves. He folded them over the handle of the case he carried and set both on Rae's bench.
+Blade arrived at midday. He no longer wore a government coat; Rae hadn't seen him in one since he gave evidence. He folded his gloves over the handle of the case he carried and set both on her bench.
 
 “Asher's research,” he said. “The investigator has the same sealed copy. This is for the work you're doing here.”
 
@@ -82,7 +82,7 @@ He moved the photograph to the shelf above the daisies. Then he took down the mi
 
 “Rupert knew that one was wrong. Left it there to annoy me.”
 
-He found the right one in his own case. A.R.I. undid the cover. She asked him to hold the lamp lower; he did. They found two layers of paint inside the rim, thick enough to drag when she bent her foot. She scraped them away herself and left the small nick she'd made in the cover. It would tell her which way the piece went back on.
+He found the right one in his own case. A.R.I. undid the cover. She asked him to hold the lamp lower; he did. The bracket had worked out of square. Its edge carried a bright scrape where it caught. Carter showed her the mark and held the foot steady while she loosened the bracket and brought it back into line. She tried the joint twice before tightening anything.
 
 While she tightened the last screw, Rae carried their cups out to the step. LaN came down the ramp behind her. At the bottom he turned the way he had on the bench. There was no catch. He came the rest of the way without asking her to pick him up and parked by her boot, where she wouldn't knock him over.
 
@@ -98,6 +98,6 @@ A.R.I. stood at the threshold. Rae shifted her cup to her other hand.
 
 “Not for this bit.”
 
-A.R.I. lifted her left foot. Her foot came down flat on the stone beside them.
+A.R.I. stepped over the sill. Her left foot came down flat on the stone beside them.
 
 Carter pulled the door shut. Through the glass, Rae could still see Rupert's photograph. Carter had turned it to face the bench.

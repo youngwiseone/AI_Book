@@ -34,7 +34,7 @@ He read the service number. Beneath it Iva had written what the last repairer ha
 
 At the washhouse, the smell reached them before the door did: hot cotton, damp stone and the sharp soap used to get industrial grease out of clothes. A.R.I. had to turn sideways past a woman carrying two baskets. The woman told her to mind the bottom one; it had a broken handle and would shed somebody's underwear if touched.
 
-Inside, a row of people waited at a counter beneath a sunburst the size of a cartwheel. Someone had polished the raised rays and left the hollows black. The symbol appeared again on the tokens being counted into a wooden tray.
+Inside, a row of people waited at a counter beneath a sunburst the size of a cartwheel. Someone had polished the raised rays and left the hollows black. Rae had seen the same rays worn almost flat on the thing the maintenance woman touched at the station. Here the symbol appeared again on the tokens being counted into a wooden tray.
 
 Miri came through a side door with a wet sleeve and a ring of keys.
 
@@ -140,79 +140,17 @@ Carter moved his tools off the dry end of the table so she could open it.
 
 "Write down which pages," she told Rae. "And take the later corrections, not just the neat ones."
 
-## 2. What the word meant
+## 2. The lower room
 
-The first page was a knee.
+That night Rae opened Miri's copy at HUMAN RESTORATION. The heading Asher had used so often turned out to be printed above a drawing of a knee.
 
-Rae had spent most of the walk back with Asher's voice in her head. Keeping humanity alive, they used to say, as if it was a job somebody might stop paying for. She had always assumed they meant soldiers who needed another operation. The heading HUMAN RESTORATION had briefly made that assumption feel too small.
+"A good knee," Carter said. He bent closer to see what the hinge was made of.
 
-Now a joint diagram lay enlarged on LaN's screen, with the attachment points labelled in language she knew perfectly well.
+The index used the same word for a set of pages kept with the lower installation. Beside the reference somebody had written RELEASE TO RECEIVING HOUSES. Rae copied it on the seal order so she would remember to ask when they went back.
 
-Carter put his cup beside it.
+Rupert's bench stood empty across from them. His photograph faced the room. Carter put a folded rag under A.R.I.'s left foot to stop the ankle rocking against the kitchen tiles. Nobody suggested moving the papers off the kitchen table.
 
-"Well?"
-
-"A knee."
-
-"Useful things."
-
-"I thought restoration meant something else."
-
-He bent to look. "It does if yours is missing."
-
-She almost snapped at him. The words stopped behind her teeth. Carter was not enjoying being right. He had already found the material specification and was running his finger down it, interested in how anyone had made an interface that lasted that long.
-
-Rae crossed out the heading she had written on her own sheet. Not erased it. Crossed it out. Below, she wrote the part number.
-
-Rupert's workbench stood opposite. Carter had turned his photograph towards the room. Rae had moved their copies to the kitchen table without asking why they could not use the spare surface.
-
-A.R.I. stood at the table's end. Carter had put a folded rag under her left foot to stop the faulty ankle rocking against the tiles.
-
-"You can sit," he told her.
-
-"The chair has a lower load rating than this floor."
-
-"So do I. Sit on the tool chest."
-
-She tested the lid before lowering herself onto it.
-
-Miri's copies included an index. Most of its entries were ordinary enough: pressure checks, sterilising temperatures, replacement valves. Rae could account for the knee circuit. Two references below it used the same word, restoration, but led to another series of pages.
-
-Those pages were not in the book.
-
-"We didn't get the whole thing," she said.
-
-"We got what she has," Carter replied.
-
-One missing section was headed STOCK RETENTION. Another was RELEASE TO RECEIVING HOUSES. There were capacity figures beneath it, but no unit Rae could identify from the copy.
-
-She enlarged the margin. A small note had been added sideways.
-
-*Annex originals. Keep with installation.*
-
-LaN tilted his screen towards her. "You are booked there again when the seal arrives."
-
-"I know."
-
-Carter checked the workshop calendar and moved an engine booking to the afternoon. He left the customer's name on the old line and drew an arrow, so he would remember to tell him.
-
-"We can look when we fit the seal," he said. "I'll call Miri."
-
-A.R.I. looked at the missing-page references. "What did you think it meant?"
-
-Rae sat down where Carter had been.
-
-"Something Asher said. I thought I might finally have understood it."
-
-"This may still mean that."
-
-"I know."
-
-The knee on LaN's screen rotated to show its underside.
-
-Rae turned it off before going to bed.
-
-## 3. The lower room
+***
 
 The permanent seal fitted. The joint behind it did not hold.
 
@@ -332,7 +270,7 @@ Rae copied the release reference and the name of the house. Then she made anothe
 
 She folded the address around the release reference. The service folder described what was meant to leave the room. At the receiving house, somebody might have written down what arrived.
 
-## 4. What was received
+## 3. What was received
 
 The receiving house had a new roof on an old wall and a bell that rang somewhere nobody seemed to be.
 
@@ -342,31 +280,15 @@ Eda opened the door with a child asleep against one shoulder. She read Miri's no
 
 "We moved the books when the first roof went," she said. "Kept the correspondence because people come looking for who looked after them. Or who looked after somebody before them. We don't throw those questions away with the accounts."
 
-She found the release number in an index. The older volumes were wrapped in cloth; she put a padded wedge beneath one before opening it.
+Eda found the matching release number between a complaint about spoiled milk and a note about a leaking door. It had a weight beside it, and a carer's name.
 
-The first entries did not look important. They concerned blankets, spoiled milk, a missing driver and the repair of a door that let in rain.
-
-Then Rae found the facility number.
-
-Beside it were received weights. Feeding difficulties. Names assigned to carers. A column headed RELEASE REFERENCE carried numbers that matched the lower room's book.
-
-She stopped turning pages.
-
-"These were children?"
-
-Eda looked at the heading, then at her.
+"A child?" Rae asked.
 
 "They weren't writing down how much a blanket ate."
 
-Rae brought out the photographs of the shell. Eda put her glasses on to examine them.
+Rae showed her a photograph of the shell. Eda put her glasses on, looked at it, then closed the ledger over a strip of paper.
 
-"I don't know what that is."
-
-"Neither do I. Not enough."
-
-Eda closed the ledger over a strip of clean paper to keep the place.
-
-"Then find someone who does. You can come back. The book stays here."
+"Find someone who knows what that is. You can come back. The book stays here."
 
 ***
 
@@ -468,7 +390,7 @@ Carter took the paper packet containing Miri's key and moved it away from the we
 
 Rae kept her hand beneath the book's spine until Eda was ready to turn the page.
 
-## 5. The authority on the page
+## 4. The authority on the page
 
 They had evidence of one installation. It was A.R.I. who made them write *one* at the top of the sheet.
 
@@ -504,7 +426,7 @@ Iva's box list took them through the vehicle records to the accounts kept for di
 
 "Good," Carter said.
 
-The receiving house had confirmed the delay. An administrator had charged the lost time to a restoration transport account rather than the driver's ordinary employer. The account linked to delivery schedules and the founding instruction under which the work had been commissioned. Rae ordered copies of the attached district returns as well.
+The receiving house had confirmed the delay. The driver's pay had been charged to a restoration transport account. Rae followed that number to the commissioning order and asked for the district returns filed with it.
 
 When they brought them home, Carter cleared the kitchen table and put a bag of hot chestnuts between the papers. Rae took one, burnt her thumb and forgot to eat it.
 
@@ -586,7 +508,7 @@ Rae watched his finger stop at the new pipe.
 
 They still owed Miri the key.
 
-## 6. The work left over
+## 5. The work left over
 
 Miri tried the new key twice, then put the old one on a hook inside the inspection cover.
 
@@ -690,7 +612,7 @@ Carter stopped turning the spanner.
 
 She nodded.
 
-"I want to hear them tell me which part I've got wrong. Then I remember what happened when I showed them the relay."
+"I want to hear them tell me which part I've got wrong. Then I remember what they said when I asked them about Clona."
 
 A.R.I. kept her hands on her knees. She did not tell Rae what Asher would have said.
 
