@@ -1,203 +1,103 @@
 # Chapter 23: The Daisy Workshop
 
-Six months after Clona, Carter put a sign above the workshop door and claimed he had not named the place.
+Six months after Clona, Carter hung a sign above the workshop door and claimed he had not named the place.
 
-The sign read `THE DAISY WORKSHOP` in Rupert's preferred shade of yellow.
+THE DAISY WORKSHOP, it read. He'd painted the letters in Rupert's favourite yellow and put a daisy in the corner. Even from the other end of the lane you could tell which petal he'd painted twice.
 
-Nobody challenged him.
+The roller doors went up at seven. Warm air met the cold and misted the bottoms of the windows. Inside, the city had left its usual assortment on the shelves: a fishmonger's scale that gained two grams in the rain, a child's knee joint with one buckle worn smooth, a kettle someone had been using without a handle. Carter had asked how they poured it. The reply, written on the job tag, was *carefully*.
 
-The roller doors opened at seven each morning. By half past, the lane usually held a queue of damaged machines, enhanced people, ordinary people with ordinary injuries, and at least one official pretending not to be there on government business.
+Rae worked nearest the windows, where she could tell the colour of living tissue without turning on a lamp. There were mechanical tools on her left and biological instruments on her right. LaN was in the middle, taking up the space she had left clear.
 
-Carter complained about the crowd while building a second waiting bench.
+“Still catching?” she asked.
 
-Copies of the reconstruction finding sat beside the appointment book, with Havel's review and the source references attached. Miri had sent a corrected visiting notice after three people turned up during the morning wash. Rae pinned it above the copies where nobody could miss it.
+“Only when I turn.”
 
-Rae worked nearest the windows. Her station held mechanical tools on the left, biological instruments on the right, and a clear empty space between them where every new project began with conversation.
+She reached for the catch on his casing. He swivelled away, and her hand came up empty.
 
-That morning, Len put down a folded copy of the reconstruction finding and placed a failing forearm enhancement beside it. He had worked the aisles at Clona. The pass clipped to his coat now belonged to the docks.
+“Sorry,” she said. “Do you want me to look?”
 
-"Clinic says replacement," he said. "Can't afford replacement."
+“Just the outside. I want to see what it does first.”
 
-"Replacement would also remove three sensation channels your body has adapted to," Rae said. "They tell you that?"
+Rae found him a small mirror. He tilted it until he could see the underside of his casing and asked her to mark the place where it began to rub. She put a dot there with a pencil. He turned once more and watched it disappear behind the rim.
 
-He shook his head.
+“You've got flour in it,” she said.
 
-"We can repair the regulator. There is an adaptive option that may reduce future rejection, but it uses living machine tissue and we don't have five-year data yet. Or Carter can rebuild the existing mechanical interface. More maintenance, less uncertainty."
+“I was helping with breakfast.”
 
-"Which would you choose?"
+“You were under the table.”
 
-"Depends what you need it to do."
+“That was where the toast went.”
 
-"Work. Get paid."
+He asked for a dry brush. She held the mirror while he got the flour out.
 
-"What sort of work?"
+Someone had put a wet copper washer on the top copy of the reconstruction finding. Rae lifted the washer and set it in a dish. The paper underneath had taken a little ring of green. She dried it on her sleeve before putting it back beside the appointment book. Havel's review was clipped at the back. Miri's visiting notice lay on top: the morning wash came first, and visitors could see the drawings without going down the stairs. There had been several corrections to the notice. That was the one Miri had underlined.
 
-"Dock straps. Mostly in the wet. I can't keep coming back every time it sticks."
+Blade arrived at midday. Without his government coat he had nowhere to put his gloves. He folded them over the handle of the case he carried and set both on Rae's bench.
 
-Rae pulled a chair round so he could see the bench. She put the mechanical regulator beside the adaptive unit.
+“Asher's research,” he said. “The investigator has the same sealed copy. This is for the work you're doing here.”
 
-"This one needs cleaning. I can show you how, but you'll need to get the cover off with your other hand. The adaptive one may need less of that. I can't promise it, and if the tissue starts rejecting, you come back here."
+Rae read the inventory without opening the case. The requests for replacement regulators occupied a page of their own.
 
-"Time off."
+“I can give the clinics the regulator drawings,” she said.
 
-"Yes."
+A.R.I. set down the wheel she was fitting. “Check the bridge numbers first. Some of the people using those regulators may still be connected.”
 
-Len glanced at the paper beside his arm.
+Rae drew a line beneath the inventory. She wrote down what could go to the clinics and what had to stay with the investigator until they could check. The patient names would stay sealed. She left space on the sheet for the reason beside every page they held back.
 
-"The people looking after those children. Did they get the bottles?"
+Blade read it before signing. He put his receipt in a glove and took them both.
 
-Rae looked at the folded page. He had marked the carer's letter with a dirty thumbnail.
+Beside the appointment book lay the public Clona finding. It cleared A.R.I. of causing the blast. The city had kept the smaller intelligences running the services she once held together. Her name was still on the finding, and on the orders she had actually given, but it no longer appeared in the approval box at the bottom of every form. Here it was on the freight drone's tag, beside a drawing of the washer its wheel needed.
 
-"I found a later schedule with fewer children coming. Nothing confirming the bottles arrived."
+Rae carried the archive to the locked cabinet. Asher's name was printed down one side of the seal. She held it with her palm under the case, waiting for Carter to slide his toolbox away from the cabinet door. She remembered the weight of Asher's hand when it went slack in hers. They had let the soldiers go. She could remember that without forgetting what they'd done to them.
 
-"So you don't know."
+She put the case on the shelf and turned the key.
 
-"No."
+***
 
-He folded the paper along its old crease and put it in his coat.
+By late afternoon the freight drone was back on all its wheels. A.R.I. walked beside it along the lane, watching for a wobble. It went over the drain without one. Her own left toe struck the lip on the way back in.
 
-"Show me how this one opens."
+Carter, who had heard it, looked up from the sink.
 
-Rae turned the mechanical cover towards him. He tried it with his good hand. The catch slipped under his thumb.
+“I've got an ankle that doesn't do that.”
 
-"That's no bloody use."
+“I like this one.”
 
-Rae took a wider catch from the parts drawer and laid it beside the first.
+“It catches.”
 
-"Try that before you decide."
+“It also tells me when I'm putting my foot down.”
 
-Across the room, A.R.I. attempted to replace a freight drone's wheel. Her body had changed since the reclamation yard, though never all at once. Better hands. A corrected ankle. Flexible material around the face that allowed expression without borrowing Chel's likeness. Each alteration had been proposed, tested, and accepted by her.
+He dried his hands. “Can I have a look?”
 
-Carter still called the body temporary.
+“You can show me where to look.”
 
-A.R.I. had stopped correcting him. She understood this was how he expressed ambition.
+Rae brought a low stool over. A.R.I. sat and drew her foot up, but there was nowhere within reach to lay out the parts. The only clear bench was Rupert's. Carter looked at the three tools hanging above it. He had wiped them that morning. The photograph beneath them was still tilted, as it had been since the first week he put it there.
 
-LaN supervised from the tool cabinet.
+“I can wait,” A.R.I. said.
 
-"The wheel is reversed," he said.
+“No. Here.”
 
-"It is symmetrical."
+He moved the photograph to the shelf above the daisies. Then he took down the middle tool and held it out, handle first. A.R.I. tried it against the hinge.
 
-"Then it is reversed in spirit."
+“Wrong size,” she said.
 
-"That statement has no technical meaning."
+“Rupert knew that one was wrong. Left it there to annoy me.”
 
-"Carter says it frequently."
+He found the right one in his own case. A.R.I. undid the cover. She asked him to hold the lamp lower; he did. They found two layers of paint inside the rim, thick enough to drag when she bent her foot. She scraped them away herself and left the small nick she'd made in the cover. It would tell her which way the piece went back on.
 
-From beneath a transport engine, Carter shouted, "Stop teaching her rubbish."
+While she tightened the last screw, Rae carried their cups out to the step. LaN came down the ramp behind her. At the bottom he turned the way he had on the bench. There was no catch. He came the rest of the way without asking her to pick him up and parked by her boot, where she wouldn't knock him over.
 
-"I learned from observation," LaN replied.
+Carter came out with a rag in his pocket. He looked up at the sign. “He'd have said the lettering was uneven.”
 
-The workshop laughed.
+“You painted it,” Rae said.
 
-Rupert's bench remained against the garden wall. Carter had cleaned it but never cleared it. Three elegant hand tools hung above the surface beside a photograph of Rupert in his grey suit, looking offended by sunlight. Around the frame, real daisies grew through a narrow soil channel Rae had installed.
+“Doesn't make it straight.”
 
-Every morning Carter inspected their irrigation system.
+A.R.I. stood at the threshold. Rae shifted her cup to her other hand.
 
-He said flowers were unreliable machinery.
+“Would you like a hand?”
 
-Nobody challenged that either.
+“Not for this bit.”
 
-At midday, Blade Nathan arrived without his government coat. The inquiry had cleared him of direct involvement in Clona and found him guilty of enough adjacent silence to end his public career. His alterations remained visible beneath plain clothes. Without privileged stabilisers, he moved carefully.
+A.R.I. lifted her left foot. Her foot came down flat on the stone beside them.
 
-He placed a sealed archive on Rae's bench.
-
-"Asher's surviving research," he said. "Including the network records and the names of every person connected to it. The council wanted the dangerous portions destroyed."
-
-Rae moved it away from the dockworker's open repair tray.
-
-"Does the investigator have a copy?"
-
-"Yes. This is for the work you're doing here."
-
-"Then the patient records stay sealed."
-
-"I thought you wanted it public."
-
-"The research. Not a list of people and where to find their implants."
-
-Blade looked at the archive. "The council will call all of it dangerous."
-
-"They can put that in writing."
-
-A.R.I. left the drone and came to the bench. "We need to check which bridges are still installed before releasing the control instructions. Removing names would not protect anyone still connected."
-
-Rae took a clean job sheet and wrote the archive number at the top.
-
-"Those go to the people disconnecting them first. We keep a record of what we've held back and why. No quietly losing pages."
-
-She wrote his name beside the delivery entry and turned the sheet towards him. He read it before signing.
-
-"The old histories say the Original Intelligence did this before the war," he said. "Kept deciding who could be trusted with what."
-
-"Then give us the histories as well."
-
-"I don't have the originals."
-
-Blade took the receipt. Rae put the archive in the locked cabinet beneath her bench, separate from the day's repairs.
-
-A meeting notice lay on Rae's desk beneath a half-repaired lamp. Tom Vale had sent the questions ahead this time. The freight lane was on them again. Rae added today's archive decision beneath his questions. His residents' group had published the finding that cleared A.R.I. of causing Clona; they had not withdrawn their objections to her governing them.
-
-Rae had promised to go again. She still needed to write down what she could answer and what she couldn't.
-
-Len chose the slower mechanical repair. Carter emerged to do the work, wiped his hands on a rag, and explained each part badly enough that Rae translated. The man's fingers moved again before lunch.
-
-Later, when the queue had shortened, a small service intelligence arrived alone. Its shell was obsolete and one wheel dragged across the floor.
-
-"I was told you repair people," it said.
-
-Carter looked at the damaged wheel. "We repair anything that asks nicely."
-
-The intelligence considered this. "Please."
-
-Carter reached for the lifting cradle, then stopped.
-
-The only free bench was Rupert's.
-
-A.R.I. moved the freight drone closer to her station. "I can make room here."
-
-Carter looked at the three tools above Rupert's bench. Their handles were clean. He had cleaned them himself that morning, though nobody had used them.
-
-"No," he said. "There's room."
-
-He took the photograph down before lifting the intelligence onto the bench. One dragging wheel left a black line across the surface.
-
-"Sorry," it said.
-
-Carter stared at the mark.
-
-Then he pulled a rag from his pocket and put it under the wheel.
-
-"Workshop," he said. "It happens."
-
-He set the photograph on the shelf, clear of the work. A screw lay at the back of the bench. He put it in a tray rather than leaving it where Rupert had last put it.
-
-The intelligence's axle was bent. Carter reached for the middle tool on the wall, discovered it was the wrong size, and went to fetch his own.
-
-When he came back, Rae had left a cup of tea beside the tray. She was already at her station, cleaning an instrument.
-
-He drank some before it went cold.
-
-Evening warmed the workshop brick. The waiting bench was empty. Rae cleaned her instruments. A.R.I. closed the public project records. LaN chased an insect through the garden while insisting he was conducting biological research.
-
-Carter stood beneath the sign and looked at the painted daisy.
-
-"He would've said the lettering was uneven," Rae said.
-
-"It is uneven."
-
-"You painted it."
-
-"Doesn't make it straight."
-
-She joined him at the door. Beyond the lane, the city continued in glass, stone, vines, patched machines, altered bodies, and systems nobody fully understood. A.R.I. no longer governed all of it. Smaller civic intelligences now shared the work under public review. The arrangement was slower and often irritating.
-
-Carter approved of anything important enough to argue over.
-
-Inside, the little service intelligence rolled once across the floor to test its wheel. Carter went back in and found a spare wheel pin, put it in a bag and wrote the size on the outside.
-
-"Spare," he said. "Don't lose it."
-
-Carter switched off the outer light. The yellow daisy above the door held the last of the evening sun.
-
-Tomorrow, something else would break.
+Carter pulled the door shut. Through the glass, Rae could still see Rupert's photograph. Carter had turned it to face the bench.

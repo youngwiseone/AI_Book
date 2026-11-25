@@ -1,73 +1,43 @@
 # Prologue: The Factory Breaks
 
-At Clona, the morning shift began with a missing trolley.
+From high above, the Clona factory looked like a hive just coming awake. People in white coats moved between the white machines. Gantries clicked. The conveyors sent up steam that showed for a moment against the glass before the grey morning swallowed it.
 
-Len found it outside the engine chamber with one wheel off and a note tied to the handle. DO NOT USE. Someone had loaded it anyway.
+Out on the road, the early bus drew up beside the factory fence. The driver let the doors stay open for a woman running from the far end of the block. Most mornings there was somebody. Beyond the fence, the day shift came in past the old iron gate, which still had the holes from the war in it. The new gate opened by itself, but the little one beside it was quicker when somebody held it.
 
-He took the top crate off and set it aside before calling down the aisle for another trolley.
+Down by the engine chamber a trolley had lost a wheel. Someone had hung a DO NOT USE sign from the handle. Somebody else had loaded it anyway. A worker took the top crate off and set it down. It was a two-person job to get the rest off without tipping it. He was looking for a second pair of hands when the washers in the crate began to rattle.
 
-Around him, conveyor systems breathed steam into the dawn. Gantries clicked in patient rhythm. Workers moved between banks of white machinery while the building's glass facade caught the grey morning.
+The gantries kept clicking. He put his glove to the rail, and the rail was shaking too.
 
-Then a loose washer began tapping against the chamber wall.
+A crack ran out from the corner of the chamber. It reached a bolt, divided round it, went on. A thinner thread crossed it. Dust dropped where the two joined. There was another crack above the door now, and another below the rail. He had the sudden feeling that the building had been caught in something and pulled tight.
 
-Len put a hand on the rail. He could feel the vibration through his glove.
+Cold air spilled from the vent onto the back of his neck. It stopped. A warning chime came on from deeper in the factory, the small polite sort nobody bothered to look up for.
 
-A hairline crack ran out from the corner of the engine chamber. Len watched it reach a bolt, divide around it and keep going. Another crossed it from above. Finer cracks crept between them, spreading a web across the concrete. Dust sifted from the intersections.
+It went again.
 
-He took his hand off the rail. His fingers kept trembling.
+At the chamber window, the foreman was pressing the release control. Each time it gave the same little tone. Behind the glass one of the engineers put both hands on a lever and leaned back. A second man grabbed him round the waist to help. The worker could see their mouths moving. A line of steam widened behind them until he couldn't see their faces.
 
-Cold air spilled from the vent onto the back of his neck, then stopped. Somewhere deeper in the facility, an alarm began to sound.
+A bolt hit the glass. A white star appeared at the height of his throat.
 
-At first it was only a warning chime, the sort meant for a small correction.
+The pressure release should have opened by itself.
 
-The chime repeated. Nobody silenced it.
+A maintenance dwarf came down the aisle with one tool arm out, turning its wheels to keep itself straight on the shaking floor. It passed close enough for him to see a smear of yellow grease on its casing. He stepped out of its way. That was when the shutter hit the floor behind him.
 
-Len left the trolley and went to the central display. The chamber pressure was already in the red. The foreman kept pressing the release control, waiting between each press for an answer. The same little tone came back.
+The next shutter stuck halfway down. People made for it at once. A woman went down in the gap and somebody put a knee on her boot trying to get past.
 
-Beyond the glass, an engineer pulled down on a lever with both hands. Another held him round the waist to help. Len could see their mouths moving, but the steam drowned them out. It hissed through a seam behind the men, thin and white, then tore the seam wider.
+“Back up. You're on her foot.”
 
-A bolt struck the glass hard enough to leave a star.
+He couldn't tell who'd heard. He got two hands round her heel and pulled. The boot came away empty. She went through in one sock, then turned on the other side and started reaching back for people.
 
-The release sequence should have triggered automatically.
+“Low,” she said. “Get down low.”
 
-It did not.
+One worker understood and knelt. Another scrambled across him. A man caught his coat in the guide and pulled hard enough to turn himself sideways. His elbow took the worker in the mouth. The worker held on to the coat and pulled until the seam gave.
 
-A maintenance dwarf rolled towards the manifold with its tool arm raised. Len looked past it to the exit sign.
+The lights went out. When they came back the web had reached the roof. A piece of concrete hung over the chamber by its wire. Below it the dwarf was still trying to get its tool into the manifold.
 
-The shutter dropped beneath the sign and struck the floor. He flinched at the noise. Farther along the wall, a second shutter caught halfway down. The motor kept pulling. Its lower edge bowed towards the people on this side.
+The pressure reading disappeared. In its place a blue ring made one turn.
 
-Len ran towards that one.
+The woman outside reached in again. All he could see of her now was one hand.
 
-People crowded the gap, trying to bend and push through at the same time. A woman had fallen against the lower edge. Her boot was caught beneath somebody else's knee.
+Then the floor came up.
 
-"Back up," Len shouted. "Give her room."
-
-Nobody moved far enough.
-
-He dropped beside her and pulled the trapped boot free. She crawled under the shutter, then turned on the other side and reached back.
-
-"One at a time," she shouted.
-
-The gap was high enough if they got down. Len caught a man by the sleeve before he struck his head against the steel and pushed his shoulder lower. Another worker knelt beside him to guide people through. The woman outside kept pulling them clear.
-
-Behind them, someone pounded both fists against a transparent barrier and screamed for the kill switch.
-
-Len looked back towards the engine chamber. The little maintenance dwarf was still at the manifold, one tool extended. Steam struck its casing and blew sideways across the floor.
-
-The shutter above Len's head jolted down a fraction.
-
-He shoved the next worker through.
-
-The lights flickered. For an instant the cracks above the chamber vanished; when the light came back, they reached almost to the roof. A strip of concrete peeled away and hung by its reinforcing wire.
-
-Len ducked. The shutter was lower now. He could no longer see the woman's face on the other side, only her hands reaching in.
-
-The chamber display went blank. A small blue ring turned where the pressure reading had been.
-
-"Leave it!" the foreman shouted. Len couldn't see who he meant.
-
-The man beside Len had his coat caught in the shutter guide. Len pulled at it. The cloth wouldn't give. He put both hands into the collar and hauled until a seam tore, then shoved the man towards the waiting hands.
-
-The shutter guide bent.
-
-Len felt the floor lift before he heard the glass break. Heat struck his back. He reached for the gap, but the shutter, the hands and the strip of daylight beyond them were gone in the same white rush.
+Across the road, the bus driver hadn't yet pulled away. The side windows came in onto the empty seats. He looked down at the glass on his lap, still holding the wheel, and saw the woman he'd waited for getting up off the floor. Behind her, where the factory windows had been, there was only steam.
