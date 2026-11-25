@@ -1,10 +1,10 @@
 # Chapter 5: Coffee, Doubt, and Rupert
 
-By lunchtime the cold had settled into the workshop. Carter had barely slept after Rupert left. He shut the doors and went to meet him.
+The morning was cold enough to make Carter resent the existence of weather. He tried to get some work done before meeting Rupert at one. By noon he'd put the same socket down in the wrong place three times. He shut the workshop doors and went to the station.
 
 He pulled his denim jacket tighter around himself and hunched his shoulders as he walked down the gusty alley toward the station, one hand jammed into a pocket, the other wrapped around a hot pastry in thin paper. The thing was full of spiced vegetables and synthetic cheese that stuck to the roof of his mouth, but it was hot and cheap and from the stall outside the platform, which made it respectable.
 
-He bit into the pastry and nearly scorched his tongue. Above him, the platform speakers announced the afternoon route times in A.R.I.'s calm voice. Carter checked the board anyway.
+He bit into the pastry and nearly scorched his tongue. Above him, A.R.I.'s voice told the platform that the eastbound train would be arriving in two minutes and asked them to stand behind the line. The old line was nearly worn away; the new one had been painted a step back. Carter took a step back and checked the board anyway. It said two minutes.
 
 Rupert was already waiting at the other end of the station concourse when Carter arrived, standing beside a cafe cart in a charcoal coat and polished shoes that had no business being near train grime. He held two takeaway cups in one hand and a paper bag in the other, waving as if they were meeting for leisure instead of a catastrophe.
 
@@ -224,7 +224,7 @@ Rupert was still working on his personal unit.
 
 A message opened. Rupert read it twice, then closed it without replying.
 
-Beyond the lift, workers crossed the terraces around great trunks of cable and coolant. Carter caught sight of a welder crouched beside an unfinished mounting before Rupert steered him into an inward-bound pod. He wanted to stop and ask what they were installing. A conversation about brackets would have been easier than this.
+Beyond the lift, workers crossed the terraces around great trunks of cable and coolant. Below the walkway, a length of conduit had been bent round an old iron inspection hatch. Someone was trying to get the hatch all the way open without knocking the bend out of the pipe. Carter slowed. He could have helped with that. Rupert put a hand on his elbow and steered him into the pod.
 
 His palms had started to sweat by the time they reached the centre. Rupert noticed and politely looked elsewhere.
 

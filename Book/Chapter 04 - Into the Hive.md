@@ -1,8 +1,8 @@
 # Chapter 4: Into the Hive
 
-The elevator ride down to A.R.I. was slow enough to become its own kind of pressure.
+The door in Blade's office shut behind them, taking the smell of whiskey with it. The lift went down. Room One disappeared from the display; the numbers below it kept coming.
 
-Rae stood with one shoulder against the mirrored wall and watched the level numbers slide past in silent increments. Blade Nathan occupied the space opposite her, large enough that the lift felt smaller for containing him. In close quarters his body looked even less comfortable inside itself than it had in the office above. The seams of modification showed where his collar shifted with each breath. The hand resting at his side ended in dark hooked talons that clicked once, softly, against his own leg when the elevator jolted.
+Rae stood with one shoulder against the mirrored wall and watched them slide past. Blade Nathan occupied the space opposite her, large enough that the lift felt smaller for containing him. In close quarters his body looked even less comfortable inside itself than it had in the office above. The seams of modification showed where his collar shifted with each breath. The hand resting at his side ended in dark hooked talons that clicked once, softly, against his own leg when the elevator jolted.
 
 LaN had climbed down from Rae's shoulder to crouch on the floor between them, all four limbs spread for balance as the lift descended. At a glance he still looked like a mass-produced assistant unit in a clean white shell. But he did not move like one. His balance corrected too fluidly; his limbs flexed with tiny organic compensations no factory standard had ever managed. The pale map rotating across his display marked the underground facility in stacked rings of access zones, maintenance shafts, and restricted chambers.
 
@@ -24,7 +24,7 @@ That fact sat heavily in her mind now.
 
 When the doors finally opened, light struck hard enough to make her blink.
 
-Stepping into the underground complex felt like walking into broad daylight. Terraces opened beneath an artificial sky. Engineers crossed glass bridges. A squat, round-bodied maintenance dwarf rolled between the work crews with a cable spool clamped against its metal chest. Its moulded face wore a broad smile. Below them, construction teams were taking out a wall while another crew raised a new support ring.
+Stepping into the underground complex felt like walking into broad daylight. Terraces opened beneath an artificial sky. Engineers crossed glass bridges above channels of lit water. Huge bundles of white cable ran out from the centre, then split and went down through the floors like roots. At the edge of the nearest terrace, two welders were eating lunch against one of them. A squat, round-bodied maintenance dwarf rolled between the work crews with a cable spool clamped against its metal chest. Its moulded face wore a broad smile. Below them, construction teams were taking out a wall while another crew raised a new support ring.
 
 A crew below the walkway was fitting a new computation bank around a squat iron distribution unit. The new frame had a gap cut into it to leave the old inspection hatch accessible. One worker held a length of conduit while another bent it round the obstruction.
 
@@ -42,7 +42,7 @@ Below them, the worker tried the bent conduit against the frame. It fouled the h
 
 "Until someone can replace it without cutting off the flats."
 
-Rae looked beyond the crew at the banks still waiting on their transport skids.
+Rae looked beyond the crew at the banks still waiting on their transport skids. Someone upstairs had put `Pursuing quality with a human touch` on a wall. Down here a hand came out from under the frame, felt round for the conduit and gave it another little bend.
 
 "How do you keep track of all of this?" Rae asked before she could stop herself.
 
