@@ -1,8 +1,6 @@
 # Chapter 21: The Fourth Appeal
 
-The evening of Tom's meeting, Rae found the hall's outer door had a closer strong enough to break fingers.
-
-Rae held it while A.R.I. stepped over the sill. The left foot caught. A.R.I. stopped, lifted it higher and tried again.
+The hall door pulled hard against Rae's hand. She braced it with her hip while A.R.I. stepped over the sill. The left foot caught. A.R.I. stopped, lifted it higher and tried again.
 
 "Carter hasn't fixed that yet?"
 
@@ -48,7 +46,7 @@ When the questions slowed, Tom turned the sheet on the noticeboard over. He had 
 
 "We'll put the copies with the minutes. These records show the factory was made to obey another authority. We're not putting out the council's version again."
 
-He took down a smaller notice from beneath the freight map. SHUT HER DOWN. One drawing pin fell and he bent to pick it up.
+He took down the notice from beneath the freight map. SHUT HER DOWN, in heavy black lettering. One drawing pin fell and he bent to pick it up.
 
 "Does that settle the other three?" the woman by the door asked.
 
@@ -170,7 +168,7 @@ He left a space beside her name for what she would need.
 
 By the time the chairs were stacked, they had two appointments to request, Iva's signed account and a list of people willing to go. They did not have a different freight route.
 
-Rae helped the mother fold the coat one-handed. Outside, another truck slowed for the bend. Its brakes complained the whole way through.
+Rae folded the coat while the mother settled the boy against her shoulder. Outside, another truck slowed for the bend. Its brakes complained the whole way through.
 
 A.R.I. stood beneath the hall light with her name card still attached.
 

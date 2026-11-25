@@ -30,7 +30,7 @@ Rae found him a small mirror. He tilted it until he could see the underside of h
 
 He asked for a dry brush. She held the mirror while he got the flour out.
 
-Someone had put a wet copper washer on the top copy of the reconstruction finding. Rae lifted the washer and set it in a dish. The paper underneath had taken a little ring of green. She dried it on her sleeve before putting it back beside the appointment book. Havel's review was clipped at the back. Miri's visiting notice lay on top: the morning wash came first, and visitors could see the drawings without going down the stairs. There had been several corrections to the notice. That was the one Miri had underlined.
+Someone had put a wet copper washer on the top copy of the reconstruction finding. Rae lifted the washer and set it in a dish. The paper underneath had taken a little ring of green. She blotted the page with her sleeve and set it beside the appointment book. Havel's review of the growth records was clipped behind it. Miri's visiting notice lay on top: the morning wash came first, and visitors could see the drawings without going down the stairs. There had been several corrections to the notice. That was the one Miri had underlined.
 
 Blade arrived at midday. He no longer wore a government coat; Rae hadn't seen him in one since he gave evidence. He folded his gloves over the handle of the case he carried and set both on her bench.
 

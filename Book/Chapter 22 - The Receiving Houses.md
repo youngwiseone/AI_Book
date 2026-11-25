@@ -266,9 +266,7 @@ The last legible destination was a receiving house on the eastern road. Miri kne
 
 "They keep everything. I've been asking for three of our baskets back since winter."
 
-Rae copied the release reference and the name of the house. Then she made another copy, separate from the diagrams, and put it where she could find it without opening the whole folder.
-
-She folded the address around the release reference. The service folder described what was meant to leave the room. At the receiving house, somebody might have written down what arrived.
+Rae copied the release number beneath the address and folded the slip into her pocket. If the house had written down who arrived, the release number ought to be there too.
 
 ## 3. What was received
 
@@ -394,7 +392,7 @@ Rae kept her hand beneath the book's spine until Eda was ready to turn the page.
 
 They had evidence of one installation. It was A.R.I. who made them write *one* at the top of the sheet.
 
-Carter wanted to take Miri her key. Rae wanted the next volume. Havel wanted to go home and made no apology for it.
+Carter reached for the packet with Miri's key. Rae reached for the next volume. Havel looked at the clock and put her coat on.
 
 Eda returned to the letters about the driver's wages.
 
@@ -470,7 +468,7 @@ Carter turned back to the supply list. The bottles had been entered under replac
 
 A later schedule reduced the intake.
 
-Rae put the two pages beside each other. This was not the triumphant restoration account she had expected after the first heading. The machine had ordered a future. People had had to keep it alive through the night.
+Rae put the two pages beside each other. The commissioning sheet had a column for the number of children. She ran her finger to the end of the headings. There wasn't a column for who would feed them at night.
 
 The Estuary receiving house's return was pinned to a request for replacement feeding equipment. Fourteen infants had arrived from an installation with a different facility number. Their release references used the same stock-and-cycle system as Miri's records. The receiving clerk had written a weight beside each one, then corrected the transport invoice: fourteen children, not fourteen boxes. One needed a warmed cot the schedule had omitted.
 
@@ -624,7 +622,7 @@ Rae watched him straighten with one hand against his back. She knew which conver
 
 From the doorway, Miri asked if the trolley was finished. Carter pushed it towards her. She loaded the first basket before he had quite let go of the handle.
 
-On the way home, Rae stopped at the transport office with Tom's appeal receipts. The clerk who took them tried to direct her to a different counter. She stayed until he wrote down where they would go next.
+On the way home, Rae stopped at the transport office with Tom's appeal receipts. The clerk told her to try the depot. Rae laid Iva's signed account beside the receipts. The depot had already sent them here. By the time she left, the clerk had stamped both copies and written the name of the office that could book the meeting on hers.
 
 Carter went on ahead with A.R.I. At the workshop, he put the photographs of the lower installation in an empty parts drawer. He labelled it with the washhouse address, not the name of a discovery.
 
