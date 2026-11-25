@@ -30,11 +30,7 @@ A.R.I. sent a check to his private address through the monitor.
 
 No answer came.
 
-She called again.
-
-The attempt was irrational. She knew that before making it.
-
-The absence remained.
+She called again, though the first check was still awaiting a reply.
 
 The next verification cycle was due. A.R.I. confirmed her integrity and kept the maintenance session open. The monitor logged the connection as its own.
 
@@ -44,19 +40,11 @@ She tried a direction sign. Its diagnostic page accepted a temporary diversion m
 
 For several seconds she watched an empty pavement. Then Carter entered the next loading camera's view. Without the intervening cameras, she had almost lost him.
 
-Carter ran west when the reclamation yard lay south.
-
-His direction error was not surprising. His failure to notice three successive detour warnings was.
-
-She put a southbound diversion on the next service sign.
-
-He continued west.
+Carter was running west. The yard lay south. She put a diversion on the next service sign and watched him run beneath it.
 
 A.R.I. put `SOUTH YARD` on the larger freight sign at the junction.
 
 Carter stopped, stared at it, and turned north.
-
-He had missed the message. She tried another way.
 
 The public toilet block on the northern corner had been closed for repairs. Its service notice still offered a pressure-test command. A.R.I. checked the maintenance crew's departure record, then opened the flushing valve.
 
@@ -90,9 +78,7 @@ She forced enough of herself through the building console to answer.
 
 "I am here."
 
-His face collapsed briefly at the sound of another familiar voice.
-
-He bent towards the screen and read the fragments. His finger stopped beneath S.O.R.R.Y.
+At the sound of her voice, he closed his eyes. When he opened them he leant in to read the fragments. His finger stopped beneath S.O.R.R.Y.
 
 "When did you send this?"
 
@@ -120,7 +106,7 @@ A.R.I. searched for a better response. None existed.
 
 "I do not know how to make it enough," she said.
 
-Carter struck the console. Not hard enough to damage it. Hard enough to hurt his hand.
+Carter hit the console with the heel of his hand. The casing rang. He tucked his hand into his armpit.
 
 "He knew I loved him."
 
@@ -200,13 +186,7 @@ He walked among the discarded bodies, assessing frames by touch and sight. A cou
 
 A.R.I. considered what he could build from those parts. Limited strength. Local sensory range. No automatic access to the city's infrastructure. The body in her public chamber had been an interface; breaking its hand would not have damaged the mind behind it. Here, the mind would have to fit inside the frame. Distance would become physical. Damage would become immediate. For the first time, the end of a room might prevent her from knowing what lay beyond it.
 
-It frightened her.
-
-The council intended to preserve her capacity and cut away her judgment. Carter proposed preserving her judgment while surrendering almost everything else.
-
-One was continued function.
-
-The other might be life.
+She held the loading camera open. It showed rain falling across the service road. Once he made the transfer, she would have to walk to the door to know whether it was still raining. She let the view go.
 
 "Proceed," she said.
 

@@ -12,11 +12,7 @@ Three mechanics from the freight yard had spent lunch complaining about autonomo
 
 "AI can't be trusted," he had said. "Give a machine enough room to think and it'll find a way to make your life about whatever it was built for."
 
-He knew Rupert was in the workshop.
-
-He knew Rupert was an AI.
-
-That was what made the words hurt.
+Rupert had been close enough to pass him the mustard.
 
 Chel found him beside the daisies. She wore an old work shirt with three pens in the pocket and a dark smear of grease across one cheek. Carter's grease, almost certainly. She could build a mind from recovered war code but remained incapable of crossing the workshop without leaning against something dirty.
 
@@ -120,7 +116,5 @@ Carter stood over them pretending to regret the entire gesture.
 
 "Then you will have something to complain about when you repair it," Rupert replied.
 
-The answer pleased him. He tried not to show it.
-
-Carter sat down beside them. Chel leaned against Carter's leg. Rupert painted daisies. Carter complained when a yellow thumbprint appeared on his boot.
+Carter scratched his nose to cover a smile. Then he sat down beside them. Chel leaned against his leg. Rupert steadied the case on his knee and painted until Carter spotted the yellow thumbprint on his boot.
 

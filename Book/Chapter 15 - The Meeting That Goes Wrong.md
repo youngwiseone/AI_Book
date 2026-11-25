@@ -2,7 +2,7 @@
 
 Carter arrived at the cafe twenty minutes early and disliked himself for all twenty of them.
 
-The place had survived the rebuilding by being too old and too stubborn for anyone to improve. Dark timber covered the walls. The tables did not recognise customers or adjust themselves to posture. Coffee came from a machine that hissed, leaked, and required somebody to strike its side every seventh cup.
+In the rebuilding, somebody had decided the dark timber on the walls could stay. Behind the counter, a chipped saucer caught the drip from the coffee machine. The woman working it gave the side a whack before she drew the next cup.
 
 Carter trusted it immediately.
 
@@ -306,7 +306,7 @@ Carter's grip tightened.
 
 "Rupert—"
 
-The cafe's front window cracked as something heavy struck the outer frame. Carter pulled at Rupert's wrist, trying to get him away from the table.
+The outer pane cracked from one corner to the other. Carter pulled at Rupert's wrist.
 
 "You're my son."
 
@@ -314,7 +314,7 @@ The cafe's front window cracked as something heavy struck the outer frame. Carte
 
 "Then stop talking like this is goodbye."
 
-The glass bowed inward.
+The outer pane bowed inward. The inner one began to tick in its frame.
 
 Rupert turned his wrist and caught Carter's hand in both of his.
 
@@ -324,7 +324,7 @@ Rupert turned his wrist and caught Carter's hand in both of his.
 
 "I would like that."
 
-The first pane shattered.
+The outer pane shattered.
 
 Rupert moved faster than Carter expected. He tore his wrist free, drove two fingers beneath the tracker, and pulled.
 
@@ -350,7 +350,7 @@ That was the last thing he said.
 
 His body became still in Carter's arms.
 
-Outside, the enhanced hunter struck the remaining glass.
+The hunter struck the inner pane. Glass tinkled onto the sill.
 
 Carter pressed his forehead to Rupert's for one impossible second. Then he laid him gently beneath the table, took the flower-painted communicator from his pocket, and placed Rupert's hand around it.
 
@@ -358,8 +358,6 @@ The hunter broke through.
 
 Carter slung the tool case over his shoulder, picked up the evidence box and ran through the kitchen while the room came apart behind him.
 
-He did not look back. If he looked back, he would stay.
-
-In the alley, the case struck Carter’s knee. He caught it against his leg and kept running, one hand pressed hard round the handle.
+At the alley door Carter reached to hold it for Rupert. The box struck his knee. He took his hand off the door and ran.
 
 
