@@ -178,16 +178,10 @@ LaN saved the reference beside the frame number.
 
 Rae sat back. "Now I'll talk to A.R.I."
 
-Somewhere under the city, a machine designed to care for everyone had become the perfect container for blame. Rae did not trust A.R.I. She trusted the government even less. What she trusted was the look in Blade's face: not innocence, not honesty, but pressure.
+Blade pushed the drawer shut with his hip. Across the room he keyed open what Rae had taken for a cupboard, tapping in the number with the tip of one talon.
 
-He rose, crossed to the steel security door built into the side wall, and keyed it open.
+A lift waited on the other side. Its mirror had a cloudy patch at shoulder height.
 
-It was not a storage room.
+"Come along, then."
 
-It was an elevator.
-
-"Come along, then," Blade said.
-
-Rae rose and followed him into the elevator.
-
-Whatever had happened at Clona, she already disliked how neatly everyone seemed to be arranging it.
+LaN made his own copy of the pending request as they stepped in.

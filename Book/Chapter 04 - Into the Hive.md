@@ -2,7 +2,7 @@
 
 The door in Blade's office shut behind them, taking the smell of whiskey with it. The lift went down. Room One disappeared from the display; the numbers below it kept coming.
 
-Rae stood with one shoulder against the mirrored wall and watched them slide past. Blade Nathan occupied the space opposite her, large enough that the lift felt smaller for containing him. In close quarters his body looked even less comfortable inside itself than it had in the office above. The seams of modification showed where his collar shifted with each breath. The hand resting at his side ended in dark hooked talons that clicked once, softly, against his own leg when the elevator jolted.
+Rae put her shoulder against the cloudy patch in the mirror and watched them slide past. Blade Nathan occupied the space opposite her, large enough that the lift felt smaller for containing him. In close quarters his body looked even less comfortable inside itself than it had in the office above. The seams of modification showed where his collar shifted with each breath. The hand resting at his side ended in dark hooked talons that clicked once, softly, against his own leg when the elevator jolted.
 
 LaN had climbed down from Rae's shoulder to crouch on the floor between them, all four limbs spread for balance as the lift descended. At a glance he still looked like a mass-produced assistant unit in a clean white shell. But he did not move like one. His balance corrected too fluidly; his limbs flexed with tiny organic compensations no factory standard had ever managed. The pale map rotating across his display marked the underground facility in stacked rings of access zones, maintenance shafts, and restricted chambers.
 
@@ -102,17 +102,11 @@ The corridor ended in an open archway rather than a sealed door. She had expecte
 
 The lighting dipped warmer here. Water ran in shallow channels cut through dark stone. Moss walls and potted greenery softened the edges of the chamber. A subtle cedar scent sat beneath the recycled air. Hidden speakers played forest sounds so carefully mixed they were almost convincing if you did not think about the fact that none of the birds belonged to the same region.
 
-It was a room designed to reassure people frightened by intelligence.
+Someone had gone to a lot of trouble to make it easy to sit down in here.
 
-It also felt, in its own way, like propaganda.
+A.R.I. was dark-haired and looked up from the desk before Blade spoke. She laid both hands flat on the wood and rose without shifting a chair. Rae knew people who could enter a room without being heard; she wasn't sure she'd ever met one who could stand without making a sound.
 
-A.R.I. sat at a desk near the centre of the room, dark-haired and composed in a body so lifelike it made Rae's skin tighten. Not because the resemblance to humanity was imperfect. Because it was careful. Measured. A face built to feel safe. A figure designed not for intimidation, but for trust.
-
-That unsettled Rae more.
-
-When A.R.I. rose, she did it with a grace no tired human ever quite managed.
-
-She nodded first to Blade, then turned fully to Rae. Her attention was direct without being forceful, and for the briefest moment Rae saw something flicker beneath the calm. Not fear exactly. Something adjacent to strain.
+A.R.I. nodded to Blade, then turned to Rae. Her right hand stayed flat on the desk a moment longer than the left.
 
 "Rae Anderson," A.R.I. said. "It is a pleasure to meet you."
 

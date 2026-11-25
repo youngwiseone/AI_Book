@@ -1,12 +1,10 @@
 # Chapter 8: The City Turns
 
-By the time Rae reached the civic square, evening had turned it into a wound lit for display.
+The lights on the mourning wall came on before the street lamps. Between the candles and wilting flowers someone had pinned up a school photo. Its corners kept curling away from the damp stone. Above it, the official condolence ribbons drifted through the colonnade without touching anything.
 
-The daylight had drained out of the high glass towers, leaving them silver at the edges and black at the core. Memorial cloth hung between polished facades. Projected condolence ribbons drifted over stone colonnades. The long mourning wall raised against the east side of the square was already crowded with flowers, candles, paper names, and low-resolution family photos lifted from old social feeds. Half of it had been covered by placards.
+Near the wall people wore black ribbons tied to their sleeves. Down by the transit steps, systems workers in orange and med-techs still in their work shoes held up `A.R.I. Saved Us.` Someone had changed `Shut Her Down` to `Shut It Down` in felt pen. The ink had run beneath the new word.
 
-Placards rose and dipped over the crowd in uneven currents. `A.R.I. Saved Us.` `Clona Deserved Better.` `Shut Her Down.` `Human Hands Back on the Grid.` `No More Bio Lies.` `No Machine Gods.` The hand-painted ones shook in tired fingers. The printed ones were straighter, cleaner, better funded. Rae distrusted those immediately.
-
-Families from the factory districts stood close to the mourning wall with black ribbons tied around their sleeves and grief sharpened into accusation. Young systems workers and med-techs clustered near the transit steps arguing that A.R.I. had kept half the city alive for years and was being framed now. Vendors who should have been packing up for the night still worked their carts in place, unwilling to lose a shift simply because history had chosen their square as a stage. Behind them all, smaller knots of men and women in matching grey jackets moved through the crowd passing out professionally printed signs and outrage with equal efficiency.
+Men and women in matching grey jackets worked from a pile of printed signs at the fountain. The vendors had stayed open. Steam was coming off a pastry cart into the cold, and a hand with a black ribbon reached across the counter to pay.
 
 Rae stopped where the passage from the Hive met the square. Beyond the fountain, the transit steps were packed. Carter had not come through yet.
 
@@ -68,7 +66,7 @@ A chant rose from the western side of the square and hit the stone hard enough t
 
 "AI must die! AI must die! AI must die!"
 
-The matching grey-jacketed group had reached the base of the fountain. Their signs were not handmade, not hurriedly printed in grief or panic. They were uniform in dimension, colour, and slogan. Someone had paid for them before sunset. Someone had expected the city to be ready for a simpler argument than truth. She told LaN to make a note of this, then tucked him beneath her coat. Whatever was going on here was not rational. He needed to stay out of sight.
+The matching grey-jacketed group had reached the base of the fountain. Their signs were not handmade, not hurriedly printed in grief or panic. They were uniform in dimension, colour, and slogan. Some still had the white bands round their handles from the printer. Rae asked LaN to note who was handing them out, then tucked him beneath her coat before the crowd could see his screen.
 
 A younger woman near the mourning wall turned on the grey mass with such force Rae thought she might strike somebody.
 
