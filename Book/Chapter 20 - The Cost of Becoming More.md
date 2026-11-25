@@ -2,9 +2,7 @@
 
 The city spent the day discovering how many of its citizens had never been alone inside their own bodies.
 
-Clinics overflowed by midmorning. Some enhanced people wanted every modification removed immediately. Others begged doctors not to touch the systems keeping them alive. Many could not remember which decisions had belonged to them and which had arrived through Asher's network wearing the sound of their own thoughts.
-
-There were no clean forms for that.
+Clinics overflowed by midmorning. At the northern ward, the same clipboard was passed to people begging to have their modifications taken out and people begging to keep them. Under *When did your symptoms begin?* someone had written *When did I start hearing myself again?*
 
 At the northern ward entrance, a security attendant asked A.R.I. her name and checked it against his slate. The notice still ordered her returned to council custody.
 
@@ -82,9 +80,7 @@ Now he would not let government recovery staff take him away again. They had bro
 
 Nobody asked Carter to leave.
 
-A.R.I. stood near the window in her salvaged body. One chest panel had been crushed inward during the fight. Her left ankle still turned slightly wrong. Carter noticed it every time she moved and had not yet reached for a tool.
-
-That worried Rae more than anything.
+A.R.I. stood near the window in her salvaged body. One chest panel had been crushed inward during the fight. Her left ankle still turned slightly wrong. Carter's eyes dropped to her foot each time she moved. His tool case stayed shut.
 
 A public investigator arrived with a collection order and an empty evidence case. Rae made her show the order before she touched the bench.
 
@@ -344,9 +340,7 @@ Rae looked toward the preservation shell. "He'd improve the paperwork."
 
 "He'd add six pages and call it clarity."
 
-For the first time since the cafe, Carter smiled.
-
-It did not last. It did not need to.
+Carter smiled. His thumb went back to smoothing the crease from Rupert's sleeve.
 
 Together they lifted Rupert into the shell. Carter placed the flower-painted communicator on his chest. Its signal light remained dark.
 

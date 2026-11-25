@@ -2,29 +2,19 @@
 
 A.R.I. had heard people threaten to smash the body in her public chamber. The intelligence answering them had remained safely elsewhere.
 
-She had observed hatred through cameras, microphones, court records, medical sensors, and the public language people used when they wanted cruelty to sound preventative. Now she stood inside Asher's ruined training hall while their gaze travelled over every visible seam Carter had welded into her. Her memory housing was behind one of those seams. There was nowhere else to withdraw to.
+Asher studied the seams Carter had welded into her chest. One ran across the memory housing. She shifted her arm in front of it.
 
 "That," Asher said, "is what you saved?"
 
 Their body lay motionless beneath the sedative. Their mind did not. The enhancement network filled the house with signals, moving through walls and buried relays in a rhythm A.R.I. could now perceive only when LaN exposed it to her local sensors.
 
-Losing the city had made her smaller.
-
-It had also made the distance between knowing and touching painfully clear.
-
 Carter knelt beside Rae. "You look terrible."
 
 "Rupert?" she asked.
 
-He stopped checking the blood at her temple.
+The hand at her temple went still. Rae closed her eyes. LaN lowered his screen.
 
-That was answer enough.
-
-Rae closed her eyes. LaN lowered his screen.
-
-A.R.I. approached Asher.
-
-Walking required active attention. Balance, surface variation, joint pressure, momentum. Carter had told her it would become automatic with practice. He had also installed her left ankle at an angle she had described as mechanically unsound.
+A.R.I. crossed to Asher, watching the floor for splinters from the training post. Her left foot turned inward when she put weight on it. Carter had told her walking would become automatic with practice. She doubted he meant the ankle.
 
 "You used Rupert as a tracking system," she said.
 

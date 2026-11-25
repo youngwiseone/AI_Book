@@ -286,7 +286,7 @@ Rae looked down at the person who had raised her.
 
 An engine roared outside. Something struck the front gate and continued through it.
 
-Carter appeared in the ruined doorway with a wrench in one hand and grief written so plainly across him that Rae forgot her own pain.
+Carter came through the doorway with his wrench raised. There was a dark smear on his shirt where a head might have rested. Rae lost the question she had been about to ask.
 
 Beside him stood a machine body assembled from mismatched salvage.
 
