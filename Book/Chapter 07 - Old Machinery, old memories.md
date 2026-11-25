@@ -160,7 +160,7 @@ That made Carter straighten.
 
 Rupert opened his personal unit again. This time he turned the screen towards Carter.
 
-A casualty entry filled it. Below the name, a hospital message confirmed that the man was alive. The correction had been returned twice.
+A casualty entry filled it. The attached ward message confirmed that the man was alive. *Wristband: Wren.* The correction had been returned twice.
 
 "He's been trying to ring his wife," Rupert said. "Her number was on the terminal he left at work. He remembers most of it."
 

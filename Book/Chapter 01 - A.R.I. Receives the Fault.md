@@ -43,7 +43,7 @@ A.R.I. opened the clinic handover queue. She could not answer that without knowi
 
 "Send me his name. I will check the crew's handover, not just the route."
 
-Venn sent it. He watched until she passed the request to the receiving ward, then turned the slate facedown.
+Venn sent a photograph of the transfer slip the woman had brought. Below her husband's name, the crew had written *Wren* in the wristband box. Venn watched until A.R.I. sent both names to the receiving ward, then turned the slate facedown.
 
 "You failed to protect the factory," he said.
 
