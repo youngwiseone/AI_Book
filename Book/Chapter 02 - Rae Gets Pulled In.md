@@ -1,8 +1,8 @@
 # Chapter 2: Rae Gets Pulled In
 
-By the afternoon after Clona, rain had polished the government intake building until it looked less like stone and more like a sealed thought.
+By the afternoon after Clona, the rain had made the concrete outside the government intake building the same grey as the floor inside.
 
-Rae sat in the waiting area with water darkening the shoulders of her coat and watched a ceiling vent struggle against the smell of old beer, synthetic cherry vape, and wet wool. Beside her, LaN crouched near her chair on four slim limbs, shell gleaming white in the dimness.
+Rae knew the waiting room from years of debriefings. They'd changed the chairs once and stopped leaving ashtrays out, but still kept the same kind of magazines. The one next to her promised to tell her what her boss really thought of her. She left it closed. Water darkened the shoulders of her coat. A vent overhead moved the smell of old beer, synthetic cherry vape and wet wool from one end of the room to the other. LaN crouched by her chair on four slim limbs, his white shell the cleanest thing there.
 
 "Your pulse is elevated," LaN said.
 
@@ -32,9 +32,9 @@ The receptionist looked up from a call as they passed. Rae gave her a small wave
 
 The walls were lined with framed photographs, donation plaques, polished certificates, and propaganda posters stamped with the slogan: `Pursuing quality with a human touch.`
 
-Rae disliked that line on principle.
+Rae disliked that line on principle. LaN tucked his limbs in to let her straighten the shoulder of her coat. There was a great deal of work in those joints and about four seconds in the name she'd given him.
 
-This part of the building was richer than the waiting room had any right to suggest. Dark wood. Soft lighting. Tasteful decor arranged with expensive restraint. Almost no visible technology until the very end of the corridor, where an oversized golden numeral `1` had been fixed to a heavy office door that looked far older than the building around it.
+On this side of the doors there was dark wood on the walls and nothing in the ceiling sounded like a fan with a bad bearing. At the end of the corridor, a bright gold `1` had been fixed to a heavy office door. It hadn't quite covered the holes from the last number.
 
 She knocked once out of habit, then opened it without waiting.
 

@@ -1,6 +1,6 @@
 # Chapter 3: Carter Is Recruited
 
-The previous evening, Carter had seen Chel in the moonlight again.
+On the evening of the Clona blast, Carter saw Chel in the moonlight again.
 
 Chel stood near the cliff edge, her white lab coat snapping against her legs. The sea below was black until a wave broke and showed him how far down it was. Salt stung his lips.
 
@@ -112,7 +112,9 @@ Rupert opened the file, then added one more thing to the table beside it: Chel's
 
 "Because she said you wouldn't need to understand the coding," Rupert said quietly. "You understand how she thought. If something in A.R.I. has been built wrong, hidden wrong, or forced to act wrong, you'd feel where the shape is off."
 
-He slid the file closer. Inside were printouts, stills from the blast, casualty estimates, and two pages of sanitised government language trying very hard not to sound frightened. One photograph showed the broken shell of the Clona factory under floodlights, emergency crews moving through the wreckage in reflective coats while drones hovered above with sterile blue optics. Another showed a line of citizens behind temporary barriers, faces pale in the artificial glare.
+He slid the file closer. Inside were printouts, stills from the blast, casualty estimates, and two pages of sanitised government language trying very hard not to sound frightened. His own name was already there under PHYSICAL SYSTEMS ANALYSIS. It was the first he'd heard of it.
+
+One photograph showed the broken shell of the Clona factory under floodlights, emergency crews moving through the wreckage in reflective coats while drones hovered above with sterile blue optics. Another showed a line of citizens behind temporary barriers, faces pale in the artificial glare.
 
 Carter stared at the key.
 
@@ -148,13 +150,15 @@ Rupert rolled his eyes. "Of course, Carter. I am sure the government can survive
 
 "I already accounted for that."
 
-Neither of them moved to end the visit straight away. Rupert talked about the new place he was renting and how the kitchen there now spoke directly to his personal assistant system, planning meals before he'd even decided whether he was hungry. Carter called that lazy, unnatural nonsense.
+Neither of them moved to end the visit straight away. Rupert talked about the new place he was renting and how the kitchen there now spoke directly to his personal assistant system, planning meals before he'd even decided whether he was hungry. Carter put his cup down.
 
-"Your washroom has an automatic grease scrubber," Rupert said.
+"If the stove needs to ask a bot before it can fry an egg, we've taken a wrong turn somewhere," Carter said.
 
-"That's different."
+"You have an automatic grease scrubber, a service drone with no arm, and enough spare engine parts to build a small religion."
 
-"Of course."
+"A useful religion."
+
+"A noisy one."
 
 Carter reached for another biscuit and remembered the slug.
 
@@ -186,7 +190,7 @@ Rupert lowered the biscuit again.
 
 Carter took a long drink from his mug. Rupert sat back, shaking his head.
 
-Outside, a freight tram rumbled past at the end of the lane, shaking the window just enough to stir the spoons hanging on the magnetic strip. Somewhere farther off, one of the night-market vendors was still calling the last of their stock through a cheap speaker.
+Outside, a freight tram rumbled past at the end of the lane, shaking the window just enough to stir the spoons hanging on the magnetic strip. Somewhere farther off, one of the night-market vendors was still calling the last of their stock through a cheap speaker. The city never really slept. It only changed shifts.
 
 Carter listened to Rupert talk. Chel used to come in late, take half his biscuit and ask what Rupert had broken this time. She would have liked the business with the slug.
 
