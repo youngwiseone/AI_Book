@@ -4,7 +4,7 @@ The lights on the mourning wall came on before the street lamps. Between the can
 
 Near the wall people wore black ribbons tied to their sleeves. Down by the transit steps, systems workers in orange and med-techs still in their work shoes held up `A.R.I. Saved Us.` Someone had changed `Shut Her Down` to `Shut It Down` in felt pen. The ink had run beneath the new word.
 
-Men and women in matching grey jackets worked from a pile of printed signs at the fountain. The vendors had stayed open. Steam was coming off a pastry cart into the cold, and a hand with a black ribbon reached across the counter to pay.
+Men and women in matching grey jackets worked from a pile of printed signs at the fountain. The vendors had stayed open. Steam rose from a pastry cart by the passage.
 
 Rae stopped where the passage from the Hive met the square. Beyond the fountain, the transit steps were packed. She looked for Carter and couldn't see him.
 
@@ -32,9 +32,9 @@ Rae looked up. "That fast?"
 
 As if the city wanted to prove the point, a horn began blaring somewhere beyond the square. Then another. The two notes tangled into one long animal complaint while traffic stalled at an upper crossing.
 
-Carter stopped beside her, munching on a warm pastry bearing the logo of the stand she had spotted earlier, expression hard enough to chip stone.
+Carter came up beside her with a pastry in the cart's printed wrapper. He stood looking at the screen until the grease soaked through to his thumb.
 
-"That wasn't her," he said between mouthfuls, staring out ahead toward the crowd gathered.
+"That wasn't her," he said.
 
 Rae glanced at him. "You mean the statement."
 

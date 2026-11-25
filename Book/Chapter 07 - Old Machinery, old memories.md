@@ -70,11 +70,11 @@ Carter looked at the dark screen. They had not needed her in the room to keep us
 
 "Yes."
 
-Rupert reached into the inside pocket of his coat and brought out something small and black and old enough to look almost impolite inside the Hive.
+Rupert reached into his coat and took out a black box with a folding aerial. Carter recognised the bent catch before he recognised the flowers.
 
 He set it in Carter's palm.
 
-The communicator was rectangular, scratched, and ugly in a deeply honorable way. The antenna folded out from one side with a slight stiffness that meant somebody had repaired the hinge more than once. Along the casing, nearly rubbed away by years of handling, ran the remains of painted flowers in pale green and yellow. One petal had been nicked through. Another had been redrawn by a less patient hand.
+Carter unfolded the aerial. It caught on the way up. It always had, even after the second hinge repair. Along the casing, nearly rubbed away by years of handling, ran the remains of painted flowers in pale green and yellow. One petal had been nicked through. Another had been redrawn by a less patient hand.
 
 Carter stared at it.
 
@@ -112,9 +112,13 @@ Carter lowered his hand. His thumb stayed on the nicked petal.
 
 "I repaired the band filter," Rupert continued. "It runs peer-to-peer on an old frequency family nobody bothers with anymore. No civic handshake. No pretty routing layer. If someone wants to listen in, they will need to work for it."
 
-"Too stupid for the modern systems to respect," Carter said.
+"It's not that old."
 
-"Exactly."
+"The filter isn't. I broke a screwdriver putting it in."
+
+"My screwdriver?"
+
+"Not anymore."
 
 He folded his fingers around it.
 
