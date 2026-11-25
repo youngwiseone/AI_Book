@@ -8,7 +8,7 @@ His screen flashed red.
 
 The light vanished.
 
-She raised the taser towards the sound. Without LaN's light she could no longer see the gap beside the rack. Her heel found a loose cable. She lifted her foot clear rather than look down. Water struck hot metal beyond the doorway, hissing between the heavier sounds behind the rack.
+She aimed towards the sound. Her heel caught on a loose cable. She lifted her foot clear without lowering the taser. Water struck hot metal beyond the doorway, hissing between the heavier sounds behind the rack.
 
 "LaN?"
 
@@ -52,7 +52,7 @@ There was a word inside it.
 
 "Please."
 
-Rae saw the eyes clearly then. Lucid. Terrified. He watched her baton, then looked back at her. He was afraid of the next blow too.
+His eyes followed the baton. He flinched before she moved.
 
 The back of his hand caught her across the shoulder and threw her into a pillar. Pain flashed white along her ribs. She hit the floor, lost the baton, and rolled as a plated fist cratered concrete beside her head.
 
@@ -80,7 +80,7 @@ LaN emitted a burst of interference. The control implant sparked. For half a sec
 
 His fingers closed again. He watched them tighten in her coat.
 
-Rae tore free, leaving half her coat in his hand. The evidence sleeve holding the laboratory relay fell from the torn pocket. A plated foot came down on it before she could reach it. She ran between the machine rows. Behind her, a housing scraped across the floor, struck the next one and stopped. For a moment she heard only her own boots. Then the man hit the other side of the row hard enough to shift it towards her. She turned her shoulders through the narrowing space. Dust fell in pale sheets. Somewhere ahead, beyond two walls of dead equipment, Carter shouted her name through the old communicator.
+Rae tore free, leaving half her coat in his hand. The evidence sleeve holding the laboratory relay fell from the torn pocket. A plated foot came down on it before she could reach it. She ran between the machine rows. Behind her, a housing scraped across the floor, struck the next one and stopped. For a moment she heard only her own boots. Then the man hit the other side of the row hard enough to shift it towards her. She turned her shoulders through the narrowing space. Dust fell in pale sheets. Carter's voice broke through the old communicator, so loud she thought for a moment he was just beyond the next row.
 
 "South machine hall," she gasped. "Not alone."
 

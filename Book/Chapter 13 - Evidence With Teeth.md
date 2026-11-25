@@ -6,7 +6,7 @@ He had never repaired one while carrying an unconscious investigator under one a
 
 The collapsed support had buried the enhanced creature but brought half the south hall with it. Concrete struck the factory floor in slabs. Old gantries folded overhead. Every impact pushed dust through the corridor hard enough to sting Carter's face.
 
-LaN limped through the air beside him, one rear limb dragging.
+LaN flew low beside him. One rear limb scraped every time he lost height.
 
 "Left," the little bot said.
 
@@ -50,15 +50,13 @@ LaN descended, caught it between two functioning limbs, and immediately lost hei
 
 "Join the club."
 
-Rae opened her eyes again. "Inside my coat."
-
-Carter pushed the relay into the surviving side of her coat.
+Rae opened her eyes again. "Inside my coat. Left pocket." LaN brought the relay close enough for Carter to push it in with his free hand.
 
 The creature struck the maintenance door behind them.
 
 Metal bowed inward.
 
-Carter looked over the ruined machines. Most were too damaged to move. The loading dwarf stood against its pillar. PRESSURE LIVE was still clear on its panel. For once, somebody had left him a useful warning. He lowered Rae beside it, reached through the open panel, and bridged the actuator with his screwdriver.
+Carter looked over the ruined machines. Most were too damaged to move. The loading dwarf stood against its pillar. PRESSURE LIVE was still clear on its panel. For once, a warning he'd left for the next person had come in handy. He lowered Rae beside it, reached through the open panel, and bridged the actuator with his screwdriver.
 
 "What are you doing?" Rae asked.
 
@@ -158,7 +156,7 @@ Under magnification, Carter found the government procurement mark. Beneath that,
 
 It matched the notation on the man's harness.
 
-Rae had said one word before losing consciousness in the transport.
+In the van, Rae had tried to tell him whose mark it was. He'd only caught the name.
 
 Asher.
 
@@ -166,7 +164,7 @@ Carter covered the relay with an overturned metal bowl and sat beside the makesh
 
 The news reported their deaths just after midnight.
 
-He watched his own face appear beneath the word `CASUALTY`, then looked at Rae breathing under one of his old work shirts.
+He watched his own face appear beneath the word `CASUALTY`, then checked that the hem of Rae's work shirt was still rising and falling.
 
 For once, the official lie might keep them alive long enough to expose the larger one.
 
