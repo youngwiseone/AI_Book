@@ -2,7 +2,7 @@
 
 By the time Rae and Carter reached Clona, the ruins had been cleaned for cameras.
 
-Government sheeting covered the torn facade. Each white panel carried the council seal and a line about remembrance. The street had been cleared of glass, personal belongings, and the paper notices families had tied to the security fence. A row of fresh memorial lights shone against the rain.
+Government sheeting covered the torn facade. Each white panel carried the council seal and a line about remembrance. The street had been swept. Short lengths of string still hung from the fence where the families' notices had been cut down. A row of fresh memorial lights shone against the rain.
 
 Nobody had repaired the hole in the building.
 
@@ -50,9 +50,9 @@ Rae watched him turn it over rather than ask for help.
 
 He entered it manually. The gate clicked open.
 
-They went through before it changed its mind.
+Carter caught the gate before the spring brought it back against LaN.
 
-Inside, Clona smelled of wet concrete, burned insulation, scorched coolant, and something sweeter beneath all three. Rae knew the scent from enhancement clinics. Preservative gel. The kind used to keep living tissue viable outside a body.
+There was a sweet smell beneath the burned insulation. Rae knew it from enhancement clinics. Preservative gel. On a hot day the clinic bins smelt of it all the way down the service corridor.
 
 The factory's public floors had produced civic AI components, pressure engines, and industrial control units. None required preservative gel.
 
@@ -150,7 +150,7 @@ The room beyond was a laboratory.
 
 Restraint frames lined one wall. Their proportions varied: human, machine, and shapes somewhere between. On the opposite side, alignment rigs surrounded a central cradle built to hold a civic AI unit. Fine tubes ran from biological reservoirs into mechanical interface tools.
 
-The workstations had been wiped, but physical work left physical history. Rae found scratches where a large body had struggled against a frame. Synthetic skin caught in one buckle. Dried blood under a floor rail. Tool impressions in the central cradle matched the access points Carter had shown her in A.R.I.'s data model.
+The workstations had been wiped. One buckle still held a sliver of synthetic skin, curled where it had dried. There was blood under the floor rail, out of reach of a mop. Tool impressions in the central cradle matched the access points Carter had shown her in A.R.I.'s data model.
 
 LaN's display flashed amber.
 
@@ -219,8 +219,6 @@ She photographed that before touching anything else.
 "Yes."
 
 "Keep the raw scan. Not just your estimate."
-
-Someone had been working here after the disaster. The empty sockets and clean benches weren't enough to say what they had done. The restraints were.
 
 Rae opened the cradle's lower panel. A row of tissue-threaded relays sat behind it, each one carrying two authority structures. The first imitated A.R.I.'s civic permissions. The second used wartime biological coordination code.
 

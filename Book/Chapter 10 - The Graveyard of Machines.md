@@ -22,9 +22,7 @@ A loading dwarf stood propped against the first pillar with its service panel ha
 
 He chalked PRESSURE LIVE across the panel and moved round the arm. Whoever had dumped it here hadn't even bothered to make it safe.
 
-The first emergency unit he opened had no command receiver.
-
-Somebody had removed it after the blast.
+The first emergency unit had no command receiver. Soot covered the rest of the panel, but the scratches around its empty screw holes were bright.
 
 The second had been burned so thoroughly that the chassis came apart under his screwdriver. The third still held its original systems, but an unfamiliar bridge had been fitted around them: a thin ring of dark metal threaded with pale living tissue.
 
@@ -180,7 +178,7 @@ Carter held the detached relay while the last blue pixel went dark.
 
 He checked the feed. Then the feed again, with a different meter. The display stayed dark.
 
-The relay burned through his glove. He dropped it into a service tray, sucked the side of his thumb and stood there with his mouth open, forgetting what he had meant to say.
+Heat came through the seam of his glove. He dropped the relay into a service tray. He got as far as opening his mouth to tell the unit he would try another way.
 
 The recorder was still running.
 
@@ -228,9 +226,7 @@ The hospital backups bothered him. A transit lock could trap someone. A backup m
 
 "Wasn't planning a city-wide maintenance announcement, Carter."
 
-"Good. They never listen to those anyway."
-
-"Make a local copy," he said. "Then get out of the Hive."
+"Good. They never listen to those anyway. Make a local copy. Then get out of the Hive."
 
 "I can learn more from inside."
 
@@ -244,7 +240,7 @@ The floor shook.
 
 Dust fell from the ceiling. Somewhere toward the southern hall, metal crashed with enough force to bend the sound.
 
-Carter reached for the relay in the tray. A second impact threw grit against his coat. He pulled his hand back and snatched up the lamp.
+Carter reached for the relay. A second impact threw grit against his coat. From the southern hall came the sound of steel giving way, where he had left Rae. He grabbed the lamp instead.
 
 The lower passage behind him collapsed.
 
