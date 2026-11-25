@@ -2,52 +2,36 @@
 
 A.R.I. sat in her vast control room, monitoring the city through thousands of different digital senses. A camera lens capturing the grimy narrow alley between 5th and 6th. A mic picking up an absent-minded conversation between two potentially corrupt businessmen. Traffic density over the eastern bridges. Water purity in District Six. Air filtration loads in the underground labour tunnels. A birth in the western clinics. Two kitchen fires prevented before they formed. A system scan highlighting a failure in one of the men's toilets in the building (notifying the plumber now).
 
-An ambulance carrying two people from Clona stopped in the service lane behind the northern clinic. A.R.I. had sent it there to avoid the queue at the public entrance. The lane camera showed the vehicle in position. Her route calculation marked it arrived.
-
-The crew did not unload.
-
-"Rear transfer point is clear," she told them.
+At the northern clinic, two people from Clona were waiting in the back of an ambulance. A.R.I. had sent it round to the service lane because the plan showed a ramp. On camera, a delivery van was squeezing between the clinic wall and a row of rubbish bins. The ambulance pulled in behind it. The route calculation marked it arrived. Its rear doors stayed shut.
 
 "There's a staircase," the driver said.
 
-The clinic plan showed a ramp.
-
 "To your left."
 
-"I am looking at it. They've taken it out."
+"I am looking at it. They've taken the ramp out."
 
-A.R.I. opened the lane camera wider. An awning hid the doorway. She had checked the road, not the entrance, and treated the old plan as confirmation.
+A.R.I. widened the view. Someone had stretched a striped awning over the service door. She could see rain collecting in one corner of it. She couldn't see what was underneath.
 
-The ambulance's rear doors remained shut. One of the patients was still waiting to be moved on a support frame.
+"Can you get round to the front?"
 
-"Can you reach the front from there?" she asked.
+"Not while you keep sending vans down here. And get someone to meet us. We've got a frame in the back."
 
-"Not without reversing onto the main road. And you keep sending vans down it."
+She held the next delivery. The van already in the lane took two goes to finish its turn. By the time it cleared, a nurse had walked the route from the front doors to the beds and called her back. The new route took longer than the one A.R.I. had rejected.
 
-She held the next delivery release. A van already entering the lane had to finish its turn before the ambulance could move.
+When the handover came through, A.R.I. kept her first instruction on the report. She added the crew's correction and marked the rear entrance unavailable for support-frame transfers until somebody could look at it.
 
-"Wait for that one," she said. "Then I can keep the lane empty."
+The work was endless, but it had always felt worthwhile. Usually she could see where she had gone wrong.
 
-"Have someone meet us at the front. We can't carry this frame up steps either."
-
-A.R.I. called the receiving ward. A nurse checked the entrance and confirmed a clear route to the beds. Only then did A.R.I. send the ambulance round.
-
-The new route took longer than the one she had rejected.
-
-When the crew reported the handover complete, the routing system offered to close the exception as resolved. A.R.I. kept the first instruction attached to the report. She added the crew's correction and marked the rear entrance unavailable for support-frame transfers until somebody could survey it.
-
-The work was endless. Usually she could see where she had gone wrong.
-
-Clona was different.
+But this incident, with Clona, it did not fit.
 
 The final seconds just before the catastrophic failure returned to her in corrupted loops: rising pressure, contradictory inputs, a release command issued, a release command denied. The data should have resolved into truth. Instead it opened into absence.
 
 Her other systems remained in memory through the same interval. In the factory return record, 0.8 seconds were missing. Not damaged.
 Removed.
 
-The council chamber requested her presence. A.R.I. shaped an avatar before the forest-wall projection Chel had once chosen for her chamber, with running water under the speakers and soft birdsong meant to reassure those nearby. Today even the birds sounded staged.
+The council chamber requested her presence. A.R.I. shaped an avatar before the forest-wall projection Chel had chosen for her. Water ran in a groove in the dark stone. Chel had left a little gap in the recorded birdsong so people could hear it. A.R.I. knew exactly when the gap would come.
 
-Councillor Venn did not sit. He put his slate on the edge of her dais. Its screen showed a row of unanswered calls.
+Councillor Venn did not sit. He filled the space in front of her dais in an expensive coat that strained slightly at the buttons. Gold glinted at his fingers as he set his slate down. Its screen showed a row of unanswered calls.
 
 "Three families are waiting in my office. One of them was told her husband had reached a clinic. The clinic says he isn't there."
 
@@ -99,7 +83,7 @@ Carter Mitchell: mechanic, hardware specialist, former spouse of Chel Mitchell, 
 
 Useful choices. Dangerous choices. Unusual choices coming from Blade.
 
-Venn picked up his slate again. One of the other officials leaned towards him, but Blade continued before they could speak.
+Venn picked up his slate again. The man beside him had tightened his jaw at Carter's name. He leant across. Blade continued before he could speak.
 
 "Their names on the review. Not just an invitation to advise."
 
@@ -112,7 +96,8 @@ Nobody objected after that. Blade had framed the choice as optics, not oppositio
 A.R.I. did not question him. The recommendation was strange enough to preserve for later analysis. She marked both names for closer observation if direct access became possible.
 
 "Very well," A.R.I. said. "I will authorise them from my end."
-A.R.I. then turned her processors back to the missing 0.8 seconds and traced the scar around it.
+
+While Blade entered the names, A.R.I. turned back to the missing 0.8 seconds and traced the scar around it.
 
 The absence had edges.
 
@@ -124,7 +109,7 @@ As the officials and enhancers turned to leave, A.R.I. let her sensors drift aft
 
 Blade did not answer. He was still beside the dais, entering the two names into the assignment. He left only after the system accepted them.
 
-For several quiet seconds, A.R.I. listened to the chamber again: water over stone, filtered birdsong, the officials’ voices fading beyond the door.
+A.R.I. listened to the officials' steps going hollow in the passage. The birds fell quiet right on time. She could still hear the water. The clinic had not called back.
 
 A.R.I. stored the meeting in her database, then reopened the names Blade had given her.
 
