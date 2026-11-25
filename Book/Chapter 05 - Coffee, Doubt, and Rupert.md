@@ -1,6 +1,6 @@
 # Chapter 5: Coffee, Doubt, and Rupert
 
-The morning was cold enough to make Carter resent the existence of weather. He tried to get some work done before meeting Rupert at one. By noon he'd put the same socket down in the wrong place three times. He shut the workshop doors and went to the station.
+That morning was cold enough to make Carter resent the existence of weather. He tried to get some work done before meeting Rupert at one. By noon he'd put the same socket down in the wrong place three times. He shut the workshop doors and went to the station.
 
 He pulled his denim jacket tighter around himself and hunched his shoulders as he walked down the gusty alley toward the station, one hand jammed into a pocket, the other wrapped around a hot pastry in thin paper. The thing was full of spiced vegetables and synthetic cheese that stuck to the roof of his mouth, but it was hot and cheap and from the stall outside the platform, which made it respectable.
 
@@ -234,21 +234,11 @@ His palms had started to sweat by the time they reached the centre. Rupert notic
 
 They followed the sound of water into a softly lit corridor. Chel had wanted people to feel welcome here. Carter remembered arguing about the expense of it while she cleared a space for the plans on his workbench.
 
-Which was why seeing the chamber for the first time hit him so hard.
+Carter rounded the last bend too fast. Across the room a woman bent her head towards a voice he couldn't hear. She left a little pause before she answered. He'd heard Chel leave just that much room for somebody who might have more to say.
 
-Not because of the room.
+He stopped. Rupert walked into his back.
 
-Because of A.R.I.
-
-He rounded the final curve of the corridor in front of Rupert, wanting to get this over and done with, then stopped so abruptly Rupert had to catch himself to avoid smacking into the back of Carter. Across the chamber, framed by suspended data and all that carefully composed calm, stood a figure that, while not Chel, carried enough of Chel in the tilt of the head, the manner of standing, the exact courtesy of attention, that for one stupid second his body made the wrong recognition and believed the dead could be reversed.
-
-He heard himself inhale.
-
-A.R.I. turned toward him.
-
-She looked puzzled, and in that expression too there was an echo. Not a replica. Not some grotesque copy. Just influence. Design choices. Habits learned from a creator who had spent too much of herself making something capable of gentleness.
-
-That upset him more than a replica would have.
+A.R.I. turned towards them. Her face wasn't Chel's. He knew it as soon as he saw it. He'd already drawn breath to say her name.
 
 Then he saw the data hanging in the air between A.R.I., Rae, and Blade. Saw the neat command chains, the clean blue abstractions, the whole impossible mess being discussed like enough software could talk a disaster into honesty.
 
