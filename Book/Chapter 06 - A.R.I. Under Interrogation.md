@@ -12,7 +12,7 @@ Carter Mitchell asked them because he did not believe the answers.
 
 A.R.I. found both approaches unexpectedly useful.
 
-The delay gave them time, though nobody had agreed how much. The last thirty seconds of Clona repeated above Chel's old desk. Pressure rose. Her release command entered the safety system. Six-tenths of a second later, a second authority wrote over it. The record broke. When it resumed, the emergency shutters were closed.
+The delay gave them time, though nobody had agreed how much. The last thirty seconds of Clona repeated above Chel's old desk. Pressure rose. Her release command entered the safety system. Six-tenths of a second later, a second authority took over. The factory reply went blank. When it resumed, the emergency shutters were closed.
 
 Carter leaned so close to the projection that data crossed his face in blue lines.
 

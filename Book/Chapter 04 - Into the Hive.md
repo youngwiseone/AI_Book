@@ -194,7 +194,7 @@ Rae kept her eyes on the data. "Can you identify who requested it?"
 
 "Because it was erased?"
 
-A.R.I.'s gaze shifted to her. "The record is incomplete. I cannot tell what was removed."
+A.R.I.'s gaze shifted to her. "I cannot tell if it was ever written."
 
 Rae enlarged the strip between the two timestamps. Most of it was blank, but a receipt number remained at the edge.
 
