@@ -22,9 +22,7 @@ She had only visited the peripheral wings before. Every year the complex grew, t
 
 That fact sat heavily in her mind now.
 
-When the doors finally opened, light struck hard enough to make her blink.
-
-Stepping into the underground complex felt like walking into broad daylight. Terraces opened beneath an artificial sky. Engineers crossed glass bridges above channels of lit water. Huge bundles of white cable ran out from the centre, then split and went down through the floors like roots. At the edge of the nearest terrace, two welders were eating lunch against one of them. A squat, round-bodied maintenance dwarf rolled between the work crews with a cable spool clamped against its metal chest. Its moulded face wore a broad smile. Below them, construction teams were taking out a wall while another crew raised a new support ring.
+The lift doors opened. Rae squinted as if she'd come out of the cinema halfway through the afternoon. Terraces dropped away beneath an artificial sky. Engineers crossed glass bridges above channels of lit water. Huge bundles of white cable ran out from the centre, then split and went down through the floors like roots. At the edge of the nearest terrace, two welders were eating lunch against one of them. A squat, round-bodied maintenance dwarf rolled between the work crews with a cable spool clamped against its metal chest. Its moulded face wore a broad smile. Below them, construction teams were taking out a wall while another crew raised a new support ring.
 
 A crew below the walkway was fitting a new computation bank around a squat iron distribution unit. The new frame had a gap cut into it to leave the old inspection hatch accessible. One worker held a length of conduit while another bent it round the obstruction.
 

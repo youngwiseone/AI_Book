@@ -4,7 +4,7 @@ On the evening of the Clona blast, Carter saw Chel in the moonlight again.
 
 Chel stood near the cliff edge, her white lab coat snapping against her legs. The sea below was black until a wave broke and showed him how far down it was. Salt stung his lips.
 
-She turned and smiled. He could see her mouth forming words, but heard only the wind. He moved towards her, trying to catch what she was saying.
+She turned and smiled. He could see the red of her lipstick as her mouth began to move, but heard only the wind. He moved towards her, trying to catch what she was saying.
 
 Something glinted below the cliff. Chel leaned to look. Gravel ran from beneath her shoe.
 

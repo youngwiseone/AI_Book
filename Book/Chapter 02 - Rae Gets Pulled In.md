@@ -2,7 +2,7 @@
 
 By the afternoon after Clona, the rain had made the concrete outside the government intake building the same grey as the floor inside.
 
-Rae knew the waiting room from years of debriefings. They'd changed the chairs once and stopped leaving ashtrays out, but still kept the same kind of magazines. The one next to her promised to tell her what her boss really thought of her. She left it closed. Water darkened the shoulders of her coat. A vent overhead moved the smell of old beer, synthetic cherry vape and wet wool from one end of the room to the other. LaN crouched by her chair on four slim limbs, his white shell the cleanest thing there.
+Rae knew the waiting room from years of debriefings. They'd changed the chairs once and stopped leaving ashtrays out, but still kept the same kind of magazines. The one next to her promised to tell her what her boss really thought of her. She left it closed. Water darkened the shoulders of her coat. Every time the vent came on, the smell of beer-flavoured vape drifted back across the room. Rae pulled her wet coat away from the back of her neck. LaN crouched by her chair on four slim limbs, his white shell the cleanest thing there.
 
 "Your pulse is elevated," LaN said.
 

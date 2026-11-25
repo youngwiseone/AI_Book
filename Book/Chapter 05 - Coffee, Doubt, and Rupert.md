@@ -32,7 +32,7 @@ Carter looked suspiciously into his cup. "What did you do to this?"
 
 Carter grunted and took a sip anyway. It was sweeter than he would have chosen, but not offensively so. He balanced the coffee on one knee, opened the paper bag, and found the dough twists, still warm enough to justify faith in humanity.
 
-Outside, the city slid by in ordered layers.
+From the train Carter could see the little internet café where he and Chel used to stop on her days off. They'd never used a computer there. She liked the food, and he liked watching her try to carry two bowls past the customers without admitting they were hot.
 
 Thin daylight picked out the wet steel edges of bridges and transit rails. Delivery drones moved in disciplined currents overhead. Walkways filled with workers in staggered rhythms. Here and there old buildings still hunched between newer construction, their facades patched with conduit and ceramic panelling like old bones pinned into modern armour. Banners had gone up overnight over several overpasses: civic condolences, factory memorial notices, official promises of accountability printed in expensive typefaces standing out in pale clean serenity against the otherwise grimy district.
 
