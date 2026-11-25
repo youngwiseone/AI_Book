@@ -6,7 +6,7 @@ Near the wall people wore black ribbons tied to their sleeves. Down by the trans
 
 Men and women in matching grey jackets worked from a pile of printed signs at the fountain. The vendors had stayed open. Steam was coming off a pastry cart into the cold, and a hand with a black ribbon reached across the counter to pay.
 
-Rae stopped where the passage from the Hive met the square. Beyond the fountain, the transit steps were packed. Carter had not come through yet.
+Rae stopped where the passage from the Hive met the square. Beyond the fountain, the transit steps were packed. She looked for Carter and couldn't see him.
 
 LaN tightened his grip on Rae's shoulder. His display flickered with motion flags only she could see.
 
@@ -16,7 +16,7 @@ LaN tightened his grip on Rae's shoulder. His display flickered with motion flag
 
 A woman with a memorial ribbon bought two dough twists and passed one to the man beside her. They ate standing up, watching the casualty board.
 
-Above the square, the civic holo-murals had given up pretending this was an ordinary evening. What should have been artful cityscapes and public health advisories now cycled between council seals, casualty tallies, and formal lines of condolence in expensive type. Every image lingered a fraction longer on the council crest than on the dead.
+The civic murals usually showed maps or reminders about flu shots. Tonight the names scrolled past so quickly Rae could only read one at a time. The council crest stayed up long enough for her to count all the points on it.
 
 A voice rolled out over the public speakers.
 

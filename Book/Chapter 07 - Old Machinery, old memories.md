@@ -270,11 +270,9 @@ Then Carter was moving again.
 
 The stair brought him to an outer passage. At the final security door, a guard checked his permit, looked at the shrinking time window, and let him through. Evening air caught the sweat on his face.
 
-The city above had changed while he was underground.
+He could hear a chant from the fountain, but every time he caught the first word a horn cut across it. One of the traffic drones was holding itself sideways in the wind. Its motor made the same thin sound as a drill with a bad bearing.
 
-Sound reached him first: chants not yet fully coherent, traffic complaining in broken bursts, drones overhead, the unsettled murmur of too many people learning the same bad news in different ways. Then smell. Rain on stone. Exhaust. Hot wiring. Human crowd. Under it all, surprisingly vivid, came the scent of coffee and frying dough rolling across the square on the cold like a hand taking him by the collar.
-
-His stomach clenched hard enough to remind him he had not eaten since much earlier than it felt.
+The first smell out here was hot wiring. Then coffee and frying dough. He hadn't eaten since the train.
 
 Carter shoved his hands into his jacket, felt the solid weight of Rupert's old communicator in one pocket, and turned toward the smell of coffee and pastry.
 

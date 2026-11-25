@@ -46,7 +46,7 @@ On the main bench, beneath a steel bowl, waited the relay from Clona.
 
 "I don't need my ribs to look."
 
-He helped her to the bench while making it seem as if he were only moving the chair. Under the lamp, living fibre wound through the relay's metal channels in deliberate patterns. Carter pointed out the false input bridge, the physical trigger, and the tiny charge designed to erase the attached AI when anyone removed it incorrectly.
+He moved the chair in short pulls so Rae could lean on its back as they crossed the floor. At the bench he brought the lamp down low. The living fibres inside the relay had crept over the corners of the metal channels as if they were trying to round them off. Carter pointed out the false input bridge, the physical trigger, and the tiny charge designed to erase the attached AI when anyone removed it incorrectly.
 
 "The unit I opened at Clona died because of this," he said. "Not shut down. Died. Whatever memory it had was burned from the inside."
 
@@ -130,9 +130,9 @@ Carter looked at the relay. "So the machines and the enhancers were controlled t
 
 "Maybe they meant one set of hands around both throats."
 
-Rae hated how well the sentence fit.
+The relay would have sat easily in the dish beside Asher's chair. Rae could picture it there among the spare filters. She found herself trying to remember whether she'd ever seen one.
 
-She rose too quickly. Pain folded her against the bench.
+She rose too quickly. The edge of the bench caught her under the ribs.
 
 Carter caught her before she fell. "Sit down."
 

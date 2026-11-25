@@ -36,7 +36,7 @@ The chamber identified everyone at the bench. The gallery carried no names. A.R.
 
 They remained standing while the others sat.
 
-Venn folded his hands.
+Venn folded his hands. One of his rings clicked against the glass.
 
 "Proceeding record begins now. A.R.I., confirm that you maintained primary oversight of Clona's automated safety systems."
 
@@ -102,7 +102,7 @@ Venn leaned forward. "Two hundred and fourteen dead. Fifty-seven more in critica
 
 He spoke with the grave, measured force appropriate to public mourning. His face did not move.
 
-The dead did not come to A.R.I. as totals. They came as fragments still warm with interrupted life. A meal receipt checked at mid-shift. A message typed and never sent. A child flagged as emergency contact. A work glove left in a locker. A promise to be home before dark. Then absence.
+The file attached to Venn's total still included a meal receipt. Two stews, one marked to take home. A.R.I. looked for the order's collection time. It hadn't been collected.
 
 "A false statement will misdirect the investigation," she said.
 
