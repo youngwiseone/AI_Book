@@ -24,9 +24,9 @@ The work was endless, but it had always felt worthwhile. Usually she could see w
 
 But this incident, with Clona, it did not fit.
 
-The final seconds just before the catastrophic failure returned to her in corrupted loops: rising pressure, contradictory inputs, a release command issued, a release command denied. The data should have resolved into truth. Instead it opened into absence.
+She replayed the last seconds before the blast. The pressure climbed. Two readings that should have agreed did not. Her command to release the pressure went out. The factory's reply jumped ahead before she could see what had happened to it.
 
-Her other records ran through those seconds without a gap. In the factory's reply, 0.8 seconds were missing. The timestamps on either side were intact.
+Her other records ran through the same interval without a gap. In the factory's reply, 0.8 seconds were missing. The timestamps on either side were intact.
 
 The council chamber requested her presence. A.R.I. shaped an avatar before the forest-wall projection Chel had chosen for her. Water ran in a groove in the dark stone. Chel had left a little gap in the recorded birdsong so people could hear it. A.R.I. knew exactly when the gap would come.
 
@@ -46,7 +46,7 @@ Venn sent a photograph of the transfer slip the woman had brought. Below her hus
 
 "You failed to protect the factory," he said.
 
-"The record is incomplete," A.R.I. replied. "I issued a pressure release."
+"The record is incomplete," A.R.I. replied. "I sent the pressure-release command."
 
 "And yet people died."
 
@@ -96,11 +96,7 @@ A.R.I. did not question him. The recommendation was strange enough to preserve f
 
 "Very well," A.R.I. said. "I will authorise them from my end."
 
-While Blade entered the names, A.R.I. turned back to the missing 0.8 seconds and traced the scar around it.
-
-The absence had edges.
-
-The factory report still identified itself as complete. She had stored it with that verification attached. If she had gone by the label, she would have had no reason to open it again.
+While Blade entered the names, A.R.I. opened the factory report again. It still identified itself as complete. She had stored it with that verification attached. If she had gone by the label, she would have had no reason to open it again.
 
 As the officials and enhancers turned to leave, A.R.I. let her sensors drift after them and caught the murmur of a conversation they had assumed the chamber's running water would conceal.
 
