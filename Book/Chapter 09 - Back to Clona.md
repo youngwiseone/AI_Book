@@ -260,7 +260,7 @@ LaN scanned both. "The blood contains seventeen distinct genetic signatures."
 
 Rae photographed the vial and footprint, then sealed the vial in a second sleeve. She would have liked to take a cast. She would have liked a team and some decent lights and a door that locked from her side.
 
-She put both sleeves in her coat.
+She slipped the vial into her left pocket and the relay into her right.
 
 Her communicator clicked.
 

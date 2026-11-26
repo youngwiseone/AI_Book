@@ -40,7 +40,7 @@ He looked for the next door. One collapse had not stopped it, and he had no spar
 
 They reached the machine graveyard. Carter stopped beside the damaged AI unit he had opened earlier. Its screen remained blank. The extracted relay still lay in the service tray where he had dropped it. The metal had stopped steaming.
 
-He needed both hands to carry Rae. He also needed the evidence.
+The service tray was low enough that he’d have to put Rae down to reach it.
 
 "LaN, can you lift that relay?"
 
@@ -50,7 +50,7 @@ LaN descended, caught it between two functioning limbs, and immediately lost hei
 
 "Join the club."
 
-Rae opened her eyes again. "Inside my coat. Left pocket." LaN brought the relay close enough for Carter to push it in with his free hand.
+Rae opened her eyes again. "Left pocket. That one's still there." Carter leaned her against a pillar while LaN lowered the relay into the pocket. He heard it tap against something glass.
 
 The creature struck the maintenance door behind them.
 
