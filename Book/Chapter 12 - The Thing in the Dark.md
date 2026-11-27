@@ -80,7 +80,11 @@ LaN emitted a burst of interference. The control implant sparked. For half a sec
 
 His fingers closed again. He watched them tighten in her coat.
 
-Rae tore free, leaving half her coat in his hand. The sleeve with the laboratory relay fell from her right pocket. A plated foot came down on it before she could reach it. She ran between the machine rows. Behind her, a housing scraped across the floor, struck the next one and stopped. For a moment she heard only her own boots. Then the man hit the other side of the row hard enough to shift it towards her. She turned her shoulders through the narrowing space. Dust fell in pale sheets. Carter's voice broke through the old communicator, so loud she thought for a moment he was just beyond the next row.
+Rae tore free. The right side of her coat stayed in his hand. The sleeve with the laboratory relay slipped out of the torn pocket. His foot came down on it. She was running when she heard it crack.
+
+Behind her, a housing scraped across the floor, struck the next one and stopped. For a moment she heard only her own boots. Then the man hit the other side of the row hard enough to shift it towards her. She turned her shoulders through the narrowing space. Dust fell in pale sheets.
+
+Carter's voice broke through the old communicator, so loud she thought he was just beyond the next row. She got the black set out with her left hand and pressed the call button.
 
 "South machine hall," she gasped. "Not alone."
 
