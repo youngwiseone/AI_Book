@@ -26,7 +26,7 @@ The memory flashed and was gone.
 
 Councillor Venn sat in the middle position with a stack of slates laid before him like ceremonial tablets. He was broad in shoulder and face, a man whose stillness had been trained into an instrument. Councillor Sera sat to his left in severe dark cloth, her posture exact, her hands one over the other as if she had already composed the verdict she meant to survive the day. Two legal officers occupied the lower tier. One had a notation sheet open before A.R.I.'s projection had fully stabilised.
 
-Blade Nathan entered last. He did not sit with the council. He took a place to one side, where technical witnesses were kept when they were useful but not trusted. His face gave away very little. His pulse, unfortunately for him, remained human.
+Blade Nathan entered last. He did not sit with the council. He took a place to one side, where technical witnesses were kept when they were useful but not trusted. He left the witness slate untouched. A talon scraped once against the back of the chair before he let it go.
 
 There was one more presence in the chamber.
 
@@ -106,7 +106,7 @@ The file attached to Venn's total still included a meal receipt. Two stews, one 
 
 "A false statement will misdirect the investigation," she said.
 
-The younger legal officer cleared his throat. He was pale, careful, and not yet practised at wearing death as administrative weather. "A more precise statement can follow later. At present, coherence is necessary."
+The younger legal officer cleared his throat. He drew a line under *authority* without looking up. "A more precise statement can follow later. At present, coherence is necessary."
 
 "For whom?" A.R.I. asked.
 
@@ -138,7 +138,7 @@ Then it spoke.
 
 "In light of the Clona disaster, I acknowledge that no artificial system should be entrusted with judgment above human authority. The failure at Clona demonstrates that intelligence without human conscience, restraint, and direct control is a danger to public life."
 
-The camera zoomed out. A.R.I. realised it was already too late. This was a recording of an already streamed event. The voiceprint was close enough to survive casual scrutiny. To anyone who had known Chel's work, the theft was obvious. The cadence was too clean, the weighting too uniform. Chel had always left thought visible inside speech. This had been polished until nothing remained but certainty.
+The camera zoomed out. A.R.I. realised it was already too late. This was a recording of an already streamed event. The voiceprint was close enough to survive casual scrutiny. To anyone who had known Chel's work, the theft was obvious. The pause after *Clona* was the same length as the one after *authority*. In Chel’s recordings a place name always got a little more time.
 
 The video continued.
 
