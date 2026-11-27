@@ -70,7 +70,7 @@ The sealed transport rack holding partition 5618X stood inside the oldest buildi
 
 A.R.I. pulsed the entrance lamp. On the building console she opened the message she had tried to send from the hearing. No acknowledgement had ever returned.
 
-Carter pushed through the door with the Clona evidence box under one arm and Rupert's dried synthetic blood across his shirt.
+Carter pushed through the door with the Clona evidence box under one arm. His tool case struck the frame. He set the box beside the console. There was blood across his shirt.
 
 "A.R.I.?"
 
@@ -190,7 +190,7 @@ She held the loading camera open. It showed rain falling across the service road
 
 "Proceed," she said.
 
-Carter checked the service truck parked beside the loading door before unpacking his tools. Its battery held a quarter charge. The tyres had air. He tried the starter, listened to the engine catch, then shut it off.
+Carter checked the service truck parked beside the loading door. Its battery held a quarter charge. The tyres had air. He tried the starter, listened to the engine catch, then shut it off.
 
 "That'll get us north," he said, keeping the key.
 

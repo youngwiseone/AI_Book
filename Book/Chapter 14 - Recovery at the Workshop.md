@@ -168,7 +168,7 @@ She sat through the next breath before answering. "First light. No later."
 
 Carter didn't like it. He brought the chair closer anyway.
 
-"You trust him?" Rae asked.
+"You trust Rupert?" Rae asked.
 
 "With my life."
 

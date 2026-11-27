@@ -6,7 +6,7 @@ In the rebuilding, somebody had decided the dark timber on the walls could stay.
 
 Carter trusted it immediately.
 
-He chose the corner with a view of both doors and placed the shielded evidence box on the seat beside him. The flower-painted communicator sat in his pocket, heavier than it had any right to be.
+He chose the corner with a view of both doors, slid his tool case beneath the table and set the shielded evidence box on the seat beside him. The flower-painted communicator sat in his pocket, heavier than it had any right to be.
 
 A tram passed outside, its windows fogged above the seated passengers. People hurried beneath umbrellas. Two streets away, protesters shouted about A.R.I. while council drones reminded everyone to remain calm. Through the rain and old glass, Carter could hear the rising voices but not the words.
 
