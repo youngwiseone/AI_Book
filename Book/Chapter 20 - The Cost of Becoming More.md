@@ -106,7 +106,7 @@ When it finished, she asked for the uncut file.
 
 "Good."
 
-Rae showed her the factory photographs, then LaN's recording of Asher's terminal. The station field matched the register. The old authority's reply format matched the fragment preserved at the Hive. The investigator wrote the references down separately rather than taking Rae's summary.
+Rae showed her the factory photographs, then LaN's recording of Asher's terminal. The station number matched the one on Rupert's certified copy. The old authority's reply format matched the fragment preserved at the Hive. The investigator wrote the references down separately rather than taking Rae's summary.
 
 Rae pointed to the crushed vial. "From the floor just outside the lab. The blood on it was mixed. We don't know whose."
 
