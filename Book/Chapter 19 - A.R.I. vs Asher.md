@@ -162,7 +162,7 @@ Nessa looked at her. "How do you know that?"
 
 "The light was still on."
 
-Nessa rubbed the mark where the bridge had pressed into her shoulder. "I thought it was broken."
+Nessa held the inspection flap away from her shoulder. Her fingers trembled against the hinge. "I thought it was broken."
 
 More came through the house. Nessa dragged the fallen weapon rack across the doorway. A hand caught its top rail from the other side.
 
@@ -192,7 +192,7 @@ Rae caught his arm.
 
 "Don't," she said.
 
-"He killed Rupert."
+"They killed Rupert."
 
 "I know."
 
@@ -254,7 +254,7 @@ Asher's eyes moved to her.
 
 "I was awake," she said. "At Clona. Afterwards. All of it."
 
-For a moment there were no new movement commands. Carter lowered the wrench a fraction. The other soldiers stood where they had been stopped, waiting to learn what their bodies would do next.
+For a moment there were no new movement commands. Carter's grip loosened on the wrench. The other soldiers stood where they had been stopped, waiting to learn what their bodies would do next.
 
 "Make it stop," Asher said.
 
