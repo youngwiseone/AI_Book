@@ -42,11 +42,11 @@ The first thing that hit her was the smell of whiskey.
 
 The second was Blade Nathan.
 
-He stood behind the desk like a soldier who had never really left the war behind. Tall, broad, and kept upright by force of will more than comfort, Blade wore his modifications the way some men wore ceremonial armour: not proudly, exactly, but without apology. The left hand resting on the desk ended in dark hooked talons. Fine scale-work shimmered faintly under the skin near his throat. Even standing still, he gave the impression of a body engaged in constant negotiation with itself.
+He stood behind the desk, shoulders squared, chin up. His left hand rested on the desk, dark talons curved against the wood. When he shifted his weight, one caught in a nick in the wood. He lifted the whole hand and set it down again. Beneath the skin at his throat, fine scales moved when he swallowed.
 
 He smiled at her reaction. It was not a pleasant expression.
 
-Rae made herself return a thinner version of it and sat only when his open hand invited her to do so.
+Rae managed a thin smile and sat only when he gestured towards the chair.
 
 "As much as it pains me to arrange a meeting in person," Blade said, voice low and dry, "there are matters I would prefer discussed somewhere more secure than the public channels. I do not wish to keep you longer than necessary."
 
@@ -152,7 +152,7 @@ Seven years of A.R.I.'s oversight had made the city cleaner, safer, harder to ma
 
 "Contractors. Inspections. Who approved the equipment."
 
-Blade glanced towards the closed drawer. His fingers tightened against the desk.
+Blade looked down at the drawer he'd left ajar. His fingers tightened against the desk.
 
 "Those records belong to several offices."
 
