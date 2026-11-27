@@ -2,7 +2,7 @@
 
 The door in Blade's office shut behind them, taking the smell of whiskey with it. The lift went down. Room One disappeared from the display; the numbers below it kept coming.
 
-Rae put her shoulder against the cloudy patch in the mirror and watched them slide past. Blade Nathan occupied the space opposite her, large enough that the lift felt smaller for containing him. In close quarters his body looked even less comfortable inside itself than it had in the office above. The seams of modification showed where his collar shifted with each breath. The hand resting at his side ended in dark hooked talons that clicked once, softly, against his own leg when the elevator jolted.
+Rae put her shoulder against the cloudy patch in the mirror and watched them slide past. Blade stood opposite her with his eyes on the doors. The lift jolted. A talon clicked against the seam of his trousers. Rae shifted her boots to make room for LaN.
 
 LaN had climbed down from Rae's shoulder to crouch on the floor between them, all four limbs spread for balance as the lift descended. At a glance he still looked like a mass-produced assistant unit in a clean white shell. But he did not move like one. His balance corrected too fluidly; his limbs flexed with tiny organic compensations no factory standard had ever managed. The pale map rotating across his display marked the underground facility in stacked rings of access zones, maintenance shafts, and restricted chambers.
 
@@ -150,7 +150,7 @@ A.R.I. returned to the desk and brought the factory logs up in layered holograph
 
 The more A.R.I. explained, the less the event resembled a simple failure.
 
-The pressure rise had begun within parameters that should have triggered staged release. The release command had been issued. Manual backups should have followed. Shutter priorities should have opened, not sealed. But the records showed contradiction after contradiction, each one precise enough to look deliberate and impossible enough to be dismissed as chaos if no one examined it too closely. A system built to catch failure had recorded failure and still been made to swallow it.
+At the pressure threshold, A.R.I. sent the command to open the relief system. If that failed, the manual backups should have taken over. The escape shutters should have opened. Rae remembered the hand striking the one at the loading entrance. She looked for the moment it closed. There was a pressure reading before the movement and another after, but no usable reply to the release command.
 
 Rae circled the projection slowly, arms folded.
 
@@ -170,7 +170,7 @@ She leaned toward one of the scrolling command chains. "Show me the release sequ
 
 A.R.I. isolated the event.
 
-There it was: one command issued under A.R.I.'s authority at the exact moment the pressure crossed the threshold. A breath later came the system's contradictory outcome.
+A.R.I.’s name stood beside the first command. The record jumped from there to the shutter coming down.
 
 LaN made a small alert tone. "Cross-reference discrepancy."
 
