@@ -2,7 +2,7 @@
 
 Carter had repaired machines while they burned, rolled, sank, and once—through circumstances he still considered unfair—fell from a bridge.
 
-He had never repaired one while carrying an unconscious investigator under one arm and being chased by a building.
+He had never gone back for a part with Rae limp under one arm and the building coming down behind him.
 
 The collapsed support had buried the enhanced creature but brought half the south hall with it. Concrete struck the factory floor in slabs. Old gantries folded overhead. Every impact pushed dust through the corridor hard enough to sting Carter's face.
 
@@ -30,7 +30,7 @@ Rae stirred against him.
 
 "You've been awake three seconds and spent two of them lying."
 
-She tried to argue, then winced and went quiet. Blood ran from her temple into her hair. Carter adjusted his grip and kept moving.
+She tried to argue, then winced and went quiet. Blood ran from her temple into her hair. Carter hitched her higher when her boot began catching on the broken floor.
 
 Something roared behind them.
 
@@ -108,11 +108,11 @@ Rae opened her eyes when he put her down.
 
 "Here," the little bot said from the foot of the bed.
 
-She tried to turn towards him. Carter caught her shoulder before she rolled onto the torn side of her coat.
+She tried to turn towards him. Carter caught her shoulder before she rolled onto her bad ribs.
 
 "Easy."
 
-"Don't lose what's in there."
+Her hand settled on the left pocket. "Don't lose what's in there."
 
 "It can wait."
 
