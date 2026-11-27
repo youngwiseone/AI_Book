@@ -154,9 +154,9 @@ Carter checked the torn lining. Nothing.
 
 Under magnification, Carter found the government procurement mark. Beneath that, nearly hidden by the living fibres, was a second mark cut by hand.
 
-It matched the notation on the man's harness.
+He turned the relay under the lamp. The cuts were too deliberate to be tool slips, but he couldn't read them.
 
-In the van, Rae had tried to tell him whose mark it was. He'd only caught the name.
+In the van, Rae had said something about the man's harness. Over the rattle of the engine he'd caught only the name.
 
 Asher.
 
