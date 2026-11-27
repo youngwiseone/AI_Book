@@ -20,9 +20,7 @@ She held the next delivery. The van already in the lane took two goes to finish 
 
 When the handover came through, A.R.I. kept her first instruction on the report. She added the crew's correction and marked the rear entrance unavailable for support-frame transfers until somebody could look at it.
 
-The work was endless, but it had always felt worthwhile. Usually she could see where she had gone wrong.
-
-But this incident, with Clona, it did not fit.
+The work was endless, but it had always felt worthwhile. At least the driver could tell her where she'd gone wrong. For Clona she had the factory's reply.
 
 She replayed the last seconds before the blast. The pressure climbed. Two readings that should have agreed did not. Her command to release the pressure went out. The factory's reply jumped ahead before she could see what had happened to it.
 
