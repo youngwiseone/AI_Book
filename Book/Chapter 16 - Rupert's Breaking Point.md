@@ -52,11 +52,11 @@ Rupert smiled despite himself.
 
 Chel looked towards the workshop.
 
-"I promised him I wouldn't disappear into my work," she said. "Then A.R.I. grew larger. Every problem revealed another problem. I missed meals. Cancelled plans. Came home with my mind still in the laboratory."
+"I promised him I wouldn't disappear into my work," she said. "One night I got to the café just as they were putting the chairs up. Carter had covered my bowl with his saucer. Neither of us took it off."
 
 "You were trying to keep a city alive."
 
-"And he was trying to keep a marriage alive. Being right about the importance of my work didn't make him wrong about what it cost."
+"I know. I told him that before I said sorry."
 
 Rupert picked a daisy and rolled the stem between his fingers.
 
