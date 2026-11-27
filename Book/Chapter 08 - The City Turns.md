@@ -260,25 +260,21 @@ Rae had seen people kneel before pieces like it in the old districts. Asher call
 
 They went through onto the platform as the train doors opened. Rae checked the permit. The time lost underground and in the square had left them little room for another delay.
 
-Carter waited until she had stepped aboard before following.
+Carter waited until she had stepped aboard. Then he drew a small black communicator from his jacket. When he pulled up the scratched aerial it wouldn't stand straight.
 
-He reached inside his jacket and brought out a small black communicator barely more sophisticated than a pocket calculator. Its casing was scratched. Its antenna looked old enough to vote. Nothing about it suggested elegance, which was likely the point.
+"Rupert sent this for you. Same band as mine."
 
-"Rupert gave me this before everything turned sideways," he said. "Said if the public grid started choking on politics, use something too stupid for the civic systems to notice. Short range. Direct line. Ugly as sin, just the way I like it. Should keep working if the smarter networks start being recorded."
+The thing was heavier than it looked. Rae slipped it into her coat pocket beside her toolkit.
 
-He pressed it into her hand.
+"If we get split up, call me on that," he said. "Not the civic line."
 
-The thing was heavier than it looked.
+"Once we're inside the factory," Rae said, catching an overhead rail, "I want the records. Access logs, anything that tells me who touched the place before or after the blast."
 
-"If we get split up," he said, "use that. Don't trust anything blindly from here out."
+"Fine. You take the evidence trail." Carter braced himself beside her. "I take the machines. Whatever's left down there, I'll pull it apart until it either tells the truth or breaks trying."
 
-Rae closed her fingers around the communicator and slipped it into her coat pocket beside her toolkit.
+LaN's display dimmed. Carter looked down at him.
 
-"Once we're inside the factory," Rae said, catching an overhead rail, "I want to search for records, access logs, human traces, anything that tells me who touched the place before or after the blast."
-
-"Fine. You take the evidence trail." Carter braced himself beside her. "I take the machines. Whatever's left down there, I'll pull it apart until it either tells the truth or breaks trying." He had an excited glint in his eyes. Machines were his domain.
-
-LaN's display dimmed slightly. Carter grunted an apology in its direction.
+"Not you."
 
 The doors closed. The carriage jolted into motion.
 
