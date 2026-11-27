@@ -1,12 +1,12 @@
 # Chapter 5: Coffee, Doubt, and Rupert
 
-That morning was cold enough to make Carter resent the existence of weather. He tried to get some work done before meeting Rupert at one. By noon he'd put the same socket down in the wrong place three times. He shut the workshop doors and went to the station.
+That morning was cold enough to make Carter resent the existence of weather. He tried to get some work done before meeting Rupert at one. By noon he'd put the same socket down in the wrong place three times. He shut the workshop doors.
 
-He pulled his denim jacket tighter around himself and hunched his shoulders as he walked down the gusty alley toward the station, one hand jammed into a pocket, the other wrapped around a hot pastry in thin paper. The thing was full of spiced vegetables and synthetic cheese that stuck to the roof of his mouth, but it was hot and cheap and from the stall outside the platform, which made it respectable.
+The wind caught him in the alley by the station. He tucked his chin into his denim jacket, then pulled his hand out of his pocket long enough to buy a pastry from the platform stall. The paper was thin enough to warm his fingers. Inside were spiced vegetables and synthetic cheese that stuck to the roof of his mouth. Hot and cheap, which made it respectable.
 
-He bit into the pastry and nearly scorched his tongue. Above him, A.R.I.'s voice told the platform that the eastbound train would be arriving in two minutes and asked them to stand behind the line. The old line was nearly worn away; the new one had been painted a step back. Carter took a step back and checked the board anyway. It said two minutes.
+He was still trying to get the cheese off with his tongue when A.R.I.'s voice told the platform the eastbound train was two minutes away. _Please stand behind the line._ The old line was nearly worn away; the new one had been painted a step back. Carter put his boots behind the fresh paint and checked the board anyway. Two minutes.
 
-Rupert was already waiting at the other end of the station concourse when Carter arrived, standing beside a cafe cart in a charcoal coat and polished shoes that had no business being near train grime. He held two takeaway cups in one hand and a paper bag in the other, waving as if they were meeting for leisure instead of a catastrophe.
+Rupert was already waiting at the other end of the concourse, beside a café cart in a charcoal coat and polished shoes that had no business being near train grime. He held two takeaway cups in one hand and a paper bag in the other, waving as if they were meeting for leisure instead of a catastrophe.
 
 "You are much earlier than expected," Rupert said when Carter reached him. "I had budgeted at least twelve extra minutes for stubbornness."
 
@@ -34,7 +34,7 @@ Carter grunted and took a sip anyway. It was sweeter than he would have chosen, 
 
 From the train Carter could see the little internet café where he and Chel used to stop on her days off. They'd never used a computer there. She liked the food, and he liked watching her try to carry two bowls past the customers without admitting they were hot.
 
-Thin daylight picked out the wet steel edges of bridges and transit rails. Delivery drones moved in disciplined currents overhead. Walkways filled with workers in staggered rhythms. Here and there old buildings still hunched between newer construction, their facades patched with conduit and ceramic panelling like old bones pinned into modern armour. Banners had gone up overnight over several overpasses: civic condolences, factory memorial notices, official promises of accountability printed in expensive typefaces standing out in pale clean serenity against the otherwise grimy district.
+Thin daylight picked out the wet steel edges of the bridges. Below the delivery drones, workers bunched up at the windbreaks and came out in twos and threes. Old buildings still hunched between the new ones, their fronts patched with conduit and ceramic panelling like old bones pinned into modern armour. Banners had gone up overnight on the overpasses: civic condolences, factory memorial notices, promises of accountability. The lettering was clean enough to read from the train. The concrete behind it still wore the black stripes left by years of rain.
 
 The first public mourning wall near the central line was already crowded with flowers, candles, handwritten names, and projected memorial glyphs. Carter looked away before the train slowed enough to make the details visible.
 
