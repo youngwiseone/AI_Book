@@ -238,9 +238,9 @@ Carter disliked the word `careful`. It was often used immediately before somebod
 
 The floor shook.
 
-Dust fell from the ceiling. Somewhere toward the southern hall, metal crashed with enough force to bend the sound.
+Dust fell from the ceiling. Metal crashed somewhere beyond the pillars.
 
-Carter reached for the relay. A second impact threw grit against his coat. From the southern hall came the sound of steel giving way, where he had left Rae. He grabbed the lamp instead.
+Carter reached for the relay. A second impact made the service tray jump against its stops. The noise had come from the south hall, on Rae's side of the shaft. He took the lamp and left the relay where it was.
 
 The lower passage behind him collapsed.
 
