@@ -116,9 +116,7 @@ He slid the file closer. Inside were printouts, stills from the blast, casualty 
 
 One photograph showed the broken shell of the Clona factory under floodlights, emergency crews moving through the wreckage in reflective coats while drones hovered above with sterile blue optics. Another showed a line of citizens behind temporary barriers, faces pale in the artificial glare.
 
-Carter stared at the key.
-
-The key had a nick where Chel had caught it in the vice. He turned that edge towards himself. She would have wanted him to open the file. He hated that Rupert knew it too.
+Carter turned the key on the table until the nick from Chel's vice faced him. She would have wanted him to open the file. He hated that Rupert knew it too.
 
 "I don't know anything about software ghosts," he muttered.
 
@@ -134,9 +132,7 @@ Carter sighed, reached for the biscuit tin, and flipped the lid open. Rupert imm
 
 Carter chose a snickerdoodle large enough to qualify as a meal, bit into it, and pointed the rest vaguely at Rupert. "Fine. I'll look. But if this turns into political theatre, I'm out."
 
-Relief crossed Rupert's face so quickly he almost hid it.
-
-"I will take that as a yes, then," Rupert said, sounding relieved enough to be irritating.
+Rupert sat back. "I will take that as a yes, then."
 
 "Not for free, but yesh, I will dough what I can," Carter muttered through a mouthful of biscuit.
 
