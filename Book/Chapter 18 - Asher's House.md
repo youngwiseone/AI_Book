@@ -26,15 +26,9 @@ Rae checked the plain communicator in her coat. LaN had the repeater code and th
 
 She kept going.
 
-At Asher's gate, every security light turned toward her.
+At Asher's gate, every security light turned towards her. The gate opened. Before she reached the step, the front door was already opening too.
 
-Then the gate opened.
-
-The front door did the same.
-
-Asher wanted her inside.
-
-Rae crossed the entrance hall where she had once waited after school. The room had grown around her memories without preserving them. The blue bowl that used to hold sweets now held spent injector vials. Training weapons remained on one wall, but medical tubing crossed in front of them. Family photographs had been turned facedown except for one: Rae at twelve, balanced on Asher's shoulders and making a victorious fist at the camera.
+The bench where she used to wait after school was still under the window. Beside it was the blue bowl. She'd sometimes found a sweet left at the bottom for her. Now spent injector vials lay in a tangle up to the rim. Medical tubing ran across the training weapons on the wall. The family photographs lay face down except for one: Rae at twelve, up on Asher's shoulders with a fist in the air.
 
 "You kept that one," she said.
 
