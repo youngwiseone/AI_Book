@@ -108,11 +108,13 @@ When it finished, she asked for the uncut file.
 
 Rae showed her the factory photographs, then LaN's recording of Asher's terminal. The station field matched the register. The old authority's reply format matched the fragment preserved at the Hive. The investigator wrote the references down separately rather than taking Rae's summary.
 
-For once, Rae did not mind repeating herself.
+Rae pointed to the crushed vial. "From the floor just outside the lab. The blood on it was mixed. We don't know whose."
+
+The investigator gave the vial its own line on the receipt.
 
 "The network map contains patients," she said when the investigator reached for it. "Names, locations, support requirements. That stays under seal. The control path can be examined without publishing their bodies."
 
-The investigator added a restriction to the receipt and turned it round for Rae to read. Rae kept the receipt and the local copies. She watched the relay go into the case.
+The investigator added a restriction to the receipt and turned it round for Rae to read. Rae kept the receipt and the local copies. She watched the investigator lower the relay into the case, then make room for the sleeved vial.
 
 A trolley stopped beside the bench. Nessa sat on its edge with a blanket around her shoulders and one foot braced on the wheel. A temporary lead ran from beneath her collar to a battery strapped beside her.
 

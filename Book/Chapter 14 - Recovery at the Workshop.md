@@ -342,7 +342,9 @@ He put the repair trace on his screen. A thin connection crossed the gap between
 
 LaN lifted the foot before it began to buckle. The dent in his shell remained.
 
-Late that afternoon, Rae could cross the workshop without help if she moved slowly. Carter packed the relay into a shielded box and checked the old communicator twice.
+Late that afternoon, Rae could cross the workshop without help if she moved slowly. She held the shielded box open while Carter packed the relay. The vial went in beside it, still in its sleeve.
+
+He latched the box and checked the old communicator twice.
 
 At the door, he looked back at her.
 
