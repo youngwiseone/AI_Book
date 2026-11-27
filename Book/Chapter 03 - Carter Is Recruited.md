@@ -64,7 +64,7 @@ Tap. Ta-tap tap.
 
 Rupert entered with his usual unnecessary flourish, ducking under the slightly too-short doorframe in a grey suit that looked allergic to physical labour. He closed the door carefully behind him and brushed imaginary dust from one sleeve.
 
-Carter still remembered him standing on a milk crate to reach the bench. His sleeves had been rolled up then. He had complained about the grease just as much.
+Carter still remembered him standing on a milk crate to reach the bench, both hands on the long wrench. He'd rolled his sleeves past his elbows and still got grease on his cuffs.
 
 Chel had told Carter what Rupert was on the first day she brought him home: old artificial architecture inside a body built to pass unnoticed, recovered from technology nobody was meant to possess. Carter had looked at the frightened boy behind her and decided the useful questions could wait until after dinner. The answers never changed where Rupert slept or whose tools he was allowed to lose.
 
@@ -124,7 +124,7 @@ The key had a nick where Chel had caught it in the vice. He turned that edge tow
 
 "You know broken things," Rupert said. "And this looks broken on purpose."
 
-Carter took the key in his grease-blackened hand and let the familiar weight settle there.
+Carter took the key and let the familiar weight settle in his hand.
 
 "This is a bad idea," he said.
 
