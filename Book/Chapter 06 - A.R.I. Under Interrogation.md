@@ -194,9 +194,7 @@ Rupert ended the call. The list of names disappeared from his screen. The reques
 
 A.R.I. had expected him to look at her. He was looking at the number of calls waiting on his team's display.
 
-Something unfamiliar moved through her processes. It was not surprise. The probability of deliberate distortion had been high. It was not anger, though anger sat nearby.
-
-It was the recognition of being used while the use was still happening.
+Her statement was still open above Chel's desk. The person who'd just spoken had a copy too. When the next family called, they'd have to give the council's version and say it came from her.
 
 Carter struck the desk with the heel of one hand. "Factory. Now. Before they rewrite the metal too."
 
