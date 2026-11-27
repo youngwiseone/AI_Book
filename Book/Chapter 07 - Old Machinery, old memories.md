@@ -70,11 +70,9 @@ Carter looked at the dark screen. They had not needed her in the room to keep us
 
 "Yes."
 
-Rupert reached into his coat and took out a black box with a folding aerial. Carter recognised the bent catch before he recognised the flowers.
+Rupert reached into his coat and put a black box in Carter's palm. Carter felt the bent catch under his thumb before he saw what was left of the flowers.
 
-He set it in Carter's palm.
-
-Carter unfolded the aerial. It caught on the way up. It always had, even after the second hinge repair. Along the casing, nearly rubbed away by years of handling, ran the remains of painted flowers in pale green and yellow. One petal had been nicked through. Another had been redrawn by a less patient hand.
+He unfolded the aerial. The hinge snagged halfway up. It always had, even after the second repair. Along the casing, nearly rubbed away by years of handling, ran the remains of painted flowers in pale green and yellow. One petal had been nicked through. Another had been redrawn by a less patient hand.
 
 Carter stared at it.
 
@@ -120,7 +118,7 @@ Carter lowered his hand. His thumb stayed on the nicked petal.
 
 "Not anymore."
 
-He folded his fingers around it.
+Carter closed his hand around the radio.
 
 Rupert produced a second set, plain black and much smaller, and placed it on top of the painted one.
 
@@ -132,9 +130,7 @@ Rupert produced a second set, plain black and much smaller, and placed it on top
 
 "What are you answering on?"
 
-"The service set at my desk. I've left it on this band. Call twice if I'm not there."
-
-"Use them inside Clona," Rupert said. "If the public channels start choking or the city grid begins lying by omission, this should still hold."
+"The service set at my desk. I've left it on this band. Call twice if I'm not there." Rupert tapped the painted casing. "If the city channels go quiet inside Clona, try this before you assume nobody's listening."
 
 From somewhere above the service walls came a low distant roar, not yet a chant but close enough to one that the body could mistake it for weather.
 
