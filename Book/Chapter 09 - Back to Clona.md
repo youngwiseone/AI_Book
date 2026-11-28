@@ -82,7 +82,7 @@ Rae looked at the newer conduit screwed across the wall. At the floor it divided
 
 "Maybe. I'm not opening it to check."
 
-LaN descended from her shoulder and sampled the air. "Trace concentration increases toward the southern service level."
+Rae loosened the strap. LaN climbed down and sampled the air. "Trace concentration increases toward the southern service level."
 
 Carter aimed his lamp down the main machine hall. "Emergency units are below us. If somebody forced bad information into A.R.I., that's where the hardware will be."
 
