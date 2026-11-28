@@ -46,7 +46,7 @@ When the questions slowed, Tom turned the sheet on the noticeboard over. He had 
 
 "We'll put the copies with the minutes. These records show the factory was made to obey another authority. We're not putting out the council's version again."
 
-He took down the notice from beneath the freight map. SHUT HER DOWN, in heavy black lettering. One drawing pin fell and he bent to pick it up.
+He took his placard down from beneath the freight map. SHUT HER DOWN, in heavy black lettering. One drawing pin fell and he bent to pick it up.
 
 "Does that settle the other three?" the woman by the door asked.
 
