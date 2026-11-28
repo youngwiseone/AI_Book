@@ -242,11 +242,11 @@ Carter held the collar clear of the barb. He had done this for a grazed neck onc
 
 He kept the cloth back while Rupert turned his head.
 
-Outside, a large figure moved beneath the viaduct. Too broad for an ordinary person. One arm reached below its coat in the same wrong proportions as the creature at Clona.
-
-Rupert saw it before Carter did.
+Rupert went still.
 
 "Fifty metres," he said. "Possibly less."
+
+Carter looked up. A figure moved beneath the viaduct. Too broad for an ordinary person. One arm reached below its coat in the same wrong proportions as the creature at Clona.
 
 Carter opened his tool case. "I can get the tracker out."
 
