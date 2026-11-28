@@ -290,9 +290,7 @@ A.R.I. opened the path Carter had built.
 
 The new body waited on the floor: inelegant, mismatched, and capable of carrying only a fraction of what she had been.
 
-She thought of Rupert removing the tracker. Of a life choosing its own end rather than becoming somebody else's instrument.
-
-A.R.I. chose before the council could choose for her.
+She almost sent Rupert another check. The first two were still marked waiting.
 
 She moved.
 
