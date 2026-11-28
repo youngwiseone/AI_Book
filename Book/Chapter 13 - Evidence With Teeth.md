@@ -144,11 +144,11 @@ Only then did he empty the evidence from her coat.
 
 The crushed vial was still sealed in its sleeve. Beside it, the relay LaN had lifted from the service tray landed with a soft, unpleasant weight.
 
-"She took one from the laboratory too," LaN said.
+"There was a second relay," LaN said. "The one Rae took from the lab."
 
-Carter checked the torn lining. Nothing.
+Carter turned the coat over. The right pocket was gone.
 
-"It was crushed," LaN said. "I have the photographs from before she removed it."
+"It was crushed. I still have the photographs of it in the rack."
 
 "Keep them. Don't clean them up."
 
