@@ -108,7 +108,7 @@ When it finished, she asked for the uncut file.
 
 Rae showed her the factory photographs, then LaN's recording of Asher's terminal. The station number matched the one on Rupert's certified copy. The old authority's reply format matched the fragment preserved at the Hive. The investigator wrote the references down separately rather than taking Rae's summary.
 
-Rae pointed to the crushed vial. "From the floor just outside the lab. There was blood on it. We don't know whose."
+Rae pointed to the crushed vial. "From the floor just outside the lab. LaN’s field scan picked up more than one signature in the blood. We don't know whose."
 
 The investigator gave the vial its own line on the receipt.
 
