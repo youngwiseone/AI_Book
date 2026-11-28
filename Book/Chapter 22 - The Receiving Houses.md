@@ -628,4 +628,4 @@ Carter went on ahead with A.R.I. At the workshop, he put the photographs of the 
 
 Carter left Rupert's bench as it was and took Miri's worn key to his own vice.
 
-There was another copy to make before somebody had to use the broken one.
+The hook under the cover was empty. He still owed Miri a spare.
