@@ -154,7 +154,7 @@ Asher's ordinary hand closed.
 
 "A.R.I. has no pain. No hunger. No children. She cannot understand what her decisions cost us."
 
-"You put a person inside that creature at Clona and drove their body like machinery. Tell me again how pain makes you wise."
+"The man at Clona told me to run. Then his hand closed on my coat again. He watched it happen."
 
 For the first time, Asher looked away.
 
