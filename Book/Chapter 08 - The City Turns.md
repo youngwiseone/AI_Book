@@ -186,11 +186,11 @@ The mother never heard her.
 
 Carter did.
 
-He came through the crowd like a piece of industrial equipment given motive force. He did not waste time on finesse. He put a hand on one protester's shoulder, another on a security barrier, and opened space by the simple expedient of refusing to move backward when the square wanted him to. Two people tried to shout at him. One look at his face made them choose easier enemies.
+The end of a security barrier slewed towards Rae. Carter caught it with both hands and wedged one boot against its foot. The rail rattled as the crowd pressed against it, but the gap stayed open.
 
 "This way!" he barked.
 
-Rae shoved the child into the pocket of air he created. The mother lurched forward and caught the girl so hard they nearly went down together. Rae braced both of them until they found their feet.
+Rae turned sideways with the child. The little yellow sleeve caught on a bolt; she pulled it free just as the mother got a hand around the girl's waist. The mother took her full weight at once and staggered. Rae steadied them both.
 
 "Take the south steps," she said. "Don't stop in the transit arch. Keep moving until you're out of the square."
 
